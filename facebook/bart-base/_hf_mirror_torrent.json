@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "facebook/bart-base/model.safetensors": "hf_repository-facebook-bart_base-model.safetensors-aadd2ab0ae0c8268c7c9693540e9904811f36177",
+    "facebook/bart-base/config.json": "hf_repository-facebook-bart_base-config.json-d0af9887e98da87934e6ecaf42e724f1684bb72b",
+    "facebook/bart-base/tokenizer.json": "hf_repository-facebook-bart_base-tokenizer.json-c2469fb7e666a5c5629a161f17c9ef23c85217f7",
+    "facebook/bart-base/README.md": "hf_repository-facebook-bart_base-README.md-84358834e73de6a82c22cec1d90eb45ef4f6eba5",
+    "facebook/bart-base/merges.txt": "hf_repository-facebook-bart_base-merges.txt-df1e90c43c9e0ebe18d1174b02fd412c4e202da0",
+    "facebook/bart-base/.gitattributes": "hf_repository-facebook-bart_base-.gitattributes-aadd2ab0ae0c8268c7c9693540e9904811f36177",
+    "facebook/bart-base/pytorch_model.bin": "hf_repository-facebook-bart_base-pytorch_model.bin-b0c37792120c6a7b0bf70f03297af24ec46c5c97",
+    "facebook/bart-base/vocab.json": "hf_repository-facebook-bart_base-vocab.json-df1e90c43c9e0ebe18d1174b02fd412c4e202da0",
+    "facebook/bart-base/tf_model.h5": "hf_repository-facebook-bart_base-tf_model.h5-b0c37792120c6a7b0bf70f03297af24ec46c5c97",
+    "facebook/bart-base/flax_model.msgpack": "hf_repository-facebook-bart_base-flax_model.msgpack-b0c37792120c6a7b0bf70f03297af24ec46c5c97"
+  },
+  "uuid2fpath": {
+    "hf_repository-facebook-bart_base-model.safetensors-aadd2ab0ae0c8268c7c9693540e9904811f36177": "facebook/bart-base/model.safetensors",
+    "hf_repository-facebook-bart_base-config.json-d0af9887e98da87934e6ecaf42e724f1684bb72b": "facebook/bart-base/config.json",
+    "hf_repository-facebook-bart_base-tokenizer.json-c2469fb7e666a5c5629a161f17c9ef23c85217f7": "facebook/bart-base/tokenizer.json",
+    "hf_repository-facebook-bart_base-README.md-84358834e73de6a82c22cec1d90eb45ef4f6eba5": "facebook/bart-base/README.md",
+    "hf_repository-facebook-bart_base-merges.txt-df1e90c43c9e0ebe18d1174b02fd412c4e202da0": "facebook/bart-base/merges.txt",
+    "hf_repository-facebook-bart_base-.gitattributes-aadd2ab0ae0c8268c7c9693540e9904811f36177": "facebook/bart-base/.gitattributes",
+    "hf_repository-facebook-bart_base-pytorch_model.bin-b0c37792120c6a7b0bf70f03297af24ec46c5c97": "facebook/bart-base/pytorch_model.bin",
+    "hf_repository-facebook-bart_base-vocab.json-df1e90c43c9e0ebe18d1174b02fd412c4e202da0": "facebook/bart-base/vocab.json",
+    "hf_repository-facebook-bart_base-tf_model.h5-b0c37792120c6a7b0bf70f03297af24ec46c5c97": "facebook/bart-base/tf_model.h5",
+    "hf_repository-facebook-bart_base-flax_model.msgpack-b0c37792120c6a7b0bf70f03297af24ec46c5c97": "facebook/bart-base/flax_model.msgpack"
+  }
+}
