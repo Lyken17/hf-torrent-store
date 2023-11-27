@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "bert-base-uncased/coreml/fill-mask/float32_model.mlpackage/Data/com.apple.CoreML/weights/weight.bin": "hf_repository-bert_base_uncased-coreml-fill_mask-float32_model.mlpackage-Data-com.apple.CoreML-weights-weight.bin-a265f773a47193eed794233aa2a0f0bb6d3eaa63",
+    "bert-base-uncased/coreml/fill-mask/float32_model.mlpackage/Data/com.apple.CoreML/model.mlmodel": "hf_repository-bert_base_uncased-coreml-fill_mask-float32_model.mlpackage-Data-com.apple.CoreML-model.mlmodel-a265f773a47193eed794233aa2a0f0bb6d3eaa63",
+    "bert-base-uncased/coreml/fill-mask/float32_model.mlpackage/Manifest.json": "hf_repository-bert_base_uncased-coreml-fill_mask-float32_model.mlpackage-Manifest.json-a265f773a47193eed794233aa2a0f0bb6d3eaa63",
+    "bert-base-uncased/model.safetensors": "hf_repository-bert_base_uncased-model.safetensors-0a6aa9128b6194f4f3c4db429b6cb4891cdb421b",
+    "bert-base-uncased/LICENSE": "hf_repository-bert_base_uncased-LICENSE-418430c3b5df7ace92f2aede75700d22c78a0f95",
+    "bert-base-uncased/tokenizer_config.json": "hf_repository-bert_base_uncased-tokenizer_config.json-1a7dd4986e3dab699c24ca19b2afd0f5e1a80f37",
+    "bert-base-uncased/config.json": "hf_repository-bert_base_uncased-config.json-345fd30026bc3003828be943882dda32ab48b908",
+    "bert-base-uncased/tokenizer.json": "hf_repository-bert_base_uncased-tokenizer.json-8197097fe81e18c54a0aa78684cadc04ff7c09f2",
+    "bert-base-uncased/rust_model.ot": "hf_repository-bert_base_uncased-rust_model.ot-fd6476efe1918e9235d895507b9cb08030107954",
+    "bert-base-uncased/README.md": "hf_repository-bert_base_uncased-README.md-5546055f03398095e385d7dc625e636cc8910bf2",
+    "bert-base-uncased/vocab.txt": "hf_repository-bert_base_uncased-vocab.txt-2f07d813ca87c8c709147704c87210359ccf2309",
+    "bert-base-uncased/model.onnx": "hf_repository-bert_base_uncased-model.onnx-1dbc166cf8765166998eff31ade2eb64c8a40076",
+    "bert-base-uncased/.gitattributes": "hf_repository-bert_base_uncased-.gitattributes-0a6aa9128b6194f4f3c4db429b6cb4891cdb421b",
+    "bert-base-uncased/pytorch_model.bin": "hf_repository-bert_base_uncased-pytorch_model.bin-3d2477d72b675a999d1b13ca822aaaf4908634ad",
+    "bert-base-uncased/tf_model.h5": "hf_repository-bert_base_uncased-tf_model.h5-dd4bc8b21efa05ec961e3efc4ee5e3832a3679c7",
+    "bert-base-uncased/flax_model.msgpack": "hf_repository-bert_base_uncased-flax_model.msgpack-345fd30026bc3003828be943882dda32ab48b908"
+  },
+  "uuid2fpath": {
+    "hf_repository-bert_base_uncased-coreml-fill_mask-float32_model.mlpackage-Data-com.apple.CoreML-weights-weight.bin-a265f773a47193eed794233aa2a0f0bb6d3eaa63": "bert-base-uncased/coreml/fill-mask/float32_model.mlpackage/Data/com.apple.CoreML/weights/weight.bin",
+    "hf_repository-bert_base_uncased-coreml-fill_mask-float32_model.mlpackage-Data-com.apple.CoreML-model.mlmodel-a265f773a47193eed794233aa2a0f0bb6d3eaa63": "bert-base-uncased/coreml/fill-mask/float32_model.mlpackage/Data/com.apple.CoreML/model.mlmodel",
+    "hf_repository-bert_base_uncased-coreml-fill_mask-float32_model.mlpackage-Manifest.json-a265f773a47193eed794233aa2a0f0bb6d3eaa63": "bert-base-uncased/coreml/fill-mask/float32_model.mlpackage/Manifest.json",
+    "hf_repository-bert_base_uncased-model.safetensors-0a6aa9128b6194f4f3c4db429b6cb4891cdb421b": "bert-base-uncased/model.safetensors",
+    "hf_repository-bert_base_uncased-LICENSE-418430c3b5df7ace92f2aede75700d22c78a0f95": "bert-base-uncased/LICENSE",
+    "hf_repository-bert_base_uncased-tokenizer_config.json-1a7dd4986e3dab699c24ca19b2afd0f5e1a80f37": "bert-base-uncased/tokenizer_config.json",
+    "hf_repository-bert_base_uncased-config.json-345fd30026bc3003828be943882dda32ab48b908": "bert-base-uncased/config.json",
+    "hf_repository-bert_base_uncased-tokenizer.json-8197097fe81e18c54a0aa78684cadc04ff7c09f2": "bert-base-uncased/tokenizer.json",
+    "hf_repository-bert_base_uncased-rust_model.ot-fd6476efe1918e9235d895507b9cb08030107954": "bert-base-uncased/rust_model.ot",
+    "hf_repository-bert_base_uncased-README.md-5546055f03398095e385d7dc625e636cc8910bf2": "bert-base-uncased/README.md",
+    "hf_repository-bert_base_uncased-vocab.txt-2f07d813ca87c8c709147704c87210359ccf2309": "bert-base-uncased/vocab.txt",
+    "hf_repository-bert_base_uncased-model.onnx-1dbc166cf8765166998eff31ade2eb64c8a40076": "bert-base-uncased/model.onnx",
+    "hf_repository-bert_base_uncased-.gitattributes-0a6aa9128b6194f4f3c4db429b6cb4891cdb421b": "bert-base-uncased/.gitattributes",
+    "hf_repository-bert_base_uncased-pytorch_model.bin-3d2477d72b675a999d1b13ca822aaaf4908634ad": "bert-base-uncased/pytorch_model.bin",
+    "hf_repository-bert_base_uncased-tf_model.h5-dd4bc8b21efa05ec961e3efc4ee5e3832a3679c7": "bert-base-uncased/tf_model.h5",
+    "hf_repository-bert_base_uncased-flax_model.msgpack-345fd30026bc3003828be943882dda32ab48b908": "bert-base-uncased/flax_model.msgpack"
+  }
+}
