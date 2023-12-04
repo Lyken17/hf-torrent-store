@@ -35,6 +35,6 @@
     "bert_base_uncased-rust_model.ot-afd9aa425fd45c5655d3d43a0d041f9b76729bf475d6c017a0e9304a38f89972": "rust_model.ot",
     "bert_base_uncased-model.onnx-44d7a2896d341c51fb1eba89aea3a590e6af0ce33e25481136f7eeecb62e5f7f": "model.onnx"
   },
-  "lastest-generated": "2023-12-04 14:15:29",
+  "lastest-generated": "2023-12-04 14:16:18",
   "lastest-commit": "1dbc166cf8765166998eff31ade2eb64c8a40076"
 }
