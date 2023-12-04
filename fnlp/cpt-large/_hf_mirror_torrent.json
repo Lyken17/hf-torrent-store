@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "fnlp-cpt_large-special_tokens_map.json-ebe33208af2ad8f73f894ce66ba8641775eaf0e1",
+    "tokenizer_config.json": "fnlp-cpt_large-tokenizer_config.json-c4f7d889a21cd64856afb6f3d5da9af92d3a8514",
+    "README.md": "fnlp-cpt_large-README.md-50dc1831e5ef8acd7934f8ad5aa31b2d98af0cfa",
+    "model.safetensors": "fnlp-cpt_large-model.safetensors-b8437f2c23a5fedd65cf4f6dea86f29041f560415e9d7c734305eccc85c787ee",
+    "vocab.txt": "fnlp-cpt_large-vocab.txt-68c2ee2c2af01ca146af1873977533463fd7a501",
+    "pytorch_model.bin": "fnlp-cpt_large-pytorch_model.bin-5620a50d5b02e440efdc73c75cdd9a98b301bd12a67ef6f741806c3706c4661f",
+    "config.json": "fnlp-cpt_large-config.json-c9e068be298e3cac46bda2b3343e45b1116d2e16",
+    ".gitattributes": "fnlp-cpt_large-.gitattributes-2bf99854609538f90af03c921c41a0cbde670b2f"
+  },
+  "uuid2fpath": {
+    "fnlp-cpt_large-special_tokens_map.json-ebe33208af2ad8f73f894ce66ba8641775eaf0e1": "special_tokens_map.json",
+    "fnlp-cpt_large-tokenizer_config.json-c4f7d889a21cd64856afb6f3d5da9af92d3a8514": "tokenizer_config.json",
+    "fnlp-cpt_large-README.md-50dc1831e5ef8acd7934f8ad5aa31b2d98af0cfa": "README.md",
+    "fnlp-cpt_large-model.safetensors-b8437f2c23a5fedd65cf4f6dea86f29041f560415e9d7c734305eccc85c787ee": "model.safetensors",
+    "fnlp-cpt_large-vocab.txt-68c2ee2c2af01ca146af1873977533463fd7a501": "vocab.txt",
+    "fnlp-cpt_large-pytorch_model.bin-5620a50d5b02e440efdc73c75cdd9a98b301bd12a67ef6f741806c3706c4661f": "pytorch_model.bin",
+    "fnlp-cpt_large-config.json-c9e068be298e3cac46bda2b3343e45b1116d2e16": "config.json",
+    "fnlp-cpt_large-.gitattributes-2bf99854609538f90af03c921c41a0cbde670b2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:16:52",
+  "lastest-commit": "f07323ad5818364d47fc17cc4088072cd2f5f46d"
+}

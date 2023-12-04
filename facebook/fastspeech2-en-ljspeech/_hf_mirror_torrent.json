@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "run_fast_speech_2.py": "facebook-fastspeech2_en_ljspeech-run_fast_speech_2.py-0c74248c97264b82308c6437e32c7a94615b6af0",
+    "hifigan.json": "facebook-fastspeech2_en_ljspeech-hifigan.json-ce97366f7dee6dd4148ac1e0e369a33cd4f200f7",
+    "config.yaml": "facebook-fastspeech2_en_ljspeech-config.yaml-8bd8cbc16a2deaa68e17b408c61b4124afe1221e",
+    "hifigan.bin": "facebook-fastspeech2_en_ljspeech-hifigan.bin-d4f4f016c791fd9ca9859a9e25e7eb0a823fee2ea997c1e5ae8e1a9ea5f99b1f",
+    "pytorch_model.pt": "facebook-fastspeech2_en_ljspeech-pytorch_model.pt-a48d454fe66939079d0ddb70f1c062ec669f521a7cfadc608968746e312986ab",
+    "README.md": "facebook-fastspeech2_en_ljspeech-README.md-f6d21ad3d05cba08e403f5cb0d8defc8e5c586a6",
+    "vocab.txt": "facebook-fastspeech2_en_ljspeech-vocab.txt-01969adc31a31ad42f417ea1a55216f25fae6f17",
+    "fbank_mfa_gcmvn_stats.npz": "facebook-fastspeech2_en_ljspeech-fbank_mfa_gcmvn_stats.npz-926fc20c35c46e3484ad158f70a5461d774c50bc",
+    ".gitattributes": "facebook-fastspeech2_en_ljspeech-.gitattributes-7687b8722ea29678fe13847f7dd359e119f5eb02"
+  },
+  "uuid2fpath": {
+    "facebook-fastspeech2_en_ljspeech-run_fast_speech_2.py-0c74248c97264b82308c6437e32c7a94615b6af0": "run_fast_speech_2.py",
+    "facebook-fastspeech2_en_ljspeech-hifigan.json-ce97366f7dee6dd4148ac1e0e369a33cd4f200f7": "hifigan.json",
+    "facebook-fastspeech2_en_ljspeech-config.yaml-8bd8cbc16a2deaa68e17b408c61b4124afe1221e": "config.yaml",
+    "facebook-fastspeech2_en_ljspeech-hifigan.bin-d4f4f016c791fd9ca9859a9e25e7eb0a823fee2ea997c1e5ae8e1a9ea5f99b1f": "hifigan.bin",
+    "facebook-fastspeech2_en_ljspeech-pytorch_model.pt-a48d454fe66939079d0ddb70f1c062ec669f521a7cfadc608968746e312986ab": "pytorch_model.pt",
+    "facebook-fastspeech2_en_ljspeech-README.md-f6d21ad3d05cba08e403f5cb0d8defc8e5c586a6": "README.md",
+    "facebook-fastspeech2_en_ljspeech-vocab.txt-01969adc31a31ad42f417ea1a55216f25fae6f17": "vocab.txt",
+    "facebook-fastspeech2_en_ljspeech-fbank_mfa_gcmvn_stats.npz-926fc20c35c46e3484ad158f70a5461d774c50bc": "fbank_mfa_gcmvn_stats.npz",
+    "facebook-fastspeech2_en_ljspeech-.gitattributes-7687b8722ea29678fe13847f7dd359e119f5eb02": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:52:01",
+  "lastest-commit": "a3e3e5e2e62bb7ca7514b11aa469e9c5b01a20bf"
+}
