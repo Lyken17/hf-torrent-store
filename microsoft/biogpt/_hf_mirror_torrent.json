@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "merges.txt": "microsoft-biogpt-merges.txt-2eae75728701c476d760d21f8877b72203f7bd42",
+    "README.md": "microsoft-biogpt-README.md-7f6aee6c10f7ebf4d55a467cce421a8b9450af3c",
+    "vocab.json": "microsoft-biogpt-vocab.json-77ea8543ebb231483856d4c185abb2b9f2a7dbcb",
+    "pytorch_model.bin": "microsoft-biogpt-pytorch_model.bin-11b9d608003652a84595aecee376d5c09156779228639b0ecb147cafb43cd409",
+    "config.json": "microsoft-biogpt-config.json-f901d16dbb6f11c9aec4c6aa698899e19ad1f624",
+    ".gitattributes": "microsoft-biogpt-.gitattributes-c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "microsoft-biogpt-merges.txt-2eae75728701c476d760d21f8877b72203f7bd42": "merges.txt",
+    "microsoft-biogpt-README.md-7f6aee6c10f7ebf4d55a467cce421a8b9450af3c": "README.md",
+    "microsoft-biogpt-vocab.json-77ea8543ebb231483856d4c185abb2b9f2a7dbcb": "vocab.json",
+    "microsoft-biogpt-pytorch_model.bin-11b9d608003652a84595aecee376d5c09156779228639b0ecb147cafb43cd409": "pytorch_model.bin",
+    "microsoft-biogpt-config.json-f901d16dbb6f11c9aec4c6aa698899e19ad1f624": "config.json",
+    "microsoft-biogpt-.gitattributes-c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 18:33:55",
+  "lastest-commit": "eb0d815e95434dc9e3b78f464e52b899bee7d923"
+}

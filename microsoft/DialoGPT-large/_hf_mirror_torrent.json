@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "microsoft-DialoGPT_large-tf_model.h5-76f7877aff5e6b9a04eca613cf806be484c86002fc742b1e3dd2f47fe7bb9594",
+    "merges.txt": "microsoft-DialoGPT_large-merges.txt-226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "generation_config_for_conversational.json": "microsoft-DialoGPT_large-generation_config_for_conversational.json-7398ce6109de2838c2cf0e85cf4c5cc6da152753",
+    "tokenizer_config.json": "microsoft-DialoGPT_large-tokenizer_config.json-be4d21d94f3b4687e5a54d84bf6ab46ed0f8defd",
+    "README.md": "microsoft-DialoGPT_large-README.md-0c69cc60a85c92a11a881161c196e6a1cc1e4872",
+    "generation_config.json": "microsoft-DialoGPT_large-generation_config.json-057e43033439e068b325f32af95dde9efc9552ae",
+    "vocab.json": "microsoft-DialoGPT_large-vocab.json-1f1d9aaca301414e7f6c9396df506798ff4eb9a6",
+    "flax_model.msgpack": "microsoft-DialoGPT_large-flax_model.msgpack-1c2f860888da95de393c1549d281e237915e427f929730d37fe25c7416d00f99",
+    "pytorch_model.bin": "microsoft-DialoGPT_large-pytorch_model.bin-1165cf0e23661205408696184a2902b5208a4ff08b08b272d1e3e03d43da85e5",
+    "config.json": "microsoft-DialoGPT_large-config.json-6651cf99dd4a6bb8288c5e5116acf892958244d1",
+    ".gitattributes": "microsoft-DialoGPT_large-.gitattributes-ae8c63daedbd4206d7d40126955d4e6ab1c80f8f"
+  },
+  "uuid2fpath": {
+    "microsoft-DialoGPT_large-tf_model.h5-76f7877aff5e6b9a04eca613cf806be484c86002fc742b1e3dd2f47fe7bb9594": "tf_model.h5",
+    "microsoft-DialoGPT_large-merges.txt-226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "microsoft-DialoGPT_large-generation_config_for_conversational.json-7398ce6109de2838c2cf0e85cf4c5cc6da152753": "generation_config_for_conversational.json",
+    "microsoft-DialoGPT_large-tokenizer_config.json-be4d21d94f3b4687e5a54d84bf6ab46ed0f8defd": "tokenizer_config.json",
+    "microsoft-DialoGPT_large-README.md-0c69cc60a85c92a11a881161c196e6a1cc1e4872": "README.md",
+    "microsoft-DialoGPT_large-generation_config.json-057e43033439e068b325f32af95dde9efc9552ae": "generation_config.json",
+    "microsoft-DialoGPT_large-vocab.json-1f1d9aaca301414e7f6c9396df506798ff4eb9a6": "vocab.json",
+    "microsoft-DialoGPT_large-flax_model.msgpack-1c2f860888da95de393c1549d281e237915e427f929730d37fe25c7416d00f99": "flax_model.msgpack",
+    "microsoft-DialoGPT_large-pytorch_model.bin-1165cf0e23661205408696184a2902b5208a4ff08b08b272d1e3e03d43da85e5": "pytorch_model.bin",
+    "microsoft-DialoGPT_large-config.json-6651cf99dd4a6bb8288c5e5116acf892958244d1": "config.json",
+    "microsoft-DialoGPT_large-.gitattributes-ae8c63daedbd4206d7d40126955d4e6ab1c80f8f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 18:37:39",
+  "lastest-commit": "04e3e47b52dadbcf7688aa61a7ed0438ecf9184c"
+}
