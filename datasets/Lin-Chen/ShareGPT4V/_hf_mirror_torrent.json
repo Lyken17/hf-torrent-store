@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "datasets--Lin-Chen--ShareGPT4V-README.md--e7e008070789b4d1df950535c8663be1538183c4",
+    ".gitattributes": "datasets--Lin-Chen--ShareGPT4V-.gitattributes--1949bcb340598fb70f8a7937f7f9b11a9fbbae88",
+    "sharegpt4v_instruct_gpt4-vision_cap100k.json": "datasets--Lin-Chen--ShareGPT4V-sharegpt4v_instruct_gpt4-vision_cap100k.json--31061a20d2b8bc73fa0b5da9fe11b0e6125bece9db54a489b7b6e4723d0b7a1c",
+    "sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k.json": "datasets--Lin-Chen--ShareGPT4V-sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k.json--61b43cc69b38c642105fe60ea732d96f57b4c8a18d51eb2379746ccebfa9e11e",
+    "share-captioner_coco_lcs_sam_1246k_1107.json": "datasets--Lin-Chen--ShareGPT4V-share-captioner_coco_lcs_sam_1246k_1107.json--5c5f0f4ee58d7b7467f9e49eb5b17f930890a8a0c18a4e2a5be6b15714ef8b3c"
+  },
+  "uuid2fpath": {
+    "datasets--Lin-Chen--ShareGPT4V-README.md--e7e008070789b4d1df950535c8663be1538183c4": "README.md",
+    "datasets--Lin-Chen--ShareGPT4V-.gitattributes--1949bcb340598fb70f8a7937f7f9b11a9fbbae88": ".gitattributes",
+    "datasets--Lin-Chen--ShareGPT4V-sharegpt4v_instruct_gpt4-vision_cap100k.json--31061a20d2b8bc73fa0b5da9fe11b0e6125bece9db54a489b7b6e4723d0b7a1c": "sharegpt4v_instruct_gpt4-vision_cap100k.json",
+    "datasets--Lin-Chen--ShareGPT4V-sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k.json--61b43cc69b38c642105fe60ea732d96f57b4c8a18d51eb2379746ccebfa9e11e": "sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k.json",
+    "datasets--Lin-Chen--ShareGPT4V-share-captioner_coco_lcs_sam_1246k_1107.json--5c5f0f4ee58d7b7467f9e49eb5b17f930890a8a0c18a4e2a5be6b15714ef8b3c": "share-captioner_coco_lcs_sam_1246k_1107.json"
+  },
+  "lastest-generated": "2023-12-18 11:52:35 (Asia/Shanghai)",
+  "lastest-commit": "43d123000f04dbb9e892bda5bf5db6e49c273655"
+}
