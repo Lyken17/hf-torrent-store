@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "facebook-bart_large_mnli-rust_model.ot-b48c2b60d9a63b6ad67d99720b4d41ecb235287f10fcaeaae412291cdaf28578",
+    "merges.txt": "facebook-bart_large_mnli-merges.txt-226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "tokenizer_config.json": "facebook-bart_large_mnli-tokenizer_config.json-be4d21d94f3b4687e5a54d84bf6ab46ed0f8defd",
+    "README.md": "facebook-bart_large_mnli-README.md-f67b8475b37be4707f603d2612c6e97db72fa26c",
+    "tokenizer.json": "facebook-bart_large_mnli-tokenizer.json-ad0bcbeb288f0d1373d88e0762e66357f55b8311",
+    "model.safetensors": "facebook-bart_large_mnli-model.safetensors-cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e",
+    "vocab.json": "facebook-bart_large_mnli-vocab.json-0a39732b2d8be8e493cab3da68b68cc3e28221de",
+    "flax_model.msgpack": "facebook-bart_large_mnli-flax_model.msgpack-5e07d1ae73ae1c1267fd174a3b21c73b0d77bad288f8ed17fb685f79c419a897",
+    "pytorch_model.bin": "facebook-bart_large_mnli-pytorch_model.bin-ce253627f98f9db22af6a86efee6e905f001f7d8dc02dd14a8b4b4710c302b17",
+    "config.json": "facebook-bart_large_mnli-config.json-dfc96c728b40cc131e46b1c424c8e072d52b6d74",
+    ".gitattributes": "facebook-bart_large_mnli-.gitattributes-602b71f15d40ed68c5f96330e3f3175a76a32126"
+  },
+  "uuid2fpath": {
+    "facebook-bart_large_mnli-rust_model.ot-b48c2b60d9a63b6ad67d99720b4d41ecb235287f10fcaeaae412291cdaf28578": "rust_model.ot",
+    "facebook-bart_large_mnli-merges.txt-226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "facebook-bart_large_mnli-tokenizer_config.json-be4d21d94f3b4687e5a54d84bf6ab46ed0f8defd": "tokenizer_config.json",
+    "facebook-bart_large_mnli-README.md-f67b8475b37be4707f603d2612c6e97db72fa26c": "README.md",
+    "facebook-bart_large_mnli-tokenizer.json-ad0bcbeb288f0d1373d88e0762e66357f55b8311": "tokenizer.json",
+    "facebook-bart_large_mnli-model.safetensors-cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e": "model.safetensors",
+    "facebook-bart_large_mnli-vocab.json-0a39732b2d8be8e493cab3da68b68cc3e28221de": "vocab.json",
+    "facebook-bart_large_mnli-flax_model.msgpack-5e07d1ae73ae1c1267fd174a3b21c73b0d77bad288f8ed17fb685f79c419a897": "flax_model.msgpack",
+    "facebook-bart_large_mnli-pytorch_model.bin-ce253627f98f9db22af6a86efee6e905f001f7d8dc02dd14a8b4b4710c302b17": "pytorch_model.bin",
+    "facebook-bart_large_mnli-config.json-dfc96c728b40cc131e46b1c424c8e072d52b6d74": "config.json",
+    "facebook-bart_large_mnli-.gitattributes-602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:50:35",
+  "lastest-commit": "d7645e127eaf1aefc7862fd59a17a5aa8558b8ce"
+}

@@ -1,5 +1,6 @@
 {
   "fpath2uuid": {
+<<<<<<< HEAD
     "generation_config.json": "models--facebook--opt-125m-generation_config.json--cf739e3ba86db7791ebab2828cc34b8a5acd3a86",
     "LICENSE.md": "models--facebook--opt-125m-LICENSE.md--a591333512516f58bf2002045dece909a0ccdb8b",
     "README.md": "models--facebook--opt-125m-README.md--38c05904caf6e5b9f04ecda5c973d77e6c1da151",
@@ -28,5 +29,35 @@
     "models--facebook--opt-125m-pytorch_model.bin--2d74da6615135c58cf3cf9ad4cb11e7c613ff9e55fe658a47ab83b6c8d1174a9": "pytorch_model.bin"
   },
   "lastest-generated": "2023-12-18 12:06:49 (Asia/Shanghai)",
+=======
+    "tf_model.h5": "facebook-opt_125m-tf_model.h5-db7090b0c8b34dd957a7e0656c718f978f9203cc874018f37dda44108be5970a",
+    "merges.txt": "facebook-opt_125m-merges.txt-226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "special_tokens_map.json": "facebook-opt_125m-special_tokens_map.json-5dfa36546b8eddce0e04df3133c30df43fcc3828",
+    "tokenizer_config.json": "facebook-opt_125m-tokenizer_config.json-27c24ca9d908d0b678b20c698aeb9e950c44d865",
+    "README.md": "facebook-opt_125m-README.md-38c05904caf6e5b9f04ecda5c973d77e6c1da151",
+    "generation_config.json": "facebook-opt_125m-generation_config.json-cf739e3ba86db7791ebab2828cc34b8a5acd3a86",
+    "vocab.json": "facebook-opt_125m-vocab.json-0a39732b2d8be8e493cab3da68b68cc3e28221de",
+    "flax_model.msgpack": "facebook-opt_125m-flax_model.msgpack-61c60ec52ed43038fff0fbbd68b080c94b0d94b4c8458dbd65965f9b17631c89",
+    "LICENSE.md": "facebook-opt_125m-LICENSE.md-a591333512516f58bf2002045dece909a0ccdb8b",
+    "pytorch_model.bin": "facebook-opt_125m-pytorch_model.bin-2d74da6615135c58cf3cf9ad4cb11e7c613ff9e55fe658a47ab83b6c8d1174a9",
+    "config.json": "facebook-opt_125m-config.json-b3fb716a3024261980becb2382e31a3780985130",
+    ".gitattributes": "facebook-opt_125m-.gitattributes-ac481c8eb05e4d2496fbe076a38a7b4835dd733d"
+  },
+  "uuid2fpath": {
+    "facebook-opt_125m-tf_model.h5-db7090b0c8b34dd957a7e0656c718f978f9203cc874018f37dda44108be5970a": "tf_model.h5",
+    "facebook-opt_125m-merges.txt-226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "facebook-opt_125m-special_tokens_map.json-5dfa36546b8eddce0e04df3133c30df43fcc3828": "special_tokens_map.json",
+    "facebook-opt_125m-tokenizer_config.json-27c24ca9d908d0b678b20c698aeb9e950c44d865": "tokenizer_config.json",
+    "facebook-opt_125m-README.md-38c05904caf6e5b9f04ecda5c973d77e6c1da151": "README.md",
+    "facebook-opt_125m-generation_config.json-cf739e3ba86db7791ebab2828cc34b8a5acd3a86": "generation_config.json",
+    "facebook-opt_125m-vocab.json-0a39732b2d8be8e493cab3da68b68cc3e28221de": "vocab.json",
+    "facebook-opt_125m-flax_model.msgpack-61c60ec52ed43038fff0fbbd68b080c94b0d94b4c8458dbd65965f9b17631c89": "flax_model.msgpack",
+    "facebook-opt_125m-LICENSE.md-a591333512516f58bf2002045dece909a0ccdb8b": "LICENSE.md",
+    "facebook-opt_125m-pytorch_model.bin-2d74da6615135c58cf3cf9ad4cb11e7c613ff9e55fe658a47ab83b6c8d1174a9": "pytorch_model.bin",
+    "facebook-opt_125m-config.json-b3fb716a3024261980becb2382e31a3780985130": "config.json",
+    "facebook-opt_125m-.gitattributes-ac481c8eb05e4d2496fbe076a38a7b4835dd733d": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 14:55:20",
+>>>>>>> e877fed15fb82e84ae9f18256e065b927de57c31
   "lastest-commit": "27dcfa74d334bc871f3234de431e71c6eeba5dd6"
 }

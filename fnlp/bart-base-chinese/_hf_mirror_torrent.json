@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "fnlp-bart_base_chinese-special_tokens_map.json-ebe33208af2ad8f73f894ce66ba8641775eaf0e1",
+    "tokenizer_config.json": "fnlp-bart_base_chinese-tokenizer_config.json-1cafe3c7aa773bfcd1b4691cda4d8f06efaa348e",
+    "README.md": "fnlp-bart_base_chinese-README.md-a9c89b7ea59eedbd5174975135c97eb60ad493e7",
+    "model.safetensors": "fnlp-bart_base_chinese-model.safetensors-0d65ccf02040b524f1e9cba7302a7782e11f2c04d46194379323d8fae914c40b",
+    "vocab.txt": "fnlp-bart_base_chinese-vocab.txt-68c2ee2c2af01ca146af1873977533463fd7a501",
+    "pytorch_model.bin": "fnlp-bart_base_chinese-pytorch_model.bin-a1664f0f2e60f75fdd9153db3cba24ed7cf3a38ce79bd884a3f3217f30c0e0f8",
+    "config.json": "fnlp-bart_base_chinese-config.json-734782498b85ff800f22fd7f0e36dbe5b78d62ae",
+    ".gitattributes": "fnlp-bart_base_chinese-.gitattributes-2bf99854609538f90af03c921c41a0cbde670b2f"
+  },
+  "uuid2fpath": {
+    "fnlp-bart_base_chinese-special_tokens_map.json-ebe33208af2ad8f73f894ce66ba8641775eaf0e1": "special_tokens_map.json",
+    "fnlp-bart_base_chinese-tokenizer_config.json-1cafe3c7aa773bfcd1b4691cda4d8f06efaa348e": "tokenizer_config.json",
+    "fnlp-bart_base_chinese-README.md-a9c89b7ea59eedbd5174975135c97eb60ad493e7": "README.md",
+    "fnlp-bart_base_chinese-model.safetensors-0d65ccf02040b524f1e9cba7302a7782e11f2c04d46194379323d8fae914c40b": "model.safetensors",
+    "fnlp-bart_base_chinese-vocab.txt-68c2ee2c2af01ca146af1873977533463fd7a501": "vocab.txt",
+    "fnlp-bart_base_chinese-pytorch_model.bin-a1664f0f2e60f75fdd9153db3cba24ed7cf3a38ce79bd884a3f3217f30c0e0f8": "pytorch_model.bin",
+    "fnlp-bart_base_chinese-config.json-734782498b85ff800f22fd7f0e36dbe5b78d62ae": "config.json",
+    "fnlp-bart_base_chinese-.gitattributes-2bf99854609538f90af03c921c41a0cbde670b2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 17:41:40",
+  "lastest-commit": "a5b6c524f99fe6985f9f4b265db963c6ad2bfb1c"
+}

@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "image.png": "latent_consistency-lcm_ssd_1b-image.png-d6f816207cfff66d5f8c9acaa76ca565e7c825970dc8b00fcc09c36ac2d6ee27",
+    "README.md": "latent_consistency-lcm_ssd_1b-README.md-912fb905bda324a3f4aca6f8d1a44d8833918e66",
+    "download.png": "latent_consistency-lcm_ssd_1b-download.png-d6f816207cfff66d5f8c9acaa76ca565e7c825970dc8b00fcc09c36ac2d6ee27",
+    "diffusion_pytorch_model.safetensors": "latent_consistency-lcm_ssd_1b-diffusion_pytorch_model.safetensors-5333b678e8adb780e57a33fe52ca09b98d1a604fa99a1af39d63ee57364e6b96",
+    "diffusion_pytorch_model.fp16.safetensors": "latent_consistency-lcm_ssd_1b-diffusion_pytorch_model.fp16.safetensors-81a14796546ca9150c6d3a502b862cba70f0bc94103ef446dea5a12851f761d0",
+    "config.json": "latent_consistency-lcm_ssd_1b-config.json-bd94478f5229c66d1c2b87161bec714173282791",
+    ".gitattributes": "latent_consistency-lcm_ssd_1b-.gitattributes-a059173a8a5f1a7a7bddebc8d06fcd76c0d12ab8"
+  },
+  "uuid2fpath": {
+    "latent_consistency-lcm_ssd_1b-image.png-d6f816207cfff66d5f8c9acaa76ca565e7c825970dc8b00fcc09c36ac2d6ee27": "image.png",
+    "latent_consistency-lcm_ssd_1b-README.md-912fb905bda324a3f4aca6f8d1a44d8833918e66": "README.md",
+    "latent_consistency-lcm_ssd_1b-download.png-d6f816207cfff66d5f8c9acaa76ca565e7c825970dc8b00fcc09c36ac2d6ee27": "download.png",
+    "latent_consistency-lcm_ssd_1b-diffusion_pytorch_model.safetensors-5333b678e8adb780e57a33fe52ca09b98d1a604fa99a1af39d63ee57364e6b96": "diffusion_pytorch_model.safetensors",
+    "latent_consistency-lcm_ssd_1b-diffusion_pytorch_model.fp16.safetensors-81a14796546ca9150c6d3a502b862cba70f0bc94103ef446dea5a12851f761d0": "diffusion_pytorch_model.fp16.safetensors",
+    "latent_consistency-lcm_ssd_1b-config.json-bd94478f5229c66d1c2b87161bec714173282791": "config.json",
+    "latent_consistency-lcm_ssd_1b-.gitattributes-a059173a8a5f1a7a7bddebc8d06fcd76c0d12ab8": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:03:12",
+  "lastest-commit": "ff2d932eab02098193f805f65e1c4a0322d8eb50"
+}

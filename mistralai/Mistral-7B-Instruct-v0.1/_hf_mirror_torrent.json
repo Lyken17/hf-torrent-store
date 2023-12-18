@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "mistralai-Mistral_7B_Instruct_v0.1-pytorch_model.bin.index.json-520ee2fc9a8659d53be1f9f0a4502c151fc24775",
+    "special_tokens_map.json": "mistralai-Mistral_7B_Instruct_v0.1-special_tokens_map.json-a52c50a199269393cd1548c7e6a77a654bd2001b",
+    "pytorch_model-00002-of-00002.bin": "mistralai-Mistral_7B_Instruct_v0.1-pytorch_model_00002_of_00002.bin-d9e54fbaabfe2c5d00d2a642398c5959c1eb31e9d9d40c80bd5d7c2c4067d3e1",
+    "tokenizer_config.json": "mistralai-Mistral_7B_Instruct_v0.1-tokenizer_config.json-fae21d778664a82dfdc92143da539f99e7b2309a",
+    "tokenizer.model": "mistralai-Mistral_7B_Instruct_v0.1-tokenizer.model-dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "mistralai-Mistral_7B_Instruct_v0.1-README.md-d67ead8f49fb8b50dfe504c7a80f35e258e42d9c",
+    "tokenizer.json": "mistralai-Mistral_7B_Instruct_v0.1-tokenizer.json-43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "pytorch_model-00001-of-00002.bin": "mistralai-Mistral_7B_Instruct_v0.1-pytorch_model_00001_of_00002.bin-2f237251ac3ecb3bcbd8978b3eb7b55b5e83c06cd5224b276d2d8462773488c8",
+    "generation_config.json": "mistralai-Mistral_7B_Instruct_v0.1-generation_config.json-2c5f418036a121b3fd432d1bf2b3c5c9daf59fab",
+    "config.json": "mistralai-Mistral_7B_Instruct_v0.1-config.json-f4989f072a7f517d01d479eb1685c6e50e014f88",
+    ".gitattributes": "mistralai-Mistral_7B_Instruct_v0.1-.gitattributes-a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "mistralai-Mistral_7B_Instruct_v0.1-pytorch_model.bin.index.json-520ee2fc9a8659d53be1f9f0a4502c151fc24775": "pytorch_model.bin.index.json",
+    "mistralai-Mistral_7B_Instruct_v0.1-special_tokens_map.json-a52c50a199269393cd1548c7e6a77a654bd2001b": "special_tokens_map.json",
+    "mistralai-Mistral_7B_Instruct_v0.1-pytorch_model_00002_of_00002.bin-d9e54fbaabfe2c5d00d2a642398c5959c1eb31e9d9d40c80bd5d7c2c4067d3e1": "pytorch_model-00002-of-00002.bin",
+    "mistralai-Mistral_7B_Instruct_v0.1-tokenizer_config.json-fae21d778664a82dfdc92143da539f99e7b2309a": "tokenizer_config.json",
+    "mistralai-Mistral_7B_Instruct_v0.1-tokenizer.model-dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "mistralai-Mistral_7B_Instruct_v0.1-README.md-d67ead8f49fb8b50dfe504c7a80f35e258e42d9c": "README.md",
+    "mistralai-Mistral_7B_Instruct_v0.1-tokenizer.json-43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "mistralai-Mistral_7B_Instruct_v0.1-pytorch_model_00001_of_00002.bin-2f237251ac3ecb3bcbd8978b3eb7b55b5e83c06cd5224b276d2d8462773488c8": "pytorch_model-00001-of-00002.bin",
+    "mistralai-Mistral_7B_Instruct_v0.1-generation_config.json-2c5f418036a121b3fd432d1bf2b3c5c9daf59fab": "generation_config.json",
+    "mistralai-Mistral_7B_Instruct_v0.1-config.json-f4989f072a7f517d01d479eb1685c6e50e014f88": "config.json",
+    "mistralai-Mistral_7B_Instruct_v0.1-.gitattributes-a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 17:05:56",
+  "lastest-commit": "7ad5799710574ba1c1d953eba3077af582f3a773"
+}

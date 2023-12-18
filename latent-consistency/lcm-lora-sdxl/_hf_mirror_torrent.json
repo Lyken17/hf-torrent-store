@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "LCM-LoRA-Technical-Report.pdf": "latent_consistency-lcm_lora_sdxl-LCM_LoRA_Technical_Report.pdf-23f42605e848334d433996c92a5baa12280b18730e56455f58f85d8f2f28f160",
+    "README.md": "latent_consistency-lcm_lora_sdxl-README.md-e60558f2118bc903946d3c6c49df871339fc3aa3",
+    "pytorch_lora_weights.safetensors": "latent_consistency-lcm_lora_sdxl-pytorch_lora_weights.safetensors-a764e6859b6e04047cd761c08ff0cee96413a8e004c9f07707530cd776b19141",
+    ".gitattributes": "latent_consistency-lcm_lora_sdxl-.gitattributes-1c24a94d768e7be2a28da900a9c91c6f6c00d04d"
+  },
+  "uuid2fpath": {
+    "latent_consistency-lcm_lora_sdxl-LCM_LoRA_Technical_Report.pdf-23f42605e848334d433996c92a5baa12280b18730e56455f58f85d8f2f28f160": "LCM-LoRA-Technical-Report.pdf",
+    "latent_consistency-lcm_lora_sdxl-README.md-e60558f2118bc903946d3c6c49df871339fc3aa3": "README.md",
+    "latent_consistency-lcm_lora_sdxl-pytorch_lora_weights.safetensors-a764e6859b6e04047cd761c08ff0cee96413a8e004c9f07707530cd776b19141": "pytorch_lora_weights.safetensors",
+    "latent_consistency-lcm_lora_sdxl-.gitattributes-1c24a94d768e7be2a28da900a9c91c6f6c00d04d": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:53:32",
+  "lastest-commit": "a18548dd4956b174ec5b0d78d340c8dae0a129cd"
+}

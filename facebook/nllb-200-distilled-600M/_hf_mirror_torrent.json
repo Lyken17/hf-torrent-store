@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "facebook-nllb_200_distilled_600M-special_tokens_map.json-02fba84e401dd2017999a39cac2c1278591c3a03",
+    "tokenizer_config.json": "facebook-nllb_200_distilled_600M-tokenizer_config.json-742aa330eae62f661fe28ff3fdd1d216d1481294",
+    "README.md": "facebook-nllb_200_distilled_600M-README.md-980ce7caf72847e43c7eed1cc2e2fb3b9e49497c",
+    "tokenizer.json": "facebook-nllb_200_distilled_600M-tokenizer.json-e316b82de11d0f951f370943b3c438311629547285129b0b81dadabd01bca665",
+    "generation_config.json": "facebook-nllb_200_distilled_600M-generation_config.json-4c6d168201607a22255bee55a6ed092b0e3ed7a1",
+    "sentencepiece.bpe.model": "facebook-nllb_200_distilled_600M-sentencepiece.bpe.model-14bb8dfb35c0ffdea7bc01e56cea38b9e3d5efcdcb9c251d6b40538e1aab555a",
+    "pytorch_model.bin": "facebook-nllb_200_distilled_600M-pytorch_model.bin-c266c2cfd19758b6d09c1fc31ecdf1e485509035f6b51dfe84f1ada83eefcc42",
+    "config.json": "facebook-nllb_200_distilled_600M-config.json-91ba54326eccfdb17a06a7d110df3d71f39b84b8",
+    ".gitattributes": "facebook-nllb_200_distilled_600M-.gitattributes-3719d3a1698904bbe84e8b3250d812f2853d847a"
+  },
+  "uuid2fpath": {
+    "facebook-nllb_200_distilled_600M-special_tokens_map.json-02fba84e401dd2017999a39cac2c1278591c3a03": "special_tokens_map.json",
+    "facebook-nllb_200_distilled_600M-tokenizer_config.json-742aa330eae62f661fe28ff3fdd1d216d1481294": "tokenizer_config.json",
+    "facebook-nllb_200_distilled_600M-README.md-980ce7caf72847e43c7eed1cc2e2fb3b9e49497c": "README.md",
+    "facebook-nllb_200_distilled_600M-tokenizer.json-e316b82de11d0f951f370943b3c438311629547285129b0b81dadabd01bca665": "tokenizer.json",
+    "facebook-nllb_200_distilled_600M-generation_config.json-4c6d168201607a22255bee55a6ed092b0e3ed7a1": "generation_config.json",
+    "facebook-nllb_200_distilled_600M-sentencepiece.bpe.model-14bb8dfb35c0ffdea7bc01e56cea38b9e3d5efcdcb9c251d6b40538e1aab555a": "sentencepiece.bpe.model",
+    "facebook-nllb_200_distilled_600M-pytorch_model.bin-c266c2cfd19758b6d09c1fc31ecdf1e485509035f6b51dfe84f1ada83eefcc42": "pytorch_model.bin",
+    "facebook-nllb_200_distilled_600M-config.json-91ba54326eccfdb17a06a7d110df3d71f39b84b8": "config.json",
+    "facebook-nllb_200_distilled_600M-.gitattributes-3719d3a1698904bbe84e8b3250d812f2853d847a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 17:00:34",
+  "lastest-commit": "bf317ec0a4a31fc9fa3da2ce08e86d3b6e4b18f1"
+}

@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "microsoft-Orca_2_13b-pytorch_model.bin.index.json-492cc58bb280e81f9a4fd517c1bb2c32652226ea",
+    "pytorch_model-00006-of-00006.bin": "microsoft-Orca_2_13b-pytorch_model_00006_of_00006.bin-974119123f7033984e573b0d2c9754275bd448c688a09488e52f2f44206785e1",
+    "Notice": "microsoft-Orca_2_13b-Notice-d03b5b952a843c5ee4b3c64b05c474b1c4ee14df",
+    "added_tokens.json": "microsoft-Orca_2_13b-added_tokens.json-34075547705e2cd9d09ffa62fda536ab0a34ed60",
+    "special_tokens_map.json": "microsoft-Orca_2_13b-special_tokens_map.json-21edfc81710e2dc1e41bd42b3a51bfff845568cf",
+    "pytorch_model-00003-of-00006.bin": "microsoft-Orca_2_13b-pytorch_model_00003_of_00006.bin-5bd111371970c260e3b38685f6a39bc54ba189e9aa1297e142b9193e21fab415",
+    "pytorch_model-00005-of-00006.bin": "microsoft-Orca_2_13b-pytorch_model_00005_of_00006.bin-e17d513a94757fed6a86e48d9f425fcf0a52f8bc47b83f84e809eabc5e685196",
+    "tokenizer_config.json": "microsoft-Orca_2_13b-tokenizer_config.json-542a9fc8ddb435681466bc3cb708a735f04f5235",
+    "tokenizer.model": "microsoft-Orca_2_13b-tokenizer.model-9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "microsoft-Orca_2_13b-README.md-bf4704a99dae0804a051720c0333f51c32a977fb",
+    "pytorch_model-00004-of-00006.bin": "microsoft-Orca_2_13b-pytorch_model_00004_of_00006.bin-9870c5705b3b409ba7ee8c60c6e785c350d8f69194ea58db11a8acfef808a4cf",
+    "generation_config.json": "microsoft-Orca_2_13b-generation_config.json-1f8afca3704d73d862446fccfbf57849677a7c70",
+    "pytorch_model-00001-of-00006.bin": "microsoft-Orca_2_13b-pytorch_model_00001_of_00006.bin-48b50d9d6ef77522b210c62ec214dd01295fcf88a3160acce32cae23d033ce1d",
+    "LICENSE": "microsoft-Orca_2_13b-LICENSE-d881914591f68b8bb4e03a3978c0955301701d36",
+    "config.json": "microsoft-Orca_2_13b-config.json-f0f2ea55644b24e41b01549d6c9d698f35963b2c",
+    "pytorch_model-00002-of-00006.bin": "microsoft-Orca_2_13b-pytorch_model_00002_of_00006.bin-d5dec51a499eea69793a89ce4409b019092829a8efbe5ca0f73cd1da3b7431d3",
+    ".gitattributes": "microsoft-Orca_2_13b-.gitattributes-a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "microsoft-Orca_2_13b-pytorch_model.bin.index.json-492cc58bb280e81f9a4fd517c1bb2c32652226ea": "pytorch_model.bin.index.json",
+    "microsoft-Orca_2_13b-pytorch_model_00006_of_00006.bin-974119123f7033984e573b0d2c9754275bd448c688a09488e52f2f44206785e1": "pytorch_model-00006-of-00006.bin",
+    "microsoft-Orca_2_13b-Notice-d03b5b952a843c5ee4b3c64b05c474b1c4ee14df": "Notice",
+    "microsoft-Orca_2_13b-added_tokens.json-34075547705e2cd9d09ffa62fda536ab0a34ed60": "added_tokens.json",
+    "microsoft-Orca_2_13b-special_tokens_map.json-21edfc81710e2dc1e41bd42b3a51bfff845568cf": "special_tokens_map.json",
+    "microsoft-Orca_2_13b-pytorch_model_00003_of_00006.bin-5bd111371970c260e3b38685f6a39bc54ba189e9aa1297e142b9193e21fab415": "pytorch_model-00003-of-00006.bin",
+    "microsoft-Orca_2_13b-pytorch_model_00005_of_00006.bin-e17d513a94757fed6a86e48d9f425fcf0a52f8bc47b83f84e809eabc5e685196": "pytorch_model-00005-of-00006.bin",
+    "microsoft-Orca_2_13b-tokenizer_config.json-542a9fc8ddb435681466bc3cb708a735f04f5235": "tokenizer_config.json",
+    "microsoft-Orca_2_13b-tokenizer.model-9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "microsoft-Orca_2_13b-README.md-bf4704a99dae0804a051720c0333f51c32a977fb": "README.md",
+    "microsoft-Orca_2_13b-pytorch_model_00004_of_00006.bin-9870c5705b3b409ba7ee8c60c6e785c350d8f69194ea58db11a8acfef808a4cf": "pytorch_model-00004-of-00006.bin",
+    "microsoft-Orca_2_13b-generation_config.json-1f8afca3704d73d862446fccfbf57849677a7c70": "generation_config.json",
+    "microsoft-Orca_2_13b-pytorch_model_00001_of_00006.bin-48b50d9d6ef77522b210c62ec214dd01295fcf88a3160acce32cae23d033ce1d": "pytorch_model-00001-of-00006.bin",
+    "microsoft-Orca_2_13b-LICENSE-d881914591f68b8bb4e03a3978c0955301701d36": "LICENSE",
+    "microsoft-Orca_2_13b-config.json-f0f2ea55644b24e41b01549d6c9d698f35963b2c": "config.json",
+    "microsoft-Orca_2_13b-pytorch_model_00002_of_00006.bin-d5dec51a499eea69793a89ce4409b019092829a8efbe5ca0f73cd1da3b7431d3": "pytorch_model-00002-of-00006.bin",
+    "microsoft-Orca_2_13b-.gitattributes-a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 18:29:57",
+  "lastest-commit": "2539ff53e6baa4cc603774ad5a2d646f4041ea4e"
+}

@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "openai-clip_vit_large_patch14-tf_model.h5-7f154e925c18270d662d28f6261523c2ff6e80f1f05292cb034db41d5951c7a4",
+    "merges.txt": "openai-clip_vit_large_patch14-merges.txt-76e821f1b6f0a9709293c3b6b51ed90980b3166b",
+    "special_tokens_map.json": "openai-clip_vit_large_patch14-special_tokens_map.json-9bfb42aa97dcd61e89f279ccaee988bccb4fabae",
+    "tokenizer_config.json": "openai-clip_vit_large_patch14-tokenizer_config.json-702bb12920b291cade3706cf215c1604d2255d93",
+    "README.md": "openai-clip_vit_large_patch14-README.md-4ccd659d4a0f649d10686540ea4a2b20ff276eda",
+    "tokenizer.json": "openai-clip_vit_large_patch14-tokenizer.json-580c79c6862f31d1f9bd08dd1a415ba0d0502cd9",
+    "model.safetensors": "openai-clip_vit_large_patch14-model.safetensors-a2bf730a0c7debf160f7a6b50b3aaf3703e7e88ac73de7a314903141db026dcb",
+    "vocab.json": "openai-clip_vit_large_patch14-vocab.json-4297ea6a8d2bae1fea8f48b45e257814dcb11f69",
+    "flax_model.msgpack": "openai-clip_vit_large_patch14-flax_model.msgpack-156f677ed4495acd1ec7197249c091b85c240267c82f2f7f2e4eae4177931fed",
+    "preprocessor_config.json": "openai-clip_vit_large_patch14-preprocessor_config.json-5a12a1eb250987a4eee0e3e7d7338c4b22724be1",
+    "pytorch_model.bin": "openai-clip_vit_large_patch14-pytorch_model.bin-f1a17cdbe0f36fec524f5cafb1c261ea3bbbc13e346e0f74fc9eb0460dedd0d3",
+    "config.json": "openai-clip_vit_large_patch14-config.json-2c19f6666e0e163c7954df66cb901353fcad088e",
+    ".gitattributes": "openai-clip_vit_large_patch14-.gitattributes-2bf99854609538f90af03c921c41a0cbde670b2f"
+  },
+  "uuid2fpath": {
+    "openai-clip_vit_large_patch14-tf_model.h5-7f154e925c18270d662d28f6261523c2ff6e80f1f05292cb034db41d5951c7a4": "tf_model.h5",
+    "openai-clip_vit_large_patch14-merges.txt-76e821f1b6f0a9709293c3b6b51ed90980b3166b": "merges.txt",
+    "openai-clip_vit_large_patch14-special_tokens_map.json-9bfb42aa97dcd61e89f279ccaee988bccb4fabae": "special_tokens_map.json",
+    "openai-clip_vit_large_patch14-tokenizer_config.json-702bb12920b291cade3706cf215c1604d2255d93": "tokenizer_config.json",
+    "openai-clip_vit_large_patch14-README.md-4ccd659d4a0f649d10686540ea4a2b20ff276eda": "README.md",
+    "openai-clip_vit_large_patch14-tokenizer.json-580c79c6862f31d1f9bd08dd1a415ba0d0502cd9": "tokenizer.json",
+    "openai-clip_vit_large_patch14-model.safetensors-a2bf730a0c7debf160f7a6b50b3aaf3703e7e88ac73de7a314903141db026dcb": "model.safetensors",
+    "openai-clip_vit_large_patch14-vocab.json-4297ea6a8d2bae1fea8f48b45e257814dcb11f69": "vocab.json",
+    "openai-clip_vit_large_patch14-flax_model.msgpack-156f677ed4495acd1ec7197249c091b85c240267c82f2f7f2e4eae4177931fed": "flax_model.msgpack",
+    "openai-clip_vit_large_patch14-preprocessor_config.json-5a12a1eb250987a4eee0e3e7d7338c4b22724be1": "preprocessor_config.json",
+    "openai-clip_vit_large_patch14-pytorch_model.bin-f1a17cdbe0f36fec524f5cafb1c261ea3bbbc13e346e0f74fc9eb0460dedd0d3": "pytorch_model.bin",
+    "openai-clip_vit_large_patch14-config.json-2c19f6666e0e163c7954df66cb901353fcad088e": "config.json",
+    "openai-clip_vit_large_patch14-.gitattributes-2bf99854609538f90af03c921c41a0cbde670b2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:58:36",
+  "lastest-commit": "32bd64288804d66eefd0ccbe215aa642df71cc41"
+}

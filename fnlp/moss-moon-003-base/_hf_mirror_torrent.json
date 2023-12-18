@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "fnlp-moss_moon_003_base-pytorch_model.bin.index.json-cce0183cad3968aa638e2342311fed9081af38cd",
+    "configuration_moss.py": "fnlp-moss_moon_003_base-configuration_moss.py-6fb6bc4743d1f0aeaef762d35fd0ce719a3a92d8",
+    "merges.txt": "fnlp-moss_moon_003_base-merges.txt-0d5e72e4369a3bc5aa280a45b19a0fbef7980d94",
+    "added_tokens.json": "fnlp-moss_moon_003_base-added_tokens.json-ef747f9759a298c7dee330a39cd5d6e574783bc2",
+    "special_tokens_map.json": "fnlp-moss_moon_003_base-special_tokens_map.json-cfa9f49a6af74350e59442f709b2dc527f0df434",
+    "pytorch_model-00001-of-00004.bin": "fnlp-moss_moon_003_base-pytorch_model_00001_of_00004.bin-474d7a2bde6abe5fd7d8349e93e28384bbdf6b9acc75243905a1af2b54627bae",
+    "tokenizer_config.json": "fnlp-moss_moon_003_base-tokenizer_config.json-4a1c6e84371cffb20ab1f8f3417d0ed4650bb337",
+    "modeling_moss.py": "fnlp-moss_moon_003_base-modeling_moss.py-aa6813f1a73d0e3a4161a43589804d94d595969c",
+    "pytorch_model-00002-of-00004.bin": "fnlp-moss_moon_003_base-pytorch_model_00002_of_00004.bin-390a18cb9b2a769af6e19a358b36f6852cf5442427f0190de011f5cef7b073a3",
+    "README.md": "fnlp-moss_moon_003_base-README.md-1d3355d7df33419624ace1d9a4c7e9d571249b7c",
+    "pytorch_model-00004-of-00004.bin": "fnlp-moss_moon_003_base-pytorch_model_00004_of_00004.bin-47fc07637daadfe3e1649a0a4c22a934ad0bcfa2e825bf03ad3d2d03b640bcad",
+    "pytorch_model-00003-of-00004.bin": "fnlp-moss_moon_003_base-pytorch_model_00003_of_00004.bin-7d71ce56faf5bc455d30deb0260c71fbbe1e8c7c4759e848c1eb6c638e532c08",
+    "tokenization_moss.py": "fnlp-moss_moon_003_base-tokenization_moss.py-6612948ae3f09ed420b639e6ee0beb95a71c852e",
+    "vocab.json": "fnlp-moss_moon_003_base-vocab.json-c585a6eedb0eb321f827dbf63614ff9cd3f3af20",
+    "LICENSE": "fnlp-moss_moon_003_base-LICENSE-074a8debcc57d8696dd935c94bc5d2df874f5a34",
+    "config.json": "fnlp-moss_moon_003_base-config.json-9efc59d08a89819b4534b0e2d76903a8306ba6a9",
+    ".gitattributes": "fnlp-moss_moon_003_base-.gitattributes-c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "fnlp-moss_moon_003_base-pytorch_model.bin.index.json-cce0183cad3968aa638e2342311fed9081af38cd": "pytorch_model.bin.index.json",
+    "fnlp-moss_moon_003_base-configuration_moss.py-6fb6bc4743d1f0aeaef762d35fd0ce719a3a92d8": "configuration_moss.py",
+    "fnlp-moss_moon_003_base-merges.txt-0d5e72e4369a3bc5aa280a45b19a0fbef7980d94": "merges.txt",
+    "fnlp-moss_moon_003_base-added_tokens.json-ef747f9759a298c7dee330a39cd5d6e574783bc2": "added_tokens.json",
+    "fnlp-moss_moon_003_base-special_tokens_map.json-cfa9f49a6af74350e59442f709b2dc527f0df434": "special_tokens_map.json",
+    "fnlp-moss_moon_003_base-pytorch_model_00001_of_00004.bin-474d7a2bde6abe5fd7d8349e93e28384bbdf6b9acc75243905a1af2b54627bae": "pytorch_model-00001-of-00004.bin",
+    "fnlp-moss_moon_003_base-tokenizer_config.json-4a1c6e84371cffb20ab1f8f3417d0ed4650bb337": "tokenizer_config.json",
+    "fnlp-moss_moon_003_base-modeling_moss.py-aa6813f1a73d0e3a4161a43589804d94d595969c": "modeling_moss.py",
+    "fnlp-moss_moon_003_base-pytorch_model_00002_of_00004.bin-390a18cb9b2a769af6e19a358b36f6852cf5442427f0190de011f5cef7b073a3": "pytorch_model-00002-of-00004.bin",
+    "fnlp-moss_moon_003_base-README.md-1d3355d7df33419624ace1d9a4c7e9d571249b7c": "README.md",
+    "fnlp-moss_moon_003_base-pytorch_model_00004_of_00004.bin-47fc07637daadfe3e1649a0a4c22a934ad0bcfa2e825bf03ad3d2d03b640bcad": "pytorch_model-00004-of-00004.bin",
+    "fnlp-moss_moon_003_base-pytorch_model_00003_of_00004.bin-7d71ce56faf5bc455d30deb0260c71fbbe1e8c7c4759e848c1eb6c638e532c08": "pytorch_model-00003-of-00004.bin",
+    "fnlp-moss_moon_003_base-tokenization_moss.py-6612948ae3f09ed420b639e6ee0beb95a71c852e": "tokenization_moss.py",
+    "fnlp-moss_moon_003_base-vocab.json-c585a6eedb0eb321f827dbf63614ff9cd3f3af20": "vocab.json",
+    "fnlp-moss_moon_003_base-LICENSE-074a8debcc57d8696dd935c94bc5d2df874f5a34": "LICENSE",
+    "fnlp-moss_moon_003_base-config.json-9efc59d08a89819b4534b0e2d76903a8306ba6a9": "config.json",
+    "fnlp-moss_moon_003_base-.gitattributes-c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 15:30:26",
+  "lastest-commit": "5e406ca0ebbdea11cc3b12aa5932995c692568ac"
+}

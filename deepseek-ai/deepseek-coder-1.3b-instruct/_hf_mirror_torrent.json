@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "tokenizer_config.json": "deepseek_ai-deepseek_coder_1.3b_instruct-tokenizer_config.json-779eb2f5d1e545fd3a6ac26a2e9819bca92f5a3f",
+    "README.md": "deepseek_ai-deepseek_coder_1.3b_instruct-README.md-6474eb0e785f126215796e2d60761c9260698541",
+    "tokenizer.json": "deepseek_ai-deepseek_coder_1.3b_instruct-tokenizer.json-0dfa4268afc2cf45515dec553772d7ca79f79762",
+    "generation_config.json": "deepseek_ai-deepseek_coder_1.3b_instruct-generation_config.json-19a930a8e7a08b1d002e8fa317438423b61fff22",
+    "LICENSE": "deepseek_ai-deepseek_coder_1.3b_instruct-LICENSE-9489e95c444dd3a396ec884bfd8afa719e59160f",
+    "pytorch_model.bin": "deepseek_ai-deepseek_coder_1.3b_instruct-pytorch_model.bin-0f3cee31dbcc5e416a7cc54361675717bf1ac2cce9e651f767b2fc60cba12ff5",
+    "config.json": "deepseek_ai-deepseek_coder_1.3b_instruct-config.json-046e13b1173d8e6befdd89205495e36518f7b56d",
+    ".gitattributes": "deepseek_ai-deepseek_coder_1.3b_instruct-.gitattributes-a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "deepseek_ai-deepseek_coder_1.3b_instruct-tokenizer_config.json-779eb2f5d1e545fd3a6ac26a2e9819bca92f5a3f": "tokenizer_config.json",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-README.md-6474eb0e785f126215796e2d60761c9260698541": "README.md",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-tokenizer.json-0dfa4268afc2cf45515dec553772d7ca79f79762": "tokenizer.json",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-generation_config.json-19a930a8e7a08b1d002e8fa317438423b61fff22": "generation_config.json",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-LICENSE-9489e95c444dd3a396ec884bfd8afa719e59160f": "LICENSE",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-pytorch_model.bin-0f3cee31dbcc5e416a7cc54361675717bf1ac2cce9e651f767b2fc60cba12ff5": "pytorch_model.bin",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-config.json-046e13b1173d8e6befdd89205495e36518f7b56d": "config.json",
+    "deepseek_ai-deepseek_coder_1.3b_instruct-.gitattributes-a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-04 17:22:41",
+  "lastest-commit": "e04e04028d6345ab3225644cd615e2573ffb9b8c"
+}
