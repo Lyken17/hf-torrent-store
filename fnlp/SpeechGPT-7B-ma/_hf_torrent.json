@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "added_tokens.json": "models--fnlp--SpeechGPT-7B-ma-added_tokens.json--8234a072db16bbac5a4fc8484b2b4db5f45bb38a",
+    "special_tokens_map.json": "models--fnlp--SpeechGPT-7B-ma-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "tokenizer_config.json": "models--fnlp--SpeechGPT-7B-ma-tokenizer_config.json--400e3de6ffc3884ec3c158a046f6a04da00ef3ca",
+    "tokenizer.model": "models--fnlp--SpeechGPT-7B-ma-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--fnlp--SpeechGPT-7B-ma-README.md--28191af9fb2a8f29ecc985ea272686149f9a1bcc",
+    "pytorch_model.bin": "models--fnlp--SpeechGPT-7B-ma-pytorch_model.bin--94e9221bc645fa202217e007b64d19547238ab6a5a7d0e05157e56790af68544",
+    "config.json": "models--fnlp--SpeechGPT-7B-ma-config.json--3be37f43a020dc13215f27abe562e9a02996255d",
+    ".gitattributes": "models--fnlp--SpeechGPT-7B-ma-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--fnlp--SpeechGPT-7B-ma-added_tokens.json--8234a072db16bbac5a4fc8484b2b4db5f45bb38a": "added_tokens.json",
+    "models--fnlp--SpeechGPT-7B-ma-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--fnlp--SpeechGPT-7B-ma-tokenizer_config.json--400e3de6ffc3884ec3c158a046f6a04da00ef3ca": "tokenizer_config.json",
+    "models--fnlp--SpeechGPT-7B-ma-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--fnlp--SpeechGPT-7B-ma-README.md--28191af9fb2a8f29ecc985ea272686149f9a1bcc": "README.md",
+    "models--fnlp--SpeechGPT-7B-ma-pytorch_model.bin--94e9221bc645fa202217e007b64d19547238ab6a5a7d0e05157e56790af68544": "pytorch_model.bin",
+    "models--fnlp--SpeechGPT-7B-ma-config.json--3be37f43a020dc13215f27abe562e9a02996255d": "config.json",
+    "models--fnlp--SpeechGPT-7B-ma-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:26:51 (Asia/Shanghai)",
+  "lastest-commit": "2925fad147f6f5c25c88d3ea28010f37a2415d69"
+}

@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "fav/realisticStockPhoto_v10.safetensors": "models--lllyasviel--fav_models-fav--realisticStockPhoto_v10.safetensors--2d44ce378ddcc922769df4effe74dae3370a887ea9897093e1f5fbdc50b67a02",
+    "fav/unaestheticXLv31.safetensors": "models--lllyasviel--fav_models-fav--unaestheticXLv31.safetensors--75fa9a0423a19c56ccaaea3b985b4999408b530585eca3f6108685c0007e5b2e",
+    "fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "models--lllyasviel--fav_models-fav--SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors--bc6db9d8f167adf51c2ad9280cccaff108fc8a6d6e8cd654e3afcfdbf13e1048",
+    "fav/juggernautXL_version6Rundiffusion.safetensors": "models--lllyasviel--fav_models-fav--juggernautXL_version6Rundiffusion.safetensors--1fe6c7ec54c786040cdabc7b4e89720069d97096922e20d01f13e7764412b47f",
+    "fav/DreamShaper_8_pruned.safetensors": "models--lllyasviel--fav_models-fav--DreamShaper_8_pruned.safetensors--879db523c30d3b9017143d56705015e15a2cb5628762c11d086fed9538abd7fd",
+    "fav/1.md": "models--lllyasviel--fav_models-fav--1.md--c59d9b6344f1af00e504ba698129f07a34bbed8d",
+    "fav/bluePencilXL_v050.safetensors": "models--lllyasviel--fav_models-fav--bluePencilXL_v050.safetensors--8c462a80f4b5291b24feb624d67248bd09f71f9074d7014d8ad7901b120bdcc7",
+    "fav/realisticVisionV51_v51VAE.safetensors": "models--lllyasviel--fav_models-fav--realisticVisionV51_v51VAE.safetensors--15012c538f503ce2ebfc2c8547b268c75ccdaff7a281db55399940ff1d70e21d",
+    "README.md": "models--lllyasviel--fav_models-README.md--77531ee2fff8cca5fe6215c7c2c9cb6902a60f9c",
+    ".gitattributes": "models--lllyasviel--fav_models-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--lllyasviel--fav_models-fav--realisticStockPhoto_v10.safetensors--2d44ce378ddcc922769df4effe74dae3370a887ea9897093e1f5fbdc50b67a02": "fav/realisticStockPhoto_v10.safetensors",
+    "models--lllyasviel--fav_models-fav--unaestheticXLv31.safetensors--75fa9a0423a19c56ccaaea3b985b4999408b530585eca3f6108685c0007e5b2e": "fav/unaestheticXLv31.safetensors",
+    "models--lllyasviel--fav_models-fav--SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors--bc6db9d8f167adf51c2ad9280cccaff108fc8a6d6e8cd654e3afcfdbf13e1048": "fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
+    "models--lllyasviel--fav_models-fav--juggernautXL_version6Rundiffusion.safetensors--1fe6c7ec54c786040cdabc7b4e89720069d97096922e20d01f13e7764412b47f": "fav/juggernautXL_version6Rundiffusion.safetensors",
+    "models--lllyasviel--fav_models-fav--DreamShaper_8_pruned.safetensors--879db523c30d3b9017143d56705015e15a2cb5628762c11d086fed9538abd7fd": "fav/DreamShaper_8_pruned.safetensors",
+    "models--lllyasviel--fav_models-fav--1.md--c59d9b6344f1af00e504ba698129f07a34bbed8d": "fav/1.md",
+    "models--lllyasviel--fav_models-fav--bluePencilXL_v050.safetensors--8c462a80f4b5291b24feb624d67248bd09f71f9074d7014d8ad7901b120bdcc7": "fav/bluePencilXL_v050.safetensors",
+    "models--lllyasviel--fav_models-fav--realisticVisionV51_v51VAE.safetensors--15012c538f503ce2ebfc2c8547b268c75ccdaff7a281db55399940ff1d70e21d": "fav/realisticVisionV51_v51VAE.safetensors",
+    "models--lllyasviel--fav_models-README.md--77531ee2fff8cca5fe6215c7c2c9cb6902a60f9c": "README.md",
+    "models--lllyasviel--fav_models-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 14:10:27 (Asia/Shanghai)",
+  "lastest-commit": "ab64b5c8d6607a0212abd119916a38db975a68ea"
+}

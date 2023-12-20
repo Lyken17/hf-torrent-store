@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "scheduler/scheduler_config.json": "models--CompVis--ldm-super-resolution-4x-openimages-scheduler--scheduler_config.json--c9c17eff2fe32d3429ebd526525c5432cfbdd8ba",
+    "vqvae/diffusion_pytorch_model.fp16.bin": "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--diffusion_pytorch_model.fp16.bin--800b11b7c0a3f1f447bdf76dc787d9021ab4858325fadf574e0228b2c2736527",
+    "vqvae/diffusion_pytorch_model.bin": "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--diffusion_pytorch_model.bin--c58407fc41070ccb9ab63f4ddfb1d13a3e607881033541e41232e41c66b877c9",
+    "vqvae/diffusion_pytorch_model.fp16.safetensors": "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--diffusion_pytorch_model.fp16.safetensors--b9e501d1cf3f08775380bf6a4676bdced4f1896963cb9c41db550631c6c9e71c",
+    "vqvae/config.json": "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--config.json--57fae6470a08896f000cc15cc5b02d07f6722563",
+    "unet/diffusion_pytorch_model.fp16.bin": "models--CompVis--ldm-super-resolution-4x-openimages-unet--diffusion_pytorch_model.fp16.bin--f6f509b385172ff96df979b1ace76eef0d90c0762de56a22ca545dd7ede4ec78",
+    "unet/diffusion_pytorch_model.bin": "models--CompVis--ldm-super-resolution-4x-openimages-unet--diffusion_pytorch_model.bin--932989fbccc2aa77e143bb8e3f5db46b650c1a7bb0003b5d541d417e18c6f3b3",
+    "unet/diffusion_pytorch_model.fp16.safetensors": "models--CompVis--ldm-super-resolution-4x-openimages-unet--diffusion_pytorch_model.fp16.safetensors--b369482570c4a798a3522aacf94aee557305005aecaa96d34fb108d975de481f",
+    "unet/config.json": "models--CompVis--ldm-super-resolution-4x-openimages-unet--config.json--6f86cf6d543d34aec8d39717eef28d4c41049ea0",
+    "README.md": "models--CompVis--ldm-super-resolution-4x-openimages-README.md--ae8bebf2cd56f52754d684b77b13b8ffff4088c6",
+    "model_index.json": "models--CompVis--ldm-super-resolution-4x-openimages-model_index.json--b15e194cfb04312a4fd4278c473a24e901cdc6d0",
+    ".gitattributes": "models--CompVis--ldm-super-resolution-4x-openimages-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--CompVis--ldm-super-resolution-4x-openimages-scheduler--scheduler_config.json--c9c17eff2fe32d3429ebd526525c5432cfbdd8ba": "scheduler/scheduler_config.json",
+    "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--diffusion_pytorch_model.fp16.bin--800b11b7c0a3f1f447bdf76dc787d9021ab4858325fadf574e0228b2c2736527": "vqvae/diffusion_pytorch_model.fp16.bin",
+    "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--diffusion_pytorch_model.bin--c58407fc41070ccb9ab63f4ddfb1d13a3e607881033541e41232e41c66b877c9": "vqvae/diffusion_pytorch_model.bin",
+    "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--diffusion_pytorch_model.fp16.safetensors--b9e501d1cf3f08775380bf6a4676bdced4f1896963cb9c41db550631c6c9e71c": "vqvae/diffusion_pytorch_model.fp16.safetensors",
+    "models--CompVis--ldm-super-resolution-4x-openimages-vqvae--config.json--57fae6470a08896f000cc15cc5b02d07f6722563": "vqvae/config.json",
+    "models--CompVis--ldm-super-resolution-4x-openimages-unet--diffusion_pytorch_model.fp16.bin--f6f509b385172ff96df979b1ace76eef0d90c0762de56a22ca545dd7ede4ec78": "unet/diffusion_pytorch_model.fp16.bin",
+    "models--CompVis--ldm-super-resolution-4x-openimages-unet--diffusion_pytorch_model.bin--932989fbccc2aa77e143bb8e3f5db46b650c1a7bb0003b5d541d417e18c6f3b3": "unet/diffusion_pytorch_model.bin",
+    "models--CompVis--ldm-super-resolution-4x-openimages-unet--diffusion_pytorch_model.fp16.safetensors--b369482570c4a798a3522aacf94aee557305005aecaa96d34fb108d975de481f": "unet/diffusion_pytorch_model.fp16.safetensors",
+    "models--CompVis--ldm-super-resolution-4x-openimages-unet--config.json--6f86cf6d543d34aec8d39717eef28d4c41049ea0": "unet/config.json",
+    "models--CompVis--ldm-super-resolution-4x-openimages-README.md--ae8bebf2cd56f52754d684b77b13b8ffff4088c6": "README.md",
+    "models--CompVis--ldm-super-resolution-4x-openimages-model_index.json--b15e194cfb04312a4fd4278c473a24e901cdc6d0": "model_index.json",
+    "models--CompVis--ldm-super-resolution-4x-openimages-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:54:01 (Asia/Shanghai)",
+  "lastest-commit": "0b55ddf931a8e3a1b426b3a50ddcf325ff84f668"
+}

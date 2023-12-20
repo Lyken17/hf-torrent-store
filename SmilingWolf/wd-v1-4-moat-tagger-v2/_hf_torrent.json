@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "variables/variables.data-00000-of-00001": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-variables--variables.data-00000-of-00001--a4076fac11606d9fa2962655944807af4802ea6205178d10be3fb517423bb624",
+    "variables/variables.index": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-variables--variables.index--9d926f3fbf7cbc19a274c47d0ef4e7a4c487675e32167c2021a8133bcf61c9e6",
+    "selected_tags.csv": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-selected_tags.csv--71796801c13109547bc017d40fc6f5b89bfd9cc0",
+    "saved_model.pb": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-saved_model.pb--ddb866a32015ca80d527e7153d551c2a46af13409eb25f04bd14e8c03fed43ff",
+    "README.md": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-README.md--069bf0855e974d8be09ef824b907b25015e58c5b",
+    "keras_metadata.pb": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-keras_metadata.pb--cfd3864ea4a42107e0c26159789ab903334fa743cffabc6094db86489d8062f1",
+    "model.onnx": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-model.onnx--b8cef913be4c9e8d93f9f903e74271416502ce0b4b04df0ff1e2f00df488aa03",
+    ".gitattributes": "models--SmilingWolf--wd-v1-4-moat-tagger-v2-.gitattributes--08f7f9f015e0a8ff3c67c90eb910de8b14d1e192"
+  },
+  "uuid2fpath": {
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-variables--variables.data-00000-of-00001--a4076fac11606d9fa2962655944807af4802ea6205178d10be3fb517423bb624": "variables/variables.data-00000-of-00001",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-variables--variables.index--9d926f3fbf7cbc19a274c47d0ef4e7a4c487675e32167c2021a8133bcf61c9e6": "variables/variables.index",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-selected_tags.csv--71796801c13109547bc017d40fc6f5b89bfd9cc0": "selected_tags.csv",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-saved_model.pb--ddb866a32015ca80d527e7153d551c2a46af13409eb25f04bd14e8c03fed43ff": "saved_model.pb",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-README.md--069bf0855e974d8be09ef824b907b25015e58c5b": "README.md",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-keras_metadata.pb--cfd3864ea4a42107e0c26159789ab903334fa743cffabc6094db86489d8062f1": "keras_metadata.pb",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-model.onnx--b8cef913be4c9e8d93f9f903e74271416502ce0b4b04df0ff1e2f00df488aa03": "model.onnx",
+    "models--SmilingWolf--wd-v1-4-moat-tagger-v2-.gitattributes--08f7f9f015e0a8ff3c67c90eb910de8b14d1e192": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:44:03 (Asia/Shanghai)",
+  "lastest-commit": "8452cddf280b952281b6e102411c50e981cb2908"
+}

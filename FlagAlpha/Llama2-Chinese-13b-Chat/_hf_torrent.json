@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model-00003-of-00003.bin--bedf8204130f3cff437135a841800b75261f3fc1b390ed021bfc5f02378f6eb6",
+    "pytorch_model-00001-of-00003.bin": "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model-00001-of-00003.bin--9c2659949ad20439ee74bfdbc1a26f2cfc1b1af12ddef32bdafab6a15efe54a5",
+    "pytorch_model.bin.index.json": "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model.bin.index.json--ae8b4645928d6ac04393e9b2498de06338028d9e",
+    "special_tokens_map.json": "models--FlagAlpha--Llama2-Chinese-13b-Chat-special_tokens_map.json--451134b2ddc2e78555d1e857518c54b4bdc2e87d",
+    "tokenizer_config.json": "models--FlagAlpha--Llama2-Chinese-13b-Chat-tokenizer_config.json--9e72adb60a1e9065645bd61fb8fa22d3423037b5",
+    "tokenizer.model": "models--FlagAlpha--Llama2-Chinese-13b-Chat-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--FlagAlpha--Llama2-Chinese-13b-Chat-README.md--85a8fafc983b3ab338a86ce781ccfe11872fd2b0",
+    "generation_config.json": "models--FlagAlpha--Llama2-Chinese-13b-Chat-generation_config.json--d71519fb45b2a4d99c09fa7c1d916023fdd3d1f3",
+    "config.json": "models--FlagAlpha--Llama2-Chinese-13b-Chat-config.json--e1fd383d634f5b7e97070236ea96fdf3604603d6",
+    "pytorch_model-00002-of-00003.bin": "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model-00002-of-00003.bin--86ed45c10462bbe2c3dd7894bc1bc54bd3cbb54c920c6ef1dffeaa74f06db2f9",
+    ".gitattributes": "models--FlagAlpha--Llama2-Chinese-13b-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model-00003-of-00003.bin--bedf8204130f3cff437135a841800b75261f3fc1b390ed021bfc5f02378f6eb6": "pytorch_model-00003-of-00003.bin",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model-00001-of-00003.bin--9c2659949ad20439ee74bfdbc1a26f2cfc1b1af12ddef32bdafab6a15efe54a5": "pytorch_model-00001-of-00003.bin",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model.bin.index.json--ae8b4645928d6ac04393e9b2498de06338028d9e": "pytorch_model.bin.index.json",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-special_tokens_map.json--451134b2ddc2e78555d1e857518c54b4bdc2e87d": "special_tokens_map.json",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-tokenizer_config.json--9e72adb60a1e9065645bd61fb8fa22d3423037b5": "tokenizer_config.json",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-README.md--85a8fafc983b3ab338a86ce781ccfe11872fd2b0": "README.md",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-generation_config.json--d71519fb45b2a4d99c09fa7c1d916023fdd3d1f3": "generation_config.json",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-config.json--e1fd383d634f5b7e97070236ea96fdf3604603d6": "config.json",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-pytorch_model-00002-of-00003.bin--86ed45c10462bbe2c3dd7894bc1bc54bd3cbb54c920c6ef1dffeaa74f06db2f9": "pytorch_model-00002-of-00003.bin",
+    "models--FlagAlpha--Llama2-Chinese-13b-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 14:02:46 (Asia/Shanghai)",
+  "lastest-commit": "f0b6521e5d467ed9e85da77bef931f88ea0b257c"
+}

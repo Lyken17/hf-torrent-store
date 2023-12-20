@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "tokenizer_config.json": "models--deepseek-ai--deepseek-coder-1.3b-instruct-tokenizer_config.json--68f6f5bd3350366399a8c53d32a602c825390806",
+    "README.md": "models--deepseek-ai--deepseek-coder-1.3b-instruct-README.md--6474eb0e785f126215796e2d60761c9260698541",
+    "tokenizer.json": "models--deepseek-ai--deepseek-coder-1.3b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762",
+    "generation_config.json": "models--deepseek-ai--deepseek-coder-1.3b-instruct-generation_config.json--19a930a8e7a08b1d002e8fa317438423b61fff22",
+    "LICENSE": "models--deepseek-ai--deepseek-coder-1.3b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f",
+    "pytorch_model.bin": "models--deepseek-ai--deepseek-coder-1.3b-instruct-pytorch_model.bin--0f3cee31dbcc5e416a7cc54361675717bf1ac2cce9e651f767b2fc60cba12ff5",
+    "config.json": "models--deepseek-ai--deepseek-coder-1.3b-instruct-config.json--046e13b1173d8e6befdd89205495e36518f7b56d",
+    ".gitattributes": "models--deepseek-ai--deepseek-coder-1.3b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-tokenizer_config.json--68f6f5bd3350366399a8c53d32a602c825390806": "tokenizer_config.json",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-README.md--6474eb0e785f126215796e2d60761c9260698541": "README.md",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762": "tokenizer.json",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-generation_config.json--19a930a8e7a08b1d002e8fa317438423b61fff22": "generation_config.json",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f": "LICENSE",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-pytorch_model.bin--0f3cee31dbcc5e416a7cc54361675717bf1ac2cce9e651f767b2fc60cba12ff5": "pytorch_model.bin",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-config.json--046e13b1173d8e6befdd89205495e36518f7b56d": "config.json",
+    "models--deepseek-ai--deepseek-coder-1.3b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:53:49 (Asia/Shanghai)",
+  "lastest-commit": "2df081ceaca101a867fef2844e44f4d6a4857039"
+}

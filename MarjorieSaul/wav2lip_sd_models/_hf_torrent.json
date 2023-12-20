@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "wav2lip_gan.pth": "models--MarjorieSaul--wav2lip_sd_models-wav2lip_gan.pth--ca9ab7b7b812c0e80a6e70a5977c545a1e8a365a6c49d5e533023c034d7ac3d8",
+    "wav2lip.pth": "models--MarjorieSaul--wav2lip_sd_models-wav2lip.pth--b78b681b68ad9fe6c6fb1debc6ff43ad05834a8af8a62ffc4167b7b34ef63c37",
+    "s3fd-619a316812.pth": "models--MarjorieSaul--wav2lip_sd_models-s3fd-619a316812.pth--619a31681264d3f7f7fc7a16a42cbbe8b23f31a256f75a366e5a1bcd59b33543",
+    "shape_predictor_68_face_landmarks.dat": "models--MarjorieSaul--wav2lip_sd_models-shape_predictor_68_face_landmarks.dat--fbdc2cb80eb9aa7a758672cbfdda32ba6300efe9b6e6c7a299ff7e736b11b92f",
+    "inswapper_128.onnx": "models--MarjorieSaul--wav2lip_sd_models-inswapper_128.onnx--e4a3f08c753cb72d04e10aa0f7dbe3deebbf39567d4ead6dce08e98aa49e16af",
+    ".gitattributes": "models--MarjorieSaul--wav2lip_sd_models-.gitattributes--4abb69686715efa4f6b994a7af7da19ad55adb90"
+  },
+  "uuid2fpath": {
+    "models--MarjorieSaul--wav2lip_sd_models-wav2lip_gan.pth--ca9ab7b7b812c0e80a6e70a5977c545a1e8a365a6c49d5e533023c034d7ac3d8": "wav2lip_gan.pth",
+    "models--MarjorieSaul--wav2lip_sd_models-wav2lip.pth--b78b681b68ad9fe6c6fb1debc6ff43ad05834a8af8a62ffc4167b7b34ef63c37": "wav2lip.pth",
+    "models--MarjorieSaul--wav2lip_sd_models-s3fd-619a316812.pth--619a31681264d3f7f7fc7a16a42cbbe8b23f31a256f75a366e5a1bcd59b33543": "s3fd-619a316812.pth",
+    "models--MarjorieSaul--wav2lip_sd_models-shape_predictor_68_face_landmarks.dat--fbdc2cb80eb9aa7a758672cbfdda32ba6300efe9b6e6c7a299ff7e736b11b92f": "shape_predictor_68_face_landmarks.dat",
+    "models--MarjorieSaul--wav2lip_sd_models-inswapper_128.onnx--e4a3f08c753cb72d04e10aa0f7dbe3deebbf39567d4ead6dce08e98aa49e16af": "inswapper_128.onnx",
+    "models--MarjorieSaul--wav2lip_sd_models-.gitattributes--4abb69686715efa4f6b994a7af7da19ad55adb90": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:36:03 (Asia/Shanghai)",
+  "lastest-commit": "c0ce4008f9aba087b8ac31bf8c8ae5179a820ac1"
+}

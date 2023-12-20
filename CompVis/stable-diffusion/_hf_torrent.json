@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--CompVis--stable-diffusion-README.md--fab83ddd7a777049668ae04850ab8b50470cd941",
+    "v1-1-to-v1-5.png": "models--CompVis--stable-diffusion-v1-1-to-v1-5.png--d3304544238cdf586b31abd658561034950ae888",
+    "LICENSE": "models--CompVis--stable-diffusion-LICENSE--84d9c8ce3e0eb1878239ac454f98da9eb4d2df69",
+    "v1-variants-scores.jpg": "models--CompVis--stable-diffusion-v1-variants-scores.jpg--9201b985d4520c64cdb0a4e4aee6fc13f035df7e",
+    ".gitattributes": "models--CompVis--stable-diffusion-.gitattributes--755356a054893aa3dbdb5ae3fec6a00637e6e3ae"
+  },
+  "uuid2fpath": {
+    "models--CompVis--stable-diffusion-README.md--fab83ddd7a777049668ae04850ab8b50470cd941": "README.md",
+    "models--CompVis--stable-diffusion-v1-1-to-v1-5.png--d3304544238cdf586b31abd658561034950ae888": "v1-1-to-v1-5.png",
+    "models--CompVis--stable-diffusion-LICENSE--84d9c8ce3e0eb1878239ac454f98da9eb4d2df69": "LICENSE",
+    "models--CompVis--stable-diffusion-v1-variants-scores.jpg--9201b985d4520c64cdb0a4e4aee6fc13f035df7e": "v1-variants-scores.jpg",
+    "models--CompVis--stable-diffusion-.gitattributes--755356a054893aa3dbdb5ae3fec6a00637e6e3ae": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:36:06 (Asia/Shanghai)",
+  "lastest-commit": "42ba71869b1c422724ca1a1bfaeee1661917508a"
+}

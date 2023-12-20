@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "zephyr-7b-beta.Q5_K_M.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q5_K_M.gguf--37894e5b171bd7228f4af7bd5bb0758dd29d6f07fb8e4742e387720f66bac434",
+    "zephyr-7b-beta.Q4_0.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q4_0.gguf--b525eb8dccd26c1b439dd0772b3b4db9ce3755e3046792c8e622683bd8f10b03",
+    "zephyr-7b-beta.Q5_0.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q5_0.gguf--1b53cb442c2ce30d5948cbd868390f78c894f92b5a00f8046147856157e8be9b",
+    "zephyr-7b-beta.Q2_K.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q2_K.gguf--2b77579c3145506bc8239390aaee138f7e2b764ab4081e6fa9bfe01a9b531149",
+    "zephyr-7b-beta.Q5_K_S.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q5_K_S.gguf--a47ebae2072b4c330baa36365a76d49732ed67191ffa079a14478a59e9358076",
+    "README.md": "models--TheBloke--zephyr-7B-beta-GGUF-README.md--1b992736b3093b8b1a41eabc1cd28526bb14973f",
+    "zephyr-7b-beta.Q3_K_S.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q3_K_S.gguf--6b149da373e29e5cc1e01d8f95cc7b3f9c7db10cf26ad2a30504e1429c3c944c",
+    "zephyr-7b-beta.Q3_K_L.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q3_K_L.gguf--9676a4f0d26a68786feb96ee2e646dafd44179e58584e3a78f94799c37dee60a",
+    "zephyr-7b-beta.Q8_0.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q8_0.gguf--90f9b552456b44e02de60905f47e9b4b20bd9088722f5f2c436716a8a52b624f",
+    "zephyr-7b-beta.Q4_K_M.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q4_K_M.gguf--503580dce392c6e64669ad21a77023ba2a17baa0c381250fb67c11ba6406a85e",
+    "zephyr-7b-beta.Q3_K_M.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q3_K_M.gguf--20517055262b7b0aa3588042bb0e3dae24d0ba2ac6503b5dcddeefc94eb35aaa",
+    "zephyr-7b-beta.Q6_K.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q6_K.gguf--39b52e291eea6040de078283ee5316ff2a317e2b6f59be56724d9b29bada6cfe",
+    "config.json": "models--TheBloke--zephyr-7B-beta-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c",
+    "zephyr-7b-beta.Q4_K_S.gguf": "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q4_K_S.gguf--cafa0b85b2efc15ca33023f3b87f8d0c44ddcace16b3fb608280e0eb8f425cb1",
+    ".gitattributes": "models--TheBloke--zephyr-7B-beta-GGUF-.gitattributes--c25a4bc0833ecb762a378116d20396b49c4d622e"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q5_K_M.gguf--37894e5b171bd7228f4af7bd5bb0758dd29d6f07fb8e4742e387720f66bac434": "zephyr-7b-beta.Q5_K_M.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q4_0.gguf--b525eb8dccd26c1b439dd0772b3b4db9ce3755e3046792c8e622683bd8f10b03": "zephyr-7b-beta.Q4_0.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q5_0.gguf--1b53cb442c2ce30d5948cbd868390f78c894f92b5a00f8046147856157e8be9b": "zephyr-7b-beta.Q5_0.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q2_K.gguf--2b77579c3145506bc8239390aaee138f7e2b764ab4081e6fa9bfe01a9b531149": "zephyr-7b-beta.Q2_K.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q5_K_S.gguf--a47ebae2072b4c330baa36365a76d49732ed67191ffa079a14478a59e9358076": "zephyr-7b-beta.Q5_K_S.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-README.md--1b992736b3093b8b1a41eabc1cd28526bb14973f": "README.md",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q3_K_S.gguf--6b149da373e29e5cc1e01d8f95cc7b3f9c7db10cf26ad2a30504e1429c3c944c": "zephyr-7b-beta.Q3_K_S.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q3_K_L.gguf--9676a4f0d26a68786feb96ee2e646dafd44179e58584e3a78f94799c37dee60a": "zephyr-7b-beta.Q3_K_L.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q8_0.gguf--90f9b552456b44e02de60905f47e9b4b20bd9088722f5f2c436716a8a52b624f": "zephyr-7b-beta.Q8_0.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q4_K_M.gguf--503580dce392c6e64669ad21a77023ba2a17baa0c381250fb67c11ba6406a85e": "zephyr-7b-beta.Q4_K_M.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q3_K_M.gguf--20517055262b7b0aa3588042bb0e3dae24d0ba2ac6503b5dcddeefc94eb35aaa": "zephyr-7b-beta.Q3_K_M.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q6_K.gguf--39b52e291eea6040de078283ee5316ff2a317e2b6f59be56724d9b29bada6cfe": "zephyr-7b-beta.Q6_K.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c": "config.json",
+    "models--TheBloke--zephyr-7B-beta-GGUF-zephyr-7b-beta.Q4_K_S.gguf--cafa0b85b2efc15ca33023f3b87f8d0c44ddcace16b3fb608280e0eb8f425cb1": "zephyr-7b-beta.Q4_K_S.gguf",
+    "models--TheBloke--zephyr-7B-beta-GGUF-.gitattributes--c25a4bc0833ecb762a378116d20396b49c4d622e": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:34:51 (Asia/Shanghai)",
+  "lastest-commit": "e4714d14e9652aa9658fa937732cceadc63ac42e"
+}

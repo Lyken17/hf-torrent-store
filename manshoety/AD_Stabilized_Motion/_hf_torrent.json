@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "mm-Stabilized_mid.pth": "models--manshoety--AD_Stabilized_Motion-mm-Stabilized_mid.pth--39de8b71b1c09f10f4602f5d585d82771a60d3cf282ba90215993e06afdfe875",
+    "README.md": "models--manshoety--AD_Stabilized_Motion-README.md--7990f03453248253caea66654b7b4b0752eabf3e",
+    "mm-Stabilized_high.pth": "models--manshoety--AD_Stabilized_Motion-mm-Stabilized_high.pth--0aaf157b9c51a0ae07cb5d9ea7c51299f07bddc6f52025e1f9bb81cd763631df",
+    ".gitattributes": "models--manshoety--AD_Stabilized_Motion-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--manshoety--AD_Stabilized_Motion-mm-Stabilized_mid.pth--39de8b71b1c09f10f4602f5d585d82771a60d3cf282ba90215993e06afdfe875": "mm-Stabilized_mid.pth",
+    "models--manshoety--AD_Stabilized_Motion-README.md--7990f03453248253caea66654b7b4b0752eabf3e": "README.md",
+    "models--manshoety--AD_Stabilized_Motion-mm-Stabilized_high.pth--0aaf157b9c51a0ae07cb5d9ea7c51299f07bddc6f52025e1f9bb81cd763631df": "mm-Stabilized_high.pth",
+    "models--manshoety--AD_Stabilized_Motion-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 14:03:10 (Asia/Shanghai)",
+  "lastest-commit": "8f58c3eaf3a4e81fa6cd1d2159edad96b96d7a5c"
+}

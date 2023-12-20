@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "tokenizer_config.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-tokenizer_config.json--5ab645d5171518423ba4c2f6503c5c22e5d0a3ed",
+    "quantize_config.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-quantize_config.json--775e8673d3834bd6f684164d974b72aeabe66e1f",
+    "tokenizer.model": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-README.md--4376470ea7a2930348eb9de0d9f0cf4be6d1e624",
+    "tokenizer.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-tokenizer.json--f57412e8501c52cdf03c6610687c3efec820032d",
+    "model.safetensors": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-model.safetensors--273d2404b0b54c9df0aa3340eabc6b7fcf48c08d9c568fe6e5b77e52e7794c5e",
+    "generation_config.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-generation_config.json--737a363761e41a11a1575fe06b90729fdb7ed2b5",
+    "trainer_state.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-trainer_state.json--9b199fefc4a979509bed5985365c54468347f391",
+    "config.json": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-config.json--d70d8ebd80ca9f93526d66b711f574dbc926813e",
+    ".gitattributes": "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-tokenizer_config.json--5ab645d5171518423ba4c2f6503c5c22e5d0a3ed": "tokenizer_config.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-quantize_config.json--775e8673d3834bd6f684164d974b72aeabe66e1f": "quantize_config.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-README.md--4376470ea7a2930348eb9de0d9f0cf4be6d1e624": "README.md",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-tokenizer.json--f57412e8501c52cdf03c6610687c3efec820032d": "tokenizer.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-model.safetensors--273d2404b0b54c9df0aa3340eabc6b7fcf48c08d9c568fe6e5b77e52e7794c5e": "model.safetensors",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-generation_config.json--737a363761e41a11a1575fe06b90729fdb7ed2b5": "generation_config.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-trainer_state.json--9b199fefc4a979509bed5985365c54468347f391": "trainer_state.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-config.json--d70d8ebd80ca9f93526d66b711f574dbc926813e": "config.json",
+    "models--TheBloke--Wizard-Vicuna-30B-Uncensored-GPTQ-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:12:44 (Asia/Shanghai)",
+  "lastest-commit": "3af62c796031ef5a6ece16c163a8444609d9c376"
+}

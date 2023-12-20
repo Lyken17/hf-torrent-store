@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--hfl--chinese-roberta-wwm-ext-tf_model.h5--f7e89eb7d12a83e6617456058b014aaff7a3b25fef8e38f0a0f7e2caff6deba8",
+    "added_tokens.json": "models--hfl--chinese-roberta-wwm-ext-added_tokens.json--9e26dfeeb6e641a33dae4961196235bdb965b21b",
+    "special_tokens_map.json": "models--hfl--chinese-roberta-wwm-ext-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5",
+    "tokenizer_config.json": "models--hfl--chinese-roberta-wwm-ext-tokenizer_config.json--66051e65c65b3ec5e0b437496d1e545c5d8934b4",
+    "README.md": "models--hfl--chinese-roberta-wwm-ext-README.md--7bce039b7f81ee328fdf8efe3f14409200aacbef",
+    "tokenizer.json": "models--hfl--chinese-roberta-wwm-ext-tokenizer.json--eba64ab600f7bb029b38ac391b35651e3b55f185",
+    "vocab.txt": "models--hfl--chinese-roberta-wwm-ext-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "flax_model.msgpack": "models--hfl--chinese-roberta-wwm-ext-flax_model.msgpack--547f69b1949b290945708c825e7ffa81da1b7e5ece8031ff9c7a179c422237d8",
+    "pytorch_model.bin": "models--hfl--chinese-roberta-wwm-ext-pytorch_model.bin--1ded5a5a1c7841dee6e47942f7b5bf2bcf6f73ff19197580f852f7f638f86b35",
+    "config.json": "models--hfl--chinese-roberta-wwm-ext-config.json--78282c2ccf3682fc74ae985fb0d8a1e6f122a455",
+    ".gitattributes": "models--hfl--chinese-roberta-wwm-ext-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f"
+  },
+  "uuid2fpath": {
+    "models--hfl--chinese-roberta-wwm-ext-tf_model.h5--f7e89eb7d12a83e6617456058b014aaff7a3b25fef8e38f0a0f7e2caff6deba8": "tf_model.h5",
+    "models--hfl--chinese-roberta-wwm-ext-added_tokens.json--9e26dfeeb6e641a33dae4961196235bdb965b21b": "added_tokens.json",
+    "models--hfl--chinese-roberta-wwm-ext-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5": "special_tokens_map.json",
+    "models--hfl--chinese-roberta-wwm-ext-tokenizer_config.json--66051e65c65b3ec5e0b437496d1e545c5d8934b4": "tokenizer_config.json",
+    "models--hfl--chinese-roberta-wwm-ext-README.md--7bce039b7f81ee328fdf8efe3f14409200aacbef": "README.md",
+    "models--hfl--chinese-roberta-wwm-ext-tokenizer.json--eba64ab600f7bb029b38ac391b35651e3b55f185": "tokenizer.json",
+    "models--hfl--chinese-roberta-wwm-ext-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--hfl--chinese-roberta-wwm-ext-flax_model.msgpack--547f69b1949b290945708c825e7ffa81da1b7e5ece8031ff9c7a179c422237d8": "flax_model.msgpack",
+    "models--hfl--chinese-roberta-wwm-ext-pytorch_model.bin--1ded5a5a1c7841dee6e47942f7b5bf2bcf6f73ff19197580f852f7f638f86b35": "pytorch_model.bin",
+    "models--hfl--chinese-roberta-wwm-ext-config.json--78282c2ccf3682fc74ae985fb0d8a1e6f122a455": "config.json",
+    "models--hfl--chinese-roberta-wwm-ext-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 13:36:40 (Asia/Shanghai)",
+  "lastest-commit": "5c58d0b8ec1d9014354d691c538661bf00bfdb44"
+}
