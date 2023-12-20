@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-special_tokens_map.json--338c7d2b6fe15b135494d7dd355d9219bc227540",
+    "tokenizer_config.json": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-tokenizer_config.json--2f225fe96bbeabe622abf42bee530a4219f70821",
+    "README.md": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-README.md--83d075a3626f5a171577d9df07c76fe43e3da45c",
+    "tokenizer.json": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-tokenizer.json--1d9f054b4b09a126b09234e63d7138ee15283c00",
+    "vocab.txt": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-vocab.txt--5dace0f0a35aa8a92bd8279368e7018c852b61f7",
+    "pytorch_model.bin": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-pytorch_model.bin--dcec47f4ba49d5b53a4ed2bb2f2c5f80296b2609da5d7a9986dc66bc2e170d48",
+    "config.json": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-config.json--9f5b0aca5879e79a58391f0b693396e09971f939",
+    ".gitattributes": "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-.gitattributes--ac481c8eb05e4d2496fbe076a38a7b4835dd733d"
+  },
+  "uuid2fpath": {
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-special_tokens_map.json--338c7d2b6fe15b135494d7dd355d9219bc227540": "special_tokens_map.json",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-tokenizer_config.json--2f225fe96bbeabe622abf42bee530a4219f70821": "tokenizer_config.json",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-README.md--83d075a3626f5a171577d9df07c76fe43e3da45c": "README.md",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-tokenizer.json--1d9f054b4b09a126b09234e63d7138ee15283c00": "tokenizer.json",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-vocab.txt--5dace0f0a35aa8a92bd8279368e7018c852b61f7": "vocab.txt",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-pytorch_model.bin--dcec47f4ba49d5b53a4ed2bb2f2c5f80296b2609da5d7a9986dc66bc2e170d48": "pytorch_model.bin",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-config.json--9f5b0aca5879e79a58391f0b693396e09971f939": "config.json",
+    "models--allenai--ivila-block-layoutlm-finetuned-s2vl-v2-.gitattributes--ac481c8eb05e4d2496fbe076a38a7b4835dd733d": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 12:37:59 (Asia/Shanghai)",
+  "lastest-commit": "5dc3dd43d13538f74d9664dbbb80ac8f73ee52bb"
+}

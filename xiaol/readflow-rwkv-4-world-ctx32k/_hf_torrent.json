@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "examples/conversation-eng-summary.txt": "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-eng-summary.txt--263d3be269075638e25cf1a7c9e31d3080485c85",
+    "examples/conversation-\u4e09\u4f53.txt": "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-\u4e09\u4f53.txt--b4f16455b0fc3204557c42dc8f5a9ac5b030a38a",
+    "examples/conversation-\u6296\u97f3\u65b0\u95fb.txt": "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-\u6296\u97f3\u65b0\u95fb.txt--fbc58f4109f3a73f6729b201be4e2cefb140f906",
+    "examples/conversation-\u77e5\u8bc6\u7ba1\u7406.txt": "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-\u77e5\u8bc6\u7ba1\u7406.txt--af4f9099f5ee2d7cf6a703bda394d1b1831dc057",
+    "examples/conversation.txt": "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation.txt--227effa41601265775009882d35bde08ed49195b",
+    "README.md": "models--xiaol--readflow-rwkv-4-world-ctx32k-README.md--3fbd362c082a6cad6603b6d6b837a23c7e994ce7",
+    "Readflow-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth": "models--xiaol--readflow-rwkv-4-world-ctx32k-Readflow-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth--1bd1de8cdbd56b67e1374588fe5d202884049c71278ffcb12f5c4efbdb422ee1",
+    ".gitattributes": "models--xiaol--readflow-rwkv-4-world-ctx32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-eng-summary.txt--263d3be269075638e25cf1a7c9e31d3080485c85": "examples/conversation-eng-summary.txt",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-\u4e09\u4f53.txt--b4f16455b0fc3204557c42dc8f5a9ac5b030a38a": "examples/conversation-\u4e09\u4f53.txt",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-\u6296\u97f3\u65b0\u95fb.txt--fbc58f4109f3a73f6729b201be4e2cefb140f906": "examples/conversation-\u6296\u97f3\u65b0\u95fb.txt",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation-\u77e5\u8bc6\u7ba1\u7406.txt--af4f9099f5ee2d7cf6a703bda394d1b1831dc057": "examples/conversation-\u77e5\u8bc6\u7ba1\u7406.txt",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-examples--conversation.txt--227effa41601265775009882d35bde08ed49195b": "examples/conversation.txt",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-README.md--3fbd362c082a6cad6603b6d6b837a23c7e994ce7": "README.md",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-Readflow-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth--1bd1de8cdbd56b67e1374588fe5d202884049c71278ffcb12f5c4efbdb422ee1": "Readflow-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth",
+    "models--xiaol--readflow-rwkv-4-world-ctx32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 12:36:26 (Asia/Shanghai)",
+  "lastest-commit": "2507c2b4a4ab80368d984ce1b08d3caeda773877"
+}

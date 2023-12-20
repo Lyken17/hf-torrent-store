@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1",
+    "README.md": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-README.md--4fa53df79ee3b50648585e9e03675d9055f8fbaf",
+    "vocab.json": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-vocab.json--da3e3b635068f5a44c273636b36f0153f964d8bb",
+    "flax_model.msgpack": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-flax_model.msgpack--5107a5730d36fa1292ea8f12cba67ee29992aaab422ba2bd4ec0c7c784ed223f",
+    "preprocessor_config.json": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-preprocessor_config.json--0886a48276922a77013d8aa4681192138ae90d90",
+    "pytorch_model.bin": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-pytorch_model.bin--de031fd4b29e0c0667e5346450fadfe1326c89936b888b59c4ede608db763ee4",
+    "config.json": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-config.json--4f7143f7712623888c22adffeca380cef645124c",
+    ".gitattributes": "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-.gitattributes--d699711d884c16db686245dffb53739ddf85119c"
+  },
+  "uuid2fpath": {
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1": "special_tokens_map.json",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-README.md--4fa53df79ee3b50648585e9e03675d9055f8fbaf": "README.md",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-vocab.json--da3e3b635068f5a44c273636b36f0153f964d8bb": "vocab.json",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-flax_model.msgpack--5107a5730d36fa1292ea8f12cba67ee29992aaab422ba2bd4ec0c7c784ed223f": "flax_model.msgpack",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-preprocessor_config.json--0886a48276922a77013d8aa4681192138ae90d90": "preprocessor_config.json",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-pytorch_model.bin--de031fd4b29e0c0667e5346450fadfe1326c89936b888b59c4ede608db763ee4": "pytorch_model.bin",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-config.json--4f7143f7712623888c22adffeca380cef645124c": "config.json",
+    "models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn-.gitattributes--d699711d884c16db686245dffb53739ddf85119c": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 12:56:11 (Asia/Shanghai)",
+  "lastest-commit": "99ccb2737be22b8bb50dcfcc39ad4d567fb90cfd"
+}

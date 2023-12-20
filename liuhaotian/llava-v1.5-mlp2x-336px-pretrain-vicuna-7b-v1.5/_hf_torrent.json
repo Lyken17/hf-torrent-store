@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-README.md--aa96461714d3db6fe69fb613cd90491537bb936a",
+    "mm_projector.bin": "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-mm_projector.bin--8a8d5a8fc6030bd16d8ee3df3b20a21c79190a3b0932a798d05f52a1ffdfc215",
+    "trainer_state.json": "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-trainer_state.json--17c6e358bac47a16c632032ae1689d6fb15a70e9",
+    "config.json": "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-config.json--88867a6ffb03376c3da12b4ca07649cbe3620745",
+    ".gitattributes": "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-README.md--aa96461714d3db6fe69fb613cd90491537bb936a": "README.md",
+    "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-mm_projector.bin--8a8d5a8fc6030bd16d8ee3df3b20a21c79190a3b0932a798d05f52a1ffdfc215": "mm_projector.bin",
+    "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-trainer_state.json--17c6e358bac47a16c632032ae1689d6fb15a70e9": "trainer_state.json",
+    "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-config.json--88867a6ffb03376c3da12b4ca07649cbe3620745": "config.json",
+    "models--liuhaotian--llava-v1.5-mlp2x-336px-pretrain-vicuna-7b-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 12:40:28 (Asia/Shanghai)",
+  "lastest-commit": "5414da88308e4287a29f2e9609256458afb0a981"
+}

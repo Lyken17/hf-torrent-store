@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--microsoft--table-transformer-detection-README.md--473aa2f7df87ecdd6058e55549760524adff3913",
+    "model.safetensors": "models--microsoft--table-transformer-detection-model.safetensors--8f1aa73170102c038d40155e2734b343bf07e0fe12594228a8590943b01dccf7",
+    "preprocessor_config.json": "models--microsoft--table-transformer-detection-preprocessor_config.json--545efb61a3801bbeaf579c6d552321d575a38308",
+    "pytorch_model.bin": "models--microsoft--table-transformer-detection-pytorch_model.bin--1d9babb11711211dd9fea2f477b7ba11f3656623505b07f9e30bfd41f143a9c7",
+    "config.json": "models--microsoft--table-transformer-detection-config.json--3e86a23acda6963625462a7d0b91266ade10511e",
+    ".gitattributes": "models--microsoft--table-transformer-detection-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb"
+  },
+  "uuid2fpath": {
+    "models--microsoft--table-transformer-detection-README.md--473aa2f7df87ecdd6058e55549760524adff3913": "README.md",
+    "models--microsoft--table-transformer-detection-model.safetensors--8f1aa73170102c038d40155e2734b343bf07e0fe12594228a8590943b01dccf7": "model.safetensors",
+    "models--microsoft--table-transformer-detection-preprocessor_config.json--545efb61a3801bbeaf579c6d552321d575a38308": "preprocessor_config.json",
+    "models--microsoft--table-transformer-detection-pytorch_model.bin--1d9babb11711211dd9fea2f477b7ba11f3656623505b07f9e30bfd41f143a9c7": "pytorch_model.bin",
+    "models--microsoft--table-transformer-detection-config.json--3e86a23acda6963625462a7d0b91266ade10511e": "config.json",
+    "models--microsoft--table-transformer-detection-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 12:56:40 (Asia/Shanghai)",
+  "lastest-commit": "2357cbe2b5a5d1c03e54f32764f06058933b65ab"
+}
