@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "merges.txt": "models--Intel--gpt-j-6B-int8-static-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956",
+    "added_tokens.json": "models--Intel--gpt-j-6B-int8-static-added_tokens.json--a9d7d93cc226c6364c7e1c58b3a56de9327080cb",
+    "special_tokens_map.json": "models--Intel--gpt-j-6B-int8-static-special_tokens_map.json--22fabbdda08346a6dfb95b1782a4efb6f876f2c2",
+    "evaluation.ipynb": "models--Intel--gpt-j-6B-int8-static-evaluation.ipynb--a2c74287511180047ef36ac9a4ccbef5e6f68d0a",
+    "tokenizer_config.json": "models--Intel--gpt-j-6B-int8-static-tokenizer_config.json--b5c42538c02dc5dfcfaf783388d7922e78a28730",
+    "README.md": "models--Intel--gpt-j-6B-int8-static-README.md--501e35007f3cbbab42ba403db5219297b2c4b4d5",
+    "tokenizer.json": "models--Intel--gpt-j-6B-int8-static-tokenizer.json--47ffebc226205cbdaf3d3047c0b7f64b67620deb",
+    "vocab.json": "models--Intel--gpt-j-6B-int8-static-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b",
+    "model.onnx": "models--Intel--gpt-j-6B-int8-static-model.onnx--4638154e78188303e3819fff286a65547673a84d5938beec68d3feb8676508c6",
+    "weights.pb": "models--Intel--gpt-j-6B-int8-static-weights.pb--fcdc4899701755241dfb65b06569c7b5e5d3a6be67c2054f7de431fd6bb1cd48",
+    "config.json": "models--Intel--gpt-j-6B-int8-static-config.json--614ae4f4e0b790bb696ca839576b09c279c3b40f",
+    ".gitattributes": "models--Intel--gpt-j-6B-int8-static-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--Intel--gpt-j-6B-int8-static-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956": "merges.txt",
+    "models--Intel--gpt-j-6B-int8-static-added_tokens.json--a9d7d93cc226c6364c7e1c58b3a56de9327080cb": "added_tokens.json",
+    "models--Intel--gpt-j-6B-int8-static-special_tokens_map.json--22fabbdda08346a6dfb95b1782a4efb6f876f2c2": "special_tokens_map.json",
+    "models--Intel--gpt-j-6B-int8-static-evaluation.ipynb--a2c74287511180047ef36ac9a4ccbef5e6f68d0a": "evaluation.ipynb",
+    "models--Intel--gpt-j-6B-int8-static-tokenizer_config.json--b5c42538c02dc5dfcfaf783388d7922e78a28730": "tokenizer_config.json",
+    "models--Intel--gpt-j-6B-int8-static-README.md--501e35007f3cbbab42ba403db5219297b2c4b4d5": "README.md",
+    "models--Intel--gpt-j-6B-int8-static-tokenizer.json--47ffebc226205cbdaf3d3047c0b7f64b67620deb": "tokenizer.json",
+    "models--Intel--gpt-j-6B-int8-static-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b": "vocab.json",
+    "models--Intel--gpt-j-6B-int8-static-model.onnx--4638154e78188303e3819fff286a65547673a84d5938beec68d3feb8676508c6": "model.onnx",
+    "models--Intel--gpt-j-6B-int8-static-weights.pb--fcdc4899701755241dfb65b06569c7b5e5d3a6be67c2054f7de431fd6bb1cd48": "weights.pb",
+    "models--Intel--gpt-j-6B-int8-static-config.json--614ae4f4e0b790bb696ca839576b09c279c3b40f": "config.json",
+    "models--Intel--gpt-j-6B-int8-static-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 10:58:37 (Asia/Shanghai)",
+  "lastest-commit": "03e8016cf650f4c2f42d84c43f20674f11383ddb"
+}
