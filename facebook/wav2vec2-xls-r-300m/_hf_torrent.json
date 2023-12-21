@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--facebook--wav2vec2-xls-r-300m-README.md--c337307aa03692b9444f94414fa28df9e95425e7",
+    "preprocessor_config.json": "models--facebook--wav2vec2-xls-r-300m-preprocessor_config.json--36ebe8b7c1cc967b3059f0494ae8a1069dd67655",
+    "pytorch_model.bin": "models--facebook--wav2vec2-xls-r-300m-pytorch_model.bin--d5e490574712ad0a6736923b9ed11d4cd51c78609c36205f704fc4e87b11d2e0",
+    "config.json": "models--facebook--wav2vec2-xls-r-300m-config.json--2e7517d6705d22aef2fa4fd0bcc83b47f4757bd3",
+    ".gitattributes": "models--facebook--wav2vec2-xls-r-300m-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--facebook--wav2vec2-xls-r-300m-README.md--c337307aa03692b9444f94414fa28df9e95425e7": "README.md",
+    "models--facebook--wav2vec2-xls-r-300m-preprocessor_config.json--36ebe8b7c1cc967b3059f0494ae8a1069dd67655": "preprocessor_config.json",
+    "models--facebook--wav2vec2-xls-r-300m-pytorch_model.bin--d5e490574712ad0a6736923b9ed11d4cd51c78609c36205f704fc4e87b11d2e0": "pytorch_model.bin",
+    "models--facebook--wav2vec2-xls-r-300m-config.json--2e7517d6705d22aef2fa4fd0bcc83b47f4757bd3": "config.json",
+    "models--facebook--wav2vec2-xls-r-300m-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 16:22:46 (Asia/Shanghai)",
+  "lastest-commit": "1a640f32ac3e39899438a2931f9924c02f080a54"
+}

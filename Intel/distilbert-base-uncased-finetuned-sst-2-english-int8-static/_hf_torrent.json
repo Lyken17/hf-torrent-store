@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "training_args.bin": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-training_args.bin--7bf6bf149cc70ad27ced23f0702b9fa444eaff306692a54b65aba89dfe3d797b",
+    "special_tokens_map.json": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5",
+    "tokenizer_config.json": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-tokenizer_config.json--47226abb44c0989e13a4b3fa7053307e4ee62a40",
+    "README.md": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-README.md--e827f33aaa2ba9d9c300221487d439bf6cbee2c5",
+    "tokenizer.json": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-tokenizer.json--688882a79f44442ddc1f60d70334a7ff5df0fb47",
+    "vocab.txt": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "model.onnx": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-model.onnx--85bd16e8a193cff6bc2fe330e96e6dcaf56332c59b05616dd4129a6d5b1e5a08",
+    "pytorch_model.bin": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-pytorch_model.bin--92efc824e8ec5d2c95c2c862e06ad93a465e0a23c55207d0905d27a5a2c0d7d1",
+    "config.json": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-config.json--f665fe81ddf96b9bbd711d2ff28dbc476b839bb7",
+    ".gitattributes": "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-training_args.bin--7bf6bf149cc70ad27ced23f0702b9fa444eaff306692a54b65aba89dfe3d797b": "training_args.bin",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5": "special_tokens_map.json",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-tokenizer_config.json--47226abb44c0989e13a4b3fa7053307e4ee62a40": "tokenizer_config.json",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-README.md--e827f33aaa2ba9d9c300221487d439bf6cbee2c5": "README.md",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-tokenizer.json--688882a79f44442ddc1f60d70334a7ff5df0fb47": "tokenizer.json",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "vocab.txt",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-model.onnx--85bd16e8a193cff6bc2fe330e96e6dcaf56332c59b05616dd4129a6d5b1e5a08": "model.onnx",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-pytorch_model.bin--92efc824e8ec5d2c95c2c862e06ad93a465e0a23c55207d0905d27a5a2c0d7d1": "pytorch_model.bin",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-config.json--f665fe81ddf96b9bbd711d2ff28dbc476b839bb7": "config.json",
+    "models--Intel--distilbert-base-uncased-finetuned-sst-2-english-int8-static-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:57:05 (Asia/Shanghai)",
+  "lastest-commit": "bc1fc91ebe84493fdd44db19751fab7877779d02"
+}

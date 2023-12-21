@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--CompVis--stable-diffusion-v-1-4-original-README.md--35d0bf6fbf1b3802c7dc5c9908adde323b6690fd",
+    "sd-v1-4.ckpt": "models--CompVis--stable-diffusion-v-1-4-original-sd-v1-4.ckpt--fe4efff1e174c627256e44ec2991ba279b3816e364b49f9be2abc0b3ff3f8556",
+    "sd-v1-4-full-ema.ckpt": "models--CompVis--stable-diffusion-v-1-4-original-sd-v1-4-full-ema.ckpt--14749efc0ae8ef0329391ad4436feb781b402f4fece4883c7ad8d10556d8a36a",
+    "v1-variants-scores.jpg": "models--CompVis--stable-diffusion-v-1-4-original-v1-variants-scores.jpg--9201b985d4520c64cdb0a4e4aee6fc13f035df7e",
+    ".gitattributes": "models--CompVis--stable-diffusion-v-1-4-original-.gitattributes--2892a6c73b661fc2e81ef63ba6021877f4cda47a"
+  },
+  "uuid2fpath": {
+    "models--CompVis--stable-diffusion-v-1-4-original-README.md--35d0bf6fbf1b3802c7dc5c9908adde323b6690fd": "README.md",
+    "models--CompVis--stable-diffusion-v-1-4-original-sd-v1-4.ckpt--fe4efff1e174c627256e44ec2991ba279b3816e364b49f9be2abc0b3ff3f8556": "sd-v1-4.ckpt",
+    "models--CompVis--stable-diffusion-v-1-4-original-sd-v1-4-full-ema.ckpt--14749efc0ae8ef0329391ad4436feb781b402f4fece4883c7ad8d10556d8a36a": "sd-v1-4-full-ema.ckpt",
+    "models--CompVis--stable-diffusion-v-1-4-original-v1-variants-scores.jpg--9201b985d4520c64cdb0a4e4aee6fc13f035df7e": "v1-variants-scores.jpg",
+    "models--CompVis--stable-diffusion-v-1-4-original-.gitattributes--2892a6c73b661fc2e81ef63ba6021877f4cda47a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 16:57:33 (Asia/Shanghai)",
+  "lastest-commit": "f0bb45b49990512c454cf2c5670b0952ef2f9c71"
+}

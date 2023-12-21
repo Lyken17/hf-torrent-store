@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "images/bird.png": "models--lllyasviel--sd-controlnet-canny-images--bird.png--cad49fc7d3071b2bcd078bc8dde365f8fa62eaa6d43705fd50c212794a3aac35",
+    "images/bird_canny.png": "models--lllyasviel--sd-controlnet-canny-images--bird_canny.png--4143d39a6f4db2c1fb489a5782c2903935dc003a",
+    "images/bird_canny_out.png": "models--lllyasviel--sd-controlnet-canny-images--bird_canny_out.png--18b90386541df524ae94512e7c030af1cf9bcd7e",
+    "sd.png": "models--lllyasviel--sd-controlnet-canny-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797",
+    "README.md": "models--lllyasviel--sd-controlnet-canny-README.md--f47c25dc7c33c4903eaebb2ff7ad69df45ac657f",
+    "diffusion_pytorch_model.bin": "models--lllyasviel--sd-controlnet-canny-diffusion_pytorch_model.bin--e5220c53e942eb3bbe08a92e58e7ea789be44590172103d757dba29d732772b2",
+    "diffusion_pytorch_model.safetensors": "models--lllyasviel--sd-controlnet-canny-diffusion_pytorch_model.safetensors--e19821a00e6d1817b37286a21d5c4f8915076949b0e81846c4f92c96ffb46db7",
+    "config.json": "models--lllyasviel--sd-controlnet-canny-config.json--a4ea0908bb4ade368f999f711c8a84a755df7338",
+    ".gitattributes": "models--lllyasviel--sd-controlnet-canny-.gitattributes--a904cfab2788da2a85f7d67aece2e8ddda9b4a15"
+  },
+  "uuid2fpath": {
+    "models--lllyasviel--sd-controlnet-canny-images--bird.png--cad49fc7d3071b2bcd078bc8dde365f8fa62eaa6d43705fd50c212794a3aac35": "images/bird.png",
+    "models--lllyasviel--sd-controlnet-canny-images--bird_canny.png--4143d39a6f4db2c1fb489a5782c2903935dc003a": "images/bird_canny.png",
+    "models--lllyasviel--sd-controlnet-canny-images--bird_canny_out.png--18b90386541df524ae94512e7c030af1cf9bcd7e": "images/bird_canny_out.png",
+    "models--lllyasviel--sd-controlnet-canny-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797": "sd.png",
+    "models--lllyasviel--sd-controlnet-canny-README.md--f47c25dc7c33c4903eaebb2ff7ad69df45ac657f": "README.md",
+    "models--lllyasviel--sd-controlnet-canny-diffusion_pytorch_model.bin--e5220c53e942eb3bbe08a92e58e7ea789be44590172103d757dba29d732772b2": "diffusion_pytorch_model.bin",
+    "models--lllyasviel--sd-controlnet-canny-diffusion_pytorch_model.safetensors--e19821a00e6d1817b37286a21d5c4f8915076949b0e81846c4f92c96ffb46db7": "diffusion_pytorch_model.safetensors",
+    "models--lllyasviel--sd-controlnet-canny-config.json--a4ea0908bb4ade368f999f711c8a84a755df7338": "config.json",
+    "models--lllyasviel--sd-controlnet-canny-.gitattributes--a904cfab2788da2a85f7d67aece2e8ddda9b4a15": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:26:48 (Asia/Shanghai)",
+  "lastest-commit": "7f2f69197050967007f6bbd23ab5e52f0384162a"
+}

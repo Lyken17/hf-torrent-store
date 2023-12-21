@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--Salesforce--blip-image-captioning-large-tf_model.h5--9fb4b74fce7b1f965cbc7bc9b58db27cfaaebfa0d86e27d49fec877288a11852",
+    "special_tokens_map.json": "models--Salesforce--blip-image-captioning-large-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "tokenizer_config.json": "models--Salesforce--blip-image-captioning-large-tokenizer_config.json--3529d5f768b8b1ccc65b80b78fb43e16069109c1",
+    "README.md": "models--Salesforce--blip-image-captioning-large-README.md--3960b93cef8599f087d08e8419988a91c6f5e3ff",
+    "tokenizer.json": "models--Salesforce--blip-image-captioning-large-tokenizer.json--688882a79f44442ddc1f60d70334a7ff5df0fb47",
+    "model.safetensors": "models--Salesforce--blip-image-captioning-large-model.safetensors--ebc867586b8318647dd7b75ef8e52f93f89b98ac7dcbd04d10219d33b9a68c6f",
+    "vocab.txt": "models--Salesforce--blip-image-captioning-large-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "preprocessor_config.json": "models--Salesforce--blip-image-captioning-large-preprocessor_config.json--9edc3be35940faf780eb39e0191d0b8a2b13c329",
+    "pytorch_model.bin": "models--Salesforce--blip-image-captioning-large-pytorch_model.bin--66c8aec8d91b5e74b86bde343ed95fb53e9ccf9ffc77c5093890df662d234e04",
+    "config.json": "models--Salesforce--blip-image-captioning-large-config.json--0aa1a9f9cd0404a26dd7e6f13c16eb4259939139",
+    ".gitattributes": "models--Salesforce--blip-image-captioning-large-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--Salesforce--blip-image-captioning-large-tf_model.h5--9fb4b74fce7b1f965cbc7bc9b58db27cfaaebfa0d86e27d49fec877288a11852": "tf_model.h5",
+    "models--Salesforce--blip-image-captioning-large-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--Salesforce--blip-image-captioning-large-tokenizer_config.json--3529d5f768b8b1ccc65b80b78fb43e16069109c1": "tokenizer_config.json",
+    "models--Salesforce--blip-image-captioning-large-README.md--3960b93cef8599f087d08e8419988a91c6f5e3ff": "README.md",
+    "models--Salesforce--blip-image-captioning-large-tokenizer.json--688882a79f44442ddc1f60d70334a7ff5df0fb47": "tokenizer.json",
+    "models--Salesforce--blip-image-captioning-large-model.safetensors--ebc867586b8318647dd7b75ef8e52f93f89b98ac7dcbd04d10219d33b9a68c6f": "model.safetensors",
+    "models--Salesforce--blip-image-captioning-large-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "vocab.txt",
+    "models--Salesforce--blip-image-captioning-large-preprocessor_config.json--9edc3be35940faf780eb39e0191d0b8a2b13c329": "preprocessor_config.json",
+    "models--Salesforce--blip-image-captioning-large-pytorch_model.bin--66c8aec8d91b5e74b86bde343ed95fb53e9ccf9ffc77c5093890df662d234e04": "pytorch_model.bin",
+    "models--Salesforce--blip-image-captioning-large-config.json--0aa1a9f9cd0404a26dd7e6f13c16eb4259939139": "config.json",
+    "models--Salesforce--blip-image-captioning-large-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 16:58:05 (Asia/Shanghai)",
+  "lastest-commit": "2227ac38c9f16105cb0412e7cab4759978a8fd90"
+}

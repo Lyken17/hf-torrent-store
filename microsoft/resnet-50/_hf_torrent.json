@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--microsoft--resnet-50-tf_model.h5--57afa67ca9f9aa1657f38f100f8e5c7fc49550dafa7226793b48dae4426f5a69",
+    "README.md": "models--microsoft--resnet-50-README.md--e72576c9e45b4d1b3def875d65a5dbd117f2d38e",
+    "flax_model.msgpack": "models--microsoft--resnet-50-flax_model.msgpack--1dba0174a596673117b14b7b97d27bbfef1928a94377b18b4cb849b9c8569b90",
+    "preprocessor_config.json": "models--microsoft--resnet-50-preprocessor_config.json--9a46cca81138ce49069d63f688ae5750882df07e",
+    "pytorch_model.bin": "models--microsoft--resnet-50-pytorch_model.bin--ff8163a1323333126706d649ce73ecd76e45d241b42d623dea6c723690cafe07",
+    "config.json": "models--microsoft--resnet-50-config.json--30289c9792e668d73c991829c8842977e2b90539",
+    ".gitattributes": "models--microsoft--resnet-50-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--microsoft--resnet-50-tf_model.h5--57afa67ca9f9aa1657f38f100f8e5c7fc49550dafa7226793b48dae4426f5a69": "tf_model.h5",
+    "models--microsoft--resnet-50-README.md--e72576c9e45b4d1b3def875d65a5dbd117f2d38e": "README.md",
+    "models--microsoft--resnet-50-flax_model.msgpack--1dba0174a596673117b14b7b97d27bbfef1928a94377b18b4cb849b9c8569b90": "flax_model.msgpack",
+    "models--microsoft--resnet-50-preprocessor_config.json--9a46cca81138ce49069d63f688ae5750882df07e": "preprocessor_config.json",
+    "models--microsoft--resnet-50-pytorch_model.bin--ff8163a1323333126706d649ce73ecd76e45d241b42d623dea6c723690cafe07": "pytorch_model.bin",
+    "models--microsoft--resnet-50-config.json--30289c9792e668d73c991829c8842977e2b90539": "config.json",
+    "models--microsoft--resnet-50-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:53:35 (Asia/Shanghai)",
+  "lastest-commit": "4067a2728b9c93fbd67b9d5a30b03495ac74a46e"
+}

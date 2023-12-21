@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--mistralai--Mistral-7B-Instruct-v0.1-model-00001-of-00002.safetensors--a464228d9c9427bf035cfd5a2e18bf0494d7231bfacc478ec5fc9f57a612d051",
+    "pytorch_model.bin.index.json": "models--mistralai--Mistral-7B-Instruct-v0.1-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775",
+    "special_tokens_map.json": "models--mistralai--Mistral-7B-Instruct-v0.1-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b",
+    "pytorch_model-00002-of-00002.bin": "models--mistralai--Mistral-7B-Instruct-v0.1-pytorch_model-00002-of-00002.bin--d9e54fbaabfe2c5d00d2a642398c5959c1eb31e9d9d40c80bd5d7c2c4067d3e1",
+    "tokenizer_config.json": "models--mistralai--Mistral-7B-Instruct-v0.1-tokenizer_config.json--f93c524e66984cbe396120fda668cd988465484e",
+    "tokenizer.model": "models--mistralai--Mistral-7B-Instruct-v0.1-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--mistralai--Mistral-7B-Instruct-v0.1-README.md--23654c4531cf2c82d7696291bef31260c9a0e750",
+    "tokenizer.json": "models--mistralai--Mistral-7B-Instruct-v0.1-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "model-00002-of-00002.safetensors": "models--mistralai--Mistral-7B-Instruct-v0.1-model-00002-of-00002.safetensors--5734c77cf2ff6482713d474ee9c8791cd712b59dd36b05d096af5a4cb41f3f02",
+    "pytorch_model-00001-of-00002.bin": "models--mistralai--Mistral-7B-Instruct-v0.1-pytorch_model-00001-of-00002.bin--2f237251ac3ecb3bcbd8978b3eb7b55b5e83c06cd5224b276d2d8462773488c8",
+    "generation_config.json": "models--mistralai--Mistral-7B-Instruct-v0.1-generation_config.json--2c5f418036a121b3fd432d1bf2b3c5c9daf59fab",
+    "model.safetensors.index.json": "models--mistralai--Mistral-7B-Instruct-v0.1-model.safetensors.index.json--1d76bd3b4dd491998e6f67d1a7b181623ebbf7f9",
+    "config.json": "models--mistralai--Mistral-7B-Instruct-v0.1-config.json--f4989f072a7f517d01d479eb1685c6e50e014f88",
+    ".gitattributes": "models--mistralai--Mistral-7B-Instruct-v0.1-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--mistralai--Mistral-7B-Instruct-v0.1-model-00001-of-00002.safetensors--a464228d9c9427bf035cfd5a2e18bf0494d7231bfacc478ec5fc9f57a612d051": "model-00001-of-00002.safetensors",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775": "pytorch_model.bin.index.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b": "special_tokens_map.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-pytorch_model-00002-of-00002.bin--d9e54fbaabfe2c5d00d2a642398c5959c1eb31e9d9d40c80bd5d7c2c4067d3e1": "pytorch_model-00002-of-00002.bin",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-tokenizer_config.json--f93c524e66984cbe396120fda668cd988465484e": "tokenizer_config.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-README.md--23654c4531cf2c82d7696291bef31260c9a0e750": "README.md",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-model-00002-of-00002.safetensors--5734c77cf2ff6482713d474ee9c8791cd712b59dd36b05d096af5a4cb41f3f02": "model-00002-of-00002.safetensors",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-pytorch_model-00001-of-00002.bin--2f237251ac3ecb3bcbd8978b3eb7b55b5e83c06cd5224b276d2d8462773488c8": "pytorch_model-00001-of-00002.bin",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-generation_config.json--2c5f418036a121b3fd432d1bf2b3c5c9daf59fab": "generation_config.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-model.safetensors.index.json--1d76bd3b4dd491998e6f67d1a7b181623ebbf7f9": "model.safetensors.index.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-config.json--f4989f072a7f517d01d479eb1685c6e50e014f88": "config.json",
+    "models--mistralai--Mistral-7B-Instruct-v0.1-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 16:24:45 (Asia/Shanghai)",
+  "lastest-commit": "9ab9e76e2b09f9f29ea2d56aa5bd139e4445c59e"
+}

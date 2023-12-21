@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "yi-6b.Q4_K_S.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q4_K_S.gguf--afa4690ef23e1639e90c464e8e44faf5545d3d624c6730b7db0821e0e3ff1383",
+    "yi-6b.Q5_K_M.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q5_K_M.gguf--61366b07f7fb2d53df8daca06c6d1ce0fa68e7d1831290f9bf4a035a07ecbf87",
+    "yi-6b.Q4_K_M.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q4_K_M.gguf--3b975a10bd4f93a566641bc3fe78ed938b7baf38a1fd12cf0b2a6f977ea96355",
+    "yi-6b.Q4_0.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q4_0.gguf--b721ef89657e3a59cd2fa07bdeb5031dadf80e61a1d60f934679ebfea50b254c",
+    "yi-6b.Q3_K_M.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q3_K_M.gguf--899f897a61bfebf4c7561932fb19fe0185d8710b889364928de641fa71549be3",
+    "yi-6b.Q5_K_S.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q5_K_S.gguf--36159d4debabcae7678f623fd540829006f96145f3333d738d6c1167e3bf5ada",
+    "README.md": "models--TheBloke--Yi-6B-GGUF-README.md--dc1415c86c694215dea132c8a5dded3107082eb0",
+    "yi-6b.Q8_0.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q8_0.gguf--bc7fe119b4174f530464e5a9f682af5ab8b11af2e7727f3b98e1407f724fbe9c",
+    "yi-6b.Q3_K_S.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q3_K_S.gguf--39dbe3020020663bb99471634db3285166eb3d8b994238fe370a658ab0c1447c",
+    "yi-6b.Q2_K.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q2_K.gguf--7a2274421eddaaa037fa18c0a25732903a0f658500cf56f8433537b8578ef626",
+    "yi-6b.Q5_0.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q5_0.gguf--add7f1b8ea8822e251a4dcc719a4d8191a6de8db1d635389d51a66b38f90fa56",
+    "config.json": "models--TheBloke--Yi-6B-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e",
+    "yi-6b.Q3_K_L.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q3_K_L.gguf--2fdc0634668ced26eb21206a52a7ed63ed695e7a44d8d5c7d267566a03e6c74d",
+    "yi-6b.Q6_K.gguf": "models--TheBloke--Yi-6B-GGUF-yi-6b.Q6_K.gguf--bcac2db958b8c0c0dafedddbb5209e3afd61efb59684b2919c162a07ed5f68e2",
+    ".gitattributes": "models--TheBloke--Yi-6B-GGUF-.gitattributes--493d4c417e5cd8dfee14da481fce0d42e483af63"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q4_K_S.gguf--afa4690ef23e1639e90c464e8e44faf5545d3d624c6730b7db0821e0e3ff1383": "yi-6b.Q4_K_S.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q5_K_M.gguf--61366b07f7fb2d53df8daca06c6d1ce0fa68e7d1831290f9bf4a035a07ecbf87": "yi-6b.Q5_K_M.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q4_K_M.gguf--3b975a10bd4f93a566641bc3fe78ed938b7baf38a1fd12cf0b2a6f977ea96355": "yi-6b.Q4_K_M.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q4_0.gguf--b721ef89657e3a59cd2fa07bdeb5031dadf80e61a1d60f934679ebfea50b254c": "yi-6b.Q4_0.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q3_K_M.gguf--899f897a61bfebf4c7561932fb19fe0185d8710b889364928de641fa71549be3": "yi-6b.Q3_K_M.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q5_K_S.gguf--36159d4debabcae7678f623fd540829006f96145f3333d738d6c1167e3bf5ada": "yi-6b.Q5_K_S.gguf",
+    "models--TheBloke--Yi-6B-GGUF-README.md--dc1415c86c694215dea132c8a5dded3107082eb0": "README.md",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q8_0.gguf--bc7fe119b4174f530464e5a9f682af5ab8b11af2e7727f3b98e1407f724fbe9c": "yi-6b.Q8_0.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q3_K_S.gguf--39dbe3020020663bb99471634db3285166eb3d8b994238fe370a658ab0c1447c": "yi-6b.Q3_K_S.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q2_K.gguf--7a2274421eddaaa037fa18c0a25732903a0f658500cf56f8433537b8578ef626": "yi-6b.Q2_K.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q5_0.gguf--add7f1b8ea8822e251a4dcc719a4d8191a6de8db1d635389d51a66b38f90fa56": "yi-6b.Q5_0.gguf",
+    "models--TheBloke--Yi-6B-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e": "config.json",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q3_K_L.gguf--2fdc0634668ced26eb21206a52a7ed63ed695e7a44d8d5c7d267566a03e6c74d": "yi-6b.Q3_K_L.gguf",
+    "models--TheBloke--Yi-6B-GGUF-yi-6b.Q6_K.gguf--bcac2db958b8c0c0dafedddbb5209e3afd61efb59684b2919c162a07ed5f68e2": "yi-6b.Q6_K.gguf",
+    "models--TheBloke--Yi-6B-GGUF-.gitattributes--493d4c417e5cd8dfee14da481fce0d42e483af63": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 16:03:37 (Asia/Shanghai)",
+  "lastest-commit": "623ea948ab624dd5fe928d6ee59bbbb68dc119b4"
+}

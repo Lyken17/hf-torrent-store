@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--tiiuae--falcon-7b-pytorch_model.bin.index.json--1d92decce70fb4d5e840694c6947d2abfef27fdf",
+    "modeling_falcon.py": "models--tiiuae--falcon-7b-modeling_falcon.py--834822cbe81585262b727c3fdbe520a34fd24ad4",
+    "special_tokens_map.json": "models--tiiuae--falcon-7b-special_tokens_map.json--24f43d813328da380b3d684c019f9c6d84df6b50",
+    "pytorch_model-00002-of-00002.bin": "models--tiiuae--falcon-7b-pytorch_model-00002-of-00002.bin--11822397cd22f88cc56344b019cac4f04e4970e3775b7d5fc9263bc9fca8bdb1",
+    "tokenizer_config.json": "models--tiiuae--falcon-7b-tokenizer_config.json--4aa644a0eca5b539ec8703d62d4b957c74a54963",
+    "README.md": "models--tiiuae--falcon-7b-README.md--9840c47afed9de97766862ba41bff2e59917d07b",
+    "tokenizer.json": "models--tiiuae--falcon-7b-tokenizer.json--24f2d2e20d26ae4f0729da0d008e0ee6d81fc560",
+    "pytorch_model-00001-of-00002.bin": "models--tiiuae--falcon-7b-pytorch_model-00001-of-00002.bin--1c4b989693576ce79edf5f8f1a2d199d66c1448d35a126e52ba09cb67ca5da39",
+    "configuration_falcon.py": "models--tiiuae--falcon-7b-configuration_falcon.py--def8c2bf7e0f85be115be9e6a79dd3c5aa50a99d",
+    "generation_config.json": "models--tiiuae--falcon-7b-generation_config.json--02b145e38790e52c2161b8d5ed97ee967bc3307e",
+    "config.json": "models--tiiuae--falcon-7b-config.json--84d8843072cbc300692c6bccff5b9c08c430498e",
+    ".gitattributes": "models--tiiuae--falcon-7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--tiiuae--falcon-7b-pytorch_model.bin.index.json--1d92decce70fb4d5e840694c6947d2abfef27fdf": "pytorch_model.bin.index.json",
+    "models--tiiuae--falcon-7b-modeling_falcon.py--834822cbe81585262b727c3fdbe520a34fd24ad4": "modeling_falcon.py",
+    "models--tiiuae--falcon-7b-special_tokens_map.json--24f43d813328da380b3d684c019f9c6d84df6b50": "special_tokens_map.json",
+    "models--tiiuae--falcon-7b-pytorch_model-00002-of-00002.bin--11822397cd22f88cc56344b019cac4f04e4970e3775b7d5fc9263bc9fca8bdb1": "pytorch_model-00002-of-00002.bin",
+    "models--tiiuae--falcon-7b-tokenizer_config.json--4aa644a0eca5b539ec8703d62d4b957c74a54963": "tokenizer_config.json",
+    "models--tiiuae--falcon-7b-README.md--9840c47afed9de97766862ba41bff2e59917d07b": "README.md",
+    "models--tiiuae--falcon-7b-tokenizer.json--24f2d2e20d26ae4f0729da0d008e0ee6d81fc560": "tokenizer.json",
+    "models--tiiuae--falcon-7b-pytorch_model-00001-of-00002.bin--1c4b989693576ce79edf5f8f1a2d199d66c1448d35a126e52ba09cb67ca5da39": "pytorch_model-00001-of-00002.bin",
+    "models--tiiuae--falcon-7b-configuration_falcon.py--def8c2bf7e0f85be115be9e6a79dd3c5aa50a99d": "configuration_falcon.py",
+    "models--tiiuae--falcon-7b-generation_config.json--02b145e38790e52c2161b8d5ed97ee967bc3307e": "generation_config.json",
+    "models--tiiuae--falcon-7b-config.json--84d8843072cbc300692c6bccff5b9c08c430498e": "config.json",
+    "models--tiiuae--falcon-7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:27:57 (Asia/Shanghai)",
+  "lastest-commit": "898df1396f35e447d5fe44e0a3ccaaaa69f30d36"
+}

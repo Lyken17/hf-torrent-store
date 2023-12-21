@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "openchat.json": "models--berkeley-nest--Starling-LM-7B-alpha-openchat.json--62a47b173cc1502eac56999c842101a153909951",
+    "added_tokens.json": "models--berkeley-nest--Starling-LM-7B-alpha-added_tokens.json--12a98694bf3dbf213d189451d772b42275487ac7",
+    "special_tokens_map.json": "models--berkeley-nest--Starling-LM-7B-alpha-special_tokens_map.json--c352ec23821aaccbdab51e5b0f8a30520c9afaac",
+    "model-00002-of-00003.safetensors": "models--berkeley-nest--Starling-LM-7B-alpha-model-00002-of-00003.safetensors--619132296f3cf7f2e6459e9cd171b080aa766642a6576bd9b78996976e69b78f",
+    "tokenizer_config.json": "models--berkeley-nest--Starling-LM-7B-alpha-tokenizer_config.json--d8ab4f8fd740d77fb90fd6fc75dde1a281124a31",
+    "tokenizer.model": "models--berkeley-nest--Starling-LM-7B-alpha-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--berkeley-nest--Starling-LM-7B-alpha-README.md--38a59e4d6008e321927706fa4bda30eefe599eaa",
+    "tokenizer.json": "models--berkeley-nest--Starling-LM-7B-alpha-tokenizer.json--c2a45573b674b53d3b066e941068dd776c78d529",
+    "generation_config.json": "models--berkeley-nest--Starling-LM-7B-alpha-generation_config.json--242a8de4ce21a7a9f8ed6eb697f83588720195d0",
+    "model-00003-of-00003.safetensors": "models--berkeley-nest--Starling-LM-7B-alpha-model-00003-of-00003.safetensors--849e009d77a56d2a15939ec92c7641295a6e2b8af27356de076ef2f39bc0f86e",
+    "model-00001-of-00003.safetensors": "models--berkeley-nest--Starling-LM-7B-alpha-model-00001-of-00003.safetensors--92f26450374bbdd0bb834e4be94f2ec6b5f29594d90a6c3844230bc46e6db5ab",
+    "model.safetensors.index.json": "models--berkeley-nest--Starling-LM-7B-alpha-model.safetensors.index.json--71e207631efb42944bc779548c9b6d4b5818ffe2",
+    "config.json": "models--berkeley-nest--Starling-LM-7B-alpha-config.json--d758919ca3018e822bbf142af893ba1a99a5b090",
+    ".gitattributes": "models--berkeley-nest--Starling-LM-7B-alpha-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--berkeley-nest--Starling-LM-7B-alpha-openchat.json--62a47b173cc1502eac56999c842101a153909951": "openchat.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-added_tokens.json--12a98694bf3dbf213d189451d772b42275487ac7": "added_tokens.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-special_tokens_map.json--c352ec23821aaccbdab51e5b0f8a30520c9afaac": "special_tokens_map.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-model-00002-of-00003.safetensors--619132296f3cf7f2e6459e9cd171b080aa766642a6576bd9b78996976e69b78f": "model-00002-of-00003.safetensors",
+    "models--berkeley-nest--Starling-LM-7B-alpha-tokenizer_config.json--d8ab4f8fd740d77fb90fd6fc75dde1a281124a31": "tokenizer_config.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--berkeley-nest--Starling-LM-7B-alpha-README.md--38a59e4d6008e321927706fa4bda30eefe599eaa": "README.md",
+    "models--berkeley-nest--Starling-LM-7B-alpha-tokenizer.json--c2a45573b674b53d3b066e941068dd776c78d529": "tokenizer.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-generation_config.json--242a8de4ce21a7a9f8ed6eb697f83588720195d0": "generation_config.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-model-00003-of-00003.safetensors--849e009d77a56d2a15939ec92c7641295a6e2b8af27356de076ef2f39bc0f86e": "model-00003-of-00003.safetensors",
+    "models--berkeley-nest--Starling-LM-7B-alpha-model-00001-of-00003.safetensors--92f26450374bbdd0bb834e4be94f2ec6b5f29594d90a6c3844230bc46e6db5ab": "model-00001-of-00003.safetensors",
+    "models--berkeley-nest--Starling-LM-7B-alpha-model.safetensors.index.json--71e207631efb42944bc779548c9b6d4b5818ffe2": "model.safetensors.index.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-config.json--d758919ca3018e822bbf142af893ba1a99a5b090": "config.json",
+    "models--berkeley-nest--Starling-LM-7B-alpha-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 17:18:30 (Asia/Shanghai)",
+  "lastest-commit": "f721e85293598f2ef774e483ae95343e39811577"
+}

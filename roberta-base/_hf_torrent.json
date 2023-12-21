@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--roberta-base-rust_model.ot--9eab94d556cd9151ba760802bc2151c7ac51675bb81e017b25de41c1ebd6c3a0",
+    "tf_model.h5": "models--roberta-base-tf_model.h5--8ad49e51cdfa998f1d26f24d6966e1a00c3df44c6e334995fdb4d622ce1e4e10",
+    "merges.txt": "models--roberta-base-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "README.md": "models--roberta-base-README.md--a57bd1a36742d07c767fcbc6187d539fcf1774e4",
+    "tokenizer.json": "models--roberta-base-tokenizer.json--ad0bcbeb288f0d1373d88e0762e66357f55b8311",
+    "model.safetensors": "models--roberta-base-model.safetensors--5bde1d28afb363d0103324efeb5afc8b2b397fe5e04beabb9b1ef355255ade81",
+    "dict.txt": "models--roberta-base-dict.txt--9b4d2de40fa2cbeb2c6128cfd031b9872ef4d054",
+    "vocab.json": "models--roberta-base-vocab.json--5606f48548d99a9829d10a96cd364b816b02cd21",
+    "flax_model.msgpack": "models--roberta-base-flax_model.msgpack--7647e7df15dfddb7d5c07fcbed7a21e3881ccfea085791cf09917aa05947bba3",
+    "pytorch_model.bin": "models--roberta-base-pytorch_model.bin--278b7a95739c4392fae9b818bb5343dde20be1b89318f37a6d939e1e1b9e461b",
+    "config.json": "models--roberta-base-config.json--8db5e7ac5bfc9ec8b613b776009300fe3685d957",
+    ".gitattributes": "models--roberta-base-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126"
+  },
+  "uuid2fpath": {
+    "models--roberta-base-rust_model.ot--9eab94d556cd9151ba760802bc2151c7ac51675bb81e017b25de41c1ebd6c3a0": "rust_model.ot",
+    "models--roberta-base-tf_model.h5--8ad49e51cdfa998f1d26f24d6966e1a00c3df44c6e334995fdb4d622ce1e4e10": "tf_model.h5",
+    "models--roberta-base-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--roberta-base-README.md--a57bd1a36742d07c767fcbc6187d539fcf1774e4": "README.md",
+    "models--roberta-base-tokenizer.json--ad0bcbeb288f0d1373d88e0762e66357f55b8311": "tokenizer.json",
+    "models--roberta-base-model.safetensors--5bde1d28afb363d0103324efeb5afc8b2b397fe5e04beabb9b1ef355255ade81": "model.safetensors",
+    "models--roberta-base-dict.txt--9b4d2de40fa2cbeb2c6128cfd031b9872ef4d054": "dict.txt",
+    "models--roberta-base-vocab.json--5606f48548d99a9829d10a96cd364b816b02cd21": "vocab.json",
+    "models--roberta-base-flax_model.msgpack--7647e7df15dfddb7d5c07fcbed7a21e3881ccfea085791cf09917aa05947bba3": "flax_model.msgpack",
+    "models--roberta-base-pytorch_model.bin--278b7a95739c4392fae9b818bb5343dde20be1b89318f37a6d939e1e1b9e461b": "pytorch_model.bin",
+    "models--roberta-base-config.json--8db5e7ac5bfc9ec8b613b776009300fe3685d957": "config.json",
+    "models--roberta-base-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:18:00 (Asia/Shanghai)",
+  "lastest-commit": "bc2764f8af2e92b6eb5679868df33e224075ca68"
+}

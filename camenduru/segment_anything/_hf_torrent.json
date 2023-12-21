@@ -1,0 +1,12 @@
+{
+  "fpath2uuid": {
+    "sam_vit_h_4b8939.pth": "models--camenduru--segment_anything-sam_vit_h_4b8939.pth--a7bf3b02f3ebf1267aba913ff637d9a2d5c33d3173bb679e46d9f338c26f262e",
+    ".gitattributes": "models--camenduru--segment_anything-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--camenduru--segment_anything-sam_vit_h_4b8939.pth--a7bf3b02f3ebf1267aba913ff637d9a2d5c33d3173bb679e46d9f338c26f262e": "sam_vit_h_4b8939.pth",
+    "models--camenduru--segment_anything-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:20:57 (Asia/Shanghai)",
+  "lastest-commit": "a786468fdda9372014d9426919b2bacc21cfbe27"
+}

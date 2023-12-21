@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--google--vit-base-patch16-224-tf_model.h5--30f9125423060139b80ddae09daa8a1b612eb1eda8fc34a0b58cdfe920cbbc0f",
+    "README.md": "models--google--vit-base-patch16-224-README.md--550f72aac12a408fe77b7a2fdebc85057a77c0d1",
+    "model.safetensors": "models--google--vit-base-patch16-224-model.safetensors--1cea07110a4a47edc51420b2dda6f3b8b58e7256e8f44b4ea6aa9696162ccb5d",
+    "flax_model.msgpack": "models--google--vit-base-patch16-224-flax_model.msgpack--e0c809a1fe1d79c51c4da8a9ebd6c0923bac317ca469a33c6620977054149471",
+    "preprocessor_config.json": "models--google--vit-base-patch16-224-preprocessor_config.json--70fbc148eb26a06bac351d46fddc0a23037b4ce4",
+    "pytorch_model.bin": "models--google--vit-base-patch16-224-pytorch_model.bin--5f17067668129d23b52524f90a805e7d9914c276d90a59a13ebe81a09e40ceca",
+    "config.json": "models--google--vit-base-patch16-224-config.json--21c61d3f8f3e50137a8c5fdd5bc9b085e286315a",
+    ".gitattributes": "models--google--vit-base-patch16-224-.gitattributes--2514e63570ec0eb13d617d6a316ac52e9eed9746"
+  },
+  "uuid2fpath": {
+    "models--google--vit-base-patch16-224-tf_model.h5--30f9125423060139b80ddae09daa8a1b612eb1eda8fc34a0b58cdfe920cbbc0f": "tf_model.h5",
+    "models--google--vit-base-patch16-224-README.md--550f72aac12a408fe77b7a2fdebc85057a77c0d1": "README.md",
+    "models--google--vit-base-patch16-224-model.safetensors--1cea07110a4a47edc51420b2dda6f3b8b58e7256e8f44b4ea6aa9696162ccb5d": "model.safetensors",
+    "models--google--vit-base-patch16-224-flax_model.msgpack--e0c809a1fe1d79c51c4da8a9ebd6c0923bac317ca469a33c6620977054149471": "flax_model.msgpack",
+    "models--google--vit-base-patch16-224-preprocessor_config.json--70fbc148eb26a06bac351d46fddc0a23037b4ce4": "preprocessor_config.json",
+    "models--google--vit-base-patch16-224-pytorch_model.bin--5f17067668129d23b52524f90a805e7d9914c276d90a59a13ebe81a09e40ceca": "pytorch_model.bin",
+    "models--google--vit-base-patch16-224-config.json--21c61d3f8f3e50137a8c5fdd5bc9b085e286315a": "config.json",
+    "models--google--vit-base-patch16-224-.gitattributes--2514e63570ec0eb13d617d6a316ac52e9eed9746": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 17:18:43 (Asia/Shanghai)",
+  "lastest-commit": "3f49326eb077187dfe1c2a2bb15fbd74e6ab91e3"
+}

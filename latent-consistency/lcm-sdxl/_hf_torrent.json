@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "image.png": "models--latent-consistency--lcm-sdxl-image.png--ea67ef123cd585ae136aee7563b2fb0caa507c2173ace3e3856917707735f143",
+    "README.md": "models--latent-consistency--lcm-sdxl-README.md--e14a32d3c7047769dbf88dc8d06c7aae72d8be35",
+    "diffusion_pytorch_model.safetensors": "models--latent-consistency--lcm-sdxl-diffusion_pytorch_model.safetensors--dce0636b11d99c1d960608bb6fa71923f1ae2365b89a38b49e1a0193a0fc1c43",
+    "diffusion_pytorch_model.fp16.safetensors": "models--latent-consistency--lcm-sdxl-diffusion_pytorch_model.fp16.safetensors--e906040f7a2f484cf6c4fcef93bfa3cead8c245a87d02c825a1554bad9c7204a",
+    "config.json": "models--latent-consistency--lcm-sdxl-config.json--48227845efbbecdab24fc5721a7954c0562756d9",
+    ".gitattributes": "models--latent-consistency--lcm-sdxl-.gitattributes--5c59dd0b5a2b67c8ebfe43f0c0d5108a067a6860"
+  },
+  "uuid2fpath": {
+    "models--latent-consistency--lcm-sdxl-image.png--ea67ef123cd585ae136aee7563b2fb0caa507c2173ace3e3856917707735f143": "image.png",
+    "models--latent-consistency--lcm-sdxl-README.md--e14a32d3c7047769dbf88dc8d06c7aae72d8be35": "README.md",
+    "models--latent-consistency--lcm-sdxl-diffusion_pytorch_model.safetensors--dce0636b11d99c1d960608bb6fa71923f1ae2365b89a38b49e1a0193a0fc1c43": "diffusion_pytorch_model.safetensors",
+    "models--latent-consistency--lcm-sdxl-diffusion_pytorch_model.fp16.safetensors--e906040f7a2f484cf6c4fcef93bfa3cead8c245a87d02c825a1554bad9c7204a": "diffusion_pytorch_model.fp16.safetensors",
+    "models--latent-consistency--lcm-sdxl-config.json--48227845efbbecdab24fc5721a7954c0562756d9": "config.json",
+    "models--latent-consistency--lcm-sdxl-.gitattributes--5c59dd0b5a2b67c8ebfe43f0c0d5108a067a6860": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-20 15:56:40 (Asia/Shanghai)",
+  "lastest-commit": "8b5d1b76b33abc5a5887c3f9ee8bffea2365dfe1"
+}
