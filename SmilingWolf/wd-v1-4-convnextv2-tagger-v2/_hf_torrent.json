@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "variables/variables.data-00000-of-00001": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-variables--variables.data-00000-of-00001--94222fbfa4406fd44d6af87ec66c372b6bf90e0fb6562e18b14721717556c4fb",
+    "variables/variables.index": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-variables--variables.index--4df02bc690bf75bfe767e63a9c4def4e213c1edc98899fa749ce2454f16e1f15",
+    "selected_tags.csv": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-selected_tags.csv--71796801c13109547bc017d40fc6f5b89bfd9cc0",
+    "saved_model.pb": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-saved_model.pb--e401c95ace99b67ca5e90499fe9d12994ef7aefa0f706081807601cb5f05aa71",
+    "README.md": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-README.md--566825b4a571db52ee7e2e363b4592f703e4f983",
+    "keras_metadata.pb": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-keras_metadata.pb--4e58abc2a26a4c49319c9977dbcd4f7eb92ea255f2ef115b3079040662aa7697",
+    "model.onnx": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-model.onnx--e91daa19cd9e8725125b7d70702d1560855fb687f8d8c4218eddaa821f41834a",
+    ".gitattributes": "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-.gitattributes--08f7f9f015e0a8ff3c67c90eb910de8b14d1e192"
+  },
+  "uuid2fpath": {
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-variables--variables.data-00000-of-00001--94222fbfa4406fd44d6af87ec66c372b6bf90e0fb6562e18b14721717556c4fb": "variables/variables.data-00000-of-00001",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-variables--variables.index--4df02bc690bf75bfe767e63a9c4def4e213c1edc98899fa749ce2454f16e1f15": "variables/variables.index",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-selected_tags.csv--71796801c13109547bc017d40fc6f5b89bfd9cc0": "selected_tags.csv",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-saved_model.pb--e401c95ace99b67ca5e90499fe9d12994ef7aefa0f706081807601cb5f05aa71": "saved_model.pb",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-README.md--566825b4a571db52ee7e2e363b4592f703e4f983": "README.md",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-keras_metadata.pb--4e58abc2a26a4c49319c9977dbcd4f7eb92ea255f2ef115b3079040662aa7697": "keras_metadata.pb",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-model.onnx--e91daa19cd9e8725125b7d70702d1560855fb687f8d8c4218eddaa821f41834a": "model.onnx",
+    "models--SmilingWolf--wd-v1-4-convnextv2-tagger-v2-.gitattributes--08f7f9f015e0a8ff3c67c90eb910de8b14d1e192": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 16:37:58 (Asia/Shanghai)",
+  "lastest-commit": "dbd4dbe553ee51feb3bc745b614fb762080e3912"
+}

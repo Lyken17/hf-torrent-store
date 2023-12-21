@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "genres.json": "models--openai--jukebox-5b-lyrics-genres.json--69df2856becf6a87c4cd38abb4e176d5e777d1d4",
+    "pytorch_model.bin.index.json": "models--openai--jukebox-5b-lyrics-pytorch_model.bin.index.json--a77789a6b50f181ded8a80725e0aaa8ab2527e54",
+    "artists.json": "models--openai--jukebox-5b-lyrics-artists.json--35b54f6f467d37942d5e083eb5b4f89ab2fb8338",
+    "special_tokens_map.json": "models--openai--jukebox-5b-lyrics-special_tokens_map.json--6f5a90b9fe8e99f4480c90e66a1fd19720a7e5d3",
+    "pytorch_model-00001-of-00004.bin": "models--openai--jukebox-5b-lyrics-pytorch_model-00001-of-00004.bin--2aa4a5f1a79e9a66573cd86175e6a0dfb20ba1f2422ca4444efdba5ba504d845",
+    "tokenizer_config.json": "models--openai--jukebox-5b-lyrics-tokenizer_config.json--2e4608ea7da47663e96ee5ce2c2574978e7fd935",
+    "pytorch_model-00002-of-00004.bin": "models--openai--jukebox-5b-lyrics-pytorch_model-00002-of-00004.bin--d50e7689ebecd75bc8f68b2025493d9bd23d36c37269a346a4d87c478dd4d33a",
+    "pytorch_model-00004-of-00004.bin": "models--openai--jukebox-5b-lyrics-pytorch_model-00004-of-00004.bin--91ec3904c3a0f16b47058864036ecb5db0c8aa0b33e19f899d74d45eaeb5a423",
+    "pytorch_model-00003-of-00004.bin": "models--openai--jukebox-5b-lyrics-pytorch_model-00003-of-00004.bin--6b2759ceda225e9f888ee1bc8dfca7bcc031ab79ac2f2c0a2b81621232ff9659",
+    "lyrics.json": "models--openai--jukebox-5b-lyrics-lyrics.json--bddbdf7268258792f75dea2e89fcb7f42bbed743",
+    "config.json": "models--openai--jukebox-5b-lyrics-config.json--5bfb3d5c65dc7a19eb16869b7a286a456f97da37",
+    ".gitattributes": "models--openai--jukebox-5b-lyrics-.gitattributes--78be8432e1148d0227370439dad9d9a818f08df4"
+  },
+  "uuid2fpath": {
+    "models--openai--jukebox-5b-lyrics-genres.json--69df2856becf6a87c4cd38abb4e176d5e777d1d4": "genres.json",
+    "models--openai--jukebox-5b-lyrics-pytorch_model.bin.index.json--a77789a6b50f181ded8a80725e0aaa8ab2527e54": "pytorch_model.bin.index.json",
+    "models--openai--jukebox-5b-lyrics-artists.json--35b54f6f467d37942d5e083eb5b4f89ab2fb8338": "artists.json",
+    "models--openai--jukebox-5b-lyrics-special_tokens_map.json--6f5a90b9fe8e99f4480c90e66a1fd19720a7e5d3": "special_tokens_map.json",
+    "models--openai--jukebox-5b-lyrics-pytorch_model-00001-of-00004.bin--2aa4a5f1a79e9a66573cd86175e6a0dfb20ba1f2422ca4444efdba5ba504d845": "pytorch_model-00001-of-00004.bin",
+    "models--openai--jukebox-5b-lyrics-tokenizer_config.json--2e4608ea7da47663e96ee5ce2c2574978e7fd935": "tokenizer_config.json",
+    "models--openai--jukebox-5b-lyrics-pytorch_model-00002-of-00004.bin--d50e7689ebecd75bc8f68b2025493d9bd23d36c37269a346a4d87c478dd4d33a": "pytorch_model-00002-of-00004.bin",
+    "models--openai--jukebox-5b-lyrics-pytorch_model-00004-of-00004.bin--91ec3904c3a0f16b47058864036ecb5db0c8aa0b33e19f899d74d45eaeb5a423": "pytorch_model-00004-of-00004.bin",
+    "models--openai--jukebox-5b-lyrics-pytorch_model-00003-of-00004.bin--6b2759ceda225e9f888ee1bc8dfca7bcc031ab79ac2f2c0a2b81621232ff9659": "pytorch_model-00003-of-00004.bin",
+    "models--openai--jukebox-5b-lyrics-lyrics.json--bddbdf7268258792f75dea2e89fcb7f42bbed743": "lyrics.json",
+    "models--openai--jukebox-5b-lyrics-config.json--5bfb3d5c65dc7a19eb16869b7a286a456f97da37": "config.json",
+    "models--openai--jukebox-5b-lyrics-.gitattributes--78be8432e1148d0227370439dad9d9a818f08df4": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 15:58:14 (Asia/Shanghai)",
+  "lastest-commit": "f22b6a3f8ee0d37b59745df4fc8b4fe60f5b3016"
+}

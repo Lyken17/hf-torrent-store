@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--facebook--mbart-large-50-many-to-many-mmt-rust_model.ot--b4169d2f8ae7e5ea0b9ac6bb2654ddb2be7dbb11c60315b0e35f35323819d787",
+    "tf_model.h5": "models--facebook--mbart-large-50-many-to-many-mmt-tf_model.h5--faef970c14a4e5541b14d1febb883dae707fab6cdc8fc81072ca069074b8bddf",
+    "special_tokens_map.json": "models--facebook--mbart-large-50-many-to-many-mmt-special_tokens_map.json--edabc105ab15c9ee8c030daa9f9780831b4c0fd2",
+    "tokenizer_config.json": "models--facebook--mbart-large-50-many-to-many-mmt-tokenizer_config.json--ceb27363e751c4b33905f24aa046188be4f38882",
+    "README.md": "models--facebook--mbart-large-50-many-to-many-mmt-README.md--40e19a43efa50aa1bb069249acb773c5e6f8abff",
+    "model.safetensors": "models--facebook--mbart-large-50-many-to-many-mmt-model.safetensors--10ef2c7b94d92f301d64ed29825ed05cb5374f347d8db7755de5474295e07ff7",
+    "generation_config.json": "models--facebook--mbart-large-50-many-to-many-mmt-generation_config.json--45fccfb2bb92e64115346219ea10b8388bbcdd74",
+    "sentencepiece.bpe.model": "models--facebook--mbart-large-50-many-to-many-mmt-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+    "flax_model.msgpack": "models--facebook--mbart-large-50-many-to-many-mmt-flax_model.msgpack--f38a4833c93d91eb4cbc903513d70920a8307e1c8eae9d2b0a34b47b9434664d",
+    "pytorch_model.bin": "models--facebook--mbart-large-50-many-to-many-mmt-pytorch_model.bin--024ddcc796a33d2e4decd4c1bd5fe90ad295aaba9072edb3796a09ef9b755934",
+    "config.json": "models--facebook--mbart-large-50-many-to-many-mmt-config.json--f72b537ec40e699db3bb26ab7b2cadecef4b0801",
+    ".gitattributes": "models--facebook--mbart-large-50-many-to-many-mmt-.gitattributes--20c37534c6b6959a791de5d8343a75ebb74a71a4"
+  },
+  "uuid2fpath": {
+    "models--facebook--mbart-large-50-many-to-many-mmt-rust_model.ot--b4169d2f8ae7e5ea0b9ac6bb2654ddb2be7dbb11c60315b0e35f35323819d787": "rust_model.ot",
+    "models--facebook--mbart-large-50-many-to-many-mmt-tf_model.h5--faef970c14a4e5541b14d1febb883dae707fab6cdc8fc81072ca069074b8bddf": "tf_model.h5",
+    "models--facebook--mbart-large-50-many-to-many-mmt-special_tokens_map.json--edabc105ab15c9ee8c030daa9f9780831b4c0fd2": "special_tokens_map.json",
+    "models--facebook--mbart-large-50-many-to-many-mmt-tokenizer_config.json--ceb27363e751c4b33905f24aa046188be4f38882": "tokenizer_config.json",
+    "models--facebook--mbart-large-50-many-to-many-mmt-README.md--40e19a43efa50aa1bb069249acb773c5e6f8abff": "README.md",
+    "models--facebook--mbart-large-50-many-to-many-mmt-model.safetensors--10ef2c7b94d92f301d64ed29825ed05cb5374f347d8db7755de5474295e07ff7": "model.safetensors",
+    "models--facebook--mbart-large-50-many-to-many-mmt-generation_config.json--45fccfb2bb92e64115346219ea10b8388bbcdd74": "generation_config.json",
+    "models--facebook--mbart-large-50-many-to-many-mmt-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865": "sentencepiece.bpe.model",
+    "models--facebook--mbart-large-50-many-to-many-mmt-flax_model.msgpack--f38a4833c93d91eb4cbc903513d70920a8307e1c8eae9d2b0a34b47b9434664d": "flax_model.msgpack",
+    "models--facebook--mbart-large-50-many-to-many-mmt-pytorch_model.bin--024ddcc796a33d2e4decd4c1bd5fe90ad295aaba9072edb3796a09ef9b755934": "pytorch_model.bin",
+    "models--facebook--mbart-large-50-many-to-many-mmt-config.json--f72b537ec40e699db3bb26ab7b2cadecef4b0801": "config.json",
+    "models--facebook--mbart-large-50-many-to-many-mmt-.gitattributes--20c37534c6b6959a791de5d8343a75ebb74a71a4": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 15:37:03 (Asia/Shanghai)",
+  "lastest-commit": "e30b6cb8eb0d43a0b73cab73c7676b9863223a30"
+}

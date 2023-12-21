@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "pics/token-number.png": "models--YeungNLP--firefly-llama2-13b-chat-pics--token-number.png--049a4e4b51a64bc9df77b080b9cf4987d93bb699",
+    "pics/pretrain-data.png": "models--YeungNLP--firefly-llama2-13b-chat-pics--pretrain-data.png--9134229b6fc382b33552f52847be485e8ccea72c",
+    "pics/finetune-loss.png": "models--YeungNLP--firefly-llama2-13b-chat-pics--finetune-loss.png--9caaadb806aa2a57633736d1581a1f19f4bd02bb",
+    "pics/wechat.png": "models--YeungNLP--firefly-llama2-13b-chat-pics--wechat.png--9897f62d3392af868d8413becf8a17cdfb9bfe6a",
+    "pics/firefly_logo.png": "models--YeungNLP--firefly-llama2-13b-chat-pics--firefly_logo.png--1ed131d2d391b6cd3b49764eeba878e20f113773",
+    "pics/gongzhonghao.png": "models--YeungNLP--firefly-llama2-13b-chat-pics--gongzhonghao.png--86d1e7ec5a268cf1a39b2f780202bea3727b6f24",
+    "pytorch_model-00003-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model-00003-of-00003.bin--0929ac28d0e7deba078aa72658a7134b19bd63770fe9cacc20875608f7346503",
+    "pytorch_model-00001-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model-00001-of-00003.bin--94ad9f0bbbc8459104bf532c26d150d2a4644ae5dc66d7bd6d198c0da827717d",
+    "pytorch_model.bin.index.json": "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model.bin.index.json--da3ec2b5067e4aad8a2898411c49b38a4dabc8d1",
+    "special_tokens_map.json": "models--YeungNLP--firefly-llama2-13b-chat-special_tokens_map.json--9588650714fc017603ed2e0810f032ff0f970aad",
+    "tokenizer_config.json": "models--YeungNLP--firefly-llama2-13b-chat-tokenizer_config.json--5076180410784a5b5cd561378840981c4ee125c1",
+    "tokenizer.model": "models--YeungNLP--firefly-llama2-13b-chat-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c",
+    "README.md": "models--YeungNLP--firefly-llama2-13b-chat-README.md--2badda41a54766616021a97a3c92e859b4844c7a",
+    "generation_config.json": "models--YeungNLP--firefly-llama2-13b-chat-generation_config.json--6fc54a696d0053aef18a5908972e544b480c624a",
+    "config.json": "models--YeungNLP--firefly-llama2-13b-chat-config.json--9d9439ab8cb2dedce3252d1f6ce251d632736293",
+    "pytorch_model-00002-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model-00002-of-00003.bin--c19c5a33e8d50b6833e71f1249ee7f5d4be11bcde073d8cc7c57f2e26fbb61eb",
+    ".gitattributes": "models--YeungNLP--firefly-llama2-13b-chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-llama2-13b-chat-pics--token-number.png--049a4e4b51a64bc9df77b080b9cf4987d93bb699": "pics/token-number.png",
+    "models--YeungNLP--firefly-llama2-13b-chat-pics--pretrain-data.png--9134229b6fc382b33552f52847be485e8ccea72c": "pics/pretrain-data.png",
+    "models--YeungNLP--firefly-llama2-13b-chat-pics--finetune-loss.png--9caaadb806aa2a57633736d1581a1f19f4bd02bb": "pics/finetune-loss.png",
+    "models--YeungNLP--firefly-llama2-13b-chat-pics--wechat.png--9897f62d3392af868d8413becf8a17cdfb9bfe6a": "pics/wechat.png",
+    "models--YeungNLP--firefly-llama2-13b-chat-pics--firefly_logo.png--1ed131d2d391b6cd3b49764eeba878e20f113773": "pics/firefly_logo.png",
+    "models--YeungNLP--firefly-llama2-13b-chat-pics--gongzhonghao.png--86d1e7ec5a268cf1a39b2f780202bea3727b6f24": "pics/gongzhonghao.png",
+    "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model-00003-of-00003.bin--0929ac28d0e7deba078aa72658a7134b19bd63770fe9cacc20875608f7346503": "pytorch_model-00003-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model-00001-of-00003.bin--94ad9f0bbbc8459104bf532c26d150d2a4644ae5dc66d7bd6d198c0da827717d": "pytorch_model-00001-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model.bin.index.json--da3ec2b5067e4aad8a2898411c49b38a4dabc8d1": "pytorch_model.bin.index.json",
+    "models--YeungNLP--firefly-llama2-13b-chat-special_tokens_map.json--9588650714fc017603ed2e0810f032ff0f970aad": "special_tokens_map.json",
+    "models--YeungNLP--firefly-llama2-13b-chat-tokenizer_config.json--5076180410784a5b5cd561378840981c4ee125c1": "tokenizer_config.json",
+    "models--YeungNLP--firefly-llama2-13b-chat-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c": "tokenizer.model",
+    "models--YeungNLP--firefly-llama2-13b-chat-README.md--2badda41a54766616021a97a3c92e859b4844c7a": "README.md",
+    "models--YeungNLP--firefly-llama2-13b-chat-generation_config.json--6fc54a696d0053aef18a5908972e544b480c624a": "generation_config.json",
+    "models--YeungNLP--firefly-llama2-13b-chat-config.json--9d9439ab8cb2dedce3252d1f6ce251d632736293": "config.json",
+    "models--YeungNLP--firefly-llama2-13b-chat-pytorch_model-00002-of-00003.bin--c19c5a33e8d50b6833e71f1249ee7f5d4be11bcde073d8cc7c57f2e26fbb61eb": "pytorch_model-00002-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 16:37:47 (Asia/Shanghai)",
+  "lastest-commit": "7e72d87fb49a727d9078b4d721e3319f4642f8bc"
+}

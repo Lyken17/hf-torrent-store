@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "config.yaml": "models--pyannote--wespeaker-voxceleb-resnet34-LM-config.yaml--f6508f3ba9be494115516d34cab74943714b9460",
+    "README.md": "models--pyannote--wespeaker-voxceleb-resnet34-LM-README.md--2a0bb8d1e312d61904836e6b79ed61a81b9739c0",
+    "pytorch_model.bin": "models--pyannote--wespeaker-voxceleb-resnet34-LM-pytorch_model.bin--366edf44f4c80889a3eb7a9d7bdf02c4aede3127f7dd15e274dcdb826b143c56",
+    ".gitattributes": "models--pyannote--wespeaker-voxceleb-resnet34-LM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--pyannote--wespeaker-voxceleb-resnet34-LM-config.yaml--f6508f3ba9be494115516d34cab74943714b9460": "config.yaml",
+    "models--pyannote--wespeaker-voxceleb-resnet34-LM-README.md--2a0bb8d1e312d61904836e6b79ed61a81b9739c0": "README.md",
+    "models--pyannote--wespeaker-voxceleb-resnet34-LM-pytorch_model.bin--366edf44f4c80889a3eb7a9d7bdf02c4aede3127f7dd15e274dcdb826b143c56": "pytorch_model.bin",
+    "models--pyannote--wespeaker-voxceleb-resnet34-LM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 15:52:39 (Asia/Shanghai)",
+  "lastest-commit": "76bad8b0aadd8f951530dd6e543c59d1dcd7c62c"
+}

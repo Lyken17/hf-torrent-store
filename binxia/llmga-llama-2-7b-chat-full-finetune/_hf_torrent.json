@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-pytorch_model.bin.index.json--c1bb5e45d329b20d1197fe5490a3b9ea210a4972",
+    "training_args.bin": "models--binxia--llmga-llama-2-7b-chat-full-finetune-training_args.bin--cd08aa669d7394a36c8c78d797a7117fa5843e7946a622a9cc06f350195ed5ab",
+    "added_tokens.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-added_tokens.json--6549d56f98d97fc27e21926cf8fd038f5fa122bb",
+    "special_tokens_map.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "pytorch_model-00002-of-00002.bin": "models--binxia--llmga-llama-2-7b-chat-full-finetune-pytorch_model-00002-of-00002.bin--5e618038d3d489197ffc65c584863a59a8f219a39dca7a6e8f5d7276de820bed",
+    "tokenizer_config.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-tokenizer_config.json--6d77222ec5e94b64456bcf0c8545c185fc0e181f",
+    "tokenizer.model": "models--binxia--llmga-llama-2-7b-chat-full-finetune-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--binxia--llmga-llama-2-7b-chat-full-finetune-README.md--154df8298fab5ecf322016157858e08cd1bccbe1",
+    "pytorch_model-00001-of-00002.bin": "models--binxia--llmga-llama-2-7b-chat-full-finetune-pytorch_model-00001-of-00002.bin--0a428291ac025a4ea08ac3768fdb74e78e5c9bfc1c478d190958f5c53e344120",
+    "generation_config.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-generation_config.json--2b103309349551440a34d2718b641a167aefed46",
+    "trainer_state.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-trainer_state.json--294c45f49844e563b9c0e610e350fc6a4e93e86d",
+    "config.json": "models--binxia--llmga-llama-2-7b-chat-full-finetune-config.json--5ac34904b2a72cdcfc80c94edd9ef2489d46882e",
+    ".gitattributes": "models--binxia--llmga-llama-2-7b-chat-full-finetune-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-pytorch_model.bin.index.json--c1bb5e45d329b20d1197fe5490a3b9ea210a4972": "pytorch_model.bin.index.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-training_args.bin--cd08aa669d7394a36c8c78d797a7117fa5843e7946a622a9cc06f350195ed5ab": "training_args.bin",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-added_tokens.json--6549d56f98d97fc27e21926cf8fd038f5fa122bb": "added_tokens.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-pytorch_model-00002-of-00002.bin--5e618038d3d489197ffc65c584863a59a8f219a39dca7a6e8f5d7276de820bed": "pytorch_model-00002-of-00002.bin",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-tokenizer_config.json--6d77222ec5e94b64456bcf0c8545c185fc0e181f": "tokenizer_config.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-README.md--154df8298fab5ecf322016157858e08cd1bccbe1": "README.md",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-pytorch_model-00001-of-00002.bin--0a428291ac025a4ea08ac3768fdb74e78e5c9bfc1c478d190958f5c53e344120": "pytorch_model-00001-of-00002.bin",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-generation_config.json--2b103309349551440a34d2718b641a167aefed46": "generation_config.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-trainer_state.json--294c45f49844e563b9c0e610e350fc6a4e93e86d": "trainer_state.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-config.json--5ac34904b2a72cdcfc80c94edd9ef2489d46882e": "config.json",
+    "models--binxia--llmga-llama-2-7b-chat-full-finetune-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 16:08:14 (Asia/Shanghai)",
+  "lastest-commit": "477ffa80663a077d94ae8375a173c6748d9621a2"
+}

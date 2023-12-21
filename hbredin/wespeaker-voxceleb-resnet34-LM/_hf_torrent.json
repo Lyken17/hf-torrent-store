@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "LICENCE.md": "models--hbredin--wespeaker-voxceleb-resnet34-LM-LICENCE.md--1b116fbd9e410a379801292073d336707b27c97c",
+    "README.md": "models--hbredin--wespeaker-voxceleb-resnet34-LM-README.md--d151b72237c3df707fd6cb31e783903171804fa2",
+    "speaker-embedding.onnx": "models--hbredin--wespeaker-voxceleb-resnet34-LM-speaker-embedding.onnx--7bb2f06e9df17cdf1ef14ee8a15ab08ed28e8d0ef5054ee135741560df2ec068",
+    "pytorch_model.bin": "models--hbredin--wespeaker-voxceleb-resnet34-LM-pytorch_model.bin--26bba0ee9a3461d0f99ca36ead2626ca3610bfd9896dd479583b3c47e94f7f32",
+    ".gitattributes": "models--hbredin--wespeaker-voxceleb-resnet34-LM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--hbredin--wespeaker-voxceleb-resnet34-LM-LICENCE.md--1b116fbd9e410a379801292073d336707b27c97c": "LICENCE.md",
+    "models--hbredin--wespeaker-voxceleb-resnet34-LM-README.md--d151b72237c3df707fd6cb31e783903171804fa2": "README.md",
+    "models--hbredin--wespeaker-voxceleb-resnet34-LM-speaker-embedding.onnx--7bb2f06e9df17cdf1ef14ee8a15ab08ed28e8d0ef5054ee135741560df2ec068": "speaker-embedding.onnx",
+    "models--hbredin--wespeaker-voxceleb-resnet34-LM-pytorch_model.bin--26bba0ee9a3461d0f99ca36ead2626ca3610bfd9896dd479583b3c47e94f7f32": "pytorch_model.bin",
+    "models--hbredin--wespeaker-voxceleb-resnet34-LM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 15:51:36 (Asia/Shanghai)",
+  "lastest-commit": "0ae88dcaf48cacdf741275d6d1a8101f45eee220"
+}
