@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "scheduler/scheduler_config.json": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-scheduler--scheduler_config.json--d82bb8d3760d450920dac911dc5f65ea27a18bbc",
+    "unet/diffusion_pytorch_model.bin": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-unet--diffusion_pytorch_model.bin--f1c600cea9068a61b44135a4e20fcf2e2f15f6e225c1f2f6108d68fca35967d4",
+    "unet/diffusion_pytorch_model.safetensors": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-unet--diffusion_pytorch_model.safetensors--098b846d2378b4b44a33e0bd47f89f2886b72a10200cbf9e96d5fae3c471543f",
+    "unet/config.json": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-unet--config.json--378f4c00891e5e6743c651c63a4c5ab144440d33",
+    "movq/diffusion_pytorch_model.bin": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-movq--diffusion_pytorch_model.bin--772e09739d742ddee6807add2d3c2fd2a32db53896b5d07a92c729d8c879ce59",
+    "movq/diffusion_pytorch_model.safetensors": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-movq--diffusion_pytorch_model.safetensors--43a5860fea195a7116f2471396c5cc9535fade9b63c4857d8a192ffd924b7002",
+    "movq/config.json": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-movq--config.json--f528255544b543c93e62dac5c8213529065d857c",
+    "README.md": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-README.md--300031b4b91068662d1707c991c810daf33b87c1",
+    "model_index.json": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-model_index.json--c193bbe4918d6318d7ea18df99a3a4584ed714db",
+    ".gitattributes": "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-scheduler--scheduler_config.json--d82bb8d3760d450920dac911dc5f65ea27a18bbc": "scheduler/scheduler_config.json",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-unet--diffusion_pytorch_model.bin--f1c600cea9068a61b44135a4e20fcf2e2f15f6e225c1f2f6108d68fca35967d4": "unet/diffusion_pytorch_model.bin",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-unet--diffusion_pytorch_model.safetensors--098b846d2378b4b44a33e0bd47f89f2886b72a10200cbf9e96d5fae3c471543f": "unet/diffusion_pytorch_model.safetensors",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-unet--config.json--378f4c00891e5e6743c651c63a4c5ab144440d33": "unet/config.json",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-movq--diffusion_pytorch_model.bin--772e09739d742ddee6807add2d3c2fd2a32db53896b5d07a92c729d8c879ce59": "movq/diffusion_pytorch_model.bin",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-movq--diffusion_pytorch_model.safetensors--43a5860fea195a7116f2471396c5cc9535fade9b63c4857d8a192ffd924b7002": "movq/diffusion_pytorch_model.safetensors",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-movq--config.json--f528255544b543c93e62dac5c8213529065d857c": "movq/config.json",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-README.md--300031b4b91068662d1707c991c810daf33b87c1": "README.md",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-model_index.json--c193bbe4918d6318d7ea18df99a3a4584ed714db": "model_index.json",
+    "models--kandinsky-community--kandinsky-2-2-decoder-inpaint-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 09:23:59 (Asia/Shanghai)",
+  "lastest-commit": "db790ad5cbcabed886f069ef2710774657621702"
+}

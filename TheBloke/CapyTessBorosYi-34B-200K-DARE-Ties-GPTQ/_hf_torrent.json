@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-special_tokens_map.json--638df0a68b4938edcceb0820754ec8629969171f",
+    "tokenizer_config.json": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-tokenizer_config.json--3221af68b19d3f11791ecd7ef514139b32be4116",
+    "quantize_config.json": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-quantize_config.json--cac25c211684fe55ef81d968846d27a63c30ec02",
+    "tokenizer.model": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39",
+    "README.md": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-README.md--47e62a16b4e87af9d0068fb75d3eb71122710a71",
+    "tokenizer.json": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-tokenizer.json--bc5a81a807e8986ab3e0907560790748c800de13",
+    "model.safetensors": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-model.safetensors--c8385d38bb893e4e10ac784b2fb1e4c07b870d0b36b0159aef3f378ea67548f0",
+    "config.json": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-config.json--ce1043f5f133aa0ad8ca70f9dda07e84d1e3f292",
+    ".gitattributes": "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-special_tokens_map.json--638df0a68b4938edcceb0820754ec8629969171f": "special_tokens_map.json",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-tokenizer_config.json--3221af68b19d3f11791ecd7ef514139b32be4116": "tokenizer_config.json",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-quantize_config.json--cac25c211684fe55ef81d968846d27a63c30ec02": "quantize_config.json",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39": "tokenizer.model",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-README.md--47e62a16b4e87af9d0068fb75d3eb71122710a71": "README.md",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-tokenizer.json--bc5a81a807e8986ab3e0907560790748c800de13": "tokenizer.json",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-model.safetensors--c8385d38bb893e4e10ac784b2fb1e4c07b870d0b36b0159aef3f378ea67548f0": "model.safetensors",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-config.json--ce1043f5f133aa0ad8ca70f9dda07e84d1e3f292": "config.json",
+    "models--TheBloke--CapyTessBorosYi-34B-200K-DARE-Ties-GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 09:34:31 (Asia/Shanghai)",
+  "lastest-commit": "9bf44c700071bbaec665bb662207a41a1c6ecd1e"
+}

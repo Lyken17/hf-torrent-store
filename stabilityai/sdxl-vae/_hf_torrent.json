@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "sdxl_vae.safetensors": "models--stabilityai--sdxl-vae-sdxl_vae.safetensors--63aeecb90ff7bc1c115395962d3e803571385b61938377bc7089b36e81e92e2e",
+    "README.md": "models--stabilityai--sdxl-vae-README.md--852e7fe50c13edc192897b2110f597fe80ca0a0e",
+    "diffusion_pytorch_model.bin": "models--stabilityai--sdxl-vae-diffusion_pytorch_model.bin--48b7606461b0646c5a578e686e2fddbb54ae789823ab82ca07f4b898261f6383",
+    "diffusion_pytorch_model.safetensors": "models--stabilityai--sdxl-vae-diffusion_pytorch_model.safetensors--1598f3d24932bcfe6634e8b618ea1e30ab1d57f5aad13a6d2de446d2199f2341",
+    "config.json": "models--stabilityai--sdxl-vae-config.json--2c7267b492a5f64e65a972837b1a64beb71be96a",
+    ".gitattributes": "models--stabilityai--sdxl-vae-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--stabilityai--sdxl-vae-sdxl_vae.safetensors--63aeecb90ff7bc1c115395962d3e803571385b61938377bc7089b36e81e92e2e": "sdxl_vae.safetensors",
+    "models--stabilityai--sdxl-vae-README.md--852e7fe50c13edc192897b2110f597fe80ca0a0e": "README.md",
+    "models--stabilityai--sdxl-vae-diffusion_pytorch_model.bin--48b7606461b0646c5a578e686e2fddbb54ae789823ab82ca07f4b898261f6383": "diffusion_pytorch_model.bin",
+    "models--stabilityai--sdxl-vae-diffusion_pytorch_model.safetensors--1598f3d24932bcfe6634e8b618ea1e30ab1d57f5aad13a6d2de446d2199f2341": "diffusion_pytorch_model.safetensors",
+    "models--stabilityai--sdxl-vae-config.json--2c7267b492a5f64e65a972837b1a64beb71be96a": "config.json",
+    "models--stabilityai--sdxl-vae-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 09:11:51 (Asia/Shanghai)",
+  "lastest-commit": "6f5909a7e596173e25d4e97b07fd19cdf9611c76"
+}
