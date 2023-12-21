@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "model.bin": "models--Systran--faster-whisper-large-v2-model.bin--bf2a9746382e1aa7ffff6b3a0d137ed9edbd9670c3b87e5d35f5e85e70d0333a",
+    "vocabulary.txt": "models--Systran--faster-whisper-large-v2-vocabulary.txt--c9074644d9d1205686f16d411564729461324b75",
+    "README.md": "models--Systran--faster-whisper-large-v2-README.md--7f318da4d83500b49baa7e26917e96294dc449e5",
+    "tokenizer.json": "models--Systran--faster-whisper-large-v2-tokenizer.json--7818adb6de9fa3064d3ff81226fdd675be1f6344",
+    "config.json": "models--Systran--faster-whisper-large-v2-config.json--346bb8684801a61c15ce82bcb80c29a63c2d1f94",
+    ".gitattributes": "models--Systran--faster-whisper-large-v2-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--Systran--faster-whisper-large-v2-model.bin--bf2a9746382e1aa7ffff6b3a0d137ed9edbd9670c3b87e5d35f5e85e70d0333a": "model.bin",
+    "models--Systran--faster-whisper-large-v2-vocabulary.txt--c9074644d9d1205686f16d411564729461324b75": "vocabulary.txt",
+    "models--Systran--faster-whisper-large-v2-README.md--7f318da4d83500b49baa7e26917e96294dc449e5": "README.md",
+    "models--Systran--faster-whisper-large-v2-tokenizer.json--7818adb6de9fa3064d3ff81226fdd675be1f6344": "tokenizer.json",
+    "models--Systran--faster-whisper-large-v2-config.json--346bb8684801a61c15ce82bcb80c29a63c2d1f94": "config.json",
+    "models--Systran--faster-whisper-large-v2-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:47:48 (Asia/Shanghai)",
+  "lastest-commit": "f0fe81560cb8b68660e564f55dd99207059c092e"
+}

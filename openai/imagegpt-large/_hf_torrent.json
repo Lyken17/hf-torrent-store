@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--openai--imagegpt-large-README.md--072a3eecf752e51d88852f0887b75defffad087e",
+    "preprocessor_config.json": "models--openai--imagegpt-large-preprocessor_config.json--81b6e659b25380caf2e98b1d5c0340c6cbdb7f4e",
+    "pytorch_model.bin": "models--openai--imagegpt-large-pytorch_model.bin--d795aa28d9821e8bd9f6b44a8799854b6153c473ba9648ab9a708c98f299e35e",
+    "config.json": "models--openai--imagegpt-large-config.json--3a7b617914da531e87d53aa4e0d8d8bdae7cbd1d",
+    ".gitattributes": "models--openai--imagegpt-large-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--openai--imagegpt-large-README.md--072a3eecf752e51d88852f0887b75defffad087e": "README.md",
+    "models--openai--imagegpt-large-preprocessor_config.json--81b6e659b25380caf2e98b1d5c0340c6cbdb7f4e": "preprocessor_config.json",
+    "models--openai--imagegpt-large-pytorch_model.bin--d795aa28d9821e8bd9f6b44a8799854b6153c473ba9648ab9a708c98f299e35e": "pytorch_model.bin",
+    "models--openai--imagegpt-large-config.json--3a7b617914da531e87d53aa4e0d8d8bdae7cbd1d": "config.json",
+    "models--openai--imagegpt-large-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:27:19 (Asia/Shanghai)",
+  "lastest-commit": "c5e5de2c60e37a19b59730830a7dff526014b068"
+}

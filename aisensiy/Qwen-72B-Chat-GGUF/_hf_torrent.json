@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "qwen72b-chat-q4_0.gguf-split-aa": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-aa--59b0d0febf5f8663b5945a1284d61b8931d8b0aadd10bacdb2412d118f00ddb5",
+    "qwen72b-chat-q4_0.gguf-split-af": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-af--9ebed8a8cb48cbf5a56280757764a960023f5140c6101935a3d297c12d6a9b3f",
+    "qwen72b-chat-q4_0.gguf-split-ab": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ab--8c1585feca6bdd8041834d6d2b748459b81ff662804a2c2c84ca6fcfee337559",
+    "qwen72b-chat-q4_0.gguf-split-ah": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ah--038407cf8a32f4a0d64e2ec597b16a1b9ea47fbd2ce16eb5def27eaeacb39bde",
+    "README.md": "models--aisensiy--Qwen-72B-Chat-GGUF-README.md--ac86421236b51016f048200a2b9fad2dd137f4f5",
+    "qwen72b-chat-q4_0.gguf-split-ad": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ad--9e252dce527f4d71318a0056dd96f62fa2848ab242eed0e319f12e38cd085aaa",
+    "qwen72b-chat-q4_0.gguf-split-ac": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ac--70cb7b8731ab84879dc84eb1317dbd101e6c8a37dfcc1937c6d6ddcbd094d5fa",
+    "qwen72b-chat-q4_0.gguf-split-ag": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ag--c03dba6fdae6cb869540fbaf8a689b98a6c196637434eca11e3d1908bff6bb56",
+    "qwen72b-chat-q4_0.gguf-split-ae": "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ae--318c9326314f86dc09ed8a1b77722db0b0dbe52fef677671822d7507a6dcebe1",
+    ".gitattributes": "models--aisensiy--Qwen-72B-Chat-GGUF-.gitattributes--f83f957f2040315e0bb7d1569d87c278b9b0dfc2"
+  },
+  "uuid2fpath": {
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-aa--59b0d0febf5f8663b5945a1284d61b8931d8b0aadd10bacdb2412d118f00ddb5": "qwen72b-chat-q4_0.gguf-split-aa",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-af--9ebed8a8cb48cbf5a56280757764a960023f5140c6101935a3d297c12d6a9b3f": "qwen72b-chat-q4_0.gguf-split-af",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ab--8c1585feca6bdd8041834d6d2b748459b81ff662804a2c2c84ca6fcfee337559": "qwen72b-chat-q4_0.gguf-split-ab",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ah--038407cf8a32f4a0d64e2ec597b16a1b9ea47fbd2ce16eb5def27eaeacb39bde": "qwen72b-chat-q4_0.gguf-split-ah",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-README.md--ac86421236b51016f048200a2b9fad2dd137f4f5": "README.md",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ad--9e252dce527f4d71318a0056dd96f62fa2848ab242eed0e319f12e38cd085aaa": "qwen72b-chat-q4_0.gguf-split-ad",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ac--70cb7b8731ab84879dc84eb1317dbd101e6c8a37dfcc1937c6d6ddcbd094d5fa": "qwen72b-chat-q4_0.gguf-split-ac",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ag--c03dba6fdae6cb869540fbaf8a689b98a6c196637434eca11e3d1908bff6bb56": "qwen72b-chat-q4_0.gguf-split-ag",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-qwen72b-chat-q4_0.gguf-split-ae--318c9326314f86dc09ed8a1b77722db0b0dbe52fef677671822d7507a6dcebe1": "qwen72b-chat-q4_0.gguf-split-ae",
+    "models--aisensiy--Qwen-72B-Chat-GGUF-.gitattributes--f83f957f2040315e0bb7d1569d87c278b9b0dfc2": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:47:14 (Asia/Shanghai)",
+  "lastest-commit": "a27a98e391f51a0fe308f5f6d282c3b802520850"
+}

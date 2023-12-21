@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-README.md--f0ed74416af529e7056bfb1302ebafe1556581f8",
+    "model.safetensors": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-model.safetensors--efa5ac1a13b2d2f42182738e44794b1eb4c0cdd221a8b4ae11304c3a5f5fae95",
+    "vocab.json": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-vocab.json--9e26dfeeb6e641a33dae4961196235bdb965b21b",
+    "LICENSE": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-LICENSE--7cdbe0b482f604a06a0988dad8877ae8d9257f7d",
+    "preprocessor_config.json": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-preprocessor_config.json--73caa151574001d3d495fae897e1d38968249712",
+    "pytorch_model.bin": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-pytorch_model.bin--176d9d1ce29a8bddbab44068b9c1c194c51624c7f1812905e01355da58b18816",
+    "config.json": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-config.json--a9596a6e736ce7ddf629657e6b22c1a3756a554d",
+    ".gitattributes": "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-.gitattributes--a9d85166b958664ee9d7b7854c5e050a29823cb2"
+  },
+  "uuid2fpath": {
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-README.md--f0ed74416af529e7056bfb1302ebafe1556581f8": "README.md",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-model.safetensors--efa5ac1a13b2d2f42182738e44794b1eb4c0cdd221a8b4ae11304c3a5f5fae95": "model.safetensors",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-vocab.json--9e26dfeeb6e641a33dae4961196235bdb965b21b": "vocab.json",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-LICENSE--7cdbe0b482f604a06a0988dad8877ae8d9257f7d": "LICENSE",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-preprocessor_config.json--73caa151574001d3d495fae897e1d38968249712": "preprocessor_config.json",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-pytorch_model.bin--176d9d1ce29a8bddbab44068b9c1c194c51624c7f1812905e01355da58b18816": "pytorch_model.bin",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-config.json--a9596a6e736ce7ddf629657e6b22c1a3756a554d": "config.json",
+    "models--audeering--wav2vec2-large-robust-12-ft-emotion-msp-dim-.gitattributes--a9d85166b958664ee9d7b7854c5e050a29823cb2": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:45:46 (Asia/Shanghai)",
+  "lastest-commit": "ea6e49994b758899e3354c11c9bc4d5ce8a6e2d6"
+}

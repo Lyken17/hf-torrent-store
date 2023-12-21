@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "RWKV-4-Raven-14B-v12-Eng98%-Other2%-20230523-ctx8192.pth": "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-14B-v12-Eng98%-Other2%-20230523-ctx8192.pth--1193b5a9ceab572e4dbb9ed1d798eab7bf4793d18904d08bd4bf183579338ae7",
+    "RWKV-4-Raven-1B5-v12-Eng98%-Other2%-20230520-ctx4096.pth": "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-1B5-v12-Eng98%-Other2%-20230520-ctx4096.pth--6bbbffb3ee2372dfa9ef49c599e9a2bc0a01b94b6a264ba9bf5bd524fc38f723",
+    "RWKV-4-Raven-7B-v12-Eng98%-Other2%-20230521-ctx8192.pth": "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-7B-v12-Eng98%-Other2%-20230521-ctx8192.pth--5a725eaeb9e09b724de6c97e6845dd0283097c7920acd05b46852ab7afa9ec32",
+    "RWKV-4-Raven-3B-v12-Eng98%-Other2%-20230520-ctx4096.pth": "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-3B-v12-Eng98%-Other2%-20230520-ctx4096.pth--1eea1845acfe9729dfdaec66a8d1aeb91a1287d94bebbca5529c13c050540b33",
+    "README.md": "models--BlinkDL--rwkv-4-raven-README.md--4547da301a5a1ec79a984d523ecd6878fdca75cc",
+    "RWKV-4-Raven-3B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230527-ctx4096.pth": "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-3B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230527-ctx4096.pth--c0abb4b745ba3523b9d8b3e1293110867ee55b1ef3dc8c122212f78396755721",
+    "RWKV-4-Raven-7B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230530-ctx8192.pth": "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-7B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230530-ctx8192.pth--6d4a089ff36d5d9d96b669d425fc5e4e3959cab426535b52e2364df08f58b407",
+    ".gitattributes": "models--BlinkDL--rwkv-4-raven-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-14B-v12-Eng98%-Other2%-20230523-ctx8192.pth--1193b5a9ceab572e4dbb9ed1d798eab7bf4793d18904d08bd4bf183579338ae7": "RWKV-4-Raven-14B-v12-Eng98%-Other2%-20230523-ctx8192.pth",
+    "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-1B5-v12-Eng98%-Other2%-20230520-ctx4096.pth--6bbbffb3ee2372dfa9ef49c599e9a2bc0a01b94b6a264ba9bf5bd524fc38f723": "RWKV-4-Raven-1B5-v12-Eng98%-Other2%-20230520-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-7B-v12-Eng98%-Other2%-20230521-ctx8192.pth--5a725eaeb9e09b724de6c97e6845dd0283097c7920acd05b46852ab7afa9ec32": "RWKV-4-Raven-7B-v12-Eng98%-Other2%-20230521-ctx8192.pth",
+    "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-3B-v12-Eng98%-Other2%-20230520-ctx4096.pth--1eea1845acfe9729dfdaec66a8d1aeb91a1287d94bebbca5529c13c050540b33": "RWKV-4-Raven-3B-v12-Eng98%-Other2%-20230520-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-raven-README.md--4547da301a5a1ec79a984d523ecd6878fdca75cc": "README.md",
+    "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-3B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230527-ctx4096.pth--c0abb4b745ba3523b9d8b3e1293110867ee55b1ef3dc8c122212f78396755721": "RWKV-4-Raven-3B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230527-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-raven-RWKV-4-Raven-7B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230530-ctx8192.pth--6d4a089ff36d5d9d96b669d425fc5e4e3959cab426535b52e2364df08f58b407": "RWKV-4-Raven-7B-v12-Eng49%-Chn49%-Jpn1%-Other1%-20230530-ctx8192.pth",
+    "models--BlinkDL--rwkv-4-raven-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 11:25:36 (Asia/Shanghai)",
+  "lastest-commit": "b3ff339f89b1b51421065e4230376d4d5eeeebd0"
+}

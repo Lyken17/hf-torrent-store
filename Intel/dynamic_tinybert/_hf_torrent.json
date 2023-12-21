@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "training_args.bin": "models--Intel--dynamic_tinybert-training_args.bin--45211a37428e561ecc29dc69804a75bca37187c651ccb38f8fa237eefa978c1e",
+    "special_tokens_map.json": "models--Intel--dynamic_tinybert-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5",
+    "tokenizer_config.json": "models--Intel--dynamic_tinybert-tokenizer_config.json--843f69c9518e53ed718ee7b222fbfbd60ba2ce04",
+    "README.md": "models--Intel--dynamic_tinybert-README.md--c1e59868ff156d00b2903fba439f4e720405fab4",
+    "tokenizer.json": "models--Intel--dynamic_tinybert-tokenizer.json--40c4a0f6c414c8218190234bbce9bf4cc04fa3ac",
+    "vocab.txt": "models--Intel--dynamic_tinybert-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "pytorch_model.bin": "models--Intel--dynamic_tinybert-pytorch_model.bin--559bc6e27704c82f08642c84a235a152983d619e9ba7e63fc2d6325c914f6e43",
+    "config.json": "models--Intel--dynamic_tinybert-config.json--35488766f40d916d0abe5f5253a2c9cbcda32cfd",
+    ".gitattributes": "models--Intel--dynamic_tinybert-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--Intel--dynamic_tinybert-training_args.bin--45211a37428e561ecc29dc69804a75bca37187c651ccb38f8fa237eefa978c1e": "training_args.bin",
+    "models--Intel--dynamic_tinybert-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5": "special_tokens_map.json",
+    "models--Intel--dynamic_tinybert-tokenizer_config.json--843f69c9518e53ed718ee7b222fbfbd60ba2ce04": "tokenizer_config.json",
+    "models--Intel--dynamic_tinybert-README.md--c1e59868ff156d00b2903fba439f4e720405fab4": "README.md",
+    "models--Intel--dynamic_tinybert-tokenizer.json--40c4a0f6c414c8218190234bbce9bf4cc04fa3ac": "tokenizer.json",
+    "models--Intel--dynamic_tinybert-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "vocab.txt",
+    "models--Intel--dynamic_tinybert-pytorch_model.bin--559bc6e27704c82f08642c84a235a152983d619e9ba7e63fc2d6325c914f6e43": "pytorch_model.bin",
+    "models--Intel--dynamic_tinybert-config.json--35488766f40d916d0abe5f5253a2c9cbcda32cfd": "config.json",
+    "models--Intel--dynamic_tinybert-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 11:25:59 (Asia/Shanghai)",
+  "lastest-commit": "5320b6217af01cb6a0b02fe997ae384b8d21afb5"
+}

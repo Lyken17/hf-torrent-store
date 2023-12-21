@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--yahma--llama-7b-hf-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4",
+    "special_tokens_map.json": "models--yahma--llama-7b-hf-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b",
+    "pytorch_model-00002-of-00002.bin": "models--yahma--llama-7b-hf-pytorch_model-00002-of-00002.bin--461bc5e50200db7813ff99cc0b9316c48ccbd6aaaa31bf8cf7bee0b64bc3eda3",
+    "tokenizer_config.json": "models--yahma--llama-7b-hf-tokenizer_config.json--b1cdcf468fd4222a4399a509ad1ce75fb4e772c5",
+    "tokenizer.model": "models--yahma--llama-7b-hf-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--yahma--llama-7b-hf-README.md--eef25faa6f0551d691867e0786713c8ca21dd20b",
+    "pytorch_model-00001-of-00002.bin": "models--yahma--llama-7b-hf-pytorch_model-00001-of-00002.bin--0087155d6df07106c1d910bfeb6aab1be8e612dfbf2b56ddfb4ccbde7dbd50d0",
+    "generation_config.json": "models--yahma--llama-7b-hf-generation_config.json--55d7b5b6db760f8c1963be3d56a3bc363bacdfb1",
+    "config.json": "models--yahma--llama-7b-hf-config.json--ef0484f4fd8c6e39de6de5ef740b3cff866dcfaa",
+    ".gitattributes": "models--yahma--llama-7b-hf-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--yahma--llama-7b-hf-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4": "pytorch_model.bin.index.json",
+    "models--yahma--llama-7b-hf-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b": "special_tokens_map.json",
+    "models--yahma--llama-7b-hf-pytorch_model-00002-of-00002.bin--461bc5e50200db7813ff99cc0b9316c48ccbd6aaaa31bf8cf7bee0b64bc3eda3": "pytorch_model-00002-of-00002.bin",
+    "models--yahma--llama-7b-hf-tokenizer_config.json--b1cdcf468fd4222a4399a509ad1ce75fb4e772c5": "tokenizer_config.json",
+    "models--yahma--llama-7b-hf-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--yahma--llama-7b-hf-README.md--eef25faa6f0551d691867e0786713c8ca21dd20b": "README.md",
+    "models--yahma--llama-7b-hf-pytorch_model-00001-of-00002.bin--0087155d6df07106c1d910bfeb6aab1be8e612dfbf2b56ddfb4ccbde7dbd50d0": "pytorch_model-00001-of-00002.bin",
+    "models--yahma--llama-7b-hf-generation_config.json--55d7b5b6db760f8c1963be3d56a3bc363bacdfb1": "generation_config.json",
+    "models--yahma--llama-7b-hf-config.json--ef0484f4fd8c6e39de6de5ef740b3cff866dcfaa": "config.json",
+    "models--yahma--llama-7b-hf-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 13:35:13 (Asia/Shanghai)",
+  "lastest-commit": "cf33055e5df9cc533abd7ea4707bf727ca2ada75"
+}

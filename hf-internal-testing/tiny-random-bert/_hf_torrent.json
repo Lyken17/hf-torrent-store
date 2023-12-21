@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--hf-internal-testing--tiny-random-bert-tf_model.h5--e0d82efce33dd527e8b1d585c024eef3f34ff493084492010308224140519fe3",
+    "special_tokens_map.json": "models--hf-internal-testing--tiny-random-bert-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5",
+    "tokenizer_config.json": "models--hf-internal-testing--tiny-random-bert-tokenizer_config.json--f1f6a44d59f78c8979183439c53d33fddf0dbde5",
+    "tokenizer.json": "models--hf-internal-testing--tiny-random-bert-tokenizer.json--1187eb27d714b64c07ffe8a535e6b42c3584557d",
+    "vocab.txt": "models--hf-internal-testing--tiny-random-bert-vocab.txt--d4c7c7af74653fc360d4da37c238973f192cc25a",
+    "pytorch_model.bin": "models--hf-internal-testing--tiny-random-bert-pytorch_model.bin--9922e8996d0c7e24c7f4e7a5d9c5b7303549f4ee94de0f1138b103014b51be13",
+    "config.json": "models--hf-internal-testing--tiny-random-bert-config.json--22ffb3454131a71d4144340befb799c66ad0c670",
+    ".gitattributes": "models--hf-internal-testing--tiny-random-bert-.gitattributes--cefbc1394f3d04a79ceecc9eb31c9fec4511b168"
+  },
+  "uuid2fpath": {
+    "models--hf-internal-testing--tiny-random-bert-tf_model.h5--e0d82efce33dd527e8b1d585c024eef3f34ff493084492010308224140519fe3": "tf_model.h5",
+    "models--hf-internal-testing--tiny-random-bert-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5": "special_tokens_map.json",
+    "models--hf-internal-testing--tiny-random-bert-tokenizer_config.json--f1f6a44d59f78c8979183439c53d33fddf0dbde5": "tokenizer_config.json",
+    "models--hf-internal-testing--tiny-random-bert-tokenizer.json--1187eb27d714b64c07ffe8a535e6b42c3584557d": "tokenizer.json",
+    "models--hf-internal-testing--tiny-random-bert-vocab.txt--d4c7c7af74653fc360d4da37c238973f192cc25a": "vocab.txt",
+    "models--hf-internal-testing--tiny-random-bert-pytorch_model.bin--9922e8996d0c7e24c7f4e7a5d9c5b7303549f4ee94de0f1138b103014b51be13": "pytorch_model.bin",
+    "models--hf-internal-testing--tiny-random-bert-config.json--22ffb3454131a71d4144340befb799c66ad0c670": "config.json",
+    "models--hf-internal-testing--tiny-random-bert-.gitattributes--cefbc1394f3d04a79ceecc9eb31c9fec4511b168": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:27:32 (Asia/Shanghai)",
+  "lastest-commit": "9b8c223d42b2188cb49d29af482996f9d0f3e5a6"
+}

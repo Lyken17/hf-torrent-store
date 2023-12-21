@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--openchat--openchat_v2-pytorch_model-00003-of-00003.bin--5f7071398a41e7e7aead254a31c11de662b3bafd0be6e74c9335757fae9643c9",
+    "pytorch_model-00001-of-00003.bin": "models--openchat--openchat_v2-pytorch_model-00001-of-00003.bin--fa9d46e6889986d15eb75c9110de3ffd0dd0a3b5e0bc9279d11efa45ba5bb320",
+    "pytorch_model.bin.index.json": "models--openchat--openchat_v2-pytorch_model.bin.index.json--6a41dcef858278972869d631d11eaad9d5f3bfbd",
+    "added_tokens.json": "models--openchat--openchat_v2-added_tokens.json--fe425cea47f6ae9b1c2f73c9f49576099379035a",
+    "special_tokens_map.json": "models--openchat--openchat_v2-special_tokens_map.json--f62c7dce330ec4012f20df384be2d0e4151794b7",
+    "tokenizer_config.json": "models--openchat--openchat_v2-tokenizer_config.json--400e3de6ffc3884ec3c158a046f6a04da00ef3ca",
+    "tokenizer.model": "models--openchat--openchat_v2-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--openchat--openchat_v2-README.md--66d44d082a6bf9e1d590398c9e2032829de17bd3",
+    "config.json": "models--openchat--openchat_v2-config.json--e46786ce5bebd007ada96fc3a098c57439ea139a",
+    "pytorch_model-00002-of-00003.bin": "models--openchat--openchat_v2-pytorch_model-00002-of-00003.bin--afd61a96e3e74128ad788457339b39dcb86b109ec68dfe21322665b5e6f5ceaf",
+    ".gitattributes": "models--openchat--openchat_v2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--openchat--openchat_v2-pytorch_model-00003-of-00003.bin--5f7071398a41e7e7aead254a31c11de662b3bafd0be6e74c9335757fae9643c9": "pytorch_model-00003-of-00003.bin",
+    "models--openchat--openchat_v2-pytorch_model-00001-of-00003.bin--fa9d46e6889986d15eb75c9110de3ffd0dd0a3b5e0bc9279d11efa45ba5bb320": "pytorch_model-00001-of-00003.bin",
+    "models--openchat--openchat_v2-pytorch_model.bin.index.json--6a41dcef858278972869d631d11eaad9d5f3bfbd": "pytorch_model.bin.index.json",
+    "models--openchat--openchat_v2-added_tokens.json--fe425cea47f6ae9b1c2f73c9f49576099379035a": "added_tokens.json",
+    "models--openchat--openchat_v2-special_tokens_map.json--f62c7dce330ec4012f20df384be2d0e4151794b7": "special_tokens_map.json",
+    "models--openchat--openchat_v2-tokenizer_config.json--400e3de6ffc3884ec3c158a046f6a04da00ef3ca": "tokenizer_config.json",
+    "models--openchat--openchat_v2-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--openchat--openchat_v2-README.md--66d44d082a6bf9e1d590398c9e2032829de17bd3": "README.md",
+    "models--openchat--openchat_v2-config.json--e46786ce5bebd007ada96fc3a098c57439ea139a": "config.json",
+    "models--openchat--openchat_v2-pytorch_model-00002-of-00003.bin--afd61a96e3e74128ad788457339b39dcb86b109ec68dfe21322665b5e6f5ceaf": "pytorch_model-00002-of-00003.bin",
+    "models--openchat--openchat_v2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 09:45:17 (Asia/Shanghai)",
+  "lastest-commit": "bd2a0968964c0f2dfae8f5a8950b43e35142f830"
+}

@@ -1,0 +1,14 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--xiaol--RWKV-toolformer-translation-japanese-chinese-english-7B-World-128k-README.md--397c1141a623cd89547d70319fab083cee13d3c7",
+    "RWKV-toolformer-translation-japanese-chinese-english-7B-World-20230815-ctx128k.pth": "models--xiaol--RWKV-toolformer-translation-japanese-chinese-english-7B-World-128k-RWKV-toolformer-translation-japanese-chinese-english-7B-World-20230815-ctx128k.pth--648a3b21055bdab77021ce278da80fbada8dcaae0b3d41d1eca9aa194c1fd25f",
+    ".gitattributes": "models--xiaol--RWKV-toolformer-translation-japanese-chinese-english-7B-World-128k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--RWKV-toolformer-translation-japanese-chinese-english-7B-World-128k-README.md--397c1141a623cd89547d70319fab083cee13d3c7": "README.md",
+    "models--xiaol--RWKV-toolformer-translation-japanese-chinese-english-7B-World-128k-RWKV-toolformer-translation-japanese-chinese-english-7B-World-20230815-ctx128k.pth--648a3b21055bdab77021ce278da80fbada8dcaae0b3d41d1eca9aa194c1fd25f": "RWKV-toolformer-translation-japanese-chinese-english-7B-World-20230815-ctx128k.pth",
+    "models--xiaol--RWKV-toolformer-translation-japanese-chinese-english-7B-World-128k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:26:08 (Asia/Shanghai)",
+  "lastest-commit": "7f055b4b1646bc756dd0a48e91e1562f11de1ff5"
+}

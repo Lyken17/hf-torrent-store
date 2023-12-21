@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--Intel--neural-chat-7b-v3-2-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775",
+    "added_tokens.json": "models--Intel--neural-chat-7b-v3-2-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532",
+    "special_tokens_map.json": "models--Intel--neural-chat-7b-v3-2-special_tokens_map.json--9131cab615f619848c778b3485ab5f07d94242c4",
+    "pytorch_model-00002-of-00002.bin": "models--Intel--neural-chat-7b-v3-2-pytorch_model-00002-of-00002.bin--80562761b9ed7e05376d86c14b85b0ed83700634a64c542f7633d8af4bfcc05d",
+    "tokenizer_config.json": "models--Intel--neural-chat-7b-v3-2-tokenizer_config.json--46fd2f2f0bf446d820526e559f89c719a9e692a4",
+    "tokenizer.model": "models--Intel--neural-chat-7b-v3-2-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--Intel--neural-chat-7b-v3-2-README.md--fcbc89ce2704649c45ed9407878639e875f5920e",
+    "tokenizer.json": "models--Intel--neural-chat-7b-v3-2-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "pytorch_model-00001-of-00002.bin": "models--Intel--neural-chat-7b-v3-2-pytorch_model-00001-of-00002.bin--f4783521b240662e1ebe099e25ca592da903e22b9f408f966be81df91d7582e4",
+    "generation_config.json": "models--Intel--neural-chat-7b-v3-2-generation_config.json--7327bd306f5194519214f3480ea06c6dcd8ceefe",
+    "config.json": "models--Intel--neural-chat-7b-v3-2-config.json--d3f8c007f905b33e6892fa231ffd3e45dbc1a8a5",
+    ".gitattributes": "models--Intel--neural-chat-7b-v3-2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--Intel--neural-chat-7b-v3-2-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775": "pytorch_model.bin.index.json",
+    "models--Intel--neural-chat-7b-v3-2-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532": "added_tokens.json",
+    "models--Intel--neural-chat-7b-v3-2-special_tokens_map.json--9131cab615f619848c778b3485ab5f07d94242c4": "special_tokens_map.json",
+    "models--Intel--neural-chat-7b-v3-2-pytorch_model-00002-of-00002.bin--80562761b9ed7e05376d86c14b85b0ed83700634a64c542f7633d8af4bfcc05d": "pytorch_model-00002-of-00002.bin",
+    "models--Intel--neural-chat-7b-v3-2-tokenizer_config.json--46fd2f2f0bf446d820526e559f89c719a9e692a4": "tokenizer_config.json",
+    "models--Intel--neural-chat-7b-v3-2-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--Intel--neural-chat-7b-v3-2-README.md--fcbc89ce2704649c45ed9407878639e875f5920e": "README.md",
+    "models--Intel--neural-chat-7b-v3-2-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--Intel--neural-chat-7b-v3-2-pytorch_model-00001-of-00002.bin--f4783521b240662e1ebe099e25ca592da903e22b9f408f966be81df91d7582e4": "pytorch_model-00001-of-00002.bin",
+    "models--Intel--neural-chat-7b-v3-2-generation_config.json--7327bd306f5194519214f3480ea06c6dcd8ceefe": "generation_config.json",
+    "models--Intel--neural-chat-7b-v3-2-config.json--d3f8c007f905b33e6892fa231ffd3e45dbc1a8a5": "config.json",
+    "models--Intel--neural-chat-7b-v3-2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 13:57:03 (Asia/Shanghai)",
+  "lastest-commit": "a9d0f9a25d01c1c71d12c80cfd0cdb3299f753e9"
+}

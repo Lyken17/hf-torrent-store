@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "novel-exmples/c3-n5.txt": "models--xiaol--ruotangwx-rwkv-7b-novel-32k-novel-exmples--c3-n5.txt--68535bc7ed9391de973b5bf23483dae24170bee0",
+    "novel-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth": "models--xiaol--ruotangwx-rwkv-7b-novel-32k-novel-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth--0fe2415ce61af52a8c38c071b475c01b4c9f8a4f2b4aaed6181f0334f3faf7f4",
+    "README.md": "models--xiaol--ruotangwx-rwkv-7b-novel-32k-README.md--a03be730f407083c317298f3a9f72f1a727e0fba",
+    ".gitattributes": "models--xiaol--ruotangwx-rwkv-7b-novel-32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--ruotangwx-rwkv-7b-novel-32k-novel-exmples--c3-n5.txt--68535bc7ed9391de973b5bf23483dae24170bee0": "novel-exmples/c3-n5.txt",
+    "models--xiaol--ruotangwx-rwkv-7b-novel-32k-novel-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth--0fe2415ce61af52a8c38c071b475c01b4c9f8a4f2b4aaed6181f0334f3faf7f4": "novel-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k.pth",
+    "models--xiaol--ruotangwx-rwkv-7b-novel-32k-README.md--a03be730f407083c317298f3a9f72f1a727e0fba": "README.md",
+    "models--xiaol--ruotangwx-rwkv-7b-novel-32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 13:50:47 (Asia/Shanghai)",
+  "lastest-commit": "e449fb801094c79f3015825c87a65796ef905547"
+}

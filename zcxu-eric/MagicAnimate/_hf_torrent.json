@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "appearance_encoder/diffusion_pytorch_model.safetensors": "models--zcxu-eric--MagicAnimate-appearance_encoder--diffusion_pytorch_model.safetensors--cb2e8f281d73eff5f9b7f0c94118496607cf5f29fc5b56535a19a8b68e79b619",
+    "appearance_encoder/config.json": "models--zcxu-eric--MagicAnimate-appearance_encoder--config.json--062e161617a8e444885000cc8d33d2a1b43218cc",
+    "densepose_controlnet/diffusion_pytorch_model.safetensors": "models--zcxu-eric--MagicAnimate-densepose_controlnet--diffusion_pytorch_model.safetensors--f5e06b41bd614e84eba294ebf2fa868ef31ffc88fca33987938fde3ec0eb67a4",
+    "densepose_controlnet/config.json": "models--zcxu-eric--MagicAnimate-densepose_controlnet--config.json--88e3a9838fc6a56240dfcc9bb8e3961fe7319e27",
+    "temporal_attention/temporal_attention.ckpt": "models--zcxu-eric--MagicAnimate-temporal_attention--temporal_attention.ckpt--5e14b488d09569ddf5524cf6d671413b6fa6cf13ba2b1f304e5e965d2b997125",
+    "README.md": "models--zcxu-eric--MagicAnimate-README.md--e36e999c81eb2e112c312b233aefb2ef459763d8",
+    ".gitattributes": "models--zcxu-eric--MagicAnimate-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--zcxu-eric--MagicAnimate-appearance_encoder--diffusion_pytorch_model.safetensors--cb2e8f281d73eff5f9b7f0c94118496607cf5f29fc5b56535a19a8b68e79b619": "appearance_encoder/diffusion_pytorch_model.safetensors",
+    "models--zcxu-eric--MagicAnimate-appearance_encoder--config.json--062e161617a8e444885000cc8d33d2a1b43218cc": "appearance_encoder/config.json",
+    "models--zcxu-eric--MagicAnimate-densepose_controlnet--diffusion_pytorch_model.safetensors--f5e06b41bd614e84eba294ebf2fa868ef31ffc88fca33987938fde3ec0eb67a4": "densepose_controlnet/diffusion_pytorch_model.safetensors",
+    "models--zcxu-eric--MagicAnimate-densepose_controlnet--config.json--88e3a9838fc6a56240dfcc9bb8e3961fe7319e27": "densepose_controlnet/config.json",
+    "models--zcxu-eric--MagicAnimate-temporal_attention--temporal_attention.ckpt--5e14b488d09569ddf5524cf6d671413b6fa6cf13ba2b1f304e5e965d2b997125": "temporal_attention/temporal_attention.ckpt",
+    "models--zcxu-eric--MagicAnimate-README.md--e36e999c81eb2e112c312b233aefb2ef459763d8": "README.md",
+    "models--zcxu-eric--MagicAnimate-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:59:10 (Asia/Shanghai)",
+  "lastest-commit": "3d80ae8c50b289e55ee68deecc83afaab9c6a382"
+}

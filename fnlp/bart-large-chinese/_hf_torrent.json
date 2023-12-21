@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--fnlp--bart-large-chinese-special_tokens_map.json--ebe33208af2ad8f73f894ce66ba8641775eaf0e1",
+    "tokenizer_config.json": "models--fnlp--bart-large-chinese-tokenizer_config.json--edba07020f3d510c2f5c2b1d7d972bc23bb948d7",
+    "README.md": "models--fnlp--bart-large-chinese-README.md--52274869ae729a77023e6e6285a109990acdee61",
+    "model.safetensors": "models--fnlp--bart-large-chinese-model.safetensors--17ed0a53e7a7d3d9993db2123b384ce4b15a8af4a91a5cc99d73c604e012896e",
+    "vocab.txt": "models--fnlp--bart-large-chinese-vocab.txt--68c2ee2c2af01ca146af1873977533463fd7a501",
+    "pytorch_model.bin": "models--fnlp--bart-large-chinese-pytorch_model.bin--4b89e56ca2bb54b783a51984cfe17011b12e20d63eacd0221d4a730c48a5bd8c",
+    "config.json": "models--fnlp--bart-large-chinese-config.json--f7fe0e899b20ba6bb74e0e3b2092452130822254",
+    ".gitattributes": "models--fnlp--bart-large-chinese-.gitattributes--2bf99854609538f90af03c921c41a0cbde670b2f"
+  },
+  "uuid2fpath": {
+    "models--fnlp--bart-large-chinese-special_tokens_map.json--ebe33208af2ad8f73f894ce66ba8641775eaf0e1": "special_tokens_map.json",
+    "models--fnlp--bart-large-chinese-tokenizer_config.json--edba07020f3d510c2f5c2b1d7d972bc23bb948d7": "tokenizer_config.json",
+    "models--fnlp--bart-large-chinese-README.md--52274869ae729a77023e6e6285a109990acdee61": "README.md",
+    "models--fnlp--bart-large-chinese-model.safetensors--17ed0a53e7a7d3d9993db2123b384ce4b15a8af4a91a5cc99d73c604e012896e": "model.safetensors",
+    "models--fnlp--bart-large-chinese-vocab.txt--68c2ee2c2af01ca146af1873977533463fd7a501": "vocab.txt",
+    "models--fnlp--bart-large-chinese-pytorch_model.bin--4b89e56ca2bb54b783a51984cfe17011b12e20d63eacd0221d4a730c48a5bd8c": "pytorch_model.bin",
+    "models--fnlp--bart-large-chinese-config.json--f7fe0e899b20ba6bb74e0e3b2092452130822254": "config.json",
+    "models--fnlp--bart-large-chinese-.gitattributes--2bf99854609538f90af03c921c41a0cbde670b2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:42:16 (Asia/Shanghai)",
+  "lastest-commit": "75cdf21ffc77809dd8cd5fd52d552f3bb35eafc3"
+}

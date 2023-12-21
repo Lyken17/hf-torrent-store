@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "model-00004-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00004-of-00008.safetensors--2b42af0bb16647959b3e55def4b3c66ab8c3a25fd948a5245c81d070f2b4313d",
+    "model-00006-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00006-of-00008.safetensors--d01880ca5677e69a5f8632f9dda62814f0c549b5a40d4f7e136065e5d64c1a7d",
+    "model-00008-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00008-of-00008.safetensors--a756381ef65b92af7f1fb97da3d59cb04586080982de86d76805299898223294",
+    "model-00001-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00001-of-00008.safetensors--e29f6ec471ca55789ab14947b527729b9c30313ceb1e7726590b85f9f6406cca",
+    "README.md": "models--THUDM--cogvlm-chat-hf-README.md--9781806836255b014f875119016ee72e6981fc13",
+    "model-00002-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00002-of-00008.safetensors--e82356882701b1a778408f31e676d17c2aff799c543e8596ed74bc805b4a1213",
+    "model-00007-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00007-of-00008.safetensors--e70b0e10d2ac8800e69e514b6a9b04ac28cd7db43985ce62daa4e0e639b4e5ba",
+    "model-00003-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00003-of-00008.safetensors--04096f84f42798d0c89319ff8254995a2a3512c16ec88dfd078ce421867d92ec",
+    "generation_config.json": "models--THUDM--cogvlm-chat-hf-generation_config.json--a4fee64c3bea2cc2488999c0611a0602930b7e93",
+    "model-00005-of-00008.safetensors": "models--THUDM--cogvlm-chat-hf-model-00005-of-00008.safetensors--38c07825790e055dd169376479994a58a4f59775ba7cf31d5ca25d8a465e7b0c",
+    "model.safetensors.index.json": "models--THUDM--cogvlm-chat-hf-model.safetensors.index.json--197b878b0e9f9b1ffb97a7c4da1fb834fffcaf97",
+    "visual.py": "models--THUDM--cogvlm-chat-hf-visual.py--367e2fb1d19ff3b5c43fb898b7d15e436bbbf7cc",
+    "config.json": "models--THUDM--cogvlm-chat-hf-config.json--8b5a3c26659a087d6f41701ef63c8b094d36cad0",
+    "configuration_cogvlm.py": "models--THUDM--cogvlm-chat-hf-configuration_cogvlm.py--60d487ac530bb1aa6e13828e2a17ae2f521b02d1",
+    ".gitattributes": "models--THUDM--cogvlm-chat-hf-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "modeling_cogvlm.py": "models--THUDM--cogvlm-chat-hf-modeling_cogvlm.py--d568aa1d702100ad2feb98d7f71c31e0fd49d722"
+  },
+  "uuid2fpath": {
+    "models--THUDM--cogvlm-chat-hf-model-00004-of-00008.safetensors--2b42af0bb16647959b3e55def4b3c66ab8c3a25fd948a5245c81d070f2b4313d": "model-00004-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-model-00006-of-00008.safetensors--d01880ca5677e69a5f8632f9dda62814f0c549b5a40d4f7e136065e5d64c1a7d": "model-00006-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-model-00008-of-00008.safetensors--a756381ef65b92af7f1fb97da3d59cb04586080982de86d76805299898223294": "model-00008-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-model-00001-of-00008.safetensors--e29f6ec471ca55789ab14947b527729b9c30313ceb1e7726590b85f9f6406cca": "model-00001-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-README.md--9781806836255b014f875119016ee72e6981fc13": "README.md",
+    "models--THUDM--cogvlm-chat-hf-model-00002-of-00008.safetensors--e82356882701b1a778408f31e676d17c2aff799c543e8596ed74bc805b4a1213": "model-00002-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-model-00007-of-00008.safetensors--e70b0e10d2ac8800e69e514b6a9b04ac28cd7db43985ce62daa4e0e639b4e5ba": "model-00007-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-model-00003-of-00008.safetensors--04096f84f42798d0c89319ff8254995a2a3512c16ec88dfd078ce421867d92ec": "model-00003-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-generation_config.json--a4fee64c3bea2cc2488999c0611a0602930b7e93": "generation_config.json",
+    "models--THUDM--cogvlm-chat-hf-model-00005-of-00008.safetensors--38c07825790e055dd169376479994a58a4f59775ba7cf31d5ca25d8a465e7b0c": "model-00005-of-00008.safetensors",
+    "models--THUDM--cogvlm-chat-hf-model.safetensors.index.json--197b878b0e9f9b1ffb97a7c4da1fb834fffcaf97": "model.safetensors.index.json",
+    "models--THUDM--cogvlm-chat-hf-visual.py--367e2fb1d19ff3b5c43fb898b7d15e436bbbf7cc": "visual.py",
+    "models--THUDM--cogvlm-chat-hf-config.json--8b5a3c26659a087d6f41701ef63c8b094d36cad0": "config.json",
+    "models--THUDM--cogvlm-chat-hf-configuration_cogvlm.py--60d487ac530bb1aa6e13828e2a17ae2f521b02d1": "configuration_cogvlm.py",
+    "models--THUDM--cogvlm-chat-hf-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--THUDM--cogvlm-chat-hf-modeling_cogvlm.py--d568aa1d702100ad2feb98d7f71c31e0fd49d722": "modeling_cogvlm.py"
+  },
+  "lastest-generated": "2023-12-21 10:54:24 (Asia/Shanghai)",
+  "lastest-commit": "e29dc3ba206d524bf8efbfc60d80fc4556ab0e3c"
+}

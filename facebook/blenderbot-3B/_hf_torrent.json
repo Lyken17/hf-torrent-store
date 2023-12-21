@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "merges.txt": "models--facebook--blenderbot-3B-merges.txt--88513e098ed579d19b8c5fd3c8858dae231f8f9d",
+    "special_tokens_map.json": "models--facebook--blenderbot-3B-special_tokens_map.json--58f4938789042650c312b7b556519bd3849ad4f8",
+    "tokenizer_config.json": "models--facebook--blenderbot-3B-tokenizer_config.json--cfa1256d93b4997067e7e1379636522025008942",
+    "README.md": "models--facebook--blenderbot-3B-README.md--e2f8cd25a07a511bfc26cc6670c9b3da904e5b00",
+    "tokenizer.json": "models--facebook--blenderbot-3B-tokenizer.json--24a1ad63fced428ca274ce2c8b4d2c4386aebf70",
+    "generation_config.json": "models--facebook--blenderbot-3B-generation_config.json--4bdb819ef10be2b1f9631d01a05447821b0d1489",
+    "vocab.json": "models--facebook--blenderbot-3B-vocab.json--e25e1be9c2d09b901c5eded8fdb817a82bb8ae14",
+    "pytorch_model.bin": "models--facebook--blenderbot-3B-pytorch_model.bin--6f009ff25e27651371ee092a8d0fe114a1b8209d35e2d6c8dfb82591976016a8",
+    "config.json": "models--facebook--blenderbot-3B-config.json--0330b86276a8afb92be4b1aa3eedf32ec5ea1ab4",
+    ".gitattributes": "models--facebook--blenderbot-3B-.gitattributes--dc08351d4dc0732d9c8af04070ced089b201ce2f"
+  },
+  "uuid2fpath": {
+    "models--facebook--blenderbot-3B-merges.txt--88513e098ed579d19b8c5fd3c8858dae231f8f9d": "merges.txt",
+    "models--facebook--blenderbot-3B-special_tokens_map.json--58f4938789042650c312b7b556519bd3849ad4f8": "special_tokens_map.json",
+    "models--facebook--blenderbot-3B-tokenizer_config.json--cfa1256d93b4997067e7e1379636522025008942": "tokenizer_config.json",
+    "models--facebook--blenderbot-3B-README.md--e2f8cd25a07a511bfc26cc6670c9b3da904e5b00": "README.md",
+    "models--facebook--blenderbot-3B-tokenizer.json--24a1ad63fced428ca274ce2c8b4d2c4386aebf70": "tokenizer.json",
+    "models--facebook--blenderbot-3B-generation_config.json--4bdb819ef10be2b1f9631d01a05447821b0d1489": "generation_config.json",
+    "models--facebook--blenderbot-3B-vocab.json--e25e1be9c2d09b901c5eded8fdb817a82bb8ae14": "vocab.json",
+    "models--facebook--blenderbot-3B-pytorch_model.bin--6f009ff25e27651371ee092a8d0fe114a1b8209d35e2d6c8dfb82591976016a8": "pytorch_model.bin",
+    "models--facebook--blenderbot-3B-config.json--0330b86276a8afb92be4b1aa3eedf32ec5ea1ab4": "config.json",
+    "models--facebook--blenderbot-3B-.gitattributes--dc08351d4dc0732d9c8af04070ced089b201ce2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:29:44 (Asia/Shanghai)",
+  "lastest-commit": "7feb37de66e67fa103b6ee7e19ef94fce5189e15"
+}

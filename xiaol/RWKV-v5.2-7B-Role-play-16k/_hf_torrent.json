@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "rwkv_vocab_v20230424.txt": "models--xiaol--RWKV-v5.2-7B-Role-play-16k-rwkv_vocab_v20230424.txt--27b2272349933498da63f15c44498c79675da9d9",
+    "README.md": "models--xiaol--RWKV-v5.2-7B-Role-play-16k-README.md--93ac358a9f9c52d3f55f779731b10187d0a6a46a",
+    "rwkv_v5.2_7B_role_play_16k.pth": "models--xiaol--RWKV-v5.2-7B-Role-play-16k-rwkv_v5.2_7B_role_play_16k.pth--6fe8a7bf06b9f5e5b740cd87e24bff91325518ad19bf92bf5c75799b3c24b150",
+    ".gitattributes": "models--xiaol--RWKV-v5.2-7B-Role-play-16k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--RWKV-v5.2-7B-Role-play-16k-rwkv_vocab_v20230424.txt--27b2272349933498da63f15c44498c79675da9d9": "rwkv_vocab_v20230424.txt",
+    "models--xiaol--RWKV-v5.2-7B-Role-play-16k-README.md--93ac358a9f9c52d3f55f779731b10187d0a6a46a": "README.md",
+    "models--xiaol--RWKV-v5.2-7B-Role-play-16k-rwkv_v5.2_7B_role_play_16k.pth--6fe8a7bf06b9f5e5b740cd87e24bff91325518ad19bf92bf5c75799b3c24b150": "rwkv_v5.2_7B_role_play_16k.pth",
+    "models--xiaol--RWKV-v5.2-7B-Role-play-16k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 09:52:47 (Asia/Shanghai)",
+  "lastest-commit": "da83c90ad1937ca537173ac19e46735af9342e8d"
+}

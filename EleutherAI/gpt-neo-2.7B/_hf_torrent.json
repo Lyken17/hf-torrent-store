@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--EleutherAI--gpt-neo-2.7B-rust_model.ot--8a673e0d4fb1b92e0473160d8ea30dab79f354f4c09f71cdee8e9869e8c98eaf",
+    "merges.txt": "models--EleutherAI--gpt-neo-2.7B-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956",
+    "special_tokens_map.json": "models--EleutherAI--gpt-neo-2.7B-special_tokens_map.json--817762d631ad6f9c799f6b9dc713c46420e65546",
+    "tokenizer_config.json": "models--EleutherAI--gpt-neo-2.7B-tokenizer_config.json--ddcabb4ad76163e2bae42b720c07d509c99494e0",
+    "README.md": "models--EleutherAI--gpt-neo-2.7B-README.md--bbb81f2138f84ac15a2c6e7450f0d1ca207cedfe",
+    "model.safetensors": "models--EleutherAI--gpt-neo-2.7B-model.safetensors--ac75c6bf3e242ed5df22c1d9eb4a5fa563d201c0beab16711bd3fbb7448b1699",
+    "vocab.json": "models--EleutherAI--gpt-neo-2.7B-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b",
+    "flax_model.msgpack": "models--EleutherAI--gpt-neo-2.7B-flax_model.msgpack--f3734b75e71878322f27d6d834b1c72eb4950e21ed418d2278aeb6a178f33e14",
+    "pytorch_model.bin": "models--EleutherAI--gpt-neo-2.7B-pytorch_model.bin--bd06eed99c791348df5bec014bd399960ef364b9951e1be8180940a3669a9067",
+    "config.json": "models--EleutherAI--gpt-neo-2.7B-config.json--aa9034747038f9b431c59f7aa492ec09b5879602",
+    ".gitattributes": "models--EleutherAI--gpt-neo-2.7B-.gitattributes--f200428e0a85720faad71764c8cf8a23eb66281f"
+  },
+  "uuid2fpath": {
+    "models--EleutherAI--gpt-neo-2.7B-rust_model.ot--8a673e0d4fb1b92e0473160d8ea30dab79f354f4c09f71cdee8e9869e8c98eaf": "rust_model.ot",
+    "models--EleutherAI--gpt-neo-2.7B-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956": "merges.txt",
+    "models--EleutherAI--gpt-neo-2.7B-special_tokens_map.json--817762d631ad6f9c799f6b9dc713c46420e65546": "special_tokens_map.json",
+    "models--EleutherAI--gpt-neo-2.7B-tokenizer_config.json--ddcabb4ad76163e2bae42b720c07d509c99494e0": "tokenizer_config.json",
+    "models--EleutherAI--gpt-neo-2.7B-README.md--bbb81f2138f84ac15a2c6e7450f0d1ca207cedfe": "README.md",
+    "models--EleutherAI--gpt-neo-2.7B-model.safetensors--ac75c6bf3e242ed5df22c1d9eb4a5fa563d201c0beab16711bd3fbb7448b1699": "model.safetensors",
+    "models--EleutherAI--gpt-neo-2.7B-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b": "vocab.json",
+    "models--EleutherAI--gpt-neo-2.7B-flax_model.msgpack--f3734b75e71878322f27d6d834b1c72eb4950e21ed418d2278aeb6a178f33e14": "flax_model.msgpack",
+    "models--EleutherAI--gpt-neo-2.7B-pytorch_model.bin--bd06eed99c791348df5bec014bd399960ef364b9951e1be8180940a3669a9067": "pytorch_model.bin",
+    "models--EleutherAI--gpt-neo-2.7B-config.json--aa9034747038f9b431c59f7aa492ec09b5879602": "config.json",
+    "models--EleutherAI--gpt-neo-2.7B-.gitattributes--f200428e0a85720faad71764c8cf8a23eb66281f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 11:45:26 (Asia/Shanghai)",
+  "lastest-commit": "e24fa291132763e59f4a5422741b424fb5d59056"
+}

@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--YeungNLP--firefly-internlm-7b-pytorch_model.bin.index.json--0cd2261b2f485a75e377cbca5c1af1c6de27484b",
+    "tokenization_internlm.py": "models--YeungNLP--firefly-internlm-7b-tokenization_internlm.py--b6a348959c94afcc41f02caacf47a8bf23078dca",
+    "special_tokens_map.json": "models--YeungNLP--firefly-internlm-7b-special_tokens_map.json--9bfed7513d3b1b65445af10c4571256f4a19b290",
+    "pytorch_model-00002-of-00002.bin": "models--YeungNLP--firefly-internlm-7b-pytorch_model-00002-of-00002.bin--1b77149f65c2541d05018fca77b77a90d712fa7b917045f4925a34f5f1d598df",
+    "tokenizer_config.json": "models--YeungNLP--firefly-internlm-7b-tokenizer_config.json--857ab9eccafd9682a491c525f5ebdc206c607de7",
+    "tokenizer.model": "models--YeungNLP--firefly-internlm-7b-tokenizer.model--aab622d98c98677a1a51f969e25765154487bf3e85c7819db105db2fcacba83f",
+    "README.md": "models--YeungNLP--firefly-internlm-7b-README.md--edf9f67ecaad10b3c4210629046d6befb313b2d9",
+    "pytorch_model-00001-of-00002.bin": "models--YeungNLP--firefly-internlm-7b-pytorch_model-00001-of-00002.bin--df8df0a4b150621090608ab00523364642cac835228f4d26820d0380c0d4b676",
+    "internlm-loss.jpg": "models--YeungNLP--firefly-internlm-7b-internlm-loss.jpg--556ec1d764ebb621dd4b572394fddbc782f24aad",
+    "modeling_internlm.py": "models--YeungNLP--firefly-internlm-7b-modeling_internlm.py--d9078b2b0579f6c319c0536448b71ad07eb71f70",
+    "generation_config.json": "models--YeungNLP--firefly-internlm-7b-generation_config.json--89c31b8e044c6d3589cd86fe3be48558d8bab8fc",
+    "config.json": "models--YeungNLP--firefly-internlm-7b-config.json--7d2cd1ee542607e2c15ff59134d0372bddfa9bc3",
+    "configuration_internlm.py": "models--YeungNLP--firefly-internlm-7b-configuration_internlm.py--298f91319529e9b3034bcb74bb428d610534a0ba",
+    ".gitattributes": "models--YeungNLP--firefly-internlm-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-internlm-7b-pytorch_model.bin.index.json--0cd2261b2f485a75e377cbca5c1af1c6de27484b": "pytorch_model.bin.index.json",
+    "models--YeungNLP--firefly-internlm-7b-tokenization_internlm.py--b6a348959c94afcc41f02caacf47a8bf23078dca": "tokenization_internlm.py",
+    "models--YeungNLP--firefly-internlm-7b-special_tokens_map.json--9bfed7513d3b1b65445af10c4571256f4a19b290": "special_tokens_map.json",
+    "models--YeungNLP--firefly-internlm-7b-pytorch_model-00002-of-00002.bin--1b77149f65c2541d05018fca77b77a90d712fa7b917045f4925a34f5f1d598df": "pytorch_model-00002-of-00002.bin",
+    "models--YeungNLP--firefly-internlm-7b-tokenizer_config.json--857ab9eccafd9682a491c525f5ebdc206c607de7": "tokenizer_config.json",
+    "models--YeungNLP--firefly-internlm-7b-tokenizer.model--aab622d98c98677a1a51f969e25765154487bf3e85c7819db105db2fcacba83f": "tokenizer.model",
+    "models--YeungNLP--firefly-internlm-7b-README.md--edf9f67ecaad10b3c4210629046d6befb313b2d9": "README.md",
+    "models--YeungNLP--firefly-internlm-7b-pytorch_model-00001-of-00002.bin--df8df0a4b150621090608ab00523364642cac835228f4d26820d0380c0d4b676": "pytorch_model-00001-of-00002.bin",
+    "models--YeungNLP--firefly-internlm-7b-internlm-loss.jpg--556ec1d764ebb621dd4b572394fddbc782f24aad": "internlm-loss.jpg",
+    "models--YeungNLP--firefly-internlm-7b-modeling_internlm.py--d9078b2b0579f6c319c0536448b71ad07eb71f70": "modeling_internlm.py",
+    "models--YeungNLP--firefly-internlm-7b-generation_config.json--89c31b8e044c6d3589cd86fe3be48558d8bab8fc": "generation_config.json",
+    "models--YeungNLP--firefly-internlm-7b-config.json--7d2cd1ee542607e2c15ff59134d0372bddfa9bc3": "config.json",
+    "models--YeungNLP--firefly-internlm-7b-configuration_internlm.py--298f91319529e9b3034bcb74bb428d610534a0ba": "configuration_internlm.py",
+    "models--YeungNLP--firefly-internlm-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 11:37:23 (Asia/Shanghai)",
+  "lastest-commit": "d6910f5cf6f507fdc8ce0e11b693950355617233"
+}

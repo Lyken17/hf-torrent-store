@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "adapter_model.bin": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-adapter_model.bin--d9953e646503a198cb65f539c6cf98fc4b30f976582f6773c645c2d8d0d21b6f",
+    "non_lora_trainables.bin": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-non_lora_trainables.bin--8b19936ff6f6fb8016cd3e000480e8ef52c12d912b7d960013d14158043c8373",
+    "README.md": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-README.md--e7a8f18c4b39fba248f7924915128f89f245d4b6",
+    "trainer_state.json": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-trainer_state.json--7bc8e9ab761c616116f1a89a1cf13acaf887ad7d",
+    "config.json": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-config.json--68d4a8896ad2434098de905d7aabf3f420da16ac",
+    "adapter_config.json": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-adapter_config.json--c66bd1e7806dfc2c30a0a1cce2035739892da45d",
+    ".gitattributes": "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-adapter_model.bin--d9953e646503a198cb65f539c6cf98fc4b30f976582f6773c645c2d8d0d21b6f": "adapter_model.bin",
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-non_lora_trainables.bin--8b19936ff6f6fb8016cd3e000480e8ef52c12d912b7d960013d14158043c8373": "non_lora_trainables.bin",
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-README.md--e7a8f18c4b39fba248f7924915128f89f245d4b6": "README.md",
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-trainer_state.json--7bc8e9ab761c616116f1a89a1cf13acaf887ad7d": "trainer_state.json",
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-config.json--68d4a8896ad2434098de905d7aabf3f420da16ac": "config.json",
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-adapter_config.json--c66bd1e7806dfc2c30a0a1cce2035739892da45d": "adapter_config.json",
+    "models--liuhaotian--llava-vicuna-7b-v1.1-lcs_558k-instruct_80k_1e-lora-preview_alpha-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:27:27 (Asia/Shanghai)",
+  "lastest-commit": "fd95007fce5d2521224dc836392c791661e77035"
+}

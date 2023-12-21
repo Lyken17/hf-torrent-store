@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "vae-ft-mse-840000-ema-pruned.ckpt": "models--stabilityai--sd-vae-ft-mse-original-vae-ft-mse-840000-ema-pruned.ckpt--c6a580b13a5bc05a5e16e4dbb80608ff2ec251a162311590c1f34c013d7f3dab",
+    "README.md": "models--stabilityai--sd-vae-ft-mse-original-README.md--a956f64e3e84cd36f90041c784d313dfd1a8e95f",
+    "vae-ft-mse-840000-ema-pruned.safetensors": "models--stabilityai--sd-vae-ft-mse-original-vae-ft-mse-840000-ema-pruned.safetensors--735e4c3a447a3255760d7f86845f09f937809baa529c17370d83e4c3758f3c75",
+    ".gitattributes": "models--stabilityai--sd-vae-ft-mse-original-.gitattributes--d36efa1c8fead0314e9e94bcd3f23edb64870e72"
+  },
+  "uuid2fpath": {
+    "models--stabilityai--sd-vae-ft-mse-original-vae-ft-mse-840000-ema-pruned.ckpt--c6a580b13a5bc05a5e16e4dbb80608ff2ec251a162311590c1f34c013d7f3dab": "vae-ft-mse-840000-ema-pruned.ckpt",
+    "models--stabilityai--sd-vae-ft-mse-original-README.md--a956f64e3e84cd36f90041c784d313dfd1a8e95f": "README.md",
+    "models--stabilityai--sd-vae-ft-mse-original-vae-ft-mse-840000-ema-pruned.safetensors--735e4c3a447a3255760d7f86845f09f937809baa529c17370d83e4c3758f3c75": "vae-ft-mse-840000-ema-pruned.safetensors",
+    "models--stabilityai--sd-vae-ft-mse-original-.gitattributes--d36efa1c8fead0314e9e94bcd3f23edb64870e72": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:47:28 (Asia/Shanghai)",
+  "lastest-commit": "629b3ad3030ce36e15e70c5db7d91df0d60c627f"
+}

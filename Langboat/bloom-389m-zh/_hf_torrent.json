@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--Langboat--bloom-389m-zh-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d",
+    "tokenizer_config.json": "models--Langboat--bloom-389m-zh-tokenizer_config.json--e37302f88de583a26955d8caf816cc419fbca548",
+    "README.md": "models--Langboat--bloom-389m-zh-README.md--1b7efe4b3c2a91f8be77a1018d0d8a847ffdab4f",
+    "tokenizer.json": "models--Langboat--bloom-389m-zh-tokenizer.json--e62e04309fa329784819e1defe6b8d7b90244a23",
+    "pytorch_model.bin": "models--Langboat--bloom-389m-zh-pytorch_model.bin--859def90ab8022cefb9ada361eb791047b389cb984575a913a04e59db722bd70",
+    "config.json": "models--Langboat--bloom-389m-zh-config.json--7a6ce5fcbbee56d5f07f1f8a1cb1f2f715b6d22d",
+    ".gitattributes": "models--Langboat--bloom-389m-zh-.gitattributes--78be8432e1148d0227370439dad9d9a818f08df4"
+  },
+  "uuid2fpath": {
+    "models--Langboat--bloom-389m-zh-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d": "special_tokens_map.json",
+    "models--Langboat--bloom-389m-zh-tokenizer_config.json--e37302f88de583a26955d8caf816cc419fbca548": "tokenizer_config.json",
+    "models--Langboat--bloom-389m-zh-README.md--1b7efe4b3c2a91f8be77a1018d0d8a847ffdab4f": "README.md",
+    "models--Langboat--bloom-389m-zh-tokenizer.json--e62e04309fa329784819e1defe6b8d7b90244a23": "tokenizer.json",
+    "models--Langboat--bloom-389m-zh-pytorch_model.bin--859def90ab8022cefb9ada361eb791047b389cb984575a913a04e59db722bd70": "pytorch_model.bin",
+    "models--Langboat--bloom-389m-zh-config.json--7a6ce5fcbbee56d5f07f1f8a1cb1f2f715b6d22d": "config.json",
+    "models--Langboat--bloom-389m-zh-.gitattributes--78be8432e1148d0227370439dad9d9a818f08df4": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:27:58 (Asia/Shanghai)",
+  "lastest-commit": "762a9501fe3e47365cc178bf70ab0a9d9c4aff0a"
+}

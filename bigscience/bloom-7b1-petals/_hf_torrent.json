@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--bigscience--bloom-7b1-petals-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d",
+    "tokenizer_config.json": "models--bigscience--bloom-7b1-petals-tokenizer_config.json--7e4fd012195eab589760491d4c9e1164ee1cbf55",
+    "README.md": "models--bigscience--bloom-7b1-petals-README.md--0096e7be39825a2dfd3afef2b5afed0c48ecd4a6",
+    "tokenizer.json": "models--bigscience--bloom-7b1-petals-tokenizer.json--8f6efc66e73f1fd69da4f436e48befb519fdff3fe18910850c1d41bd862293a5",
+    "model.safetensors": "models--bigscience--bloom-7b1-petals-model.safetensors--42e9f7c6670c5fb0e6a0d2c0beed8e1df53e7bc11d7e6904d3c493e24feaa79e",
+    "pytorch_model.bin": "models--bigscience--bloom-7b1-petals-pytorch_model.bin--50f206263e7636fc72a42747e86c39d576f3b6790f209132bdb8b03fa0660fb7",
+    "config.json": "models--bigscience--bloom-7b1-petals-config.json--88a0e259b40f1b88908b20f6141c0d0dbaf64863",
+    ".gitattributes": "models--bigscience--bloom-7b1-petals-.gitattributes--9465f3dee05702760cf48275b10a710eb23dfee3"
+  },
+  "uuid2fpath": {
+    "models--bigscience--bloom-7b1-petals-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d": "special_tokens_map.json",
+    "models--bigscience--bloom-7b1-petals-tokenizer_config.json--7e4fd012195eab589760491d4c9e1164ee1cbf55": "tokenizer_config.json",
+    "models--bigscience--bloom-7b1-petals-README.md--0096e7be39825a2dfd3afef2b5afed0c48ecd4a6": "README.md",
+    "models--bigscience--bloom-7b1-petals-tokenizer.json--8f6efc66e73f1fd69da4f436e48befb519fdff3fe18910850c1d41bd862293a5": "tokenizer.json",
+    "models--bigscience--bloom-7b1-petals-model.safetensors--42e9f7c6670c5fb0e6a0d2c0beed8e1df53e7bc11d7e6904d3c493e24feaa79e": "model.safetensors",
+    "models--bigscience--bloom-7b1-petals-pytorch_model.bin--50f206263e7636fc72a42747e86c39d576f3b6790f209132bdb8b03fa0660fb7": "pytorch_model.bin",
+    "models--bigscience--bloom-7b1-petals-config.json--88a0e259b40f1b88908b20f6141c0d0dbaf64863": "config.json",
+    "models--bigscience--bloom-7b1-petals-.gitattributes--9465f3dee05702760cf48275b10a710eb23dfee3": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:55:34 (Asia/Shanghai)",
+  "lastest-commit": "0b230a6706a84cd611ae9f4276c0543d47f98d8b"
+}

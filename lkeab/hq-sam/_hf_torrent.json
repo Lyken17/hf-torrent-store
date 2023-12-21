@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "sam_hq_vit_tiny.pth": "models--lkeab--hq-sam-sam_hq_vit_tiny.pth--0f32c075ccdd870ae54db2f7630e7a0878ede5a2b06d05d6fe02c65a82fb7196",
+    "sam_hq_vit_b.pth": "models--lkeab--hq-sam-sam_hq_vit_b.pth--14a9d662cd6f5a9c2dba6d40ab0058d88d287e4a18fd6fdc6ad5fb1a3fdeaa57",
+    "README.md": "models--lkeab--hq-sam-README.md--154df8298fab5ecf322016157858e08cd1bccbe1",
+    "sam_hq_vit_l.pth": "models--lkeab--hq-sam-sam_hq_vit_l.pth--e1a6c385d62bf005ded91a54d5ec55c985cfc4103ef89c08d90f39f04934c343",
+    "sam_hq_vit_h.pth": "models--lkeab--hq-sam-sam_hq_vit_h.pth--a7ac14a085326d9fa6199c8c698c4f0e7280afdbb974d2c4660ec60877b45e35",
+    ".gitattributes": "models--lkeab--hq-sam-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--lkeab--hq-sam-sam_hq_vit_tiny.pth--0f32c075ccdd870ae54db2f7630e7a0878ede5a2b06d05d6fe02c65a82fb7196": "sam_hq_vit_tiny.pth",
+    "models--lkeab--hq-sam-sam_hq_vit_b.pth--14a9d662cd6f5a9c2dba6d40ab0058d88d287e4a18fd6fdc6ad5fb1a3fdeaa57": "sam_hq_vit_b.pth",
+    "models--lkeab--hq-sam-README.md--154df8298fab5ecf322016157858e08cd1bccbe1": "README.md",
+    "models--lkeab--hq-sam-sam_hq_vit_l.pth--e1a6c385d62bf005ded91a54d5ec55c985cfc4103ef89c08d90f39f04934c343": "sam_hq_vit_l.pth",
+    "models--lkeab--hq-sam-sam_hq_vit_h.pth--a7ac14a085326d9fa6199c8c698c4f0e7280afdbb974d2c4660ec60877b45e35": "sam_hq_vit_h.pth",
+    "models--lkeab--hq-sam-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 13:51:17 (Asia/Shanghai)",
+  "lastest-commit": "a3a77cd0a2e5e50eaa76faccf61b964732d9b35f"
+}

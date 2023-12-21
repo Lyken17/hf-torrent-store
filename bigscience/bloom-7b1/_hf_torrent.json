@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--bigscience--bloom-7b1-model-00001-of-00002.safetensors--10df3a160ea5352261e667073a5a896fc0c5253a3ea31b78f7940fcff83ede07",
+    "pytorch_model.bin.index.json": "models--bigscience--bloom-7b1-pytorch_model.bin.index.json--fce99cc7714aebfcc19f7647f34e8aecac44a44a",
+    "special_tokens_map.json": "models--bigscience--bloom-7b1-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1",
+    "pytorch_model-00002-of-00002.bin": "models--bigscience--bloom-7b1-pytorch_model-00002-of-00002.bin--a68540e3387c76ee41cc0e9c3ef8d73bd3ebcf00b7fbc3d689a70f583c7d70f1",
+    "flax_model-00001-of-00002.msgpack": "models--bigscience--bloom-7b1-flax_model-00001-of-00002.msgpack--5e7d1cdd23c8fc68e26e2ec8f119c7b33e21a9511e8dfd0cd349d222ad24fa79",
+    "tokenizer_config.json": "models--bigscience--bloom-7b1-tokenizer_config.json--e7016b49fcff7e162946ec012d3c7b4db0b66d87",
+    "README.md": "models--bigscience--bloom-7b1-README.md--f6b5955bbd295bab55e5d823db603b1ae1ebe2f1",
+    "tokenizer.json": "models--bigscience--bloom-7b1-tokenizer.json--3fa39cd4b1500feb205bcce3b9703a4373414cafe4970e0657b413f7ddd2a9d3",
+    "model-00002-of-00002.safetensors": "models--bigscience--bloom-7b1-model-00002-of-00002.safetensors--d1ae1c8a2e7b30795c7741b8c1bedd1093ad87dd95e95614a1d78ad1c75f6d03",
+    "pytorch_model-00001-of-00002.bin": "models--bigscience--bloom-7b1-pytorch_model-00001-of-00002.bin--f827f093c3e30875e96bc8093800f6fffcb81f8bd73e84109efcaae57f5d77ff",
+    "flax_model.msgpack.index.json": "models--bigscience--bloom-7b1-flax_model.msgpack.index.json--f98aaabd0922132c4af23cf6f672e23c7a39cd68",
+    "flax_model-00002-of-00002.msgpack": "models--bigscience--bloom-7b1-flax_model-00002-of-00002.msgpack--b408202854dbe2d2957690720ec0f16ae8cbbe5495eda084aab14e110ba83110",
+    "LICENSE": "models--bigscience--bloom-7b1-LICENSE--ab1f554e777c9a2075dca946ae706c0ab257a9de",
+    "model.safetensors.index.json": "models--bigscience--bloom-7b1-model.safetensors.index.json--3503cf379f9847f8b8be9ea34de8b6d08467ff18",
+    "config.json": "models--bigscience--bloom-7b1-config.json--6d5adf5a53349e7afb9b1f11ae071165f7a40be5",
+    ".gitattributes": "models--bigscience--bloom-7b1-.gitattributes--c8fb7b32863941c9922bbc4588f1578ed52f7847"
+  },
+  "uuid2fpath": {
+    "models--bigscience--bloom-7b1-model-00001-of-00002.safetensors--10df3a160ea5352261e667073a5a896fc0c5253a3ea31b78f7940fcff83ede07": "model-00001-of-00002.safetensors",
+    "models--bigscience--bloom-7b1-pytorch_model.bin.index.json--fce99cc7714aebfcc19f7647f34e8aecac44a44a": "pytorch_model.bin.index.json",
+    "models--bigscience--bloom-7b1-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1": "special_tokens_map.json",
+    "models--bigscience--bloom-7b1-pytorch_model-00002-of-00002.bin--a68540e3387c76ee41cc0e9c3ef8d73bd3ebcf00b7fbc3d689a70f583c7d70f1": "pytorch_model-00002-of-00002.bin",
+    "models--bigscience--bloom-7b1-flax_model-00001-of-00002.msgpack--5e7d1cdd23c8fc68e26e2ec8f119c7b33e21a9511e8dfd0cd349d222ad24fa79": "flax_model-00001-of-00002.msgpack",
+    "models--bigscience--bloom-7b1-tokenizer_config.json--e7016b49fcff7e162946ec012d3c7b4db0b66d87": "tokenizer_config.json",
+    "models--bigscience--bloom-7b1-README.md--f6b5955bbd295bab55e5d823db603b1ae1ebe2f1": "README.md",
+    "models--bigscience--bloom-7b1-tokenizer.json--3fa39cd4b1500feb205bcce3b9703a4373414cafe4970e0657b413f7ddd2a9d3": "tokenizer.json",
+    "models--bigscience--bloom-7b1-model-00002-of-00002.safetensors--d1ae1c8a2e7b30795c7741b8c1bedd1093ad87dd95e95614a1d78ad1c75f6d03": "model-00002-of-00002.safetensors",
+    "models--bigscience--bloom-7b1-pytorch_model-00001-of-00002.bin--f827f093c3e30875e96bc8093800f6fffcb81f8bd73e84109efcaae57f5d77ff": "pytorch_model-00001-of-00002.bin",
+    "models--bigscience--bloom-7b1-flax_model.msgpack.index.json--f98aaabd0922132c4af23cf6f672e23c7a39cd68": "flax_model.msgpack.index.json",
+    "models--bigscience--bloom-7b1-flax_model-00002-of-00002.msgpack--b408202854dbe2d2957690720ec0f16ae8cbbe5495eda084aab14e110ba83110": "flax_model-00002-of-00002.msgpack",
+    "models--bigscience--bloom-7b1-LICENSE--ab1f554e777c9a2075dca946ae706c0ab257a9de": "LICENSE",
+    "models--bigscience--bloom-7b1-model.safetensors.index.json--3503cf379f9847f8b8be9ea34de8b6d08467ff18": "model.safetensors.index.json",
+    "models--bigscience--bloom-7b1-config.json--6d5adf5a53349e7afb9b1f11ae071165f7a40be5": "config.json",
+    "models--bigscience--bloom-7b1-.gitattributes--c8fb7b32863941c9922bbc4588f1578ed52f7847": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 14:07:36 (Asia/Shanghai)",
+  "lastest-commit": "30e23bd98b419c5ef1c093cdc9ca2fefff9df371"
+}

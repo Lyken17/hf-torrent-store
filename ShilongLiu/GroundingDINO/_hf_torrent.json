@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "GroundingDINO_SwinB.cfg.py": "models--ShilongLiu--GroundingDINO-GroundingDINO_SwinB.cfg.py--f490c4bbd598a35de43d36ceafcbd769e7ff21bf",
+    "pandas.png": "models--ShilongLiu--GroundingDINO-pandas.png--d49ca9fbdaafb9c24c34ed89f4d4276328790cba",
+    "cats.png": "models--ShilongLiu--GroundingDINO-cats.png--c9b851eec668af5bc5c6467e9ef45c4be5381ead",
+    "GroundingDINO_SwinT_OGC.cfg.py": "models--ShilongLiu--GroundingDINO-GroundingDINO_SwinT_OGC.cfg.py--9158d5f6260ec74bded95377d382387430d7cd70",
+    "README.md": "models--ShilongLiu--GroundingDINO-README.md--e4c240e199e5cdfbd777605fa0af97037a7b6157",
+    "demo_audio.mp3": "models--ShilongLiu--GroundingDINO-demo_audio.mp3--dc0d3e219f732c8c0ca5209e47259d92879c8db3",
+    "gdsd_example.png": "models--ShilongLiu--GroundingDINO-gdsd_example.png--22a7dee543987ec75c84346237ed1da4d36455a4ae7716d361ff53b63a4b63ef",
+    "GD_GLIGEN.png": "models--ShilongLiu--GroundingDINO-GD_GLIGEN.png--a02463b47b49c8086f027ecc4fb01aa20aa70e02",
+    "groundingdino_swint_ogc.pth": "models--ShilongLiu--GroundingDINO-groundingdino_swint_ogc.pth--3b3ca2563c77c69f651d7bd133e97139c186df06231157a64c507099c52bc799",
+    "groundingdino_swinb_cogcoor.pth": "models--ShilongLiu--GroundingDINO-groundingdino_swinb_cogcoor.pth--46270f7a822e6906b655b729c90613e48929d0f2bb8b9b76fd10a856f3ac6ab7",
+    "art_dog_birthdaycake.png": "models--ShilongLiu--GroundingDINO-art_dog_birthdaycake.png--772f90f0a7eb065cd58cf366fbde53e781f1c8d7",
+    "sketch_person.png": "models--ShilongLiu--GroundingDINO-sketch_person.png--644ace56ea4daf8a36fa635943634d1515cd6c0f",
+    ".gitattributes": "models--ShilongLiu--GroundingDINO-.gitattributes--608ca36811718a99009cf60409d4a17a715247a4"
+  },
+  "uuid2fpath": {
+    "models--ShilongLiu--GroundingDINO-GroundingDINO_SwinB.cfg.py--f490c4bbd598a35de43d36ceafcbd769e7ff21bf": "GroundingDINO_SwinB.cfg.py",
+    "models--ShilongLiu--GroundingDINO-pandas.png--d49ca9fbdaafb9c24c34ed89f4d4276328790cba": "pandas.png",
+    "models--ShilongLiu--GroundingDINO-cats.png--c9b851eec668af5bc5c6467e9ef45c4be5381ead": "cats.png",
+    "models--ShilongLiu--GroundingDINO-GroundingDINO_SwinT_OGC.cfg.py--9158d5f6260ec74bded95377d382387430d7cd70": "GroundingDINO_SwinT_OGC.cfg.py",
+    "models--ShilongLiu--GroundingDINO-README.md--e4c240e199e5cdfbd777605fa0af97037a7b6157": "README.md",
+    "models--ShilongLiu--GroundingDINO-demo_audio.mp3--dc0d3e219f732c8c0ca5209e47259d92879c8db3": "demo_audio.mp3",
+    "models--ShilongLiu--GroundingDINO-gdsd_example.png--22a7dee543987ec75c84346237ed1da4d36455a4ae7716d361ff53b63a4b63ef": "gdsd_example.png",
+    "models--ShilongLiu--GroundingDINO-GD_GLIGEN.png--a02463b47b49c8086f027ecc4fb01aa20aa70e02": "GD_GLIGEN.png",
+    "models--ShilongLiu--GroundingDINO-groundingdino_swint_ogc.pth--3b3ca2563c77c69f651d7bd133e97139c186df06231157a64c507099c52bc799": "groundingdino_swint_ogc.pth",
+    "models--ShilongLiu--GroundingDINO-groundingdino_swinb_cogcoor.pth--46270f7a822e6906b655b729c90613e48929d0f2bb8b9b76fd10a856f3ac6ab7": "groundingdino_swinb_cogcoor.pth",
+    "models--ShilongLiu--GroundingDINO-art_dog_birthdaycake.png--772f90f0a7eb065cd58cf366fbde53e781f1c8d7": "art_dog_birthdaycake.png",
+    "models--ShilongLiu--GroundingDINO-sketch_person.png--644ace56ea4daf8a36fa635943634d1515cd6c0f": "sketch_person.png",
+    "models--ShilongLiu--GroundingDINO-.gitattributes--608ca36811718a99009cf60409d4a17a715247a4": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:33:51 (Asia/Shanghai)",
+  "lastest-commit": "a94c9b567a2a374598f05c584e96798a170c56fb"
+}

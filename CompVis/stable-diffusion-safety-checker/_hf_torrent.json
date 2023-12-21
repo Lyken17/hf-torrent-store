@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--CompVis--stable-diffusion-safety-checker-README.md--140f78b204c1c0f28603b438cbee68d21dbe4fff",
+    "preprocessor_config.json": "models--CompVis--stable-diffusion-safety-checker-preprocessor_config.json--5294955ff7801083f720b34b55d0f1f51313c5c5",
+    "pytorch_model.bin": "models--CompVis--stable-diffusion-safety-checker-pytorch_model.bin--64b8393f1afd5a0c1ed2aa5f341fa7c08286839a48f3743162a76a2835c808bd",
+    "config.json": "models--CompVis--stable-diffusion-safety-checker-config.json--aa454d222558d7e095fc9343266efd9512ad2f19",
+    ".gitattributes": "models--CompVis--stable-diffusion-safety-checker-.gitattributes--78be8432e1148d0227370439dad9d9a818f08df4"
+  },
+  "uuid2fpath": {
+    "models--CompVis--stable-diffusion-safety-checker-README.md--140f78b204c1c0f28603b438cbee68d21dbe4fff": "README.md",
+    "models--CompVis--stable-diffusion-safety-checker-preprocessor_config.json--5294955ff7801083f720b34b55d0f1f51313c5c5": "preprocessor_config.json",
+    "models--CompVis--stable-diffusion-safety-checker-pytorch_model.bin--64b8393f1afd5a0c1ed2aa5f341fa7c08286839a48f3743162a76a2835c808bd": "pytorch_model.bin",
+    "models--CompVis--stable-diffusion-safety-checker-config.json--aa454d222558d7e095fc9343266efd9512ad2f19": "config.json",
+    "models--CompVis--stable-diffusion-safety-checker-.gitattributes--78be8432e1148d0227370439dad9d9a818f08df4": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:50:05 (Asia/Shanghai)",
+  "lastest-commit": "cb41f3a270d63d454d385fc2e4f571c487c253c5"
+}

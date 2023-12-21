@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "merges.txt": "models--microsoft--BioGPT-Large-merges.txt--01e121aa8483873879577612f38761f2fd9ce5ae",
+    "special_tokens_map.json": "models--microsoft--BioGPT-Large-special_tokens_map.json--e66da1703089a0329ca9eaf51638805d8ce1b322",
+    "tokenizer_config.json": "models--microsoft--BioGPT-Large-tokenizer_config.json--e044f8771c083e25f9accfecb9c8f1408cb3c42f",
+    "README.md": "models--microsoft--BioGPT-Large-README.md--93c38a66fb9bdf4bc92b86a5f8725e1bd6da52c5",
+    "generation_config.json": "models--microsoft--BioGPT-Large-generation_config.json--9475ded3180a2d64c6903ebcf2aeb0705703c12a",
+    "vocab.json": "models--microsoft--BioGPT-Large-vocab.json--66ddce4fab432cd017c0db812211c30d25acce1e",
+    "pytorch_model.bin": "models--microsoft--BioGPT-Large-pytorch_model.bin--d1753ea5af6449aaf63a105a59a619632b78cbfc2c294ba78f3164156af8c8bf",
+    "config.json": "models--microsoft--BioGPT-Large-config.json--6781cfc676cb2384020b1b5fdd04817536c723fb",
+    ".gitattributes": "models--microsoft--BioGPT-Large-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--microsoft--BioGPT-Large-merges.txt--01e121aa8483873879577612f38761f2fd9ce5ae": "merges.txt",
+    "models--microsoft--BioGPT-Large-special_tokens_map.json--e66da1703089a0329ca9eaf51638805d8ce1b322": "special_tokens_map.json",
+    "models--microsoft--BioGPT-Large-tokenizer_config.json--e044f8771c083e25f9accfecb9c8f1408cb3c42f": "tokenizer_config.json",
+    "models--microsoft--BioGPT-Large-README.md--93c38a66fb9bdf4bc92b86a5f8725e1bd6da52c5": "README.md",
+    "models--microsoft--BioGPT-Large-generation_config.json--9475ded3180a2d64c6903ebcf2aeb0705703c12a": "generation_config.json",
+    "models--microsoft--BioGPT-Large-vocab.json--66ddce4fab432cd017c0db812211c30d25acce1e": "vocab.json",
+    "models--microsoft--BioGPT-Large-pytorch_model.bin--d1753ea5af6449aaf63a105a59a619632b78cbfc2c294ba78f3164156af8c8bf": "pytorch_model.bin",
+    "models--microsoft--BioGPT-Large-config.json--6781cfc676cb2384020b1b5fdd04817536c723fb": "config.json",
+    "models--microsoft--BioGPT-Large-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:33:34 (Asia/Shanghai)",
+  "lastest-commit": "c6a5136a91c5e3150d9f05ab9d33927a3210a22e"
+}

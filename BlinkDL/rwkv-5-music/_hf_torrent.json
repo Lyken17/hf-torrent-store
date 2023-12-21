@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "RWKV-5-MIDI-560M-v1-20230902-ctx4096.pth": "models--BlinkDL--rwkv-5-music-RWKV-5-MIDI-560M-v1-20230902-ctx4096.pth--cb4f2fd8956ca8496d6b2e33bff290c2047759b6fe74884903dbf9c73a11cc77",
+    "RWKV-5-MIDI-560M-v1-20230728-ctx4096.pth": "models--BlinkDL--rwkv-5-music-RWKV-5-MIDI-560M-v1-20230728-ctx4096.pth--db7216855d8b57e18c92ce0d8af2dee513012ab4052b5eef7cae2204af2dae02",
+    "README.md": "models--BlinkDL--rwkv-5-music-README.md--fbd3c8b529bfffc86445756b2f8e8cd07587bbe0",
+    "RWKV-5-ABC-82M-v1-20230805-ctx1024.pth": "models--BlinkDL--rwkv-5-music-RWKV-5-ABC-82M-v1-20230805-ctx1024.pth--79cefd5dc6c83627e2144b4e590dfde1856ab69ee4c146e6f9e6014e00af51a4",
+    "RWKV-5-MIDI-120M-v1-20230728-ctx4096.pth": "models--BlinkDL--rwkv-5-music-RWKV-5-MIDI-120M-v1-20230728-ctx4096.pth--c43d4a2ee7a71a331d05d6cd818dd75f7c48c716e4b98c58e4d27231614b0144",
+    "RWKV-5-ABC-82M-v1-20230901-ctx1024.pth": "models--BlinkDL--rwkv-5-music-RWKV-5-ABC-82M-v1-20230901-ctx1024.pth--5bf9ae32e4ef05c3851d6010709c6c00dda926d110766b9a712bc48c0a53e098",
+    ".gitattributes": "models--BlinkDL--rwkv-5-music-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--BlinkDL--rwkv-5-music-RWKV-5-MIDI-560M-v1-20230902-ctx4096.pth--cb4f2fd8956ca8496d6b2e33bff290c2047759b6fe74884903dbf9c73a11cc77": "RWKV-5-MIDI-560M-v1-20230902-ctx4096.pth",
+    "models--BlinkDL--rwkv-5-music-RWKV-5-MIDI-560M-v1-20230728-ctx4096.pth--db7216855d8b57e18c92ce0d8af2dee513012ab4052b5eef7cae2204af2dae02": "RWKV-5-MIDI-560M-v1-20230728-ctx4096.pth",
+    "models--BlinkDL--rwkv-5-music-README.md--fbd3c8b529bfffc86445756b2f8e8cd07587bbe0": "README.md",
+    "models--BlinkDL--rwkv-5-music-RWKV-5-ABC-82M-v1-20230805-ctx1024.pth--79cefd5dc6c83627e2144b4e590dfde1856ab69ee4c146e6f9e6014e00af51a4": "RWKV-5-ABC-82M-v1-20230805-ctx1024.pth",
+    "models--BlinkDL--rwkv-5-music-RWKV-5-MIDI-120M-v1-20230728-ctx4096.pth--c43d4a2ee7a71a331d05d6cd818dd75f7c48c716e4b98c58e4d27231614b0144": "RWKV-5-MIDI-120M-v1-20230728-ctx4096.pth",
+    "models--BlinkDL--rwkv-5-music-RWKV-5-ABC-82M-v1-20230901-ctx1024.pth--5bf9ae32e4ef05c3851d6010709c6c00dda926d110766b9a712bc48c0a53e098": "RWKV-5-ABC-82M-v1-20230901-ctx1024.pth",
+    "models--BlinkDL--rwkv-5-music-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:40:19 (Asia/Shanghai)",
+  "lastest-commit": "e4164b34729c18234e6b23c4f6a717a88917d9e4"
+}

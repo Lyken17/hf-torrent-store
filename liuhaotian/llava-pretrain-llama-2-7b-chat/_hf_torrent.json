@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--liuhaotian--llava-pretrain-llama-2-7b-chat-README.md--762ee9df3faeb0dc7b166f373d00d294ae257649",
+    "mm_projector.bin": "models--liuhaotian--llava-pretrain-llama-2-7b-chat-mm_projector.bin--96e53f2c3a0ee14bf469aacc9d159bafee949338d17160d3674b721c9f5be223",
+    "config.json": "models--liuhaotian--llava-pretrain-llama-2-7b-chat-config.json--fb88f619c876019a3d22493b3f650457cd3a10df",
+    ".gitattributes": "models--liuhaotian--llava-pretrain-llama-2-7b-chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-pretrain-llama-2-7b-chat-README.md--762ee9df3faeb0dc7b166f373d00d294ae257649": "README.md",
+    "models--liuhaotian--llava-pretrain-llama-2-7b-chat-mm_projector.bin--96e53f2c3a0ee14bf469aacc9d159bafee949338d17160d3674b721c9f5be223": "mm_projector.bin",
+    "models--liuhaotian--llava-pretrain-llama-2-7b-chat-config.json--fb88f619c876019a3d22493b3f650457cd3a10df": "config.json",
+    "models--liuhaotian--llava-pretrain-llama-2-7b-chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:59:16 (Asia/Shanghai)",
+  "lastest-commit": "ef0f48a4bbd8eac2d8e041172c6305383ec0c513"
+}

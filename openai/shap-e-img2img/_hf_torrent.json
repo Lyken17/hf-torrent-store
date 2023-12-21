@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "scheduler/scheduler_config.json": "models--openai--shap-e-img2img-scheduler--scheduler_config.json--6e17d9744a0d14c01d4c93e349a2b118bb98e61a",
+    "image_encoder/model.fp16.safetensors": "models--openai--shap-e-img2img-image_encoder--model.fp16.safetensors--4523175837d6342fd2d3ca38ce84912dbc722b556747c883b2842157e9a0f035",
+    "image_encoder/pytorch_model.bin": "models--openai--shap-e-img2img-image_encoder--pytorch_model.bin--49767fbe1b9ea4688056a86db9404053b9a34c3f6a95776cb85622e7ea8a35ae",
+    "image_encoder/config.json": "models--openai--shap-e-img2img-image_encoder--config.json--c8a171a6cdfd52c6869132d62de75ac1fd36235b",
+    "renderer/diffusion_pytorch_model.bin": "models--openai--shap-e-img2img-renderer--diffusion_pytorch_model.bin--2751cbad694f7fef9022f88673c065df49283d977ff93e88e133f3585e2dfd28",
+    "renderer/diffusion_pytorch_model.fp16.safetensors": "models--openai--shap-e-img2img-renderer--diffusion_pytorch_model.fp16.safetensors--394d52e159447b2bfb944d3bfa4f438180b72ba40644dc4c730282e7a9b62c65",
+    "renderer/config.json": "models--openai--shap-e-img2img-renderer--config.json--e037f4ddc5d5dbbe68fd8554137809ea25c08235",
+    "prior/diffusion_pytorch_model.bin": "models--openai--shap-e-img2img-prior--diffusion_pytorch_model.bin--5d293731644d9c6de6e7bd22bb1db5a52cb7b0f35ca452cbdbb8cf1bc727316e",
+    "prior/diffusion_pytorch_model.fp16.safetensors": "models--openai--shap-e-img2img-prior--diffusion_pytorch_model.fp16.safetensors--a6d92d12597b298dfb84b32ccfc74a94d2f25d7600f330b39722bd0f0835862e",
+    "prior/config.json": "models--openai--shap-e-img2img-prior--config.json--49cb9d1ad08858d514ac51ef3ca51c0c81ac160a",
+    "shap_e_renderer/diffusion_pytorch_model.bin": "models--openai--shap-e-img2img-shap_e_renderer--diffusion_pytorch_model.bin--2b63c2b52fbff7cc2c0b88b196f169e8adbcc2c298cadab30afe63c8a7241a05",
+    "shap_e_renderer/config.json": "models--openai--shap-e-img2img-shap_e_renderer--config.json--cfe182b85a49832333591018b1f8709bd129b7c1",
+    "image_processor/preprocessor_config.json": "models--openai--shap-e-img2img-image_processor--preprocessor_config.json--c13c679c06519325749d1eef242ff98e2a5d2165",
+    "README.md": "models--openai--shap-e-img2img-README.md--470ea8e4353189b09c220c8353bb1c230534a647",
+    "model_index.json": "models--openai--shap-e-img2img-model_index.json--6b4f17056de235cd7d17ca9382f504a95a20b958",
+    ".gitattributes": "models--openai--shap-e-img2img-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--openai--shap-e-img2img-scheduler--scheduler_config.json--6e17d9744a0d14c01d4c93e349a2b118bb98e61a": "scheduler/scheduler_config.json",
+    "models--openai--shap-e-img2img-image_encoder--model.fp16.safetensors--4523175837d6342fd2d3ca38ce84912dbc722b556747c883b2842157e9a0f035": "image_encoder/model.fp16.safetensors",
+    "models--openai--shap-e-img2img-image_encoder--pytorch_model.bin--49767fbe1b9ea4688056a86db9404053b9a34c3f6a95776cb85622e7ea8a35ae": "image_encoder/pytorch_model.bin",
+    "models--openai--shap-e-img2img-image_encoder--config.json--c8a171a6cdfd52c6869132d62de75ac1fd36235b": "image_encoder/config.json",
+    "models--openai--shap-e-img2img-renderer--diffusion_pytorch_model.bin--2751cbad694f7fef9022f88673c065df49283d977ff93e88e133f3585e2dfd28": "renderer/diffusion_pytorch_model.bin",
+    "models--openai--shap-e-img2img-renderer--diffusion_pytorch_model.fp16.safetensors--394d52e159447b2bfb944d3bfa4f438180b72ba40644dc4c730282e7a9b62c65": "renderer/diffusion_pytorch_model.fp16.safetensors",
+    "models--openai--shap-e-img2img-renderer--config.json--e037f4ddc5d5dbbe68fd8554137809ea25c08235": "renderer/config.json",
+    "models--openai--shap-e-img2img-prior--diffusion_pytorch_model.bin--5d293731644d9c6de6e7bd22bb1db5a52cb7b0f35ca452cbdbb8cf1bc727316e": "prior/diffusion_pytorch_model.bin",
+    "models--openai--shap-e-img2img-prior--diffusion_pytorch_model.fp16.safetensors--a6d92d12597b298dfb84b32ccfc74a94d2f25d7600f330b39722bd0f0835862e": "prior/diffusion_pytorch_model.fp16.safetensors",
+    "models--openai--shap-e-img2img-prior--config.json--49cb9d1ad08858d514ac51ef3ca51c0c81ac160a": "prior/config.json",
+    "models--openai--shap-e-img2img-shap_e_renderer--diffusion_pytorch_model.bin--2b63c2b52fbff7cc2c0b88b196f169e8adbcc2c298cadab30afe63c8a7241a05": "shap_e_renderer/diffusion_pytorch_model.bin",
+    "models--openai--shap-e-img2img-shap_e_renderer--config.json--cfe182b85a49832333591018b1f8709bd129b7c1": "shap_e_renderer/config.json",
+    "models--openai--shap-e-img2img-image_processor--preprocessor_config.json--c13c679c06519325749d1eef242ff98e2a5d2165": "image_processor/preprocessor_config.json",
+    "models--openai--shap-e-img2img-README.md--470ea8e4353189b09c220c8353bb1c230534a647": "README.md",
+    "models--openai--shap-e-img2img-model_index.json--6b4f17056de235cd7d17ca9382f504a95a20b958": "model_index.json",
+    "models--openai--shap-e-img2img-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 10:34:48 (Asia/Shanghai)",
+  "lastest-commit": "0e0aba80f08d368aaf6af9cb93583707481cc29b"
+}

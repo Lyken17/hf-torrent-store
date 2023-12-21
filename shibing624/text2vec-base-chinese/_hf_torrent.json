@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "1_Pooling/config.json": "models--shibing624--text2vec-base-chinese-1_Pooling--config.json--6cf65ba8116d461a2baa0039d80bbc4b3eb7600b",
+    "onnx/special_tokens_map.json": "models--shibing624--text2vec-base-chinese-onnx--special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "onnx/tokenizer_config.json": "models--shibing624--text2vec-base-chinese-onnx--tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f",
+    "onnx/tokenizer.json": "models--shibing624--text2vec-base-chinese-onnx--tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002",
+    "onnx/vocab.txt": "models--shibing624--text2vec-base-chinese-onnx--vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "onnx/model.onnx": "models--shibing624--text2vec-base-chinese-onnx--model.onnx--716d380a65efde09842642540749bc0535b05f2c66737fea1106731b8b0d7ffb",
+    "onnx/config.json": "models--shibing624--text2vec-base-chinese-onnx--config.json--a61f58c593061a60ebd8643de7973d67e210221a",
+    "modules.json": "models--shibing624--text2vec-base-chinese-modules.json--2c787222b8b9fc64a5a5c6bcf7506e2c4906bec5",
+    "special_tokens_map.json": "models--shibing624--text2vec-base-chinese-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5",
+    "sentence_bert_config.json": "models--shibing624--text2vec-base-chinese-sentence_bert_config.json--e0021d480d68dfdf363d3639ee7f3c00f63239f7",
+    "tokenizer_config.json": "models--shibing624--text2vec-base-chinese-tokenizer_config.json--5bdf2723485c9b6e797c26b1c59edf10a638051d",
+    "README.md": "models--shibing624--text2vec-base-chinese-README.md--72682cf1af5007b44d3c0b9d4337bc652862421e",
+    "logs.txt": "models--shibing624--text2vec-base-chinese-logs.txt--1f2f0a893a53104164569d8ffb65be83219b3ea5",
+    "vocab.txt": "models--shibing624--text2vec-base-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "pytorch_model.bin": "models--shibing624--text2vec-base-chinese-pytorch_model.bin--54ff3a857e3efa0b8114eb5e7a9e7e2b6230b4ddb083254a751e44772bb99075",
+    "config.json": "models--shibing624--text2vec-base-chinese-config.json--90e03d46bdb660cb7a95fb0200a35e456457f78c",
+    ".gitattributes": "models--shibing624--text2vec-base-chinese-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--shibing624--text2vec-base-chinese-1_Pooling--config.json--6cf65ba8116d461a2baa0039d80bbc4b3eb7600b": "1_Pooling/config.json",
+    "models--shibing624--text2vec-base-chinese-onnx--special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "onnx/special_tokens_map.json",
+    "models--shibing624--text2vec-base-chinese-onnx--tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f": "onnx/tokenizer_config.json",
+    "models--shibing624--text2vec-base-chinese-onnx--tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002": "onnx/tokenizer.json",
+    "models--shibing624--text2vec-base-chinese-onnx--vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "onnx/vocab.txt",
+    "models--shibing624--text2vec-base-chinese-onnx--model.onnx--716d380a65efde09842642540749bc0535b05f2c66737fea1106731b8b0d7ffb": "onnx/model.onnx",
+    "models--shibing624--text2vec-base-chinese-onnx--config.json--a61f58c593061a60ebd8643de7973d67e210221a": "onnx/config.json",
+    "models--shibing624--text2vec-base-chinese-modules.json--2c787222b8b9fc64a5a5c6bcf7506e2c4906bec5": "modules.json",
+    "models--shibing624--text2vec-base-chinese-special_tokens_map.json--e7b0375001f109a6b8873d756ad4f7bbb15fbaa5": "special_tokens_map.json",
+    "models--shibing624--text2vec-base-chinese-sentence_bert_config.json--e0021d480d68dfdf363d3639ee7f3c00f63239f7": "sentence_bert_config.json",
+    "models--shibing624--text2vec-base-chinese-tokenizer_config.json--5bdf2723485c9b6e797c26b1c59edf10a638051d": "tokenizer_config.json",
+    "models--shibing624--text2vec-base-chinese-README.md--72682cf1af5007b44d3c0b9d4337bc652862421e": "README.md",
+    "models--shibing624--text2vec-base-chinese-logs.txt--1f2f0a893a53104164569d8ffb65be83219b3ea5": "logs.txt",
+    "models--shibing624--text2vec-base-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--shibing624--text2vec-base-chinese-pytorch_model.bin--54ff3a857e3efa0b8114eb5e7a9e7e2b6230b4ddb083254a751e44772bb99075": "pytorch_model.bin",
+    "models--shibing624--text2vec-base-chinese-config.json--90e03d46bdb660cb7a95fb0200a35e456457f78c": "config.json",
+    "models--shibing624--text2vec-base-chinese-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 11:56:01 (Asia/Shanghai)",
+  "lastest-commit": "8acc1289891d75f6b665ad623359798b55f86adb"
+}
