@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--distilbert-base-uncased-rust_model.ot--7ff3dc0119b9399681cf5661a9e450bb2ed2ecdb88338fb2c9d942c579164cc6",
+    "tf_model.h5": "models--distilbert-base-uncased-tf_model.h5--e75cd1b76b546a498fe49ae3f0ca6f2ca4f2216c34010bea7232e8a0b95e93e8",
+    "tokenizer_config.json": "models--distilbert-base-uncased-tokenizer_config.json--a661b1a138dac6dc5590367402d100765010ffd6",
+    "README.md": "models--distilbert-base-uncased-README.md--1db487d688fd5ddc3c6714a4a3a3fe5f679cbf04",
+    "tokenizer.json": "models--distilbert-base-uncased-tokenizer.json--949a6f013d67eb8a5b4b5b46026217b888021b88",
+    "model.safetensors": "models--distilbert-base-uncased-model.safetensors--5e3f1108e3cb34ee048634875d8482665b65ac713291a7e32396fb18f6ff0063",
+    "vocab.txt": "models--distilbert-base-uncased-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "flax_model.msgpack": "models--distilbert-base-uncased-flax_model.msgpack--101fa75462994e55b265fd62b0f44b9bb9f4d3fcb0c9d8986d2542850d0f0688",
+    "LICENSE": "models--distilbert-base-uncased-LICENSE--f49a4e16e68b128803cc2dcea614603632b04eac",
+    "pytorch_model.bin": "models--distilbert-base-uncased-pytorch_model.bin--e60d71610916da4787c5513c81bc026d415708528295502fb3e1a6fe1485ea7c",
+    "config.json": "models--distilbert-base-uncased-config.json--150367d8744161cd17b3f6462a14f3a9648752da",
+    ".gitattributes": "models--distilbert-base-uncased-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126"
+  },
+  "uuid2fpath": {
+    "models--distilbert-base-uncased-rust_model.ot--7ff3dc0119b9399681cf5661a9e450bb2ed2ecdb88338fb2c9d942c579164cc6": "rust_model.ot",
+    "models--distilbert-base-uncased-tf_model.h5--e75cd1b76b546a498fe49ae3f0ca6f2ca4f2216c34010bea7232e8a0b95e93e8": "tf_model.h5",
+    "models--distilbert-base-uncased-tokenizer_config.json--a661b1a138dac6dc5590367402d100765010ffd6": "tokenizer_config.json",
+    "models--distilbert-base-uncased-README.md--1db487d688fd5ddc3c6714a4a3a3fe5f679cbf04": "README.md",
+    "models--distilbert-base-uncased-tokenizer.json--949a6f013d67eb8a5b4b5b46026217b888021b88": "tokenizer.json",
+    "models--distilbert-base-uncased-model.safetensors--5e3f1108e3cb34ee048634875d8482665b65ac713291a7e32396fb18f6ff0063": "model.safetensors",
+    "models--distilbert-base-uncased-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "vocab.txt",
+    "models--distilbert-base-uncased-flax_model.msgpack--101fa75462994e55b265fd62b0f44b9bb9f4d3fcb0c9d8986d2542850d0f0688": "flax_model.msgpack",
+    "models--distilbert-base-uncased-LICENSE--f49a4e16e68b128803cc2dcea614603632b04eac": "LICENSE",
+    "models--distilbert-base-uncased-pytorch_model.bin--e60d71610916da4787c5513c81bc026d415708528295502fb3e1a6fe1485ea7c": "pytorch_model.bin",
+    "models--distilbert-base-uncased-config.json--150367d8744161cd17b3f6462a14f3a9648752da": "config.json",
+    "models--distilbert-base-uncased-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 18:36:41 (Asia/Shanghai)",
+  "lastest-commit": "6cdc0aad91f5ae2e6712e91bc7b65d1cf5c05411"
+}

@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--bigscience--test-bloomd-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d",
+    "tokenizer_config.json": "models--bigscience--test-bloomd-tokenizer_config.json--3ce2a295040ebfae0cf5d0607a09d4a025fe536e",
+    "README.md": "models--bigscience--test-bloomd-README.md--5cc4ee6203815d6a1fff0b51879b4965ce3fcee0",
+    "tokenizer.json": "models--bigscience--test-bloomd-tokenizer.json--8f6efc66e73f1fd69da4f436e48befb519fdff3fe18910850c1d41bd862293a5",
+    "model.safetensors": "models--bigscience--test-bloomd-model.safetensors--a52c516ad42dbf4fc797f57195adc7b7e1d563fd92ef21d4a2dd7ea4b51eb423",
+    "pytorch_model.bin": "models--bigscience--test-bloomd-pytorch_model.bin--98b342f66da70037d7666de1100e8a9ada5578517c3efa4506e5b242be9340bb",
+    "config.json": "models--bigscience--test-bloomd-config.json--16696e5f4e1ec31365ee926dfd7b7bf32f7baee6",
+    ".gitattributes": "models--bigscience--test-bloomd-.gitattributes--1fb2995885163929c09b672819a9f8f1a065895c"
+  },
+  "uuid2fpath": {
+    "models--bigscience--test-bloomd-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d": "special_tokens_map.json",
+    "models--bigscience--test-bloomd-tokenizer_config.json--3ce2a295040ebfae0cf5d0607a09d4a025fe536e": "tokenizer_config.json",
+    "models--bigscience--test-bloomd-README.md--5cc4ee6203815d6a1fff0b51879b4965ce3fcee0": "README.md",
+    "models--bigscience--test-bloomd-tokenizer.json--8f6efc66e73f1fd69da4f436e48befb519fdff3fe18910850c1d41bd862293a5": "tokenizer.json",
+    "models--bigscience--test-bloomd-model.safetensors--a52c516ad42dbf4fc797f57195adc7b7e1d563fd92ef21d4a2dd7ea4b51eb423": "model.safetensors",
+    "models--bigscience--test-bloomd-pytorch_model.bin--98b342f66da70037d7666de1100e8a9ada5578517c3efa4506e5b242be9340bb": "pytorch_model.bin",
+    "models--bigscience--test-bloomd-config.json--16696e5f4e1ec31365ee926dfd7b7bf32f7baee6": "config.json",
+    "models--bigscience--test-bloomd-.gitattributes--1fb2995885163929c09b672819a9f8f1a065895c": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 12:06:30 (Asia/Shanghai)",
+  "lastest-commit": "ff92fa1effbc422081f6a86fd9e18618ae4b3ab4"
+}

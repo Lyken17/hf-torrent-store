@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00003-of-00009.bin--5b70cfdee4ce4f3a9ae9f4159bde8a6c655afcf287837c63d539d5f521b8e461",
+    "pytorch_model.bin.index.json": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model.bin.index.json--915e80e363dc290d8e09a7cc88ae109227894c6a",
+    "pytorch_model-00007-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00007-of-00009.bin--d42453cbcc02228bd88b79cfbe5dc791fd849471dbfaf1327e5d789b7961a1c5",
+    "pytorch_model-00006-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00006-of-00009.bin--58ca2df549188c218f6b8c66b52492368c534139eb163300571f14ea34b1b0d3",
+    "special_tokens_map.json": "models--liuhaotian--llava-v1.5-13b-shard3gb-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e",
+    "tokenizer_config.json": "models--liuhaotian--llava-v1.5-13b-shard3gb-tokenizer_config.json--740756b4bef305e27d0bb4d2e1a40dd8847797f7",
+    "tokenizer.model": "models--liuhaotian--llava-v1.5-13b-shard3gb-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--liuhaotian--llava-v1.5-13b-shard3gb-README.md--8643aa17efe26f556db3a786064ec7c2456706d8",
+    "pytorch_model-00008-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00008-of-00009.bin--c0b173bc5f26bac65bdf1145ec3bc4fa9ad2ca3b1c411448ea74b5a27a40954a",
+    "pytorch_model-00009-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00009-of-00009.bin--575426c0e56430eae813a6a25a03bbcab58ebf35c9df5c589663c93398d5a1a9",
+    "generation_config.json": "models--liuhaotian--llava-v1.5-13b-shard3gb-generation_config.json--5958ea1cd2e0f40caab1ea6626fd2f3b7e43ecbd",
+    "pytorch_model-00004-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00004-of-00009.bin--d4c17b248bc16085cb846f80831022f06f94664d2d355717a0df96f47bc021eb",
+    "pytorch_model-00005-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00005-of-00009.bin--1bed24a76d1735318f92ccdd00381ba8187981d4ebd06c645f9638959d9528ec",
+    "pytorch_model-00001-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00001-of-00009.bin--3d7519ad5b743b258e77dd3d51b9bbd0e3f823118855d7871e68a23cabfd2e13",
+    "config.json": "models--liuhaotian--llava-v1.5-13b-shard3gb-config.json--89cc3b2ef636c368e8e4f82959fe8a191c6fd47b",
+    "pytorch_model-00002-of-00009.bin": "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00002-of-00009.bin--ae4293bb1d62913e2dddce5562405c994a56163c4f3558a26d7783b800bfe9a0",
+    ".gitattributes": "models--liuhaotian--llava-v1.5-13b-shard3gb-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00003-of-00009.bin--5b70cfdee4ce4f3a9ae9f4159bde8a6c655afcf287837c63d539d5f521b8e461": "pytorch_model-00003-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model.bin.index.json--915e80e363dc290d8e09a7cc88ae109227894c6a": "pytorch_model.bin.index.json",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00007-of-00009.bin--d42453cbcc02228bd88b79cfbe5dc791fd849471dbfaf1327e5d789b7961a1c5": "pytorch_model-00007-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00006-of-00009.bin--58ca2df549188c218f6b8c66b52492368c534139eb163300571f14ea34b1b0d3": "pytorch_model-00006-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e": "special_tokens_map.json",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-tokenizer_config.json--740756b4bef305e27d0bb4d2e1a40dd8847797f7": "tokenizer_config.json",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-README.md--8643aa17efe26f556db3a786064ec7c2456706d8": "README.md",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00008-of-00009.bin--c0b173bc5f26bac65bdf1145ec3bc4fa9ad2ca3b1c411448ea74b5a27a40954a": "pytorch_model-00008-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00009-of-00009.bin--575426c0e56430eae813a6a25a03bbcab58ebf35c9df5c589663c93398d5a1a9": "pytorch_model-00009-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-generation_config.json--5958ea1cd2e0f40caab1ea6626fd2f3b7e43ecbd": "generation_config.json",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00004-of-00009.bin--d4c17b248bc16085cb846f80831022f06f94664d2d355717a0df96f47bc021eb": "pytorch_model-00004-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00005-of-00009.bin--1bed24a76d1735318f92ccdd00381ba8187981d4ebd06c645f9638959d9528ec": "pytorch_model-00005-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00001-of-00009.bin--3d7519ad5b743b258e77dd3d51b9bbd0e3f823118855d7871e68a23cabfd2e13": "pytorch_model-00001-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-config.json--89cc3b2ef636c368e8e4f82959fe8a191c6fd47b": "config.json",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-pytorch_model-00002-of-00009.bin--ae4293bb1d62913e2dddce5562405c994a56163c4f3558a26d7783b800bfe9a0": "pytorch_model-00002-of-00009.bin",
+    "models--liuhaotian--llava-v1.5-13b-shard3gb-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 13:11:08 (Asia/Shanghai)",
+  "lastest-commit": "0a1fce336276a30e0310ac3c48f00f6f5a8b7511"
+}

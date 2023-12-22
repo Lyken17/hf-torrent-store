@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "32k-code/completions_2.txt": "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_2.txt--fd56ab3048953e8e07a3dae7323351430f4cf7df",
+    "32k-code/completions_3.txt": "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_3.txt--3adde1fce79c0dec99f041908c96ae02e08027f0",
+    "32k-code/completions_1.txt": "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_1.txt--a0d00701cfeae605e8b9cdccf2cefe674a3568cf",
+    "32k-code/completion_1.png": "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completion_1.png--e04224184fd509fa5bb085bb3952ab75a0fe4bc4",
+    "32k-code/completions_4_temp0.4_topp0.2_pp0.4_fp0.3.txt": "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_4_temp0.4_topp0.2_pp0.4_fp0.3.txt--b8427c97d14cade41d0a73417a896a9c7dac2b49",
+    "README.md": "models--xiaol--RWKV-Code-7B-world-32k-README.md--e8b461065df45aaa664160c14870cb28793e507a",
+    "RWKV-code-4-World-7B-20230820-ctx32k.pth": "models--xiaol--RWKV-Code-7B-world-32k-RWKV-code-4-World-7B-20230820-ctx32k.pth--19666620437ae3a5fb06e16a52729d67e449fca155fab3d5861ffe9ecf247404",
+    ".gitattributes": "models--xiaol--RWKV-Code-7B-world-32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_2.txt--fd56ab3048953e8e07a3dae7323351430f4cf7df": "32k-code/completions_2.txt",
+    "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_3.txt--3adde1fce79c0dec99f041908c96ae02e08027f0": "32k-code/completions_3.txt",
+    "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_1.txt--a0d00701cfeae605e8b9cdccf2cefe674a3568cf": "32k-code/completions_1.txt",
+    "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completion_1.png--e04224184fd509fa5bb085bb3952ab75a0fe4bc4": "32k-code/completion_1.png",
+    "models--xiaol--RWKV-Code-7B-world-32k-32k-code--completions_4_temp0.4_topp0.2_pp0.4_fp0.3.txt--b8427c97d14cade41d0a73417a896a9c7dac2b49": "32k-code/completions_4_temp0.4_topp0.2_pp0.4_fp0.3.txt",
+    "models--xiaol--RWKV-Code-7B-world-32k-README.md--e8b461065df45aaa664160c14870cb28793e507a": "README.md",
+    "models--xiaol--RWKV-Code-7B-world-32k-RWKV-code-4-World-7B-20230820-ctx32k.pth--19666620437ae3a5fb06e16a52729d67e449fca155fab3d5861ffe9ecf247404": "RWKV-code-4-World-7B-20230820-ctx32k.pth",
+    "models--xiaol--RWKV-Code-7B-world-32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:56:52 (Asia/Shanghai)",
+  "lastest-commit": "8f05f5610ff6d8dc77a08575b5fbea2f8ae93704"
+}

@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "tokenizer_config.json": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-tokenizer_config.json--764a9f66b49328f70659baf26834d99762db1a5b",
+    "quantize_config.json": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-quantize_config.json--55cf880c2ffbeb0a6a81be8a55c4981b43113d3b",
+    "tokenizer.model": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-README.md--585379d85bb6f625b3008adcbdc5bf29c9426121",
+    "gptq_model-4bit-128g.safetensors": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-gptq_model-4bit-128g.safetensors--bd8e2fbf8ff1ecc939c7613bb509d8b51424bea3636ac3e80f15d6af8c94ca8f",
+    "config.json": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-config.json--2a87284f94d1508a153af31012ab740c5e555f99",
+    ".gitattributes": "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-tokenizer_config.json--764a9f66b49328f70659baf26834d99762db1a5b": "tokenizer_config.json",
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-quantize_config.json--55cf880c2ffbeb0a6a81be8a55c4981b43113d3b": "quantize_config.json",
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-README.md--585379d85bb6f625b3008adcbdc5bf29c9426121": "README.md",
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-gptq_model-4bit-128g.safetensors--bd8e2fbf8ff1ecc939c7613bb509d8b51424bea3636ac3e80f15d6af8c94ca8f": "gptq_model-4bit-128g.safetensors",
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-config.json--2a87284f94d1508a153af31012ab740c5e555f99": "config.json",
+    "models--liuhaotian--llava-llama-2-13b-chat-lightning-gptq-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 18:11:43 (Asia/Shanghai)",
+  "lastest-commit": "6271ae20bae102dd1b92cd7f3a58f7c86c1cf3e6"
+}

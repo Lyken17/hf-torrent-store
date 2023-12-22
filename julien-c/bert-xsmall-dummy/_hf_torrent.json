@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--julien-c--bert-xsmall-dummy-tf_model.h5--ee87c5b9a7f3f55ce14f006bf13f67202743b81010dc7f1075932efe828a9f36",
+    "README.md": "models--julien-c--bert-xsmall-dummy-README.md--7179f9e65884a44589e236b4728ec1e0c279b49c",
+    "vocab.txt": "models--julien-c--bert-xsmall-dummy-vocab.txt--3d4fb588401973ca58c6672629ce9edcad9b3ae1",
+    "flax_model.msgpack": "models--julien-c--bert-xsmall-dummy-flax_model.msgpack--03042069505e9121193c06231f199d0f0fafcdef68b7652f972838ed36ece84d",
+    "pytorch_model.bin": "models--julien-c--bert-xsmall-dummy-pytorch_model.bin--53d50c1d589c4a51e4bd8d5b7b92348dc3edd32aaff8e4e992fef5e8b8aacdce",
+    "config.json": "models--julien-c--bert-xsmall-dummy-config.json--4be282ccf417fbe3fd2ae1da9233a9ba824e18f8",
+    ".gitattributes": "models--julien-c--bert-xsmall-dummy-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f"
+  },
+  "uuid2fpath": {
+    "models--julien-c--bert-xsmall-dummy-tf_model.h5--ee87c5b9a7f3f55ce14f006bf13f67202743b81010dc7f1075932efe828a9f36": "tf_model.h5",
+    "models--julien-c--bert-xsmall-dummy-README.md--7179f9e65884a44589e236b4728ec1e0c279b49c": "README.md",
+    "models--julien-c--bert-xsmall-dummy-vocab.txt--3d4fb588401973ca58c6672629ce9edcad9b3ae1": "vocab.txt",
+    "models--julien-c--bert-xsmall-dummy-flax_model.msgpack--03042069505e9121193c06231f199d0f0fafcdef68b7652f972838ed36ece84d": "flax_model.msgpack",
+    "models--julien-c--bert-xsmall-dummy-pytorch_model.bin--53d50c1d589c4a51e4bd8d5b7b92348dc3edd32aaff8e4e992fef5e8b8aacdce": "pytorch_model.bin",
+    "models--julien-c--bert-xsmall-dummy-config.json--4be282ccf417fbe3fd2ae1da9233a9ba824e18f8": "config.json",
+    "models--julien-c--bert-xsmall-dummy-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 12:16:18 (Asia/Shanghai)",
+  "lastest-commit": "9d3811da21adb66feb315118023f528ed10c6b18"
+}

@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--Steward--lcm-dreamshaper-v7-gguf-README.md--80dcee1bb7de18cf54ba15ad517904dde31bead0",
+    "LCM_Dreamshaper_v7-f16.gguf": "models--Steward--lcm-dreamshaper-v7-gguf-LCM_Dreamshaper_v7-f16.gguf--0642060766117fdeb8cae0ccdc73ee974ac5779be1112d0a82f2b965bbd00e15",
+    "lcm-dream-output.png": "models--Steward--lcm-dreamshaper-v7-gguf-lcm-dream-output.png--b2311b178a106f61eb6e6d133b4247d0780fd88c",
+    ".gitattributes": "models--Steward--lcm-dreamshaper-v7-gguf-.gitattributes--5f0128cabaf237f68301c69d50d6fb86af296f08"
+  },
+  "uuid2fpath": {
+    "models--Steward--lcm-dreamshaper-v7-gguf-README.md--80dcee1bb7de18cf54ba15ad517904dde31bead0": "README.md",
+    "models--Steward--lcm-dreamshaper-v7-gguf-LCM_Dreamshaper_v7-f16.gguf--0642060766117fdeb8cae0ccdc73ee974ac5779be1112d0a82f2b965bbd00e15": "LCM_Dreamshaper_v7-f16.gguf",
+    "models--Steward--lcm-dreamshaper-v7-gguf-lcm-dream-output.png--b2311b178a106f61eb6e6d133b4247d0780fd88c": "lcm-dream-output.png",
+    "models--Steward--lcm-dreamshaper-v7-gguf-.gitattributes--5f0128cabaf237f68301c69d50d6fb86af296f08": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:43:45 (Asia/Shanghai)",
+  "lastest-commit": "ae3fa73e105d5f848a4ef122e2ce14c92123bf1a"
+}

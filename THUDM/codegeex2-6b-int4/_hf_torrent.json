@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "resources/join_wechat.png": "models--THUDM--codegeex2-6b-int4-resources--join_wechat.png--315f38374d2147b5483a8eef62a806d012b7529e",
+    "resources/codegeex_logo.png": "models--THUDM--codegeex2-6b-int4-resources--codegeex_logo.png--89650a783ef078f2bb0cea92e655d7ac2d393f64",
+    "modeling_chatglm.py": "models--THUDM--codegeex2-6b-int4-modeling_chatglm.py--5670e591aa68d2a87c26b7fc309d395aa01d239e",
+    "tokenizer_config.json": "models--THUDM--codegeex2-6b-int4-tokenizer_config.json--94f7b461d3dd9aff1b34c848345bce271df6fca4",
+    "tokenizer.model": "models--THUDM--codegeex2-6b-int4-tokenizer.model--57d9fdbdfaa7cd8c0a3a38d7e8de2e6c31374b5dbc4dc4568d85585fe745812f",
+    "README.md": "models--THUDM--codegeex2-6b-int4-README.md--4f36db41f39ed98abae065d966cc0f59eab6b115",
+    "configuration_chatglm.py": "models--THUDM--codegeex2-6b-int4-configuration_chatglm.py--3730b4e34d8688587e88cbb75384542244a40662",
+    "save_model.py": "models--THUDM--codegeex2-6b-int4-save_model.py--26b6cdc606367e86ca71310d8a716e0d76c9bde1",
+    "quantization.py": "models--THUDM--codegeex2-6b-int4-quantization.py--cb95bfe82b203ff6a2aa962326d2c7a438d6a52f",
+    "generation_config.json": "models--THUDM--codegeex2-6b-int4-generation_config.json--8880a7256f1466ec6c6a9fabc0442c725c10741c",
+    "MODEL_LICENSE": "models--THUDM--codegeex2-6b-int4-MODEL_LICENSE--f60fb9539f73968073853779626bb008f9b3efe2",
+    "LICENSE": "models--THUDM--codegeex2-6b-int4-LICENSE--ac4aee55c0698300d21541d5395d452016585f7a",
+    "tokenization_chatglm.py": "models--THUDM--codegeex2-6b-int4-tokenization_chatglm.py--d4ce41652736b14c5c0a9263d32ba33566adf73b",
+    "pytorch_model.bin": "models--THUDM--codegeex2-6b-int4-pytorch_model.bin--5c6a4e2eab934050f613b5ff8da4c26d3b1dfda750e423f72d008a0e2dc30915",
+    "config.json": "models--THUDM--codegeex2-6b-int4-config.json--d625890153747df0074ec60374d0e1f27550b75f",
+    ".gitattributes": "models--THUDM--codegeex2-6b-int4-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--THUDM--codegeex2-6b-int4-resources--join_wechat.png--315f38374d2147b5483a8eef62a806d012b7529e": "resources/join_wechat.png",
+    "models--THUDM--codegeex2-6b-int4-resources--codegeex_logo.png--89650a783ef078f2bb0cea92e655d7ac2d393f64": "resources/codegeex_logo.png",
+    "models--THUDM--codegeex2-6b-int4-modeling_chatglm.py--5670e591aa68d2a87c26b7fc309d395aa01d239e": "modeling_chatglm.py",
+    "models--THUDM--codegeex2-6b-int4-tokenizer_config.json--94f7b461d3dd9aff1b34c848345bce271df6fca4": "tokenizer_config.json",
+    "models--THUDM--codegeex2-6b-int4-tokenizer.model--57d9fdbdfaa7cd8c0a3a38d7e8de2e6c31374b5dbc4dc4568d85585fe745812f": "tokenizer.model",
+    "models--THUDM--codegeex2-6b-int4-README.md--4f36db41f39ed98abae065d966cc0f59eab6b115": "README.md",
+    "models--THUDM--codegeex2-6b-int4-configuration_chatglm.py--3730b4e34d8688587e88cbb75384542244a40662": "configuration_chatglm.py",
+    "models--THUDM--codegeex2-6b-int4-save_model.py--26b6cdc606367e86ca71310d8a716e0d76c9bde1": "save_model.py",
+    "models--THUDM--codegeex2-6b-int4-quantization.py--cb95bfe82b203ff6a2aa962326d2c7a438d6a52f": "quantization.py",
+    "models--THUDM--codegeex2-6b-int4-generation_config.json--8880a7256f1466ec6c6a9fabc0442c725c10741c": "generation_config.json",
+    "models--THUDM--codegeex2-6b-int4-MODEL_LICENSE--f60fb9539f73968073853779626bb008f9b3efe2": "MODEL_LICENSE",
+    "models--THUDM--codegeex2-6b-int4-LICENSE--ac4aee55c0698300d21541d5395d452016585f7a": "LICENSE",
+    "models--THUDM--codegeex2-6b-int4-tokenization_chatglm.py--d4ce41652736b14c5c0a9263d32ba33566adf73b": "tokenization_chatglm.py",
+    "models--THUDM--codegeex2-6b-int4-pytorch_model.bin--5c6a4e2eab934050f613b5ff8da4c26d3b1dfda750e423f72d008a0e2dc30915": "pytorch_model.bin",
+    "models--THUDM--codegeex2-6b-int4-config.json--d625890153747df0074ec60374d0e1f27550b75f": "config.json",
+    "models--THUDM--codegeex2-6b-int4-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 19:27:00 (Asia/Shanghai)",
+  "lastest-commit": "1b019c64b138e407d158c01e47bf28f9affb8b4c"
+}

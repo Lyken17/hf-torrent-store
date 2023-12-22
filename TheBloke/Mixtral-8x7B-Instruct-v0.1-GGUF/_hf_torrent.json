@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "mixtral-8x7b-instruct-v0.1.Q4_K_M.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q4_K_M.gguf--9193684683657e90707087bd1ed19fd0b277ab66358d19edeadc26d6fdec4f53",
+    "mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf--bd2e1499e68195f1a6ff151e6fa5c6632acc150b80cca4a3772cbb7ca59d44cd",
+    "mixtral-8x7b-instruct-v0.1.Q8_0.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q8_0.gguf--cdca4a8c09dfd722702f781d479695cda0d45e1bd1cd602ba1b6085ad921fc5f",
+    "mixtral-8x7b-instruct-v0.1.Q6_K.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q6_K.gguf--56638f9853b8fff80ac1fd4a91434a1c15c21d4c910811c5458df9ef092615fd",
+    "mixtral-8x7b-instruct-v0.1.Q2_K.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q2_K.gguf--d54b4f4ec06dbae558d25b2d1542417cdf9547907342db85eecd05b6e96e88f8",
+    "README.md": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-README.md--0e4ea04dd8a4df836a2479dda21c05bb0fda3a39",
+    "mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf--af12961e014037ee8c5c9f3bf7cf9fd99cadc9dabd50f528a4248c4a8ee8fe77",
+    "mixtral-8x7b-instruct-v0.1.Q4_0.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q4_0.gguf--0c57465507f21bed4364fca37efd310bee92e25a4ce4f5678ef9b44e95830e4e",
+    "mixtral-8x7b-instruct-v0.1.Q5_0.gguf": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q5_0.gguf--6c4dd1082dfa8d89f901039c7095f8b4343dca7a6782c82a72decb6a44475803",
+    "config.json": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-config.json--c2dc548a36b1b154d6d92107c2ee091dd5b592e4",
+    ".gitattributes": "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-.gitattributes--51285d1d0a5e763be7f9756c11fd524b841e3a4d"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q4_K_M.gguf--9193684683657e90707087bd1ed19fd0b277ab66358d19edeadc26d6fdec4f53": "mixtral-8x7b-instruct-v0.1.Q4_K_M.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf--bd2e1499e68195f1a6ff151e6fa5c6632acc150b80cca4a3772cbb7ca59d44cd": "mixtral-8x7b-instruct-v0.1.Q3_K_M.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q8_0.gguf--cdca4a8c09dfd722702f781d479695cda0d45e1bd1cd602ba1b6085ad921fc5f": "mixtral-8x7b-instruct-v0.1.Q8_0.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q6_K.gguf--56638f9853b8fff80ac1fd4a91434a1c15c21d4c910811c5458df9ef092615fd": "mixtral-8x7b-instruct-v0.1.Q6_K.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q2_K.gguf--d54b4f4ec06dbae558d25b2d1542417cdf9547907342db85eecd05b6e96e88f8": "mixtral-8x7b-instruct-v0.1.Q2_K.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-README.md--0e4ea04dd8a4df836a2479dda21c05bb0fda3a39": "README.md",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf--af12961e014037ee8c5c9f3bf7cf9fd99cadc9dabd50f528a4248c4a8ee8fe77": "mixtral-8x7b-instruct-v0.1.Q5_K_M.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q4_0.gguf--0c57465507f21bed4364fca37efd310bee92e25a4ce4f5678ef9b44e95830e4e": "mixtral-8x7b-instruct-v0.1.Q4_0.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-mixtral-8x7b-instruct-v0.1.Q5_0.gguf--6c4dd1082dfa8d89f901039c7095f8b4343dca7a6782c82a72decb6a44475803": "mixtral-8x7b-instruct-v0.1.Q5_0.gguf",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-config.json--c2dc548a36b1b154d6d92107c2ee091dd5b592e4": "config.json",
+    "models--TheBloke--Mixtral-8x7B-Instruct-v0.1-GGUF-.gitattributes--51285d1d0a5e763be7f9756c11fd524b841e3a4d": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 16:38:55 (Asia/Shanghai)",
+  "lastest-commit": "fa1d3835c5d45a3a74c0b68805fcdc133dba2b6a"
+}

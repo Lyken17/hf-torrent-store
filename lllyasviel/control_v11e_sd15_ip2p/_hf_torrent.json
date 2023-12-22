@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "images/image_out.png": "models--lllyasviel--control_v11e_sd15_ip2p-images--image_out.png--863e92a21a3c15f3602963c561021078dc632d06",
+    "images/input.png": "models--lllyasviel--control_v11e_sd15_ip2p-images--input.png--f46f6700781e157884b4325dac3835b102eb7212",
+    "diffusion_pytorch_model.fp16.bin": "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.fp16.bin--85a06695c394456f1f2031875209805fbf4fed3e44c1535ccc602f8bb12a412b",
+    "control_net_pix2pix.py": "models--lllyasviel--control_v11e_sd15_ip2p-control_net_pix2pix.py--5fd7da7dcc5784503862c5555b2adb70a94a2fa9",
+    "sd.png": "models--lllyasviel--control_v11e_sd15_ip2p-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797",
+    "README.md": "models--lllyasviel--control_v11e_sd15_ip2p-README.md--fc16f58a78c5bb3ef24ae5ad77b8e3bc6b8c101a",
+    "diffusion_pytorch_model.bin": "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.bin--318f239682150aaa8b9d0cadf529b4e7e17db42d08a01aa2b52720e31b311c27",
+    "diffusion_pytorch_model.safetensors": "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.safetensors--e8f35e0869d2160cc4c6841401c31dc18eb773f6b43ab74f08d987aff1e143a5",
+    "diffusion_pytorch_model.fp16.safetensors": "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.fp16.safetensors--01f214c8e6a0043b32004dade5bc40612d93ec5c468b09a26f97deba84b0fceb",
+    "config.json": "models--lllyasviel--control_v11e_sd15_ip2p-config.json--00b30fbeb21458957ca4a1c0cb89f2fa6b4e8a3d",
+    ".gitattributes": "models--lllyasviel--control_v11e_sd15_ip2p-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--lllyasviel--control_v11e_sd15_ip2p-images--image_out.png--863e92a21a3c15f3602963c561021078dc632d06": "images/image_out.png",
+    "models--lllyasviel--control_v11e_sd15_ip2p-images--input.png--f46f6700781e157884b4325dac3835b102eb7212": "images/input.png",
+    "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.fp16.bin--85a06695c394456f1f2031875209805fbf4fed3e44c1535ccc602f8bb12a412b": "diffusion_pytorch_model.fp16.bin",
+    "models--lllyasviel--control_v11e_sd15_ip2p-control_net_pix2pix.py--5fd7da7dcc5784503862c5555b2adb70a94a2fa9": "control_net_pix2pix.py",
+    "models--lllyasviel--control_v11e_sd15_ip2p-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797": "sd.png",
+    "models--lllyasviel--control_v11e_sd15_ip2p-README.md--fc16f58a78c5bb3ef24ae5ad77b8e3bc6b8c101a": "README.md",
+    "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.bin--318f239682150aaa8b9d0cadf529b4e7e17db42d08a01aa2b52720e31b311c27": "diffusion_pytorch_model.bin",
+    "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.safetensors--e8f35e0869d2160cc4c6841401c31dc18eb773f6b43ab74f08d987aff1e143a5": "diffusion_pytorch_model.safetensors",
+    "models--lllyasviel--control_v11e_sd15_ip2p-diffusion_pytorch_model.fp16.safetensors--01f214c8e6a0043b32004dade5bc40612d93ec5c468b09a26f97deba84b0fceb": "diffusion_pytorch_model.fp16.safetensors",
+    "models--lllyasviel--control_v11e_sd15_ip2p-config.json--00b30fbeb21458957ca4a1c0cb89f2fa6b4e8a3d": "config.json",
+    "models--lllyasviel--control_v11e_sd15_ip2p-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 13:29:03 (Asia/Shanghai)",
+  "lastest-commit": "1fed6ebb905c61929a60514830eb05b039969d6d"
+}

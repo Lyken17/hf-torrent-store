@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "RWKV-4-MIDI-120M-v1-20230714-ctx4096.pth": "models--BlinkDL--rwkv-4-music-RWKV-4-MIDI-120M-v1-20230714-ctx4096.pth--161d27dcf50d0958d230601ba1e0f8e7dd9c236105e92d2b833496412ace430c",
+    "README.md": "models--BlinkDL--rwkv-4-music-README.md--fbd3c8b529bfffc86445756b2f8e8cd07587bbe0",
+    "RWKV-4-MIDI-560M-v1-20230717-ctx4096.pth": "models--BlinkDL--rwkv-4-music-RWKV-4-MIDI-560M-v1-20230717-ctx4096.pth--62b21841b24af38ef176e9e9d895d9fff730cea8aa0623f53a1784d74ce828d6",
+    "RWKV-4-ABC-82M-v1-20230805-ctx1024.pth": "models--BlinkDL--rwkv-4-music-RWKV-4-ABC-82M-v1-20230805-ctx1024.pth--4c83859f387bc3953d19890338a3e50ea7f2278e1bbb9d6eae9b773c81958a01",
+    ".gitattributes": "models--BlinkDL--rwkv-4-music-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--BlinkDL--rwkv-4-music-RWKV-4-MIDI-120M-v1-20230714-ctx4096.pth--161d27dcf50d0958d230601ba1e0f8e7dd9c236105e92d2b833496412ace430c": "RWKV-4-MIDI-120M-v1-20230714-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-music-README.md--fbd3c8b529bfffc86445756b2f8e8cd07587bbe0": "README.md",
+    "models--BlinkDL--rwkv-4-music-RWKV-4-MIDI-560M-v1-20230717-ctx4096.pth--62b21841b24af38ef176e9e9d895d9fff730cea8aa0623f53a1784d74ce828d6": "RWKV-4-MIDI-560M-v1-20230717-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-music-RWKV-4-ABC-82M-v1-20230805-ctx1024.pth--4c83859f387bc3953d19890338a3e50ea7f2278e1bbb9d6eae9b773c81958a01": "RWKV-4-ABC-82M-v1-20230805-ctx1024.pth",
+    "models--BlinkDL--rwkv-4-music-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 15:52:10 (Asia/Shanghai)",
+  "lastest-commit": "6909763c1255d352c784cf7b01ec07992cd33b2f"
+}

@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "normalizer.json": "models--openai--whisper-medium.en-normalizer.json--dd6ae819ad738ac1a546e9f9282ef325c33b9ea0",
+    "tf_model.h5": "models--openai--whisper-medium.en-tf_model.h5--3e62f82f9d4b81713a839dfce549188821756238b931059407cb9e3763f00f20",
+    "merges.txt": "models--openai--whisper-medium.en-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "added_tokens.json": "models--openai--whisper-medium.en-added_tokens.json--0b661e7eeafa60f4366f802cc18d99a08574861c",
+    "special_tokens_map.json": "models--openai--whisper-medium.en-special_tokens_map.json--7e6b5b4f006274b7085b597005a9ad73c639eb80",
+    "tokenizer_config.json": "models--openai--whisper-medium.en-tokenizer_config.json--6b53d4f2b480c9267ffc419c7628159d25f3072a",
+    "README.md": "models--openai--whisper-medium.en-README.md--8dd352a35d6a3b3a16fe533568fee7993843fb80",
+    "tokenizer.json": "models--openai--whisper-medium.en-tokenizer.json--b5bd266de2f9b9a68efe13fb48ac6830ca71c0bb",
+    "model.safetensors": "models--openai--whisper-medium.en-model.safetensors--8f731340f569588236c21f794c33e83b7cc5a297511d2bdc30117ea969004311",
+    "generation_config.json": "models--openai--whisper-medium.en-generation_config.json--e39691f99e00fe3d93e6fc27aba6be8e111fb7c7",
+    "vocab.json": "models--openai--whisper-medium.en-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b",
+    "flax_model.msgpack": "models--openai--whisper-medium.en-flax_model.msgpack--9817baf8ac8822dd38d7ba3feff91047898c4dae9afb7f7370afe05c5d6a0a34",
+    "preprocessor_config.json": "models--openai--whisper-medium.en-preprocessor_config.json--c2048dfa9fd94a052e62e908d2c4dfb18534b4d2",
+    "pytorch_model.bin": "models--openai--whisper-medium.en-pytorch_model.bin--9cab9e33c423511099b0f7b9b8f54eb37c5acfdbdd1e363765621b6cec24657c",
+    "config.json": "models--openai--whisper-medium.en-config.json--64c74fbc447ac03a91057284c2bd1dc94dcbc427",
+    ".gitattributes": "models--openai--whisper-medium.en-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb"
+  },
+  "uuid2fpath": {
+    "models--openai--whisper-medium.en-normalizer.json--dd6ae819ad738ac1a546e9f9282ef325c33b9ea0": "normalizer.json",
+    "models--openai--whisper-medium.en-tf_model.h5--3e62f82f9d4b81713a839dfce549188821756238b931059407cb9e3763f00f20": "tf_model.h5",
+    "models--openai--whisper-medium.en-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--openai--whisper-medium.en-added_tokens.json--0b661e7eeafa60f4366f802cc18d99a08574861c": "added_tokens.json",
+    "models--openai--whisper-medium.en-special_tokens_map.json--7e6b5b4f006274b7085b597005a9ad73c639eb80": "special_tokens_map.json",
+    "models--openai--whisper-medium.en-tokenizer_config.json--6b53d4f2b480c9267ffc419c7628159d25f3072a": "tokenizer_config.json",
+    "models--openai--whisper-medium.en-README.md--8dd352a35d6a3b3a16fe533568fee7993843fb80": "README.md",
+    "models--openai--whisper-medium.en-tokenizer.json--b5bd266de2f9b9a68efe13fb48ac6830ca71c0bb": "tokenizer.json",
+    "models--openai--whisper-medium.en-model.safetensors--8f731340f569588236c21f794c33e83b7cc5a297511d2bdc30117ea969004311": "model.safetensors",
+    "models--openai--whisper-medium.en-generation_config.json--e39691f99e00fe3d93e6fc27aba6be8e111fb7c7": "generation_config.json",
+    "models--openai--whisper-medium.en-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b": "vocab.json",
+    "models--openai--whisper-medium.en-flax_model.msgpack--9817baf8ac8822dd38d7ba3feff91047898c4dae9afb7f7370afe05c5d6a0a34": "flax_model.msgpack",
+    "models--openai--whisper-medium.en-preprocessor_config.json--c2048dfa9fd94a052e62e908d2c4dfb18534b4d2": "preprocessor_config.json",
+    "models--openai--whisper-medium.en-pytorch_model.bin--9cab9e33c423511099b0f7b9b8f54eb37c5acfdbdd1e363765621b6cec24657c": "pytorch_model.bin",
+    "models--openai--whisper-medium.en-config.json--64c74fbc447ac03a91057284c2bd1dc94dcbc427": "config.json",
+    "models--openai--whisper-medium.en-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 11:52:59 (Asia/Shanghai)",
+  "lastest-commit": "22c408d97fe509ffd3700d13650b2d328ef1b4d1"
+}

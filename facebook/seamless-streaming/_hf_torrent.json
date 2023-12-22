@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "vocoder_v2.pt": "models--facebook--seamless-streaming-vocoder_v2.pt--20c50c3edd3fb08704c10542bf3ec72e8a96aaba4ec09fb6ac1fa64172c8ca13",
+    "seamless_streaming_unity.pt": "models--facebook--seamless-streaming-seamless_streaming_unity.pt--ce7dfdb0af9d81c2a5d2accf508cc1e5fd2d120cdaf15d9c8606655e1dea89eb",
+    "spm_char_lang38_tc.model": "models--facebook--seamless-streaming-spm_char_lang38_tc.model--9e7f2075dbc38dbe11d2414bfa4fb8e900022e87bbff4f74c97817e32a7ab493",
+    "tokenizer.model": "models--facebook--seamless-streaming-tokenizer.model--026a76827537db9f1348e4d5aaa127bb10a2f2ff633243f3a52d16be82d73f9d",
+    "seamless_streaming_monotonic_decoder.pt": "models--facebook--seamless-streaming-seamless_streaming_monotonic_decoder.pt--7797deda337f51f124450857f9aa851e4a869efeb9078aa7c57966f52af6335c",
+    "README.md": "models--facebook--seamless-streaming-README.md--2ebb2a79578a1aa61fb33e045768c7d41dc954bf",
+    "streaming_arch.png": "models--facebook--seamless-streaming-streaming_arch.png--4f5bbd91fed88f4438c74a395d57e29e90058833",
+    ".gitattributes": "models--facebook--seamless-streaming-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--facebook--seamless-streaming-vocoder_v2.pt--20c50c3edd3fb08704c10542bf3ec72e8a96aaba4ec09fb6ac1fa64172c8ca13": "vocoder_v2.pt",
+    "models--facebook--seamless-streaming-seamless_streaming_unity.pt--ce7dfdb0af9d81c2a5d2accf508cc1e5fd2d120cdaf15d9c8606655e1dea89eb": "seamless_streaming_unity.pt",
+    "models--facebook--seamless-streaming-spm_char_lang38_tc.model--9e7f2075dbc38dbe11d2414bfa4fb8e900022e87bbff4f74c97817e32a7ab493": "spm_char_lang38_tc.model",
+    "models--facebook--seamless-streaming-tokenizer.model--026a76827537db9f1348e4d5aaa127bb10a2f2ff633243f3a52d16be82d73f9d": "tokenizer.model",
+    "models--facebook--seamless-streaming-seamless_streaming_monotonic_decoder.pt--7797deda337f51f124450857f9aa851e4a869efeb9078aa7c57966f52af6335c": "seamless_streaming_monotonic_decoder.pt",
+    "models--facebook--seamless-streaming-README.md--2ebb2a79578a1aa61fb33e045768c7d41dc954bf": "README.md",
+    "models--facebook--seamless-streaming-streaming_arch.png--4f5bbd91fed88f4438c74a395d57e29e90058833": "streaming_arch.png",
+    "models--facebook--seamless-streaming-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:49:44 (Asia/Shanghai)",
+  "lastest-commit": "1c2ef01eed99bfe1104214445097be6a8ce30363"
+}

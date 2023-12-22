@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--FlagAlpha--Atom-7B-Chat-pytorch_model.bin.index.json--f89f5bc5b73ef76c673acf13caad787cbd7a3076",
+    "special_tokens_map.json": "models--FlagAlpha--Atom-7B-Chat-special_tokens_map.json--1e1a9978a99207be181b1c1191efa32cec429a86",
+    "pytorch_model-00002-of-00002.bin": "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00002-of-00002.bin--7913443d6a44639e4e6ffbc2af3c527c1406630b80fcec1e61a5ed63b4055a62",
+    "tokenizer_config.json": "models--FlagAlpha--Atom-7B-Chat-tokenizer_config.json--7d11019bffa546d64c15b5420c8053f5bceb79a3",
+    "tokenizer.model": "models--FlagAlpha--Atom-7B-Chat-tokenizer.model--04ef61cc08360cd193f9056cb10e26525451fd62759ca714840663257e7bcdd8",
+    "README.md": "models--FlagAlpha--Atom-7B-Chat-README.md--87e7c7b0e0e6631217f3254c63b77356b627a4b9",
+    "pytorch_model-00001-of-00002.bin": "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00001-of-00002.bin--99e0f6865c34e23d3187228c575c9849b5d86f2f9d880d36351a578bca2cf059",
+    "generation_config.json": "models--FlagAlpha--Atom-7B-Chat-generation_config.json--afb9791e3c922db4172679a530b21a0477c09352",
+    "config.json": "models--FlagAlpha--Atom-7B-Chat-config.json--3a3671c87e3ee58fbe75920ed9a1368689a52773",
+    "configuration.json": "models--FlagAlpha--Atom-7B-Chat-configuration.json--ae67ce8f766de1a19fb47a63316d99fe4c1cae5f",
+    ".gitattributes": "models--FlagAlpha--Atom-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--FlagAlpha--Atom-7B-Chat-pytorch_model.bin.index.json--f89f5bc5b73ef76c673acf13caad787cbd7a3076": "pytorch_model.bin.index.json",
+    "models--FlagAlpha--Atom-7B-Chat-special_tokens_map.json--1e1a9978a99207be181b1c1191efa32cec429a86": "special_tokens_map.json",
+    "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00002-of-00002.bin--7913443d6a44639e4e6ffbc2af3c527c1406630b80fcec1e61a5ed63b4055a62": "pytorch_model-00002-of-00002.bin",
+    "models--FlagAlpha--Atom-7B-Chat-tokenizer_config.json--7d11019bffa546d64c15b5420c8053f5bceb79a3": "tokenizer_config.json",
+    "models--FlagAlpha--Atom-7B-Chat-tokenizer.model--04ef61cc08360cd193f9056cb10e26525451fd62759ca714840663257e7bcdd8": "tokenizer.model",
+    "models--FlagAlpha--Atom-7B-Chat-README.md--87e7c7b0e0e6631217f3254c63b77356b627a4b9": "README.md",
+    "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00001-of-00002.bin--99e0f6865c34e23d3187228c575c9849b5d86f2f9d880d36351a578bca2cf059": "pytorch_model-00001-of-00002.bin",
+    "models--FlagAlpha--Atom-7B-Chat-generation_config.json--afb9791e3c922db4172679a530b21a0477c09352": "generation_config.json",
+    "models--FlagAlpha--Atom-7B-Chat-config.json--3a3671c87e3ee58fbe75920ed9a1368689a52773": "config.json",
+    "models--FlagAlpha--Atom-7B-Chat-configuration.json--ae67ce8f766de1a19fb47a63316d99fe4c1cae5f": "configuration.json",
+    "models--FlagAlpha--Atom-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 15:58:09 (Asia/Shanghai)",
+  "lastest-commit": "d8fc55670d5e832b3cabc099e2fefdb71cbb6d4d"
+}

@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--THUDM--agentlm-7b-model-00001-of-00002.safetensors--2556a0632fc4e012522e47f772bb70a079b7971ee059e883b469f873ab9d1df6",
+    "tokenizer_config.json": "models--THUDM--agentlm-7b-tokenizer_config.json--5557c019f635783532b53857546f2c72db496f76",
+    "tokenizer.model": "models--THUDM--agentlm-7b-tokenizer.model--22bccbcb41ec929cf0c9dbe8f41036db82e5e773",
+    "README.md": "models--THUDM--agentlm-7b-README.md--cb2f05116356ada9d0431a01f357bce89a5ff7ae",
+    "tokenizer.json": "models--THUDM--agentlm-7b-tokenizer.json--a6e931b92caff4c79c5c56282f1e89569a0ae558",
+    "model-00002-of-00002.safetensors": "models--THUDM--agentlm-7b-model-00002-of-00002.safetensors--38d68dd15a691f1b772b1465a3faf5d0593861bcb7bb22af554f6db95843930c",
+    "generation_config.json": "models--THUDM--agentlm-7b-generation_config.json--aa1b3d3486df56a0699ce90c33283b13556fb5a3",
+    "model.safetensors.index.json": "models--THUDM--agentlm-7b-model.safetensors.index.json--d72e20e69c40c0427f09a2cf2ea0ad33158c3616",
+    "config.json": "models--THUDM--agentlm-7b-config.json--6120dc004a5ab90dbbb20a9bf73f7c5de7ac5ad8",
+    ".gitattributes": "models--THUDM--agentlm-7b-.gitattributes--580d310c2d211aca166288a207e972ced9bb0100"
+  },
+  "uuid2fpath": {
+    "models--THUDM--agentlm-7b-model-00001-of-00002.safetensors--2556a0632fc4e012522e47f772bb70a079b7971ee059e883b469f873ab9d1df6": "model-00001-of-00002.safetensors",
+    "models--THUDM--agentlm-7b-tokenizer_config.json--5557c019f635783532b53857546f2c72db496f76": "tokenizer_config.json",
+    "models--THUDM--agentlm-7b-tokenizer.model--22bccbcb41ec929cf0c9dbe8f41036db82e5e773": "tokenizer.model",
+    "models--THUDM--agentlm-7b-README.md--cb2f05116356ada9d0431a01f357bce89a5ff7ae": "README.md",
+    "models--THUDM--agentlm-7b-tokenizer.json--a6e931b92caff4c79c5c56282f1e89569a0ae558": "tokenizer.json",
+    "models--THUDM--agentlm-7b-model-00002-of-00002.safetensors--38d68dd15a691f1b772b1465a3faf5d0593861bcb7bb22af554f6db95843930c": "model-00002-of-00002.safetensors",
+    "models--THUDM--agentlm-7b-generation_config.json--aa1b3d3486df56a0699ce90c33283b13556fb5a3": "generation_config.json",
+    "models--THUDM--agentlm-7b-model.safetensors.index.json--d72e20e69c40c0427f09a2cf2ea0ad33158c3616": "model.safetensors.index.json",
+    "models--THUDM--agentlm-7b-config.json--6120dc004a5ab90dbbb20a9bf73f7c5de7ac5ad8": "config.json",
+    "models--THUDM--agentlm-7b-.gitattributes--580d310c2d211aca166288a207e972ced9bb0100": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 11:58:14 (Asia/Shanghai)",
+  "lastest-commit": "7536176aefa9278d67256cb2f2f7a8557c2fe130"
+}

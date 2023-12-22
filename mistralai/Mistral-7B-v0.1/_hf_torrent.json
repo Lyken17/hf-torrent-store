@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--mistralai--Mistral-7B-v0.1-model-00001-of-00002.safetensors--9742cb4764964155b7a5f35eefad651f590006091ddeb536863d6c5865cca1b9",
+    "pytorch_model.bin.index.json": "models--mistralai--Mistral-7B-v0.1-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775",
+    "special_tokens_map.json": "models--mistralai--Mistral-7B-v0.1-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b",
+    "pytorch_model-00002-of-00002.bin": "models--mistralai--Mistral-7B-v0.1-pytorch_model-00002-of-00002.bin--1feecce04754087e8e9a320847916ed57c6539ed0e5e2cd0ebdc7a816cc3773e",
+    "tokenizer_config.json": "models--mistralai--Mistral-7B-v0.1-tokenizer_config.json--81730cd96b4768bd1a77a4bd8269c72ea708870b",
+    "tokenizer.model": "models--mistralai--Mistral-7B-v0.1-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--mistralai--Mistral-7B-v0.1-README.md--1c5552811ac1b605a13381181a0901cf01f255ad",
+    "tokenizer.json": "models--mistralai--Mistral-7B-v0.1-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "model-00002-of-00002.safetensors": "models--mistralai--Mistral-7B-v0.1-model-00002-of-00002.safetensors--9bcf56354ec0c68b5f8e97b4f3b02d16af899a65b0868d6dba5a51c1b30f01cb",
+    "pytorch_model-00001-of-00002.bin": "models--mistralai--Mistral-7B-v0.1-pytorch_model-00001-of-00002.bin--67b1ea77d83cf017d6aa2fd9aadc6ad043a0cb3233a1cf9c422916b88350991f",
+    "generation_config.json": "models--mistralai--Mistral-7B-v0.1-generation_config.json--2c5f418036a121b3fd432d1bf2b3c5c9daf59fab",
+    "model.safetensors.index.json": "models--mistralai--Mistral-7B-v0.1-model.safetensors.index.json--1d76bd3b4dd491998e6f67d1a7b181623ebbf7f9",
+    "config.json": "models--mistralai--Mistral-7B-v0.1-config.json--f4989f072a7f517d01d479eb1685c6e50e014f88",
+    ".gitattributes": "models--mistralai--Mistral-7B-v0.1-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--mistralai--Mistral-7B-v0.1-model-00001-of-00002.safetensors--9742cb4764964155b7a5f35eefad651f590006091ddeb536863d6c5865cca1b9": "model-00001-of-00002.safetensors",
+    "models--mistralai--Mistral-7B-v0.1-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775": "pytorch_model.bin.index.json",
+    "models--mistralai--Mistral-7B-v0.1-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b": "special_tokens_map.json",
+    "models--mistralai--Mistral-7B-v0.1-pytorch_model-00002-of-00002.bin--1feecce04754087e8e9a320847916ed57c6539ed0e5e2cd0ebdc7a816cc3773e": "pytorch_model-00002-of-00002.bin",
+    "models--mistralai--Mistral-7B-v0.1-tokenizer_config.json--81730cd96b4768bd1a77a4bd8269c72ea708870b": "tokenizer_config.json",
+    "models--mistralai--Mistral-7B-v0.1-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--mistralai--Mistral-7B-v0.1-README.md--1c5552811ac1b605a13381181a0901cf01f255ad": "README.md",
+    "models--mistralai--Mistral-7B-v0.1-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--mistralai--Mistral-7B-v0.1-model-00002-of-00002.safetensors--9bcf56354ec0c68b5f8e97b4f3b02d16af899a65b0868d6dba5a51c1b30f01cb": "model-00002-of-00002.safetensors",
+    "models--mistralai--Mistral-7B-v0.1-pytorch_model-00001-of-00002.bin--67b1ea77d83cf017d6aa2fd9aadc6ad043a0cb3233a1cf9c422916b88350991f": "pytorch_model-00001-of-00002.bin",
+    "models--mistralai--Mistral-7B-v0.1-generation_config.json--2c5f418036a121b3fd432d1bf2b3c5c9daf59fab": "generation_config.json",
+    "models--mistralai--Mistral-7B-v0.1-model.safetensors.index.json--1d76bd3b4dd491998e6f67d1a7b181623ebbf7f9": "model.safetensors.index.json",
+    "models--mistralai--Mistral-7B-v0.1-config.json--f4989f072a7f517d01d479eb1685c6e50e014f88": "config.json",
+    "models--mistralai--Mistral-7B-v0.1-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 16:50:48 (Asia/Shanghai)",
+  "lastest-commit": "26bca36bde8333b5d7f72e9ed20ccda6a618af24"
+}

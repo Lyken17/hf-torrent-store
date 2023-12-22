@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "sd-vae-ft-ema/diffusion_pytorch_model.bin": "models--PixArt-alpha--PixArt-alpha-sd-vae-ft-ema--diffusion_pytorch_model.bin--7c98ebcd7ca5cb69d47b2ae287feba0695689fbf2c8fead2fab05fd3e0c28303",
+    "sd-vae-ft-ema/config.json": "models--PixArt-alpha--PixArt-alpha-sd-vae-ft-ema--config.json--0db26717579be63eb0ddbf15b43faa43700dfe5a",
+    "t5-v1_1-xxl/pytorch_model.bin.index.json": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--pytorch_model.bin.index.json--1a33111ca9725d27f870b6797f3c9726654a0657",
+    "t5-v1_1-xxl/special_tokens_map.json": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--special_tokens_map.json--881bdbffc06e471924ecea57f962bc5f8e2a9f21",
+    "t5-v1_1-xxl/pytorch_model-00002-of-00002.bin": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--pytorch_model-00002-of-00002.bin--4f68f80678299ac59f69b3550ebd47b966571920d8f9e71f42ab61fabaaed868",
+    "t5-v1_1-xxl/tokenizer_config.json": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--tokenizer_config.json--b114c318caf72f6e89ea92e0755c41327a453198",
+    "t5-v1_1-xxl/pytorch_model-00001-of-00002.bin": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--pytorch_model-00001-of-00002.bin--2f71ad0624095dae788b1023081dda1b4040bd24f7244a5b5b46eebc09825839",
+    "t5-v1_1-xxl/spiece.model": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+    "t5-v1_1-xxl/config.json": "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--config.json--d133daa4aefba0f8b2bd96d4cb52992b32dc693a",
+    "PixArt-XL-2-512x512.pth": "models--PixArt-alpha--PixArt-alpha-PixArt-XL-2-512x512.pth--a1e101f812e1e4d7d4ebe69a897945f7317e3f9073b9a311b48b4fa3af5757c8",
+    "PixArt-text-to-image-workflow.json": "models--PixArt-alpha--PixArt-alpha-PixArt-text-to-image-workflow.json--2eb618b7e7b427d9741cf24593064edc1f60dec8",
+    "PixArt-image-to-image-workflow.json": "models--PixArt-alpha--PixArt-alpha-PixArt-image-to-image-workflow.json--55de7efdeccc86e617cdd0645c16885cc2e19670",
+    "README.md": "models--PixArt-alpha--PixArt-alpha-README.md--aad97ba9efbb5789584bd3e16efc754376f79edd",
+    "PixArt-XL-2-1024-MS.pth": "models--PixArt-alpha--PixArt-alpha-PixArt-XL-2-1024-MS.pth--ecb2827e2a7d3c266ba035d9c0360994d02cc474106428a6be7b055c9f99890f",
+    ".gitattributes": "models--PixArt-alpha--PixArt-alpha-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--PixArt-alpha--PixArt-alpha-sd-vae-ft-ema--diffusion_pytorch_model.bin--7c98ebcd7ca5cb69d47b2ae287feba0695689fbf2c8fead2fab05fd3e0c28303": "sd-vae-ft-ema/diffusion_pytorch_model.bin",
+    "models--PixArt-alpha--PixArt-alpha-sd-vae-ft-ema--config.json--0db26717579be63eb0ddbf15b43faa43700dfe5a": "sd-vae-ft-ema/config.json",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--pytorch_model.bin.index.json--1a33111ca9725d27f870b6797f3c9726654a0657": "t5-v1_1-xxl/pytorch_model.bin.index.json",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--special_tokens_map.json--881bdbffc06e471924ecea57f962bc5f8e2a9f21": "t5-v1_1-xxl/special_tokens_map.json",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--pytorch_model-00002-of-00002.bin--4f68f80678299ac59f69b3550ebd47b966571920d8f9e71f42ab61fabaaed868": "t5-v1_1-xxl/pytorch_model-00002-of-00002.bin",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--tokenizer_config.json--b114c318caf72f6e89ea92e0755c41327a453198": "t5-v1_1-xxl/tokenizer_config.json",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--pytorch_model-00001-of-00002.bin--2f71ad0624095dae788b1023081dda1b4040bd24f7244a5b5b46eebc09825839": "t5-v1_1-xxl/pytorch_model-00001-of-00002.bin",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86": "t5-v1_1-xxl/spiece.model",
+    "models--PixArt-alpha--PixArt-alpha-t5-v1_1-xxl--config.json--d133daa4aefba0f8b2bd96d4cb52992b32dc693a": "t5-v1_1-xxl/config.json",
+    "models--PixArt-alpha--PixArt-alpha-PixArt-XL-2-512x512.pth--a1e101f812e1e4d7d4ebe69a897945f7317e3f9073b9a311b48b4fa3af5757c8": "PixArt-XL-2-512x512.pth",
+    "models--PixArt-alpha--PixArt-alpha-PixArt-text-to-image-workflow.json--2eb618b7e7b427d9741cf24593064edc1f60dec8": "PixArt-text-to-image-workflow.json",
+    "models--PixArt-alpha--PixArt-alpha-PixArt-image-to-image-workflow.json--55de7efdeccc86e617cdd0645c16885cc2e19670": "PixArt-image-to-image-workflow.json",
+    "models--PixArt-alpha--PixArt-alpha-README.md--aad97ba9efbb5789584bd3e16efc754376f79edd": "README.md",
+    "models--PixArt-alpha--PixArt-alpha-PixArt-XL-2-1024-MS.pth--ecb2827e2a7d3c266ba035d9c0360994d02cc474106428a6be7b055c9f99890f": "PixArt-XL-2-1024-MS.pth",
+    "models--PixArt-alpha--PixArt-alpha-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 18:56:15 (Asia/Shanghai)",
+  "lastest-commit": "7019816ebd2b296cffba916c6934447e091432d0"
+}

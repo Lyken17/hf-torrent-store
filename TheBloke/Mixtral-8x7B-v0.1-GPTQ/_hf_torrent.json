@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b",
+    "tokenizer_config.json": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-tokenizer_config.json--81730cd96b4768bd1a77a4bd8269c72ea708870b",
+    "quantize_config.json": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-quantize_config.json--cac25c211684fe55ef81d968846d27a63c30ec02",
+    "tokenizer.model": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-README.md--8c6e823f56bbc1f0667837c44cee95dd756c6d5c",
+    "tokenizer.json": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "model.safetensors": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-model.safetensors--06350f6e939a9ab5abef54a8eae0cbf5d7d04236f2e60f8f53c6c6589ec231a4",
+    "generation_config.json": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-generation_config.json--c441554e91bd20deec0e4c45388b2ac2cc602f2b",
+    "config.json": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-config.json--4bbec807777993d3d91f2299f372157b12fc8a60",
+    ".gitattributes": "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-special_tokens_map.json--a52c50a199269393cd1548c7e6a77a654bd2001b": "special_tokens_map.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-tokenizer_config.json--81730cd96b4768bd1a77a4bd8269c72ea708870b": "tokenizer_config.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-quantize_config.json--cac25c211684fe55ef81d968846d27a63c30ec02": "quantize_config.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-README.md--8c6e823f56bbc1f0667837c44cee95dd756c6d5c": "README.md",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-model.safetensors--06350f6e939a9ab5abef54a8eae0cbf5d7d04236f2e60f8f53c6c6589ec231a4": "model.safetensors",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-generation_config.json--c441554e91bd20deec0e4c45388b2ac2cc602f2b": "generation_config.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-config.json--4bbec807777993d3d91f2299f372157b12fc8a60": "config.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 12:06:18 (Asia/Shanghai)",
+  "lastest-commit": "7d1eb57b65f823458e27509cd0aac7172f54a260"
+}

@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--lmsys--vicuna-13b-v1.5-pytorch_model-00003-of-00003.bin--b4bd8cf2ab7e7bf22aaaf9b35ec5d41602d83f5a97bb82e17662ffe0a20ab215",
+    "pytorch_model-00001-of-00003.bin": "models--lmsys--vicuna-13b-v1.5-pytorch_model-00001-of-00003.bin--e9b54ba4bf8f87c6129f1e35c63d1ed248971d827ee5559f1a3bb48b39e43187",
+    "pytorch_model.bin.index.json": "models--lmsys--vicuna-13b-v1.5-pytorch_model.bin.index.json--ae8b4645928d6ac04393e9b2498de06338028d9e",
+    "special_tokens_map.json": "models--lmsys--vicuna-13b-v1.5-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e",
+    "tokenizer_config.json": "models--lmsys--vicuna-13b-v1.5-tokenizer_config.json--508754bfb1263631e39be7a2cd3577f6b5657c16",
+    "tokenizer.model": "models--lmsys--vicuna-13b-v1.5-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--lmsys--vicuna-13b-v1.5-README.md--5c9bdd678820b7b939d1a7ecd1320bf0cee2a591",
+    "generation_config.json": "models--lmsys--vicuna-13b-v1.5-generation_config.json--1e681585c3bc3def4a5caf111aa29064138aa760",
+    "config.json": "models--lmsys--vicuna-13b-v1.5-config.json--d0c0ca4d85e34e2a6c5f55000d403ba09e565b3c",
+    "pytorch_model-00002-of-00003.bin": "models--lmsys--vicuna-13b-v1.5-pytorch_model-00002-of-00003.bin--ade40ae3180cbe5553278edb8e61ff4f2059f62be12b06f253b373838c199221",
+    ".gitattributes": "models--lmsys--vicuna-13b-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--lmsys--vicuna-13b-v1.5-pytorch_model-00003-of-00003.bin--b4bd8cf2ab7e7bf22aaaf9b35ec5d41602d83f5a97bb82e17662ffe0a20ab215": "pytorch_model-00003-of-00003.bin",
+    "models--lmsys--vicuna-13b-v1.5-pytorch_model-00001-of-00003.bin--e9b54ba4bf8f87c6129f1e35c63d1ed248971d827ee5559f1a3bb48b39e43187": "pytorch_model-00001-of-00003.bin",
+    "models--lmsys--vicuna-13b-v1.5-pytorch_model.bin.index.json--ae8b4645928d6ac04393e9b2498de06338028d9e": "pytorch_model.bin.index.json",
+    "models--lmsys--vicuna-13b-v1.5-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e": "special_tokens_map.json",
+    "models--lmsys--vicuna-13b-v1.5-tokenizer_config.json--508754bfb1263631e39be7a2cd3577f6b5657c16": "tokenizer_config.json",
+    "models--lmsys--vicuna-13b-v1.5-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--lmsys--vicuna-13b-v1.5-README.md--5c9bdd678820b7b939d1a7ecd1320bf0cee2a591": "README.md",
+    "models--lmsys--vicuna-13b-v1.5-generation_config.json--1e681585c3bc3def4a5caf111aa29064138aa760": "generation_config.json",
+    "models--lmsys--vicuna-13b-v1.5-config.json--d0c0ca4d85e34e2a6c5f55000d403ba09e565b3c": "config.json",
+    "models--lmsys--vicuna-13b-v1.5-pytorch_model-00002-of-00003.bin--ade40ae3180cbe5553278edb8e61ff4f2059f62be12b06f253b373838c199221": "pytorch_model-00002-of-00003.bin",
+    "models--lmsys--vicuna-13b-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 13:37:57 (Asia/Shanghai)",
+  "lastest-commit": "3deb0106f72a3a433f0c6ea0cb978bdf14bcd3a6"
+}

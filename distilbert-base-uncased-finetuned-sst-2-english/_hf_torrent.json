@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "onnx/added_tokens.json": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--added_tokens.json--f84095a3e2962f44bdd2f865e4333c35ae95d73f",
+    "onnx/special_tokens_map.json": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "onnx/tokenizer_config.json": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--tokenizer_config.json--1e8d194203eaef261e7091a792f87162b443ba94",
+    "onnx/tokenizer.json": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--tokenizer.json--688882a79f44442ddc1f60d70334a7ff5df0fb47",
+    "onnx/vocab.txt": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "onnx/model.onnx": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--model.onnx--252cf7048af94a1599019fef35961b2bd3d6db13df0b0a4b032b92baeae31939",
+    "onnx/config.json": "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--config.json--7efee27005a6b1a2403dec53ea42846c70a14605",
+    "map.jpeg": "models--distilbert-base-uncased-finetuned-sst-2-english-map.jpeg--248fa5ab9d582a1e8255e3a562503e7ada42379e",
+    "rust_model.ot": "models--distilbert-base-uncased-finetuned-sst-2-english-rust_model.ot--9db97da21b97a5e6db1212ce6a810a0c5e22c99daefe3355bae2117f78a0abb9",
+    "tf_model.h5": "models--distilbert-base-uncased-finetuned-sst-2-english-tf_model.h5--b44df675bb34ccd8e57c14292c811ac7358b7c8e37c7f212745f640cd6019ac8",
+    "tokenizer_config.json": "models--distilbert-base-uncased-finetuned-sst-2-english-tokenizer_config.json--3ed34255a7cb8e6706a8bb21993836e99e7b959f",
+    "README.md": "models--distilbert-base-uncased-finetuned-sst-2-english-README.md--ebf6c698d8ea8e13695550773d47438c4124ffee",
+    "model.safetensors": "models--distilbert-base-uncased-finetuned-sst-2-english-model.safetensors--7c3919835e442510166d267fe7cbe847e0c51cd26d9ba07b89a57b952b49b8aa",
+    "vocab.txt": "models--distilbert-base-uncased-finetuned-sst-2-english-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "pytorch_model.bin": "models--distilbert-base-uncased-finetuned-sst-2-english-pytorch_model.bin--60554cbd7781b09d87f1ececbea8c064b94e49a7f03fd88e8775bfe6cc3d9f88",
+    "config.json": "models--distilbert-base-uncased-finetuned-sst-2-english-config.json--b57fe5dfcb8ec3f9bab35ed427c3434e3c7dd1ba",
+    ".gitattributes": "models--distilbert-base-uncased-finetuned-sst-2-english-.gitattributes--9a0990c5c0e00e26cc5ca4ba5c1c3ad533de7018"
+  },
+  "uuid2fpath": {
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--added_tokens.json--f84095a3e2962f44bdd2f865e4333c35ae95d73f": "onnx/added_tokens.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "onnx/special_tokens_map.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--tokenizer_config.json--1e8d194203eaef261e7091a792f87162b443ba94": "onnx/tokenizer_config.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--tokenizer.json--688882a79f44442ddc1f60d70334a7ff5df0fb47": "onnx/tokenizer.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "onnx/vocab.txt",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--model.onnx--252cf7048af94a1599019fef35961b2bd3d6db13df0b0a4b032b92baeae31939": "onnx/model.onnx",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-onnx--config.json--7efee27005a6b1a2403dec53ea42846c70a14605": "onnx/config.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-map.jpeg--248fa5ab9d582a1e8255e3a562503e7ada42379e": "map.jpeg",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-rust_model.ot--9db97da21b97a5e6db1212ce6a810a0c5e22c99daefe3355bae2117f78a0abb9": "rust_model.ot",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-tf_model.h5--b44df675bb34ccd8e57c14292c811ac7358b7c8e37c7f212745f640cd6019ac8": "tf_model.h5",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-tokenizer_config.json--3ed34255a7cb8e6706a8bb21993836e99e7b959f": "tokenizer_config.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-README.md--ebf6c698d8ea8e13695550773d47438c4124ffee": "README.md",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-model.safetensors--7c3919835e442510166d267fe7cbe847e0c51cd26d9ba07b89a57b952b49b8aa": "model.safetensors",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "vocab.txt",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-pytorch_model.bin--60554cbd7781b09d87f1ececbea8c064b94e49a7f03fd88e8775bfe6cc3d9f88": "pytorch_model.bin",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-config.json--b57fe5dfcb8ec3f9bab35ed427c3434e3c7dd1ba": "config.json",
+    "models--distilbert-base-uncased-finetuned-sst-2-english-.gitattributes--9a0990c5c0e00e26cc5ca4ba5c1c3ad533de7018": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 15:58:30 (Asia/Shanghai)",
+  "lastest-commit": "714eb0fa89d2f80546fda750413ed43d93601a13"
+}

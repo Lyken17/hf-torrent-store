@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "tokenizer_config.json": "models--fnlp--elasticbert-large-tokenizer_config.json--a661b1a138dac6dc5590367402d100765010ffd6",
+    "README.md": "models--fnlp--elasticbert-large-README.md--53affb27c28e242f3ac7970fdd81e7e22d802cbe",
+    "tokenizer.json": "models--fnlp--elasticbert-large-tokenizer.json--949a6f013d67eb8a5b4b5b46026217b888021b88",
+    "vocab.txt": "models--fnlp--elasticbert-large-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938",
+    "pytorch_model.bin": "models--fnlp--elasticbert-large-pytorch_model.bin--dc32a17ddd6aaec5bc183d5c2940c5d410b033f8f2317ed693efd3ea345bc476",
+    "config.json": "models--fnlp--elasticbert-large-config.json--00156c8c79678dfe719b1013ed126b687a8d4ec1",
+    ".gitattributes": "models--fnlp--elasticbert-large-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--fnlp--elasticbert-large-tokenizer_config.json--a661b1a138dac6dc5590367402d100765010ffd6": "tokenizer_config.json",
+    "models--fnlp--elasticbert-large-README.md--53affb27c28e242f3ac7970fdd81e7e22d802cbe": "README.md",
+    "models--fnlp--elasticbert-large-tokenizer.json--949a6f013d67eb8a5b4b5b46026217b888021b88": "tokenizer.json",
+    "models--fnlp--elasticbert-large-vocab.txt--fb140275c155a9c7c5a3b3e0e77a9e839594a938": "vocab.txt",
+    "models--fnlp--elasticbert-large-pytorch_model.bin--dc32a17ddd6aaec5bc183d5c2940c5d410b033f8f2317ed693efd3ea345bc476": "pytorch_model.bin",
+    "models--fnlp--elasticbert-large-config.json--00156c8c79678dfe719b1013ed126b687a8d4ec1": "config.json",
+    "models--fnlp--elasticbert-large-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:50:53 (Asia/Shanghai)",
+  "lastest-commit": "06c7a255fff81941b52f780773800fb82b6df7df"
+}

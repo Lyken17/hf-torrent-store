@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "adapter_model.bin": "models--YeungNLP--firefly-llama2-7b-chat-qlora-adapter_model.bin--40218e381be1746917fc4946e2b3b8fe632690e60275e0586570594bbbcff7f2",
+    "embed_tokens.bin": "models--YeungNLP--firefly-llama2-7b-chat-qlora-embed_tokens.bin--8e456de0c785268af065933eec2c22134901818263b3799b9baf7e60bf8859dd",
+    "lm_head.bin": "models--YeungNLP--firefly-llama2-7b-chat-qlora-lm_head.bin--8296055cd3daa4b35dfde50f36a255a31475496d0ee881db0c1fad0e3aeae579",
+    "adapter_config.json": "models--YeungNLP--firefly-llama2-7b-chat-qlora-adapter_config.json--d14dfd29b4b22b3b074fbaff9729793f5112ea74",
+    ".gitattributes": "models--YeungNLP--firefly-llama2-7b-chat-qlora-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-llama2-7b-chat-qlora-adapter_model.bin--40218e381be1746917fc4946e2b3b8fe632690e60275e0586570594bbbcff7f2": "adapter_model.bin",
+    "models--YeungNLP--firefly-llama2-7b-chat-qlora-embed_tokens.bin--8e456de0c785268af065933eec2c22134901818263b3799b9baf7e60bf8859dd": "embed_tokens.bin",
+    "models--YeungNLP--firefly-llama2-7b-chat-qlora-lm_head.bin--8296055cd3daa4b35dfde50f36a255a31475496d0ee881db0c1fad0e3aeae579": "lm_head.bin",
+    "models--YeungNLP--firefly-llama2-7b-chat-qlora-adapter_config.json--d14dfd29b4b22b3b074fbaff9729793f5112ea74": "adapter_config.json",
+    "models--YeungNLP--firefly-llama2-7b-chat-qlora-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:17:09 (Asia/Shanghai)",
+  "lastest-commit": "7795fb7bc965653700e5e2055d8d43caa6cb7fad"
+}

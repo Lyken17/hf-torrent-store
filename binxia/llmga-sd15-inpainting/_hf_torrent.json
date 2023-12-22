@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "scheduler/scheduler_config.json": "models--binxia--llmga-sd15-inpainting-scheduler--scheduler_config.json--bc8747b5d924c6f4c276c2e4dba32e231ffc6b5c",
+    "unet/diffusion_pytorch_model.safetensors": "models--binxia--llmga-sd15-inpainting-unet--diffusion_pytorch_model.safetensors--31f94d3480337269cc19c74f34c33c5bd0bf725b5cefa0cf1991faafe093dcee",
+    "unet/config.json": "models--binxia--llmga-sd15-inpainting-unet--config.json--f54e68823452376df59495f939b176b42e9bbdd4",
+    "tokenizer/merges.txt": "models--binxia--llmga-sd15-inpainting-tokenizer--merges.txt--76e821f1b6f0a9709293c3b6b51ed90980b3166b",
+    "tokenizer/special_tokens_map.json": "models--binxia--llmga-sd15-inpainting-tokenizer--special_tokens_map.json--2c2130b544c0c5a72d5d00da071ba130a9800fb2",
+    "tokenizer/tokenizer_config.json": "models--binxia--llmga-sd15-inpainting-tokenizer--tokenizer_config.json--2e8612a429492973fe60635b3f44a28b065cfac0",
+    "tokenizer/vocab.json": "models--binxia--llmga-sd15-inpainting-tokenizer--vocab.json--469be27c5c010538f845f518c4f5e8574c78f7c8",
+    "feature_extractor/preprocessor_config.json": "models--binxia--llmga-sd15-inpainting-feature_extractor--preprocessor_config.json--0d9d33b883843d1b370da781f3943051067e1b2c",
+    "text_encoder/model.safetensors": "models--binxia--llmga-sd15-inpainting-text_encoder--model.safetensors--893d67a23f4693ed42cdab4cbad7fe3e727cf59609c40da28a46b5470f9ed082",
+    "text_encoder/config.json": "models--binxia--llmga-sd15-inpainting-text_encoder--config.json--284fa4e31f65bd5aa336135665e436a320c87b88",
+    "vae/diffusion_pytorch_model.safetensors": "models--binxia--llmga-sd15-inpainting-vae--diffusion_pytorch_model.safetensors--0f3f3f38d1393f412ccfbd044b4920b7aee74c520dc01436fac38e456bf83d5e",
+    "vae/config.json": "models--binxia--llmga-sd15-inpainting-vae--config.json--7dd7495259d9dd38d7755733d7c2512c7a7fc75a",
+    "safety_checker/model.safetensors": "models--binxia--llmga-sd15-inpainting-safety_checker--model.safetensors--fb351a5ded815c3ff744968ad9c6b218d071b9d313d04f35e813b84b4c0ffde8",
+    "safety_checker/config.json": "models--binxia--llmga-sd15-inpainting-safety_checker--config.json--2c038ab0e84ca80985f5194238d53bb88466459c",
+    "README.md": "models--binxia--llmga-sd15-inpainting-README.md--154df8298fab5ecf322016157858e08cd1bccbe1",
+    "model_index.json": "models--binxia--llmga-sd15-inpainting-model_index.json--da3b0016c81d78b2d27cda5406e18b3a7965d750",
+    ".gitattributes": "models--binxia--llmga-sd15-inpainting-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--binxia--llmga-sd15-inpainting-scheduler--scheduler_config.json--bc8747b5d924c6f4c276c2e4dba32e231ffc6b5c": "scheduler/scheduler_config.json",
+    "models--binxia--llmga-sd15-inpainting-unet--diffusion_pytorch_model.safetensors--31f94d3480337269cc19c74f34c33c5bd0bf725b5cefa0cf1991faafe093dcee": "unet/diffusion_pytorch_model.safetensors",
+    "models--binxia--llmga-sd15-inpainting-unet--config.json--f54e68823452376df59495f939b176b42e9bbdd4": "unet/config.json",
+    "models--binxia--llmga-sd15-inpainting-tokenizer--merges.txt--76e821f1b6f0a9709293c3b6b51ed90980b3166b": "tokenizer/merges.txt",
+    "models--binxia--llmga-sd15-inpainting-tokenizer--special_tokens_map.json--2c2130b544c0c5a72d5d00da071ba130a9800fb2": "tokenizer/special_tokens_map.json",
+    "models--binxia--llmga-sd15-inpainting-tokenizer--tokenizer_config.json--2e8612a429492973fe60635b3f44a28b065cfac0": "tokenizer/tokenizer_config.json",
+    "models--binxia--llmga-sd15-inpainting-tokenizer--vocab.json--469be27c5c010538f845f518c4f5e8574c78f7c8": "tokenizer/vocab.json",
+    "models--binxia--llmga-sd15-inpainting-feature_extractor--preprocessor_config.json--0d9d33b883843d1b370da781f3943051067e1b2c": "feature_extractor/preprocessor_config.json",
+    "models--binxia--llmga-sd15-inpainting-text_encoder--model.safetensors--893d67a23f4693ed42cdab4cbad7fe3e727cf59609c40da28a46b5470f9ed082": "text_encoder/model.safetensors",
+    "models--binxia--llmga-sd15-inpainting-text_encoder--config.json--284fa4e31f65bd5aa336135665e436a320c87b88": "text_encoder/config.json",
+    "models--binxia--llmga-sd15-inpainting-vae--diffusion_pytorch_model.safetensors--0f3f3f38d1393f412ccfbd044b4920b7aee74c520dc01436fac38e456bf83d5e": "vae/diffusion_pytorch_model.safetensors",
+    "models--binxia--llmga-sd15-inpainting-vae--config.json--7dd7495259d9dd38d7755733d7c2512c7a7fc75a": "vae/config.json",
+    "models--binxia--llmga-sd15-inpainting-safety_checker--model.safetensors--fb351a5ded815c3ff744968ad9c6b218d071b9d313d04f35e813b84b4c0ffde8": "safety_checker/model.safetensors",
+    "models--binxia--llmga-sd15-inpainting-safety_checker--config.json--2c038ab0e84ca80985f5194238d53bb88466459c": "safety_checker/config.json",
+    "models--binxia--llmga-sd15-inpainting-README.md--154df8298fab5ecf322016157858e08cd1bccbe1": "README.md",
+    "models--binxia--llmga-sd15-inpainting-model_index.json--da3b0016c81d78b2d27cda5406e18b3a7965d750": "model_index.json",
+    "models--binxia--llmga-sd15-inpainting-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 13:15:41 (Asia/Shanghai)",
+  "lastest-commit": "f6049c9b6ee9d99f71513be9d7819512d3a3df83"
+}

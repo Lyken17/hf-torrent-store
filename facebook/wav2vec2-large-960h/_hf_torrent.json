@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--facebook--wav2vec2-large-960h-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1",
+    "tokenizer_config.json": "models--facebook--wav2vec2-large-960h-tokenizer_config.json--978a15a96dbb2d23e2afbc70137cae6c5ce38c8d",
+    "README.md": "models--facebook--wav2vec2-large-960h-README.md--83c36e83fab97ec9810d041c3ff5849f7a0ef0ef",
+    "vocab.json": "models--facebook--wav2vec2-large-960h-vocab.json--88181b954aa14df68be9b444b3c36585f3078c0a",
+    "preprocessor_config.json": "models--facebook--wav2vec2-large-960h-preprocessor_config.json--3f24dc078fcba55ee1d417a413847ead40c093a3",
+    "pytorch_model.bin": "models--facebook--wav2vec2-large-960h-pytorch_model.bin--7aef99395c7b7ab5b78b6d00bdf71aebd93a7340b72d614303d598de8f94a10f",
+    "config.json": "models--facebook--wav2vec2-large-960h-config.json--2956803ead0f1359abf8107a71040fdc2c56c45e",
+    ".gitattributes": "models--facebook--wav2vec2-large-960h-.gitattributes--d699711d884c16db686245dffb53739ddf85119c"
+  },
+  "uuid2fpath": {
+    "models--facebook--wav2vec2-large-960h-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1": "special_tokens_map.json",
+    "models--facebook--wav2vec2-large-960h-tokenizer_config.json--978a15a96dbb2d23e2afbc70137cae6c5ce38c8d": "tokenizer_config.json",
+    "models--facebook--wav2vec2-large-960h-README.md--83c36e83fab97ec9810d041c3ff5849f7a0ef0ef": "README.md",
+    "models--facebook--wav2vec2-large-960h-vocab.json--88181b954aa14df68be9b444b3c36585f3078c0a": "vocab.json",
+    "models--facebook--wav2vec2-large-960h-preprocessor_config.json--3f24dc078fcba55ee1d417a413847ead40c093a3": "preprocessor_config.json",
+    "models--facebook--wav2vec2-large-960h-pytorch_model.bin--7aef99395c7b7ab5b78b6d00bdf71aebd93a7340b72d614303d598de8f94a10f": "pytorch_model.bin",
+    "models--facebook--wav2vec2-large-960h-config.json--2956803ead0f1359abf8107a71040fdc2c56c45e": "config.json",
+    "models--facebook--wav2vec2-large-960h-.gitattributes--d699711d884c16db686245dffb53739ddf85119c": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 19:01:03 (Asia/Shanghai)",
+  "lastest-commit": "bdeaacdf88f7a155f50a2704bc967aa81fbbb2ab"
+}

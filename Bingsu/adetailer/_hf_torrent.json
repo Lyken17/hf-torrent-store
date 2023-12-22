@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "test/clothing_poor_yolov8s-seg.pt": "models--Bingsu--adetailer-test--clothing_poor_yolov8s-seg.pt--21ea9b093b193dbdec00e852aab25043535d79ea39189ebda99a0a44e3d778a3",
+    "face_yolov8m.pt": "models--Bingsu--adetailer-face_yolov8m.pt--e3893a92c5c1907136b6cc75404094db767c1e0cfefe1b43e87dad72af2e4c9f",
+    "README.md": "models--Bingsu--adetailer-README.md--d6560bb9dff99ebc697f8efbb00abf55cbee0149",
+    "hand_yolov8s.pt": "models--Bingsu--adetailer-hand_yolov8s.pt--30878cea9870964d4a238339e9dcff002078bbbaa1a058b07e11c167f67eca1c",
+    "hand_yolov8n.pt": "models--Bingsu--adetailer-hand_yolov8n.pt--7f2af8cacc1064769f98abe309bc6eadf900e86cf5b2a27260ec8dea65443eeb",
+    "person_yolov8m-seg.pt": "models--Bingsu--adetailer-person_yolov8m-seg.pt--1fd7e562f240a5debd48bf737753de6fb60c63f8664121bb522f090a885d8254",
+    "face_yolov8n.pt": "models--Bingsu--adetailer-face_yolov8n.pt--30e7adcf03c1e250ffce66a9ff5324358c311f02a093f93f5424d650803ce077",
+    "deepfashion2_yolov8s-seg.pt": "models--Bingsu--adetailer-deepfashion2_yolov8s-seg.pt--c039144a13fb7ae5306eb11846c97ba6dac53337a52a6a459c16d42f9ba5f917",
+    "person_yolov8s-seg.pt": "models--Bingsu--adetailer-person_yolov8s-seg.pt--67104fdd78933192d2613cfc2bd0842a3d2b75076d258d97d751381b3e0019cf",
+    "face_yolov8s.pt": "models--Bingsu--adetailer-face_yolov8s.pt--2e157766211db78c724f69f8b289c9edcf5a2c0a3956298a51fb4b94debd2658",
+    "face_yolov8n_v2.pt": "models--Bingsu--adetailer-face_yolov8n_v2.pt--1e561e2edfcc99d815c8489d3770fef52b8d46325de70d0a96f3950ec05a9023",
+    "person_yolov8n-seg.pt": "models--Bingsu--adetailer-person_yolov8n-seg.pt--9bb5af28e2f583d97318f67ce67341807073a8ac6a72d4f1efad877cab6656f5",
+    ".gitattributes": "models--Bingsu--adetailer-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--Bingsu--adetailer-test--clothing_poor_yolov8s-seg.pt--21ea9b093b193dbdec00e852aab25043535d79ea39189ebda99a0a44e3d778a3": "test/clothing_poor_yolov8s-seg.pt",
+    "models--Bingsu--adetailer-face_yolov8m.pt--e3893a92c5c1907136b6cc75404094db767c1e0cfefe1b43e87dad72af2e4c9f": "face_yolov8m.pt",
+    "models--Bingsu--adetailer-README.md--d6560bb9dff99ebc697f8efbb00abf55cbee0149": "README.md",
+    "models--Bingsu--adetailer-hand_yolov8s.pt--30878cea9870964d4a238339e9dcff002078bbbaa1a058b07e11c167f67eca1c": "hand_yolov8s.pt",
+    "models--Bingsu--adetailer-hand_yolov8n.pt--7f2af8cacc1064769f98abe309bc6eadf900e86cf5b2a27260ec8dea65443eeb": "hand_yolov8n.pt",
+    "models--Bingsu--adetailer-person_yolov8m-seg.pt--1fd7e562f240a5debd48bf737753de6fb60c63f8664121bb522f090a885d8254": "person_yolov8m-seg.pt",
+    "models--Bingsu--adetailer-face_yolov8n.pt--30e7adcf03c1e250ffce66a9ff5324358c311f02a093f93f5424d650803ce077": "face_yolov8n.pt",
+    "models--Bingsu--adetailer-deepfashion2_yolov8s-seg.pt--c039144a13fb7ae5306eb11846c97ba6dac53337a52a6a459c16d42f9ba5f917": "deepfashion2_yolov8s-seg.pt",
+    "models--Bingsu--adetailer-person_yolov8s-seg.pt--67104fdd78933192d2613cfc2bd0842a3d2b75076d258d97d751381b3e0019cf": "person_yolov8s-seg.pt",
+    "models--Bingsu--adetailer-face_yolov8s.pt--2e157766211db78c724f69f8b289c9edcf5a2c0a3956298a51fb4b94debd2658": "face_yolov8s.pt",
+    "models--Bingsu--adetailer-face_yolov8n_v2.pt--1e561e2edfcc99d815c8489d3770fef52b8d46325de70d0a96f3950ec05a9023": "face_yolov8n_v2.pt",
+    "models--Bingsu--adetailer-person_yolov8n-seg.pt--9bb5af28e2f583d97318f67ce67341807073a8ac6a72d4f1efad877cab6656f5": "person_yolov8n-seg.pt",
+    "models--Bingsu--adetailer-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 16:58:01 (Asia/Shanghai)",
+  "lastest-commit": "fdb6e26f5212c6a7184b359f62cc4b41fd731bb3"
+}

@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--state-spaces--mamba-2.8b-README.md--154df8298fab5ecf322016157858e08cd1bccbe1",
+    "pytorch_model.bin": "models--state-spaces--mamba-2.8b-pytorch_model.bin--ef6452a6515c6a33f2a2febd53e58602dfb17e5c0871d25c29cf88285a80c09c",
+    "config.json": "models--state-spaces--mamba-2.8b-config.json--cb05a470e1b1eb3d3dbe825fc0f573a7b0062f72",
+    ".gitattributes": "models--state-spaces--mamba-2.8b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--state-spaces--mamba-2.8b-README.md--154df8298fab5ecf322016157858e08cd1bccbe1": "README.md",
+    "models--state-spaces--mamba-2.8b-pytorch_model.bin--ef6452a6515c6a33f2a2febd53e58602dfb17e5c0871d25c29cf88285a80c09c": "pytorch_model.bin",
+    "models--state-spaces--mamba-2.8b-config.json--cb05a470e1b1eb3d3dbe825fc0f573a7b0062f72": "config.json",
+    "models--state-spaces--mamba-2.8b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 14:30:50 (Asia/Shanghai)",
+  "lastest-commit": "b342b33a0c4718008a85682ffbb94a0a51d7ea16"
+}

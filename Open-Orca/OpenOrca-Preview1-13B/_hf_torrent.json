@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "configs/openorca.yml": "models--Open-Orca--OpenOrca-Preview1-13B-configs--openorca.yml--3bbe307248bc762f4ef4e0d6a23dfb40abbda317",
+    "OpenOrca Nomic Atlas.png": "models--Open-Orca--OpenOrca-Preview1-13B-OpenOrca Nomic Atlas.png--7a7205b4134e945ce71dcb2c5fee1a8ddff7c13a",
+    "pytorch_model-00003-of-00003.bin": "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model-00003-of-00003.bin--a3137d84aa8f5599c9c12b12515355ec0b090a7b6d93469070fcb5dbdc70af54",
+    "pytorch_model-00001-of-00003.bin": "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model-00001-of-00003.bin--bbf75ebe44c0486660355f41c86049ed77b37444f73642b491a728ed7861471b",
+    "pytorch_model.bin.index.json": "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model.bin.index.json--dd9a5597b14a925bbe5a278e71f5cffd1ad35096",
+    "special_tokens_map.json": "models--Open-Orca--OpenOrca-Preview1-13B-special_tokens_map.json--d85ba6cb6820b01226ef8bd40b46bb489041c6a8",
+    "tokenizer_config.json": "models--Open-Orca--OpenOrca-Preview1-13B-tokenizer_config.json--48d369b8fcca5effcdbbf8c1a8659a754da40dec",
+    "tokenizer.model": "models--Open-Orca--OpenOrca-Preview1-13B-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--Open-Orca--OpenOrca-Preview1-13B-README.md--71f10fb2e7a32ed15761e03613289a2b99c8cc37",
+    "OO_Preview1_AGIEval.png": "models--Open-Orca--OpenOrca-Preview1-13B-OO_Preview1_AGIEval.png--a0f38128e502358b2242f66e7fc25ee000ef5169",
+    "generation_config.json": "models--Open-Orca--OpenOrca-Preview1-13B-generation_config.json--55d7b5b6db760f8c1963be3d56a3bc363bacdfb1",
+    "config.json": "models--Open-Orca--OpenOrca-Preview1-13B-config.json--cfa72b4709759990ab5771cf66a3f01fabc2b6a1",
+    "OO_Preview1_BigBenchHard.png": "models--Open-Orca--OpenOrca-Preview1-13B-OO_Preview1_BigBenchHard.png--bfc82d206d7783801d0ed32ddc1aee9c052a37c4",
+    "pytorch_model-00002-of-00003.bin": "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model-00002-of-00003.bin--69e0df73c5382f56d202f715b2f5f76d99709bf106c78e987fa01d03799a175c",
+    ".gitattributes": "models--Open-Orca--OpenOrca-Preview1-13B-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--Open-Orca--OpenOrca-Preview1-13B-configs--openorca.yml--3bbe307248bc762f4ef4e0d6a23dfb40abbda317": "configs/openorca.yml",
+    "models--Open-Orca--OpenOrca-Preview1-13B-OpenOrca Nomic Atlas.png--7a7205b4134e945ce71dcb2c5fee1a8ddff7c13a": "OpenOrca Nomic Atlas.png",
+    "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model-00003-of-00003.bin--a3137d84aa8f5599c9c12b12515355ec0b090a7b6d93469070fcb5dbdc70af54": "pytorch_model-00003-of-00003.bin",
+    "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model-00001-of-00003.bin--bbf75ebe44c0486660355f41c86049ed77b37444f73642b491a728ed7861471b": "pytorch_model-00001-of-00003.bin",
+    "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model.bin.index.json--dd9a5597b14a925bbe5a278e71f5cffd1ad35096": "pytorch_model.bin.index.json",
+    "models--Open-Orca--OpenOrca-Preview1-13B-special_tokens_map.json--d85ba6cb6820b01226ef8bd40b46bb489041c6a8": "special_tokens_map.json",
+    "models--Open-Orca--OpenOrca-Preview1-13B-tokenizer_config.json--48d369b8fcca5effcdbbf8c1a8659a754da40dec": "tokenizer_config.json",
+    "models--Open-Orca--OpenOrca-Preview1-13B-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--Open-Orca--OpenOrca-Preview1-13B-README.md--71f10fb2e7a32ed15761e03613289a2b99c8cc37": "README.md",
+    "models--Open-Orca--OpenOrca-Preview1-13B-OO_Preview1_AGIEval.png--a0f38128e502358b2242f66e7fc25ee000ef5169": "OO_Preview1_AGIEval.png",
+    "models--Open-Orca--OpenOrca-Preview1-13B-generation_config.json--55d7b5b6db760f8c1963be3d56a3bc363bacdfb1": "generation_config.json",
+    "models--Open-Orca--OpenOrca-Preview1-13B-config.json--cfa72b4709759990ab5771cf66a3f01fabc2b6a1": "config.json",
+    "models--Open-Orca--OpenOrca-Preview1-13B-OO_Preview1_BigBenchHard.png--bfc82d206d7783801d0ed32ddc1aee9c052a37c4": "OO_Preview1_BigBenchHard.png",
+    "models--Open-Orca--OpenOrca-Preview1-13B-pytorch_model-00002-of-00003.bin--69e0df73c5382f56d202f715b2f5f76d99709bf106c78e987fa01d03799a175c": "pytorch_model-00002-of-00003.bin",
+    "models--Open-Orca--OpenOrca-Preview1-13B-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:14:26 (Asia/Shanghai)",
+  "lastest-commit": "4c558283a98348383460939afda9cb5c54544c8f"
+}

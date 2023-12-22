@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "tokenizer_config.json": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-tokenizer_config.json--a661b1a138dac6dc5590367402d100765010ffd6",
+    "README.md": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-README.md--6f94faa789de5a95e2a23db0610bff80294b1b08",
+    "vocab.txt": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-vocab.txt--9d595d9c20feef7012f174efaaa5eb621910588e",
+    "flax_model.msgpack": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-flax_model.msgpack--84761403b655e7d865093297cc57d574c5ec7ce705917f9d7011683c79f5fc41",
+    "LICENSE.md": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-LICENSE.md--2f66bdf7dfaeb7d0c1a5fab2faab9d45f20356d2",
+    "pytorch_model.bin": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-pytorch_model.bin--ad7bbb66376cfd6b2db3447192b034efe016337cbef135c35c411fd61b13c193",
+    "config.json": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-config.json--f8a8cd37533eee7ab2f72c09890b360824352953",
+    ".gitattributes": "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f"
+  },
+  "uuid2fpath": {
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-tokenizer_config.json--a661b1a138dac6dc5590367402d100765010ffd6": "tokenizer_config.json",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-README.md--6f94faa789de5a95e2a23db0610bff80294b1b08": "README.md",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-vocab.txt--9d595d9c20feef7012f174efaaa5eb621910588e": "vocab.txt",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-flax_model.msgpack--84761403b655e7d865093297cc57d574c5ec7ce705917f9d7011683c79f5fc41": "flax_model.msgpack",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-LICENSE.md--2f66bdf7dfaeb7d0c1a5fab2faab9d45f20356d2": "LICENSE.md",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-pytorch_model.bin--ad7bbb66376cfd6b2db3447192b034efe016337cbef135c35c411fd61b13c193": "pytorch_model.bin",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-config.json--f8a8cd37533eee7ab2f72c09890b360824352953": "config.json",
+    "models--microsoft--BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 15:51:35 (Asia/Shanghai)",
+  "lastest-commit": "e1354b7a3a09615f6aba48dfad4b7a613eef7062"
+}

@@ -1,0 +1,12 @@
+{
+  "fpath2uuid": {
+    "config.json": "models--hf-internal-testing--config-no-model-config.json--cea23a74d829df9d68f960044c3829284ad263b6",
+    ".gitattributes": "models--hf-internal-testing--config-no-model-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--hf-internal-testing--config-no-model-config.json--cea23a74d829df9d68f960044c3829284ad263b6": "config.json",
+    "models--hf-internal-testing--config-no-model-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 14:38:26 (Asia/Shanghai)",
+  "lastest-commit": "40ceda67511d5131f61e04a0d77b9fc1c8b51cfa"
+}

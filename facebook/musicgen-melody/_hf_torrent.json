@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--facebook--musicgen-melody-README.md--9bd794ac4072b9c99fcaf7ea6255fd974e68afc9",
+    "compression_state_dict.bin": "models--facebook--musicgen-melody-compression_state_dict.bin--37d256b525d4117f8bbf790ab448a8e9f4746cd401900fe1ae72e154b1513a30",
+    "state_dict.bin": "models--facebook--musicgen-melody-state_dict.bin--4dda87e5dfafc1b59351131d9610002b06fbecc50793a0e3c8ab2e534176cd7f",
+    ".gitattributes": "models--facebook--musicgen-melody-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--facebook--musicgen-melody-README.md--9bd794ac4072b9c99fcaf7ea6255fd974e68afc9": "README.md",
+    "models--facebook--musicgen-melody-compression_state_dict.bin--37d256b525d4117f8bbf790ab448a8e9f4746cd401900fe1ae72e154b1513a30": "compression_state_dict.bin",
+    "models--facebook--musicgen-melody-state_dict.bin--4dda87e5dfafc1b59351131d9610002b06fbecc50793a0e3c8ab2e534176cd7f": "state_dict.bin",
+    "models--facebook--musicgen-melody-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 16:55:58 (Asia/Shanghai)",
+  "lastest-commit": "53d5f6400fc8aec99b9bbbf0589493a8073c51fe"
+}

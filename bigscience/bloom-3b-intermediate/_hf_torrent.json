@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--bigscience--bloom-3b-intermediate-README.md--fdb849fd3ba738104661021b8e4c34be8ff41fcb",
+    "model.safetensors": "models--bigscience--bloom-3b-intermediate-model.safetensors--c250b727395e989c8ff4702f2da7077f257fd528748d5317b80741a13c8a0259",
+    "pytorch_model.bin": "models--bigscience--bloom-3b-intermediate-pytorch_model.bin--293ca715ec3d77e08a61977d1bf32aa7b4005d59732649f1af4e8b0145058d02",
+    "config.json": "models--bigscience--bloom-3b-intermediate-config.json--c1a9ffb3004e9fa33408d69e5341e9ac90c085e3",
+    ".gitattributes": "models--bigscience--bloom-3b-intermediate-.gitattributes--86fd15265731080d4525d0826732b04b40ce7bc3"
+  },
+  "uuid2fpath": {
+    "models--bigscience--bloom-3b-intermediate-README.md--fdb849fd3ba738104661021b8e4c34be8ff41fcb": "README.md",
+    "models--bigscience--bloom-3b-intermediate-model.safetensors--c250b727395e989c8ff4702f2da7077f257fd528748d5317b80741a13c8a0259": "model.safetensors",
+    "models--bigscience--bloom-3b-intermediate-pytorch_model.bin--293ca715ec3d77e08a61977d1bf32aa7b4005d59732649f1af4e8b0145058d02": "pytorch_model.bin",
+    "models--bigscience--bloom-3b-intermediate-config.json--c1a9ffb3004e9fa33408d69e5341e9ac90c085e3": "config.json",
+    "models--bigscience--bloom-3b-intermediate-.gitattributes--86fd15265731080d4525d0826732b04b40ce7bc3": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 14:34:11 (Asia/Shanghai)",
+  "lastest-commit": "adf9011235b1de9cda8504ac985ebac6981ed06b"
+}

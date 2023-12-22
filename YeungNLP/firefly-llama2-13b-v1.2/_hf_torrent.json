@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model-00003-of-00003.bin--925d72a4a3a537190b96c7a58a57f0ba1d9f4aa754ffbf464dc0e1cf69111748",
+    "pytorch_model-00001-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model-00001-of-00003.bin--62726a0a48948dfba91dec7e86e8d677be88237d5f502167ca3e023948d650ae",
+    "pytorch_model.bin.index.json": "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model.bin.index.json--dd9a5597b14a925bbe5a278e71f5cffd1ad35096",
+    "added_tokens.json": "models--YeungNLP--firefly-llama2-13b-v1.2-added_tokens.json--9c16aa4be022f03ad001b006fba14dfb73a1929c",
+    "special_tokens_map.json": "models--YeungNLP--firefly-llama2-13b-v1.2-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "tokenizer_config.json": "models--YeungNLP--firefly-llama2-13b-v1.2-tokenizer_config.json--a9608c18368845f604b2c21d933478ac96efc323",
+    "tokenizer.model": "models--YeungNLP--firefly-llama2-13b-v1.2-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "generation_config.json": "models--YeungNLP--firefly-llama2-13b-v1.2-generation_config.json--6fc54a696d0053aef18a5908972e544b480c624a",
+    "config.json": "models--YeungNLP--firefly-llama2-13b-v1.2-config.json--dc37019209068c6fc4c93e920e1baf13ad9ae3f2",
+    "pytorch_model-00002-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model-00002-of-00003.bin--7079fdc4f3aa5b0c57bed2d029a9c24dde1fc80afc944c58e369f855ee1aedf4",
+    ".gitattributes": "models--YeungNLP--firefly-llama2-13b-v1.2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model-00003-of-00003.bin--925d72a4a3a537190b96c7a58a57f0ba1d9f4aa754ffbf464dc0e1cf69111748": "pytorch_model-00003-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model-00001-of-00003.bin--62726a0a48948dfba91dec7e86e8d677be88237d5f502167ca3e023948d650ae": "pytorch_model-00001-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model.bin.index.json--dd9a5597b14a925bbe5a278e71f5cffd1ad35096": "pytorch_model.bin.index.json",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-added_tokens.json--9c16aa4be022f03ad001b006fba14dfb73a1929c": "added_tokens.json",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-tokenizer_config.json--a9608c18368845f604b2c21d933478ac96efc323": "tokenizer_config.json",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-generation_config.json--6fc54a696d0053aef18a5908972e544b480c624a": "generation_config.json",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-config.json--dc37019209068c6fc4c93e920e1baf13ad9ae3f2": "config.json",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-pytorch_model-00002-of-00003.bin--7079fdc4f3aa5b0c57bed2d029a9c24dde1fc80afc944c58e369f855ee1aedf4": "pytorch_model-00002-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-v1.2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 16:44:19 (Asia/Shanghai)",
+  "lastest-commit": "97279d20a8c7e2d0576c9ff4b2e15a421c40d58a"
+}

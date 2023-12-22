@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--codellama--CodeLlama-7b-Python-hf-pytorch_model-00003-of-00003.bin--da87466b5e6e8cf8769e074f1d0eb6645a3de9b0bce3bbf759617a9fd02c6a02",
+    "model-00001-of-00002.safetensors": "models--codellama--CodeLlama-7b-Python-hf-model-00001-of-00002.safetensors--17b496fc4c7e9e96c5259de2464d76d5d3ba735028cb4b3ac43b7cb582544583",
+    "pytorch_model-00001-of-00003.bin": "models--codellama--CodeLlama-7b-Python-hf-pytorch_model-00001-of-00003.bin--8f2afa77316a46043ac8666e6372116efc5301a182a96f50da9945cb68939d61",
+    "pytorch_model.bin.index.json": "models--codellama--CodeLlama-7b-Python-hf-pytorch_model.bin.index.json--1aece705c390069a9339ac80ce7ecbfa19862e12",
+    "special_tokens_map.json": "models--codellama--CodeLlama-7b-Python-hf-special_tokens_map.json--d85ba6cb6820b01226ef8bd40b46bb489041c6a8",
+    "tokenizer_config.json": "models--codellama--CodeLlama-7b-Python-hf-tokenizer_config.json--526f464cf83353c59f7c07b9e587498b47d67a1b",
+    "tokenizer.model": "models--codellama--CodeLlama-7b-Python-hf-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--codellama--CodeLlama-7b-Python-hf-README.md--cbb817c85b6e98eeb057436d5fa527ad5f515e66",
+    "tokenizer.json": "models--codellama--CodeLlama-7b-Python-hf-tokenizer.json--a6e931b92caff4c79c5c56282f1e89569a0ae558",
+    "model-00002-of-00002.safetensors": "models--codellama--CodeLlama-7b-Python-hf-model-00002-of-00002.safetensors--77d5dce8b393ecb634c3d944dbd4cb04ea5f3a2b6abf543e3e3631fe523dc110",
+    "generation_config.json": "models--codellama--CodeLlama-7b-Python-hf-generation_config.json--aa9aac2cbaa80cf25094e7d9a527bd1cab9f5321",
+    "LICENSE": "models--codellama--CodeLlama-7b-Python-hf-LICENSE--51089e27e6764fb9f72c06a0f3710699fb6c9448",
+    "USE_POLICY.md": "models--codellama--CodeLlama-7b-Python-hf-USE_POLICY.md--1ed95d8066682f283a0bd3696d7b6d6a539c18dc",
+    "model.safetensors.index.json": "models--codellama--CodeLlama-7b-Python-hf-model.safetensors.index.json--e397a8a9cd33364ec1eb80013f26e8249600a402",
+    "config.json": "models--codellama--CodeLlama-7b-Python-hf-config.json--95f7745bb62e1ab981ad41ff93941c7af883888a",
+    "pytorch_model-00002-of-00003.bin": "models--codellama--CodeLlama-7b-Python-hf-pytorch_model-00002-of-00003.bin--376abd2afe37c6a4c9014bfc739224e7b817936ca5893526b719c1e1e48a9673",
+    ".gitattributes": "models--codellama--CodeLlama-7b-Python-hf-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--codellama--CodeLlama-7b-Python-hf-pytorch_model-00003-of-00003.bin--da87466b5e6e8cf8769e074f1d0eb6645a3de9b0bce3bbf759617a9fd02c6a02": "pytorch_model-00003-of-00003.bin",
+    "models--codellama--CodeLlama-7b-Python-hf-model-00001-of-00002.safetensors--17b496fc4c7e9e96c5259de2464d76d5d3ba735028cb4b3ac43b7cb582544583": "model-00001-of-00002.safetensors",
+    "models--codellama--CodeLlama-7b-Python-hf-pytorch_model-00001-of-00003.bin--8f2afa77316a46043ac8666e6372116efc5301a182a96f50da9945cb68939d61": "pytorch_model-00001-of-00003.bin",
+    "models--codellama--CodeLlama-7b-Python-hf-pytorch_model.bin.index.json--1aece705c390069a9339ac80ce7ecbfa19862e12": "pytorch_model.bin.index.json",
+    "models--codellama--CodeLlama-7b-Python-hf-special_tokens_map.json--d85ba6cb6820b01226ef8bd40b46bb489041c6a8": "special_tokens_map.json",
+    "models--codellama--CodeLlama-7b-Python-hf-tokenizer_config.json--526f464cf83353c59f7c07b9e587498b47d67a1b": "tokenizer_config.json",
+    "models--codellama--CodeLlama-7b-Python-hf-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--codellama--CodeLlama-7b-Python-hf-README.md--cbb817c85b6e98eeb057436d5fa527ad5f515e66": "README.md",
+    "models--codellama--CodeLlama-7b-Python-hf-tokenizer.json--a6e931b92caff4c79c5c56282f1e89569a0ae558": "tokenizer.json",
+    "models--codellama--CodeLlama-7b-Python-hf-model-00002-of-00002.safetensors--77d5dce8b393ecb634c3d944dbd4cb04ea5f3a2b6abf543e3e3631fe523dc110": "model-00002-of-00002.safetensors",
+    "models--codellama--CodeLlama-7b-Python-hf-generation_config.json--aa9aac2cbaa80cf25094e7d9a527bd1cab9f5321": "generation_config.json",
+    "models--codellama--CodeLlama-7b-Python-hf-LICENSE--51089e27e6764fb9f72c06a0f3710699fb6c9448": "LICENSE",
+    "models--codellama--CodeLlama-7b-Python-hf-USE_POLICY.md--1ed95d8066682f283a0bd3696d7b6d6a539c18dc": "USE_POLICY.md",
+    "models--codellama--CodeLlama-7b-Python-hf-model.safetensors.index.json--e397a8a9cd33364ec1eb80013f26e8249600a402": "model.safetensors.index.json",
+    "models--codellama--CodeLlama-7b-Python-hf-config.json--95f7745bb62e1ab981ad41ff93941c7af883888a": "config.json",
+    "models--codellama--CodeLlama-7b-Python-hf-pytorch_model-00002-of-00003.bin--376abd2afe37c6a4c9014bfc739224e7b817936ca5893526b719c1e1e48a9673": "pytorch_model-00002-of-00003.bin",
+    "models--codellama--CodeLlama-7b-Python-hf-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:16:33 (Asia/Shanghai)",
+  "lastest-commit": "7ee7b6beb0dece09b0431ea46c03bc1724e21572"
+}

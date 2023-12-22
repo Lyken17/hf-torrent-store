@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "config.yaml": "models--charactr--vocos-encodec-24khz-config.yaml--943725ef0c2ce567f75551dfed0cf5c4e01c8908",
+    "README.md": "models--charactr--vocos-encodec-24khz-README.md--ee1550910386edecd77cb660c3a8339471ff891e",
+    "pytorch_model.bin": "models--charactr--vocos-encodec-24khz-pytorch_model.bin--7e95bb260b74a1bfc43c52d355831c951acb81c8960e9c62b79bd2b3ab1e3a90",
+    ".gitattributes": "models--charactr--vocos-encodec-24khz-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--charactr--vocos-encodec-24khz-config.yaml--943725ef0c2ce567f75551dfed0cf5c4e01c8908": "config.yaml",
+    "models--charactr--vocos-encodec-24khz-README.md--ee1550910386edecd77cb660c3a8339471ff891e": "README.md",
+    "models--charactr--vocos-encodec-24khz-pytorch_model.bin--7e95bb260b74a1bfc43c52d355831c951acb81c8960e9c62b79bd2b3ab1e3a90": "pytorch_model.bin",
+    "models--charactr--vocos-encodec-24khz-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 19:29:29 (Asia/Shanghai)",
+  "lastest-commit": "4e61d082c08045a4c11e5b148ad93b1d0c591a14"
+}

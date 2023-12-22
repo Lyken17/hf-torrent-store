@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--fnlp--cpt-base-special_tokens_map.json--ebe33208af2ad8f73f894ce66ba8641775eaf0e1",
+    "tokenizer_config.json": "models--fnlp--cpt-base-tokenizer_config.json--a52a23a258a27d99281d418bc99f73ba509727ab",
+    "README.md": "models--fnlp--cpt-base-README.md--6e5f6ccc4ffdfa302d65f0ce2b25d3eb2622cdce",
+    "model.safetensors": "models--fnlp--cpt-base-model.safetensors--4f93e526fe3d09248f6f1c425be2e8722a84dab35df41f8d507911bc62daf2bf",
+    "vocab.txt": "models--fnlp--cpt-base-vocab.txt--68c2ee2c2af01ca146af1873977533463fd7a501",
+    "pytorch_model.bin": "models--fnlp--cpt-base-pytorch_model.bin--c895b7e87b22a84618c1e4e84ac907004f6ba35ea0b939e4401f1a93609486cd",
+    "config.json": "models--fnlp--cpt-base-config.json--4fe34a77ca948be0ef6861849ffbeed0eaf2cbf1",
+    ".gitattributes": "models--fnlp--cpt-base-.gitattributes--2bf99854609538f90af03c921c41a0cbde670b2f"
+  },
+  "uuid2fpath": {
+    "models--fnlp--cpt-base-special_tokens_map.json--ebe33208af2ad8f73f894ce66ba8641775eaf0e1": "special_tokens_map.json",
+    "models--fnlp--cpt-base-tokenizer_config.json--a52a23a258a27d99281d418bc99f73ba509727ab": "tokenizer_config.json",
+    "models--fnlp--cpt-base-README.md--6e5f6ccc4ffdfa302d65f0ce2b25d3eb2622cdce": "README.md",
+    "models--fnlp--cpt-base-model.safetensors--4f93e526fe3d09248f6f1c425be2e8722a84dab35df41f8d507911bc62daf2bf": "model.safetensors",
+    "models--fnlp--cpt-base-vocab.txt--68c2ee2c2af01ca146af1873977533463fd7a501": "vocab.txt",
+    "models--fnlp--cpt-base-pytorch_model.bin--c895b7e87b22a84618c1e4e84ac907004f6ba35ea0b939e4401f1a93609486cd": "pytorch_model.bin",
+    "models--fnlp--cpt-base-config.json--4fe34a77ca948be0ef6861849ffbeed0eaf2cbf1": "config.json",
+    "models--fnlp--cpt-base-.gitattributes--2bf99854609538f90af03c921c41a0cbde670b2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 13:30:08 (Asia/Shanghai)",
+  "lastest-commit": "3dbd5b31feca1f7914680e5558b1faa72665433a"
+}

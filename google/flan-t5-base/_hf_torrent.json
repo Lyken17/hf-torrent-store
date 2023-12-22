@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--google--flan-t5-base-tf_model.h5--8cf13641aecafcf14bea1d4d4b07fe0a69f4aad0431d57bfb20c23a846ffd88f",
+    "special_tokens_map.json": "models--google--flan-t5-base-special_tokens_map.json--2c19eb6e3b583f52d34b903b5978d3d30b6b7682",
+    "tokenizer_config.json": "models--google--flan-t5-base-tokenizer_config.json--e3685b0cb5c8909cf3e7d72ffc16ca94c861bdfb",
+    "README.md": "models--google--flan-t5-base-README.md--0926373f7a2843e99ce6a2d19f3aa834ebf1f944",
+    "tokenizer.json": "models--google--flan-t5-base-tokenizer.json--fc669fbad1a6a82119ca3e1fa75db33ee22ca47d",
+    "model.safetensors": "models--google--flan-t5-base-model.safetensors--1dfb70afdcedceb9f9fae2f9b68e004ad934361fb35b9b2bd50b45ea90790fc8",
+    "generation_config.json": "models--google--flan-t5-base-generation_config.json--d52815623b46b7db1c4b957b5a83a8ad30b0146a",
+    "flax_model.msgpack": "models--google--flan-t5-base-flax_model.msgpack--e08fabc4ea8c1393e8d2bfb2d047afef7ee57ce4e70bedf7daaa28f9874c8a00",
+    "pytorch_model.bin": "models--google--flan-t5-base-pytorch_model.bin--521ad557548700c7f342a804b51c7c17440c33662c387883c0a39ebbdec17a28",
+    "spiece.model": "models--google--flan-t5-base-spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+    "config.json": "models--google--flan-t5-base-config.json--d41e16cd4cd58621695da4f94132f516d07251af",
+    ".gitattributes": "models--google--flan-t5-base-.gitattributes--e2e68308705c59d0e047f13c1116ed223f9b7fec"
+  },
+  "uuid2fpath": {
+    "models--google--flan-t5-base-tf_model.h5--8cf13641aecafcf14bea1d4d4b07fe0a69f4aad0431d57bfb20c23a846ffd88f": "tf_model.h5",
+    "models--google--flan-t5-base-special_tokens_map.json--2c19eb6e3b583f52d34b903b5978d3d30b6b7682": "special_tokens_map.json",
+    "models--google--flan-t5-base-tokenizer_config.json--e3685b0cb5c8909cf3e7d72ffc16ca94c861bdfb": "tokenizer_config.json",
+    "models--google--flan-t5-base-README.md--0926373f7a2843e99ce6a2d19f3aa834ebf1f944": "README.md",
+    "models--google--flan-t5-base-tokenizer.json--fc669fbad1a6a82119ca3e1fa75db33ee22ca47d": "tokenizer.json",
+    "models--google--flan-t5-base-model.safetensors--1dfb70afdcedceb9f9fae2f9b68e004ad934361fb35b9b2bd50b45ea90790fc8": "model.safetensors",
+    "models--google--flan-t5-base-generation_config.json--d52815623b46b7db1c4b957b5a83a8ad30b0146a": "generation_config.json",
+    "models--google--flan-t5-base-flax_model.msgpack--e08fabc4ea8c1393e8d2bfb2d047afef7ee57ce4e70bedf7daaa28f9874c8a00": "flax_model.msgpack",
+    "models--google--flan-t5-base-pytorch_model.bin--521ad557548700c7f342a804b51c7c17440c33662c387883c0a39ebbdec17a28": "pytorch_model.bin",
+    "models--google--flan-t5-base-spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86": "spiece.model",
+    "models--google--flan-t5-base-config.json--d41e16cd4cd58621695da4f94132f516d07251af": "config.json",
+    "models--google--flan-t5-base-.gitattributes--e2e68308705c59d0e047f13c1116ed223f9b7fec": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 14:40:10 (Asia/Shanghai)",
+  "lastest-commit": "7bcac572ce56db69c1ea7c8af255c5d7c9672fc2"
+}

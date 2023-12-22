@@ -1,0 +1,14 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--LarryAIDraw--v1-5-pruned-emaonly-README.md--b4df6186ce2a3a2fa05a6765b3c180c091b60873",
+    "v1-5-pruned-emaonly.ckpt": "models--LarryAIDraw--v1-5-pruned-emaonly-v1-5-pruned-emaonly.ckpt--cc6cb27103417325ff94f52b7a5d2dde45a7515b25c255d8e396c90014281516",
+    ".gitattributes": "models--LarryAIDraw--v1-5-pruned-emaonly-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--LarryAIDraw--v1-5-pruned-emaonly-README.md--b4df6186ce2a3a2fa05a6765b3c180c091b60873": "README.md",
+    "models--LarryAIDraw--v1-5-pruned-emaonly-v1-5-pruned-emaonly.ckpt--cc6cb27103417325ff94f52b7a5d2dde45a7515b25c255d8e396c90014281516": "v1-5-pruned-emaonly.ckpt",
+    "models--LarryAIDraw--v1-5-pruned-emaonly-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:42:51 (Asia/Shanghai)",
+  "lastest-commit": "363a7f95fef9a201e8be0c62397f1e79fb9d4fe3"
+}

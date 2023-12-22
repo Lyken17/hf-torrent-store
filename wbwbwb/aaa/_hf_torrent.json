@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "clip_h.pth": "models--wbwbwb--aaa-clip_h.pth--3d3ec1e66737f77a4f3bc2df3c52eacefc69ce7825e2784183b1d4e9877d9193",
+    "Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors": "models--wbwbwb--aaa-Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors--ceeec4cfcce8278894ac307f2cc340c819acf2003d08263c0fec402f422ef40b",
+    "temporaldiffMotion_v10.ckpt": "models--wbwbwb--aaa-temporaldiffMotion_v10.ckpt--3cb569f7ce3dc6a10aa8438e666265cb9be3120d8f205de6a456acf46b6c99f4",
+    "majicmixRealistic_v7.safetensors": "models--wbwbwb--aaa-majicmixRealistic_v7.safetensors--7c819b6d13663ed720c2254f4fe18373107dfef2448d337913c8fc545640881e",
+    "majicmixSombre_v20.safetensors": "models--wbwbwb--aaa-majicmixSombre_v20.safetensors--5c9a81db7a262b3360c97d5b4e6be497cadf706ce0cd7da88bd375c25d048234",
+    ".gitattributes": "models--wbwbwb--aaa-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--wbwbwb--aaa-clip_h.pth--3d3ec1e66737f77a4f3bc2df3c52eacefc69ce7825e2784183b1d4e9877d9193": "clip_h.pth",
+    "models--wbwbwb--aaa-Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors--ceeec4cfcce8278894ac307f2cc340c819acf2003d08263c0fec402f422ef40b": "Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors",
+    "models--wbwbwb--aaa-temporaldiffMotion_v10.ckpt--3cb569f7ce3dc6a10aa8438e666265cb9be3120d8f205de6a456acf46b6c99f4": "temporaldiffMotion_v10.ckpt",
+    "models--wbwbwb--aaa-majicmixRealistic_v7.safetensors--7c819b6d13663ed720c2254f4fe18373107dfef2448d337913c8fc545640881e": "majicmixRealistic_v7.safetensors",
+    "models--wbwbwb--aaa-majicmixSombre_v20.safetensors--5c9a81db7a262b3360c97d5b4e6be497cadf706ce0cd7da88bd375c25d048234": "majicmixSombre_v20.safetensors",
+    "models--wbwbwb--aaa-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 16:48:58 (Asia/Shanghai)",
+  "lastest-commit": "576fb35f0bfe2fa2bca63e36efca530f1778e337"
+}

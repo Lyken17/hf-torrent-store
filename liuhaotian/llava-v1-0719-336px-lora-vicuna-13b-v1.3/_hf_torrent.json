@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "adapter_model.bin": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-adapter_model.bin--b4bcd20ff4585db5962814f088892db3da789736328ef7f91cc09afa332a6f7f",
+    "non_lora_trainables.bin": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-non_lora_trainables.bin--335b5b4aebc88cea4676c9857ea796159df18040ebe8922c16f7bde092e114bb",
+    "README.md": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-README.md--e1737b5243eab1f875bfa38f8aa2fd791bba1176",
+    "trainer_state.json": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-trainer_state.json--f48f1a770ee0f5f33600701bec5a270485a82364",
+    "config.json": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-config.json--dde6e0d91aff3cf1c47ff2f3a81b5ff681fc3d54",
+    "adapter_config.json": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-adapter_config.json--e3aaeb1c17821162a165453f8519e9a81172195d",
+    ".gitattributes": "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-adapter_model.bin--b4bcd20ff4585db5962814f088892db3da789736328ef7f91cc09afa332a6f7f": "adapter_model.bin",
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-non_lora_trainables.bin--335b5b4aebc88cea4676c9857ea796159df18040ebe8922c16f7bde092e114bb": "non_lora_trainables.bin",
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-README.md--e1737b5243eab1f875bfa38f8aa2fd791bba1176": "README.md",
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-trainer_state.json--f48f1a770ee0f5f33600701bec5a270485a82364": "trainer_state.json",
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-config.json--dde6e0d91aff3cf1c47ff2f3a81b5ff681fc3d54": "config.json",
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-adapter_config.json--e3aaeb1c17821162a165453f8519e9a81172195d": "adapter_config.json",
+    "models--liuhaotian--llava-v1-0719-336px-lora-vicuna-13b-v1.3-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 14:39:33 (Asia/Shanghai)",
+  "lastest-commit": "2b09dd0d0064a257f96c0407dd3f2c97b85eea9c"
+}

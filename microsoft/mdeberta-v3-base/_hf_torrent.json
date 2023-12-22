@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "generator_config.json": "models--microsoft--mdeberta-v3-base-generator_config.json--eaf7c50b75f856f7623e8b19f706501c0f6e035a",
+    "spm.model": "models--microsoft--mdeberta-v3-base-spm.model--13c8d666d62a7bc4ac8f040aab68e942c861f93303156cc28f5c7e885d86d6e3",
+    "tf_model.h5": "models--microsoft--mdeberta-v3-base-tf_model.h5--698ea8844e1b68266b4c6f813e7548b244a3be833880db623427f99096cc820f",
+    "tokenizer_config.json": "models--microsoft--mdeberta-v3-base-tokenizer_config.json--acfd94e399c5659e4bed75f91b4ee24b111fc7a6",
+    "README.md": "models--microsoft--mdeberta-v3-base-README.md--779d99e0b02b1f278e35c2ad228417192dec4eba",
+    "pytorch_model.generator.bin": "models--microsoft--mdeberta-v3-base-pytorch_model.generator.bin--6ed99a7559e70706a5d8cd4fec61563e8d2681316ef02408ead469b6f0107006",
+    "pytorch_model.bin": "models--microsoft--mdeberta-v3-base-pytorch_model.bin--6f89419baf0f1aaad5cab7d53901e36a8c1af8f6b4ab58b15db9af32df656ead",
+    "config.json": "models--microsoft--mdeberta-v3-base-config.json--27b905d788d20826414d27ce9fa9765623e38ea7",
+    ".gitattributes": "models--microsoft--mdeberta-v3-base-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--microsoft--mdeberta-v3-base-generator_config.json--eaf7c50b75f856f7623e8b19f706501c0f6e035a": "generator_config.json",
+    "models--microsoft--mdeberta-v3-base-spm.model--13c8d666d62a7bc4ac8f040aab68e942c861f93303156cc28f5c7e885d86d6e3": "spm.model",
+    "models--microsoft--mdeberta-v3-base-tf_model.h5--698ea8844e1b68266b4c6f813e7548b244a3be833880db623427f99096cc820f": "tf_model.h5",
+    "models--microsoft--mdeberta-v3-base-tokenizer_config.json--acfd94e399c5659e4bed75f91b4ee24b111fc7a6": "tokenizer_config.json",
+    "models--microsoft--mdeberta-v3-base-README.md--779d99e0b02b1f278e35c2ad228417192dec4eba": "README.md",
+    "models--microsoft--mdeberta-v3-base-pytorch_model.generator.bin--6ed99a7559e70706a5d8cd4fec61563e8d2681316ef02408ead469b6f0107006": "pytorch_model.generator.bin",
+    "models--microsoft--mdeberta-v3-base-pytorch_model.bin--6f89419baf0f1aaad5cab7d53901e36a8c1af8f6b4ab58b15db9af32df656ead": "pytorch_model.bin",
+    "models--microsoft--mdeberta-v3-base-config.json--27b905d788d20826414d27ce9fa9765623e38ea7": "config.json",
+    "models--microsoft--mdeberta-v3-base-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:26:25 (Asia/Shanghai)",
+  "lastest-commit": "a0484667b22365f84929a935b5e50a51f71f159d"
+}

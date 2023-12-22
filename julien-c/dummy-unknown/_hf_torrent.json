@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--julien-c--dummy-unknown-tf_model.h5--4a8fce317e36e320941d2d200a1747c94d2a8ee0b24c8289522b579ea53eac40",
+    "merges.txt": "models--julien-c--dummy-unknown-merges.txt--d7c5738baaf4304ef4692f6fe8ad887b9517d047",
+    "README.md": "models--julien-c--dummy-unknown-README.md--dd72d529da9961224818c8e9e7abbe8a57748d18",
+    "vocab.json": "models--julien-c--dummy-unknown-vocab.json--9226d916ab5ccd75b5f9d921e317a70988c17a37",
+    "flax_model.msgpack": "models--julien-c--dummy-unknown-flax_model.msgpack--da73dde871fe14bf876064a40368cefa5e014aa49f408b61ca8350c54456b198",
+    "pytorch_model.bin": "models--julien-c--dummy-unknown-pytorch_model.bin--4b243c475af8d0a7754e87d7d096c92e5199ec2fe168a2ee7998e3b8e9bcb1d3",
+    "config.json": "models--julien-c--dummy-unknown-config.json--d9e9f15bc825e4b2c9249e9578f884bbcb5e3684",
+    ".gitattributes": "models--julien-c--dummy-unknown-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f"
+  },
+  "uuid2fpath": {
+    "models--julien-c--dummy-unknown-tf_model.h5--4a8fce317e36e320941d2d200a1747c94d2a8ee0b24c8289522b579ea53eac40": "tf_model.h5",
+    "models--julien-c--dummy-unknown-merges.txt--d7c5738baaf4304ef4692f6fe8ad887b9517d047": "merges.txt",
+    "models--julien-c--dummy-unknown-README.md--dd72d529da9961224818c8e9e7abbe8a57748d18": "README.md",
+    "models--julien-c--dummy-unknown-vocab.json--9226d916ab5ccd75b5f9d921e317a70988c17a37": "vocab.json",
+    "models--julien-c--dummy-unknown-flax_model.msgpack--da73dde871fe14bf876064a40368cefa5e014aa49f408b61ca8350c54456b198": "flax_model.msgpack",
+    "models--julien-c--dummy-unknown-pytorch_model.bin--4b243c475af8d0a7754e87d7d096c92e5199ec2fe168a2ee7998e3b8e9bcb1d3": "pytorch_model.bin",
+    "models--julien-c--dummy-unknown-config.json--d9e9f15bc825e4b2c9249e9578f884bbcb5e3684": "config.json",
+    "models--julien-c--dummy-unknown-.gitattributes--ae8c63daedbd4206d7d40126955d4e6ab1c80f8f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 14:10:06 (Asia/Shanghai)",
+  "lastest-commit": "60b8d3fe22aebb024b573f1cca224db3126d10f3"
+}

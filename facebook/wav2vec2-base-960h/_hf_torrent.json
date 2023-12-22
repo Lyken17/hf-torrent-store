@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--facebook--wav2vec2-base-960h-tf_model.h5--412742825972a6e2e877255ccd8b3416e618df15a7f1e5e4f736aa3632ce33b5",
+    "feature_extractor_config.json": "models--facebook--wav2vec2-base-960h-feature_extractor_config.json--52fdd74dc06f40033506e402269fbde5e7adc21d",
+    "special_tokens_map.json": "models--facebook--wav2vec2-base-960h-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1",
+    "tokenizer_config.json": "models--facebook--wav2vec2-base-960h-tokenizer_config.json--978a15a96dbb2d23e2afbc70137cae6c5ce38c8d",
+    "README.md": "models--facebook--wav2vec2-base-960h-README.md--c7fe2047d7ac9b9816848c657b2a492ee95b264b",
+    "model.safetensors": "models--facebook--wav2vec2-base-960h-model.safetensors--8aa76ab2243c81747a1f832954586bc566090c83a0ac167df6f31f0fa917d74a",
+    "vocab.json": "models--facebook--wav2vec2-base-960h-vocab.json--88181b954aa14df68be9b444b3c36585f3078c0a",
+    "preprocessor_config.json": "models--facebook--wav2vec2-base-960h-preprocessor_config.json--3f24dc078fcba55ee1d417a413847ead40c093a3",
+    "pytorch_model.bin": "models--facebook--wav2vec2-base-960h-pytorch_model.bin--c34f9827b034a1b9141dbf6f652f8a60eda61cdf5771c9e05bfa99033c92cd96",
+    "config.json": "models--facebook--wav2vec2-base-960h-config.json--8ca9cc7496e145e37d09cec17d0c3bf9b8523c8e",
+    ".gitattributes": "models--facebook--wav2vec2-base-960h-.gitattributes--cf6d51fc9b1a671c35e92d6bd009880937aaa12d"
+  },
+  "uuid2fpath": {
+    "models--facebook--wav2vec2-base-960h-tf_model.h5--412742825972a6e2e877255ccd8b3416e618df15a7f1e5e4f736aa3632ce33b5": "tf_model.h5",
+    "models--facebook--wav2vec2-base-960h-feature_extractor_config.json--52fdd74dc06f40033506e402269fbde5e7adc21d": "feature_extractor_config.json",
+    "models--facebook--wav2vec2-base-960h-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1": "special_tokens_map.json",
+    "models--facebook--wav2vec2-base-960h-tokenizer_config.json--978a15a96dbb2d23e2afbc70137cae6c5ce38c8d": "tokenizer_config.json",
+    "models--facebook--wav2vec2-base-960h-README.md--c7fe2047d7ac9b9816848c657b2a492ee95b264b": "README.md",
+    "models--facebook--wav2vec2-base-960h-model.safetensors--8aa76ab2243c81747a1f832954586bc566090c83a0ac167df6f31f0fa917d74a": "model.safetensors",
+    "models--facebook--wav2vec2-base-960h-vocab.json--88181b954aa14df68be9b444b3c36585f3078c0a": "vocab.json",
+    "models--facebook--wav2vec2-base-960h-preprocessor_config.json--3f24dc078fcba55ee1d417a413847ead40c093a3": "preprocessor_config.json",
+    "models--facebook--wav2vec2-base-960h-pytorch_model.bin--c34f9827b034a1b9141dbf6f652f8a60eda61cdf5771c9e05bfa99033c92cd96": "pytorch_model.bin",
+    "models--facebook--wav2vec2-base-960h-config.json--8ca9cc7496e145e37d09cec17d0c3bf9b8523c8e": "config.json",
+    "models--facebook--wav2vec2-base-960h-.gitattributes--cf6d51fc9b1a671c35e92d6bd009880937aaa12d": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:34:31 (Asia/Shanghai)",
+  "lastest-commit": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156"
+}

@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "LLaVA-7b-pretrain-projector-v1-1-LCS-558K-blip_caption.bin": "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-7b-pretrain-projector-v1-1-LCS-558K-blip_caption.bin--c6b9878a1b18a2dcec2ac7fc37d4d4d53dccc5d09c067df7f1031bfb5a461e68",
+    "README.md": "models--liuhaotian--LLaVA-Pretrained-Projectors-README.md--6f741b6edf0be5aa01961d84649b10f282a9c395",
+    "LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption.bin": "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption.bin--635d4de0afa7425fd0d750a3bd7e843d029bbb6e7bc8e74eeec5cfcf9fedeaeb",
+    "LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption-no_im_token.bin": "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption-no_im_token.bin--f17a3e3f221fbcdbfae19c471c6b9daa0d0e1bf9a9e6ced8468191486b2b66ae",
+    "LLaVA-7b-pretrain-projector-v0-CC3M-595K-original_caption.bin": "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-7b-pretrain-projector-v0-CC3M-595K-original_caption.bin--484b9c4d3ab830d73fc5130b5e68b8c305a44e7ef7b99aeb2117b39c9f57739a",
+    ".gitattributes": "models--liuhaotian--LLaVA-Pretrained-Projectors-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-7b-pretrain-projector-v1-1-LCS-558K-blip_caption.bin--c6b9878a1b18a2dcec2ac7fc37d4d4d53dccc5d09c067df7f1031bfb5a461e68": "LLaVA-7b-pretrain-projector-v1-1-LCS-558K-blip_caption.bin",
+    "models--liuhaotian--LLaVA-Pretrained-Projectors-README.md--6f741b6edf0be5aa01961d84649b10f282a9c395": "README.md",
+    "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption.bin--635d4de0afa7425fd0d750a3bd7e843d029bbb6e7bc8e74eeec5cfcf9fedeaeb": "LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption.bin",
+    "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption-no_im_token.bin--f17a3e3f221fbcdbfae19c471c6b9daa0d0e1bf9a9e6ced8468191486b2b66ae": "LLaVA-13b-pretrain-projector-v0-CC3M-595K-original_caption-no_im_token.bin",
+    "models--liuhaotian--LLaVA-Pretrained-Projectors-LLaVA-7b-pretrain-projector-v0-CC3M-595K-original_caption.bin--484b9c4d3ab830d73fc5130b5e68b8c305a44e7ef7b99aeb2117b39c9f57739a": "LLaVA-7b-pretrain-projector-v0-CC3M-595K-original_caption.bin",
+    "models--liuhaotian--LLaVA-Pretrained-Projectors-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 17:58:04 (Asia/Shanghai)",
+  "lastest-commit": "26f3228c989dbd65458460807b408d283807d2f1"
+}

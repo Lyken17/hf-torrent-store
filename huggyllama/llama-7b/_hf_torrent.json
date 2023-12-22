@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--huggyllama--llama-7b-model-00001-of-00002.safetensors--d43476fdd2fca0c44d55ee930039dd5dafb6331764dc0b5e5f89c60b551fcc12",
+    "pytorch_model.bin.index.json": "models--huggyllama--llama-7b-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4",
+    "special_tokens_map.json": "models--huggyllama--llama-7b-special_tokens_map.json--d85ba6cb6820b01226ef8bd40b46bb489041c6a8",
+    "pytorch_model-00002-of-00002.bin": "models--huggyllama--llama-7b-pytorch_model-00002-of-00002.bin--461bc5e50200db7813ff99cc0b9316c48ccbd6aaaa31bf8cf7bee0b64bc3eda3",
+    "tokenizer_config.json": "models--huggyllama--llama-7b-tokenizer_config.json--48d369b8fcca5effcdbbf8c1a8659a754da40dec",
+    "tokenizer.model": "models--huggyllama--llama-7b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--huggyllama--llama-7b-README.md--a0aa4dd75c51128d793d0b984ae0643e74f53552",
+    "tokenizer.json": "models--huggyllama--llama-7b-tokenizer.json--a0201ea3b8e89373271760acaf53782ea760be62",
+    "model-00002-of-00002.safetensors": "models--huggyllama--llama-7b-model-00002-of-00002.safetensors--94712c4b457815e0f8aaa4f78170aebba2b9ee3339ff2b40fceb983338fbafee",
+    "pytorch_model-00001-of-00002.bin": "models--huggyllama--llama-7b-pytorch_model-00001-of-00002.bin--0087155d6df07106c1d910bfeb6aab1be8e612dfbf2b56ddfb4ccbde7dbd50d0",
+    "generation_config.json": "models--huggyllama--llama-7b-generation_config.json--55d7b5b6db760f8c1963be3d56a3bc363bacdfb1",
+    "LICENSE": "models--huggyllama--llama-7b-LICENSE--b1c9239ba64af3ac330790fbdc8a2282612bf437",
+    "model.safetensors.index.json": "models--huggyllama--llama-7b-model.safetensors.index.json--8b6245796e966e50960a317e4a54aa7bf73b0186",
+    "config.json": "models--huggyllama--llama-7b-config.json--e98344dc9ffd39716e074a3e0cfc67d40fc7ca96",
+    ".gitattributes": "models--huggyllama--llama-7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--huggyllama--llama-7b-model-00001-of-00002.safetensors--d43476fdd2fca0c44d55ee930039dd5dafb6331764dc0b5e5f89c60b551fcc12": "model-00001-of-00002.safetensors",
+    "models--huggyllama--llama-7b-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4": "pytorch_model.bin.index.json",
+    "models--huggyllama--llama-7b-special_tokens_map.json--d85ba6cb6820b01226ef8bd40b46bb489041c6a8": "special_tokens_map.json",
+    "models--huggyllama--llama-7b-pytorch_model-00002-of-00002.bin--461bc5e50200db7813ff99cc0b9316c48ccbd6aaaa31bf8cf7bee0b64bc3eda3": "pytorch_model-00002-of-00002.bin",
+    "models--huggyllama--llama-7b-tokenizer_config.json--48d369b8fcca5effcdbbf8c1a8659a754da40dec": "tokenizer_config.json",
+    "models--huggyllama--llama-7b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--huggyllama--llama-7b-README.md--a0aa4dd75c51128d793d0b984ae0643e74f53552": "README.md",
+    "models--huggyllama--llama-7b-tokenizer.json--a0201ea3b8e89373271760acaf53782ea760be62": "tokenizer.json",
+    "models--huggyllama--llama-7b-model-00002-of-00002.safetensors--94712c4b457815e0f8aaa4f78170aebba2b9ee3339ff2b40fceb983338fbafee": "model-00002-of-00002.safetensors",
+    "models--huggyllama--llama-7b-pytorch_model-00001-of-00002.bin--0087155d6df07106c1d910bfeb6aab1be8e612dfbf2b56ddfb4ccbde7dbd50d0": "pytorch_model-00001-of-00002.bin",
+    "models--huggyllama--llama-7b-generation_config.json--55d7b5b6db760f8c1963be3d56a3bc363bacdfb1": "generation_config.json",
+    "models--huggyllama--llama-7b-LICENSE--b1c9239ba64af3ac330790fbdc8a2282612bf437": "LICENSE",
+    "models--huggyllama--llama-7b-model.safetensors.index.json--8b6245796e966e50960a317e4a54aa7bf73b0186": "model.safetensors.index.json",
+    "models--huggyllama--llama-7b-config.json--e98344dc9ffd39716e074a3e0cfc67d40fc7ca96": "config.json",
+    "models--huggyllama--llama-7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 13:27:25 (Asia/Shanghai)",
+  "lastest-commit": "8416d3fefb0cb3ff5775a7b13c1692d10ff1aa16"
+}
