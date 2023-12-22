@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.fp32.json": "models--facebook--musicgen-stereo-medium-pytorch_model.bin.index.fp32.json--40378fa25cd62fb86b10655a7420defd3d06ee62",
+    "model.safetensors.index.fp32.json": "models--facebook--musicgen-stereo-medium-model.safetensors.index.fp32.json--d8a623c5e90a31f45830ae6405a18ae322ffdbbd",
+    "pytorch_model.bin.index.json": "models--facebook--musicgen-stereo-medium-pytorch_model.bin.index.json--9175825bb740902a6e3fd5a1f5e3aab4f57422db",
+    "special_tokens_map.json": "models--facebook--musicgen-stereo-medium-special_tokens_map.json--2c19eb6e3b583f52d34b903b5978d3d30b6b7682",
+    "tokenizer_config.json": "models--facebook--musicgen-stereo-medium-tokenizer_config.json--05ecf3c06609db6d4b34bf4dbd646a8cc41cba5c",
+    "README.md": "models--facebook--musicgen-stereo-medium-README.md--22831953b9391b902edcfd76878d4fbd869c8d99",
+    "compression_state_dict.bin": "models--facebook--musicgen-stereo-medium-compression_state_dict.bin--43c990a49a2c179f5d1a084db79f62a06384c186b4afc134c4eb49a8297a06a7",
+    "tokenizer.json": "models--facebook--musicgen-stereo-medium-tokenizer.json--42281914a90e1c1d5b5264ce9c08a045f5d3aad0",
+    "model.safetensors": "models--facebook--musicgen-stereo-medium-model.safetensors--6523842dae8a5b1003c00eb6a65d7fe753c2063b6ea55e320df8f16057f11771",
+    "generation_config.json": "models--facebook--musicgen-stereo-medium-generation_config.json--f315161c63c819d267f60e377a17df4998f71731",
+    "preprocessor_config.json": "models--facebook--musicgen-stereo-medium-preprocessor_config.json--28b0ab1e2dc4452de91b472b8a3943613d40ebf0",
+    "pytorch_model.bin": "models--facebook--musicgen-stereo-medium-pytorch_model.bin--dbe579b7b22cc0769e9547396529e7ac5df2defbd806e6491301abe9c6086b23",
+    "state_dict.bin": "models--facebook--musicgen-stereo-medium-state_dict.bin--8ff5720393cd2b5cd1e9f2acb6050fb5211ed308544e36f8dbdd7d61a10c86e9",
+    "spiece.model": "models--facebook--musicgen-stereo-medium-spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+    "config.json": "models--facebook--musicgen-stereo-medium-config.json--0cd4acc30b20fb5363d7e284805ee6f4bcc6fd72",
+    ".gitattributes": "models--facebook--musicgen-stereo-medium-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--facebook--musicgen-stereo-medium-pytorch_model.bin.index.fp32.json--40378fa25cd62fb86b10655a7420defd3d06ee62": "pytorch_model.bin.index.fp32.json",
+    "models--facebook--musicgen-stereo-medium-model.safetensors.index.fp32.json--d8a623c5e90a31f45830ae6405a18ae322ffdbbd": "model.safetensors.index.fp32.json",
+    "models--facebook--musicgen-stereo-medium-pytorch_model.bin.index.json--9175825bb740902a6e3fd5a1f5e3aab4f57422db": "pytorch_model.bin.index.json",
+    "models--facebook--musicgen-stereo-medium-special_tokens_map.json--2c19eb6e3b583f52d34b903b5978d3d30b6b7682": "special_tokens_map.json",
+    "models--facebook--musicgen-stereo-medium-tokenizer_config.json--05ecf3c06609db6d4b34bf4dbd646a8cc41cba5c": "tokenizer_config.json",
+    "models--facebook--musicgen-stereo-medium-README.md--22831953b9391b902edcfd76878d4fbd869c8d99": "README.md",
+    "models--facebook--musicgen-stereo-medium-compression_state_dict.bin--43c990a49a2c179f5d1a084db79f62a06384c186b4afc134c4eb49a8297a06a7": "compression_state_dict.bin",
+    "models--facebook--musicgen-stereo-medium-tokenizer.json--42281914a90e1c1d5b5264ce9c08a045f5d3aad0": "tokenizer.json",
+    "models--facebook--musicgen-stereo-medium-model.safetensors--6523842dae8a5b1003c00eb6a65d7fe753c2063b6ea55e320df8f16057f11771": "model.safetensors",
+    "models--facebook--musicgen-stereo-medium-generation_config.json--f315161c63c819d267f60e377a17df4998f71731": "generation_config.json",
+    "models--facebook--musicgen-stereo-medium-preprocessor_config.json--28b0ab1e2dc4452de91b472b8a3943613d40ebf0": "preprocessor_config.json",
+    "models--facebook--musicgen-stereo-medium-pytorch_model.bin--dbe579b7b22cc0769e9547396529e7ac5df2defbd806e6491301abe9c6086b23": "pytorch_model.bin",
+    "models--facebook--musicgen-stereo-medium-state_dict.bin--8ff5720393cd2b5cd1e9f2acb6050fb5211ed308544e36f8dbdd7d61a10c86e9": "state_dict.bin",
+    "models--facebook--musicgen-stereo-medium-spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86": "spiece.model",
+    "models--facebook--musicgen-stereo-medium-config.json--0cd4acc30b20fb5363d7e284805ee6f4bcc6fd72": "config.json",
+    "models--facebook--musicgen-stereo-medium-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:14:37 (Asia/Shanghai)",
+  "lastest-commit": "d89b612ef09ea9e2e4fcd7f5fc51fba63b964c7f"
+}

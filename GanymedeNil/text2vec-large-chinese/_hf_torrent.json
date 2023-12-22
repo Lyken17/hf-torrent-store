@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "eval_results.txt": "models--GanymedeNil--text2vec-large-chinese-eval_results.txt--706e720965724d371220343835ef8a4190d34382",
+    "special_tokens_map.json": "models--GanymedeNil--text2vec-large-chinese-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "tokenizer_config.json": "models--GanymedeNil--text2vec-large-chinese-tokenizer_config.json--7d36754ea1313dbb0ec6aec33e34ce37c37d66e6",
+    "README.md": "models--GanymedeNil--text2vec-large-chinese-README.md--ce9b70292347a55c71f99fd35073844c2eea7fce",
+    "tokenizer.json": "models--GanymedeNil--text2vec-large-chinese-tokenizer.json--c5690b00d4c6b9f749e28e0f2166163c271b9299",
+    "model.safetensors": "models--GanymedeNil--text2vec-large-chinese-model.safetensors--eaf5cb71c0eeab7db3c5171da504e5867b3f67a78e07bdba9b52d334ae35adb3",
+    "vocab.txt": "models--GanymedeNil--text2vec-large-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "pytorch_model.bin": "models--GanymedeNil--text2vec-large-chinese-pytorch_model.bin--5883cb940ac5509b75e9fe23a9aea62694045849dc8c8c2da2894861a045d7f5",
+    "config.json": "models--GanymedeNil--text2vec-large-chinese-config.json--8194321badfcb3c4fb5b8e134198c7971ac56cd3",
+    ".gitattributes": "models--GanymedeNil--text2vec-large-chinese-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--GanymedeNil--text2vec-large-chinese-eval_results.txt--706e720965724d371220343835ef8a4190d34382": "eval_results.txt",
+    "models--GanymedeNil--text2vec-large-chinese-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--GanymedeNil--text2vec-large-chinese-tokenizer_config.json--7d36754ea1313dbb0ec6aec33e34ce37c37d66e6": "tokenizer_config.json",
+    "models--GanymedeNil--text2vec-large-chinese-README.md--ce9b70292347a55c71f99fd35073844c2eea7fce": "README.md",
+    "models--GanymedeNil--text2vec-large-chinese-tokenizer.json--c5690b00d4c6b9f749e28e0f2166163c271b9299": "tokenizer.json",
+    "models--GanymedeNil--text2vec-large-chinese-model.safetensors--eaf5cb71c0eeab7db3c5171da504e5867b3f67a78e07bdba9b52d334ae35adb3": "model.safetensors",
+    "models--GanymedeNil--text2vec-large-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--GanymedeNil--text2vec-large-chinese-pytorch_model.bin--5883cb940ac5509b75e9fe23a9aea62694045849dc8c8c2da2894861a045d7f5": "pytorch_model.bin",
+    "models--GanymedeNil--text2vec-large-chinese-config.json--8194321badfcb3c4fb5b8e134198c7971ac56cd3": "config.json",
+    "models--GanymedeNil--text2vec-large-chinese-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:58:14 (Asia/Shanghai)",
+  "lastest-commit": "064717f2acfd7253bea91079d59b82e50b58c886"
+}

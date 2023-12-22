@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--01-ai--Yi-34B-Chat-4bits-model-00001-of-00002.safetensors--978aef2af45de619217b0911bf89310f3d5f929e2b20f3c347ccf29f32d651f9",
+    "pytorch_model.bin.index.json": "models--01-ai--Yi-34B-Chat-4bits-pytorch_model.bin.index.json--cd4e00ca81ef9c439080accbd08e4289aabff465",
+    "special_tokens_map.json": "models--01-ai--Yi-34B-Chat-4bits-special_tokens_map.json--075528cac9fd6f14367ea3c277dc7c80fe1ca1d9",
+    "pytorch_model-00002-of-00002.bin": "models--01-ai--Yi-34B-Chat-4bits-pytorch_model-00002-of-00002.bin--13fe3e8692126558f57580bfb84e66601d1c5e2207de3f8505583e55354394b4",
+    "tokenizer_config.json": "models--01-ai--Yi-34B-Chat-4bits-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0",
+    "tokenizer.model": "models--01-ai--Yi-34B-Chat-4bits-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39",
+    "README.md": "models--01-ai--Yi-34B-Chat-4bits-README.md--1ebe7de86184a60732158256f3b394fe96df74ff",
+    "model-00002-of-00002.safetensors": "models--01-ai--Yi-34B-Chat-4bits-model-00002-of-00002.safetensors--70c4dca03ee709bd4e11b6b777812555a4a840dad17b4cc65aa85a0c9757de6d",
+    "pytorch_model-00001-of-00002.bin": "models--01-ai--Yi-34B-Chat-4bits-pytorch_model-00001-of-00002.bin--6b48e2a1536043eaae87822acde149ae04f08dfa7ea2b9db5ad04563abf3d01c",
+    "generation_config.json": "models--01-ai--Yi-34B-Chat-4bits-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0",
+    "LICENSE": "models--01-ai--Yi-34B-Chat-4bits-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0",
+    "quant_config.json": "models--01-ai--Yi-34B-Chat-4bits-quant_config.json--01a8401ad45baa416f0372cb8cc2b641567ab459",
+    "model.safetensors.index.json": "models--01-ai--Yi-34B-Chat-4bits-model.safetensors.index.json--d49f666be84230261a47153d8ff843b9c4e0a2c5",
+    "config.json": "models--01-ai--Yi-34B-Chat-4bits-config.json--4cd434bd84dcf622486929796eca27ef03664542",
+    ".gitattributes": "models--01-ai--Yi-34B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--01-ai--Yi-34B-Chat-4bits-model-00001-of-00002.safetensors--978aef2af45de619217b0911bf89310f3d5f929e2b20f3c347ccf29f32d651f9": "model-00001-of-00002.safetensors",
+    "models--01-ai--Yi-34B-Chat-4bits-pytorch_model.bin.index.json--cd4e00ca81ef9c439080accbd08e4289aabff465": "pytorch_model.bin.index.json",
+    "models--01-ai--Yi-34B-Chat-4bits-special_tokens_map.json--075528cac9fd6f14367ea3c277dc7c80fe1ca1d9": "special_tokens_map.json",
+    "models--01-ai--Yi-34B-Chat-4bits-pytorch_model-00002-of-00002.bin--13fe3e8692126558f57580bfb84e66601d1c5e2207de3f8505583e55354394b4": "pytorch_model-00002-of-00002.bin",
+    "models--01-ai--Yi-34B-Chat-4bits-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0": "tokenizer_config.json",
+    "models--01-ai--Yi-34B-Chat-4bits-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39": "tokenizer.model",
+    "models--01-ai--Yi-34B-Chat-4bits-README.md--1ebe7de86184a60732158256f3b394fe96df74ff": "README.md",
+    "models--01-ai--Yi-34B-Chat-4bits-model-00002-of-00002.safetensors--70c4dca03ee709bd4e11b6b777812555a4a840dad17b4cc65aa85a0c9757de6d": "model-00002-of-00002.safetensors",
+    "models--01-ai--Yi-34B-Chat-4bits-pytorch_model-00001-of-00002.bin--6b48e2a1536043eaae87822acde149ae04f08dfa7ea2b9db5ad04563abf3d01c": "pytorch_model-00001-of-00002.bin",
+    "models--01-ai--Yi-34B-Chat-4bits-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0": "generation_config.json",
+    "models--01-ai--Yi-34B-Chat-4bits-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0": "LICENSE",
+    "models--01-ai--Yi-34B-Chat-4bits-quant_config.json--01a8401ad45baa416f0372cb8cc2b641567ab459": "quant_config.json",
+    "models--01-ai--Yi-34B-Chat-4bits-model.safetensors.index.json--d49f666be84230261a47153d8ff843b9c4e0a2c5": "model.safetensors.index.json",
+    "models--01-ai--Yi-34B-Chat-4bits-config.json--4cd434bd84dcf622486929796eca27ef03664542": "config.json",
+    "models--01-ai--Yi-34B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 00:46:40 (Asia/Shanghai)",
+  "lastest-commit": "14d262fd918faf6d560c69ca15708664299c32b1"
+}

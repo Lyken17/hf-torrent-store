@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "v2/control_v1p_sd15_qrcode_monster_v2.yaml": "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--control_v1p_sd15_qrcode_monster_v2.yaml--05dc29ec08445c5701104c66a676df763ec066a5",
+    "v2/control_v1p_sd15_qrcode_monster_v2.safetensors": "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--control_v1p_sd15_qrcode_monster_v2.safetensors--fc985da5850a03033c9e28032532f406ae04bd127178ae5bc6d3ec0502b25253",
+    "v2/diffusion_pytorch_model.safetensors": "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--diffusion_pytorch_model.safetensors--a95dc35dfff997bd9c751a97db4959db1235f5776ef5e453d468c602c7998794",
+    "v2/config.json": "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--config.json--c62b0953c0df9b45b040f0a4fb119b3c23f26d7b",
+    "images/tree.png": "models--monster-labs--control_v1p_sd15_qrcode_monster-images--tree.png--3d99a8f79d50b410d8dae98d0eefd891d71a0c7c2303d90d85566cc5811c1a15",
+    "images/architecture.png": "models--monster-labs--control_v1p_sd15_qrcode_monster-images--architecture.png--0ee8143ec1d4b4bf1517d737696e9eb387ae1a10d280209be1ae7dff48288b65",
+    "images/monster.png": "models--monster-labs--control_v1p_sd15_qrcode_monster-images--monster.png--2ec088ca0ed6c3da320b25b19731ff621cbc4d05660d0eeb92e365cb552df235",
+    "images/skulls.png": "models--monster-labs--control_v1p_sd15_qrcode_monster-images--skulls.png--4e3d6a86fa701dd0a2bb0a58d81963bed6adc3ffad3ec787392f972ee5abb1ef",
+    "control_v1p_sd15_qrcode_monster.yaml": "models--monster-labs--control_v1p_sd15_qrcode_monster-control_v1p_sd15_qrcode_monster.yaml--05dc29ec08445c5701104c66a676df763ec066a5",
+    "control_v1p_sd15_qrcode_monster.safetensors": "models--monster-labs--control_v1p_sd15_qrcode_monster-control_v1p_sd15_qrcode_monster.safetensors--c7f43f70e266153d12f5e1bb1c9e7be3f4513cf0eef0432661b1331bfe11cadf",
+    "README.md": "models--monster-labs--control_v1p_sd15_qrcode_monster-README.md--2424dece047a5fa888c457b39c929bc90d452764",
+    "diffusion_pytorch_model.bin": "models--monster-labs--control_v1p_sd15_qrcode_monster-diffusion_pytorch_model.bin--29bc1cbd7de2e4bee030184321724bd0c6a1724dd815eb8e593379c39badfdf2",
+    "diffusion_pytorch_model.safetensors": "models--monster-labs--control_v1p_sd15_qrcode_monster-diffusion_pytorch_model.safetensors--8c10457d104cf6adc318fee3a981d3a1a2e60796259e54420a0f933a68dbdeda",
+    "control_v1p_sd15_qrcode_monster.ckpt": "models--monster-labs--control_v1p_sd15_qrcode_monster-control_v1p_sd15_qrcode_monster.ckpt--1b5d69da6d00efd8eb8d1f4ba56152ae1b420d6fd55c65813bdb5773c487d4dd",
+    "config.json": "models--monster-labs--control_v1p_sd15_qrcode_monster-config.json--c62b0953c0df9b45b040f0a4fb119b3c23f26d7b",
+    ".gitattributes": "models--monster-labs--control_v1p_sd15_qrcode_monster-.gitattributes--61e33d0d4ec88506b232f55b9359d9cbc6a96abe"
+  },
+  "uuid2fpath": {
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--control_v1p_sd15_qrcode_monster_v2.yaml--05dc29ec08445c5701104c66a676df763ec066a5": "v2/control_v1p_sd15_qrcode_monster_v2.yaml",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--control_v1p_sd15_qrcode_monster_v2.safetensors--fc985da5850a03033c9e28032532f406ae04bd127178ae5bc6d3ec0502b25253": "v2/control_v1p_sd15_qrcode_monster_v2.safetensors",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--diffusion_pytorch_model.safetensors--a95dc35dfff997bd9c751a97db4959db1235f5776ef5e453d468c602c7998794": "v2/diffusion_pytorch_model.safetensors",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-v2--config.json--c62b0953c0df9b45b040f0a4fb119b3c23f26d7b": "v2/config.json",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-images--tree.png--3d99a8f79d50b410d8dae98d0eefd891d71a0c7c2303d90d85566cc5811c1a15": "images/tree.png",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-images--architecture.png--0ee8143ec1d4b4bf1517d737696e9eb387ae1a10d280209be1ae7dff48288b65": "images/architecture.png",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-images--monster.png--2ec088ca0ed6c3da320b25b19731ff621cbc4d05660d0eeb92e365cb552df235": "images/monster.png",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-images--skulls.png--4e3d6a86fa701dd0a2bb0a58d81963bed6adc3ffad3ec787392f972ee5abb1ef": "images/skulls.png",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-control_v1p_sd15_qrcode_monster.yaml--05dc29ec08445c5701104c66a676df763ec066a5": "control_v1p_sd15_qrcode_monster.yaml",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-control_v1p_sd15_qrcode_monster.safetensors--c7f43f70e266153d12f5e1bb1c9e7be3f4513cf0eef0432661b1331bfe11cadf": "control_v1p_sd15_qrcode_monster.safetensors",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-README.md--2424dece047a5fa888c457b39c929bc90d452764": "README.md",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-diffusion_pytorch_model.bin--29bc1cbd7de2e4bee030184321724bd0c6a1724dd815eb8e593379c39badfdf2": "diffusion_pytorch_model.bin",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-diffusion_pytorch_model.safetensors--8c10457d104cf6adc318fee3a981d3a1a2e60796259e54420a0f933a68dbdeda": "diffusion_pytorch_model.safetensors",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-control_v1p_sd15_qrcode_monster.ckpt--1b5d69da6d00efd8eb8d1f4ba56152ae1b420d6fd55c65813bdb5773c487d4dd": "control_v1p_sd15_qrcode_monster.ckpt",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-config.json--c62b0953c0df9b45b040f0a4fb119b3c23f26d7b": "config.json",
+    "models--monster-labs--control_v1p_sd15_qrcode_monster-.gitattributes--61e33d0d4ec88506b232f55b9359d9cbc6a96abe": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:56:32 (Asia/Shanghai)",
+  "lastest-commit": "560fb7b15d0badb409f8cd578a2bfe63bd4b8046"
+}

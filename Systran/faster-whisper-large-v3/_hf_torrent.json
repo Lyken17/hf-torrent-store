@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "model.bin": "models--Systran--faster-whisper-large-v3-model.bin--69f74147e3334731bc3a76048724833325d2ec74642fb52620eda87352e3d4f1",
+    "vocabulary.json": "models--Systran--faster-whisper-large-v3-vocabulary.json--0adcd01e7c237205d593b707e66dd5d7bc785d2d",
+    "README.md": "models--Systran--faster-whisper-large-v3-README.md--a84bfa7f20cac02ea5a99efa5eaf687ad58c1caf",
+    "tokenizer.json": "models--Systran--faster-whisper-large-v3-tokenizer.json--3a5e2ba63acdcac9a19ba56cf9bd27f185bfff61",
+    "preprocessor_config.json": "models--Systran--faster-whisper-large-v3-preprocessor_config.json--931c77a740890c46365c7ae0c9d350ba3cca908f",
+    "config.json": "models--Systran--faster-whisper-large-v3-config.json--75336feae814999bae6ccccdecf177639ffc6f9d",
+    ".gitattributes": "models--Systran--faster-whisper-large-v3-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--Systran--faster-whisper-large-v3-model.bin--69f74147e3334731bc3a76048724833325d2ec74642fb52620eda87352e3d4f1": "model.bin",
+    "models--Systran--faster-whisper-large-v3-vocabulary.json--0adcd01e7c237205d593b707e66dd5d7bc785d2d": "vocabulary.json",
+    "models--Systran--faster-whisper-large-v3-README.md--a84bfa7f20cac02ea5a99efa5eaf687ad58c1caf": "README.md",
+    "models--Systran--faster-whisper-large-v3-tokenizer.json--3a5e2ba63acdcac9a19ba56cf9bd27f185bfff61": "tokenizer.json",
+    "models--Systran--faster-whisper-large-v3-preprocessor_config.json--931c77a740890c46365c7ae0c9d350ba3cca908f": "preprocessor_config.json",
+    "models--Systran--faster-whisper-large-v3-config.json--75336feae814999bae6ccccdecf177639ffc6f9d": "config.json",
+    "models--Systran--faster-whisper-large-v3-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:56:33 (Asia/Shanghai)",
+  "lastest-commit": "edaa852ec7e145841d8ffdb056a99866b5f0a478"
+}

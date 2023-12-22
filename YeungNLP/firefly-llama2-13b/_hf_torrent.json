@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-pytorch_model-00003-of-00003.bin--a5f389c2dde8e26156d40badd8672d173ff613870ffd2d4a44909c9103d6d82f",
+    "pytorch_model-00001-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-pytorch_model-00001-of-00003.bin--ea7c6f75d34645b25767b449be460e921561fe86cf492ebd0922c2247223e137",
+    "pytorch_model.bin.index.json": "models--YeungNLP--firefly-llama2-13b-pytorch_model.bin.index.json--dd9a5597b14a925bbe5a278e71f5cffd1ad35096",
+    "added_tokens.json": "models--YeungNLP--firefly-llama2-13b-added_tokens.json--9c16aa4be022f03ad001b006fba14dfb73a1929c",
+    "special_tokens_map.json": "models--YeungNLP--firefly-llama2-13b-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "tokenizer_config.json": "models--YeungNLP--firefly-llama2-13b-tokenizer_config.json--a9608c18368845f604b2c21d933478ac96efc323",
+    "tokenizer.model": "models--YeungNLP--firefly-llama2-13b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--YeungNLP--firefly-llama2-13b-README.md--bbaec659a1e4beabca5cc7528dcf60d11981e8db",
+    "leaderboard2.jpeg": "models--YeungNLP--firefly-llama2-13b-leaderboard2.jpeg--64b3a24c4b40c3fd9623897606efdd9911c48d0b",
+    "generation_config.json": "models--YeungNLP--firefly-llama2-13b-generation_config.json--e0ef02b7af7f1a0aa8beb4b7b4334d0ab6de6bd9",
+    "leaderboard1.jpeg": "models--YeungNLP--firefly-llama2-13b-leaderboard1.jpeg--080d84ad2959d02876e5f315ff78b8d29b26750c",
+    "config.json": "models--YeungNLP--firefly-llama2-13b-config.json--777fec852957b2a1ca20c6dbbb20036422b6c7b9",
+    "pytorch_model-00002-of-00003.bin": "models--YeungNLP--firefly-llama2-13b-pytorch_model-00002-of-00003.bin--6e1c7bd854bc28c7c782763677d2ca13e77039fc133138e9bebb31b92e757584",
+    ".gitattributes": "models--YeungNLP--firefly-llama2-13b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-llama2-13b-pytorch_model-00003-of-00003.bin--a5f389c2dde8e26156d40badd8672d173ff613870ffd2d4a44909c9103d6d82f": "pytorch_model-00003-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-pytorch_model-00001-of-00003.bin--ea7c6f75d34645b25767b449be460e921561fe86cf492ebd0922c2247223e137": "pytorch_model-00001-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-pytorch_model.bin.index.json--dd9a5597b14a925bbe5a278e71f5cffd1ad35096": "pytorch_model.bin.index.json",
+    "models--YeungNLP--firefly-llama2-13b-added_tokens.json--9c16aa4be022f03ad001b006fba14dfb73a1929c": "added_tokens.json",
+    "models--YeungNLP--firefly-llama2-13b-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--YeungNLP--firefly-llama2-13b-tokenizer_config.json--a9608c18368845f604b2c21d933478ac96efc323": "tokenizer_config.json",
+    "models--YeungNLP--firefly-llama2-13b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--YeungNLP--firefly-llama2-13b-README.md--bbaec659a1e4beabca5cc7528dcf60d11981e8db": "README.md",
+    "models--YeungNLP--firefly-llama2-13b-leaderboard2.jpeg--64b3a24c4b40c3fd9623897606efdd9911c48d0b": "leaderboard2.jpeg",
+    "models--YeungNLP--firefly-llama2-13b-generation_config.json--e0ef02b7af7f1a0aa8beb4b7b4334d0ab6de6bd9": "generation_config.json",
+    "models--YeungNLP--firefly-llama2-13b-leaderboard1.jpeg--080d84ad2959d02876e5f315ff78b8d29b26750c": "leaderboard1.jpeg",
+    "models--YeungNLP--firefly-llama2-13b-config.json--777fec852957b2a1ca20c6dbbb20036422b6c7b9": "config.json",
+    "models--YeungNLP--firefly-llama2-13b-pytorch_model-00002-of-00003.bin--6e1c7bd854bc28c7c782763677d2ca13e77039fc133138e9bebb31b92e757584": "pytorch_model-00002-of-00003.bin",
+    "models--YeungNLP--firefly-llama2-13b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:46:57 (Asia/Shanghai)",
+  "lastest-commit": "967d26ee5f2ca967c4e61977397dcd63af83991a"
+}

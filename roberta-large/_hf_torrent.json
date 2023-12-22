@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--roberta-large-tf_model.h5--e5a6c9c1643e3b55d0c99721b0c0d166ac88c2911ad96e1b6e4a9d569da1552f",
+    "merges.txt": "models--roberta-large-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "README.md": "models--roberta-large-README.md--788f1529102023f84e2b92fbee1d85c2a7f6b79a",
+    "tokenizer.json": "models--roberta-large-tokenizer.json--ad0bcbeb288f0d1373d88e0762e66357f55b8311",
+    "model.safetensors": "models--roberta-large-model.safetensors--047c85f0b96269cd62e6f732644f067004eebd95af5b5d35965ae2528f13bf38",
+    "vocab.json": "models--roberta-large-vocab.json--5606f48548d99a9829d10a96cd364b816b02cd21",
+    "flax_model.msgpack": "models--roberta-large-flax_model.msgpack--267290826382ce535d85a7b59168134949f53f76a19604e3f2a2d1d0ec35f85e",
+    "model.onnx": "models--roberta-large-model.onnx--cd19cb4d52d5c845eafa38e067cc321d73238346d29aed213b5517ad5df37da4",
+    "pytorch_model.bin": "models--roberta-large-pytorch_model.bin--36a10a8b694fadf9bf4f9049d14e257e88be45313ae02d882af9e60f39b8b2e8",
+    "config.json": "models--roberta-large-config.json--b92478606f827116a06a51500cdf1fccb3b96af1",
+    ".gitattributes": "models--roberta-large-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126"
+  },
+  "uuid2fpath": {
+    "models--roberta-large-tf_model.h5--e5a6c9c1643e3b55d0c99721b0c0d166ac88c2911ad96e1b6e4a9d569da1552f": "tf_model.h5",
+    "models--roberta-large-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--roberta-large-README.md--788f1529102023f84e2b92fbee1d85c2a7f6b79a": "README.md",
+    "models--roberta-large-tokenizer.json--ad0bcbeb288f0d1373d88e0762e66357f55b8311": "tokenizer.json",
+    "models--roberta-large-model.safetensors--047c85f0b96269cd62e6f732644f067004eebd95af5b5d35965ae2528f13bf38": "model.safetensors",
+    "models--roberta-large-vocab.json--5606f48548d99a9829d10a96cd364b816b02cd21": "vocab.json",
+    "models--roberta-large-flax_model.msgpack--267290826382ce535d85a7b59168134949f53f76a19604e3f2a2d1d0ec35f85e": "flax_model.msgpack",
+    "models--roberta-large-model.onnx--cd19cb4d52d5c845eafa38e067cc321d73238346d29aed213b5517ad5df37da4": "model.onnx",
+    "models--roberta-large-pytorch_model.bin--36a10a8b694fadf9bf4f9049d14e257e88be45313ae02d882af9e60f39b8b2e8": "pytorch_model.bin",
+    "models--roberta-large-config.json--b92478606f827116a06a51500cdf1fccb3b96af1": "config.json",
+    "models--roberta-large-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:24:30 (Asia/Shanghai)",
+  "lastest-commit": "716877d372b884cad6d419d828bac6c85b3b18d9"
+}

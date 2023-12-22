@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--timm--resnet18.a1_in1k-README.md--17c20f8d64d7bab71499006341a2b8d131756240",
+    "model.safetensors": "models--timm--resnet18.a1_in1k-model.safetensors--80c49dee3da4822c009c5a7fe591e9223c5a2cfcf95a4067ca4dfb5a7b89c612",
+    "pytorch_model.bin": "models--timm--resnet18.a1_in1k-pytorch_model.bin--1d92fca7bc19313523ad23dff7f89800791baa592f40366537a829bd436e5e14",
+    "config.json": "models--timm--resnet18.a1_in1k-config.json--416530229513d02f9c74c6a11b8e3ea9d0bdaef0",
+    ".gitattributes": "models--timm--resnet18.a1_in1k-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--timm--resnet18.a1_in1k-README.md--17c20f8d64d7bab71499006341a2b8d131756240": "README.md",
+    "models--timm--resnet18.a1_in1k-model.safetensors--80c49dee3da4822c009c5a7fe591e9223c5a2cfcf95a4067ca4dfb5a7b89c612": "model.safetensors",
+    "models--timm--resnet18.a1_in1k-pytorch_model.bin--1d92fca7bc19313523ad23dff7f89800791baa592f40366537a829bd436e5e14": "pytorch_model.bin",
+    "models--timm--resnet18.a1_in1k-config.json--416530229513d02f9c74c6a11b8e3ea9d0bdaef0": "config.json",
+    "models--timm--resnet18.a1_in1k-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 00:51:38 (Asia/Shanghai)",
+  "lastest-commit": "b9c542640ca04a6acab6e1ecff124a2d6ef1951d"
+}

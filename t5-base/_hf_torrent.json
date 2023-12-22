@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--t5-base-rust_model.ot--d53fb0a3dbc251585dc6d863e8be405128b7d426ac860b9fc26ecefbcc88afeb",
+    "tf_model.h5": "models--t5-base-tf_model.h5--700a1c9ebae4b74d6046636e6fedea5cfba821730429cdd0a7d56541b21c2789",
+    "README.md": "models--t5-base-README.md--0c593176ee3cd990be104a871a0997b05c86eb8f",
+    "tokenizer.json": "models--t5-base-tokenizer.json--41911369be79611d82d152725113e66206bd7b79",
+    "model.safetensors": "models--t5-base-model.safetensors--a90903540cc02cbeb7ff9f823f1a80eb778c7e22426a0e620b01c77a5ec8f5b4",
+    "generation_config.json": "models--t5-base-generation_config.json--d52815623b46b7db1c4b957b5a83a8ad30b0146a",
+    "flax_model.msgpack": "models--t5-base-flax_model.msgpack--d96ab4b2e2ac1743c32e80669ec37905151c78d8136ff0ce4ba6566bde6e932f",
+    "pytorch_model.bin": "models--t5-base-pytorch_model.bin--ab97165968edc4aacd30554d18d7beca7f18b3a83e1a47abbad29792d984651f",
+    "spiece.model": "models--t5-base-spiece.model--4e28ff6ebdf584f5372d9de68867399142435d9a",
+    "config.json": "models--t5-base-config.json--c360f5f4046ca9d7f2ea7d098126ecabc596fbe5",
+    ".gitattributes": "models--t5-base-.gitattributes--007c629944b66df84f5728e07d5fcab3d827c425"
+  },
+  "uuid2fpath": {
+    "models--t5-base-rust_model.ot--d53fb0a3dbc251585dc6d863e8be405128b7d426ac860b9fc26ecefbcc88afeb": "rust_model.ot",
+    "models--t5-base-tf_model.h5--700a1c9ebae4b74d6046636e6fedea5cfba821730429cdd0a7d56541b21c2789": "tf_model.h5",
+    "models--t5-base-README.md--0c593176ee3cd990be104a871a0997b05c86eb8f": "README.md",
+    "models--t5-base-tokenizer.json--41911369be79611d82d152725113e66206bd7b79": "tokenizer.json",
+    "models--t5-base-model.safetensors--a90903540cc02cbeb7ff9f823f1a80eb778c7e22426a0e620b01c77a5ec8f5b4": "model.safetensors",
+    "models--t5-base-generation_config.json--d52815623b46b7db1c4b957b5a83a8ad30b0146a": "generation_config.json",
+    "models--t5-base-flax_model.msgpack--d96ab4b2e2ac1743c32e80669ec37905151c78d8136ff0ce4ba6566bde6e932f": "flax_model.msgpack",
+    "models--t5-base-pytorch_model.bin--ab97165968edc4aacd30554d18d7beca7f18b3a83e1a47abbad29792d984651f": "pytorch_model.bin",
+    "models--t5-base-spiece.model--4e28ff6ebdf584f5372d9de68867399142435d9a": "spiece.model",
+    "models--t5-base-config.json--c360f5f4046ca9d7f2ea7d098126ecabc596fbe5": "config.json",
+    "models--t5-base-.gitattributes--007c629944b66df84f5728e07d5fcab3d827c425": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:59:35 (Asia/Shanghai)",
+  "lastest-commit": "fe6d9bf207cd3337512ca838a8b453f87a9178ef"
+}

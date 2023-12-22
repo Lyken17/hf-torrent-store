@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "IFpromptMKR-7b-q4_k_m.gguf": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-IFpromptMKR-7b-q4_k_m.gguf--6837add7980b4f83608847381ba7790e30bcb241a70367067dc76013e90122f5",
+    "added_tokens.json": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532",
+    "special_tokens_map.json": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-special_tokens_map.json--9bfed7513d3b1b65445af10c4571256f4a19b290",
+    "tokenizer_config.json": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-tokenizer_config.json--a0c237bd87b6a6af8cbe7dad083ae851ad82ae86",
+    "tokenizer.model": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-README.md--f53267a1bacab4449dc8fffd45e4f1b6c76a544c",
+    "generation_config.json": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-generation_config.json--f0e05f0f187266a1a2efc5a860fa46be209cc9af",
+    "config.json": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-config.json--5b0f622e2c6068a4b2bf40177c28c04da034a9ef",
+    ".gitattributes": "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-.gitattributes--5e42f479b6541e0c59236dabb02be0c83b5299d2"
+  },
+  "uuid2fpath": {
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-IFpromptMKR-7b-q4_k_m.gguf--6837add7980b4f83608847381ba7790e30bcb241a70367067dc76013e90122f5": "IFpromptMKR-7b-q4_k_m.gguf",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532": "added_tokens.json",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-special_tokens_map.json--9bfed7513d3b1b65445af10c4571256f4a19b290": "special_tokens_map.json",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-tokenizer_config.json--a0c237bd87b6a6af8cbe7dad083ae851ad82ae86": "tokenizer_config.json",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-README.md--f53267a1bacab4449dc8fffd45e4f1b6c76a544c": "README.md",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-generation_config.json--f0e05f0f187266a1a2efc5a860fa46be209cc9af": "generation_config.json",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-config.json--5b0f622e2c6068a4b2bf40177c28c04da034a9ef": "config.json",
+    "models--impactframes--IFpromptMKR-7b-L2-gguf-q4_k_m-.gitattributes--5e42f479b6541e0c59236dabb02be0c83b5299d2": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:53:35 (Asia/Shanghai)",
+  "lastest-commit": "d8f4b361cccdc12f4e35b51a411f181bc4fb602f"
+}

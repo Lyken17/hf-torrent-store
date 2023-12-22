@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "merges.txt": "models--microsoft--trocr-base-printed-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "special_tokens_map.json": "models--microsoft--trocr-base-printed-special_tokens_map.json--e97d1993365bb21c88f390e8703e4c1af564821f",
+    "tokenizer_config.json": "models--microsoft--trocr-base-printed-tokenizer_config.json--8a1587ff662748498a14db272b5c3eb58ec7da95",
+    "README.md": "models--microsoft--trocr-base-printed-README.md--b0d958ceeef82e59d3d401b817edee57cc08f617",
+    "generation_config.json": "models--microsoft--trocr-base-printed-generation_config.json--209d1d39a6767d115b4ebff7ba46fe9c1739e90e",
+    "vocab.json": "models--microsoft--trocr-base-printed-vocab.json--0a39732b2d8be8e493cab3da68b68cc3e28221de",
+    "preprocessor_config.json": "models--microsoft--trocr-base-printed-preprocessor_config.json--0f8d63276bf745b6a906c71c37f976cde3b7d546",
+    "pytorch_model.bin": "models--microsoft--trocr-base-printed-pytorch_model.bin--a67665277b31df7da142e76e5247d2f464d9914cd5ccf7edaf83c1e79547a130",
+    "config.json": "models--microsoft--trocr-base-printed-config.json--f8ab62765e1cf93efbd327b8b2817433158212bd",
+    ".gitattributes": "models--microsoft--trocr-base-printed-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--microsoft--trocr-base-printed-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--microsoft--trocr-base-printed-special_tokens_map.json--e97d1993365bb21c88f390e8703e4c1af564821f": "special_tokens_map.json",
+    "models--microsoft--trocr-base-printed-tokenizer_config.json--8a1587ff662748498a14db272b5c3eb58ec7da95": "tokenizer_config.json",
+    "models--microsoft--trocr-base-printed-README.md--b0d958ceeef82e59d3d401b817edee57cc08f617": "README.md",
+    "models--microsoft--trocr-base-printed-generation_config.json--209d1d39a6767d115b4ebff7ba46fe9c1739e90e": "generation_config.json",
+    "models--microsoft--trocr-base-printed-vocab.json--0a39732b2d8be8e493cab3da68b68cc3e28221de": "vocab.json",
+    "models--microsoft--trocr-base-printed-preprocessor_config.json--0f8d63276bf745b6a906c71c37f976cde3b7d546": "preprocessor_config.json",
+    "models--microsoft--trocr-base-printed-pytorch_model.bin--a67665277b31df7da142e76e5247d2f464d9914cd5ccf7edaf83c1e79547a130": "pytorch_model.bin",
+    "models--microsoft--trocr-base-printed-config.json--f8ab62765e1cf93efbd327b8b2817433158212bd": "config.json",
+    "models--microsoft--trocr-base-printed-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 19:08:56 (Asia/Shanghai)",
+  "lastest-commit": "0c708d318cd981cfc88c217fb90fb769b52ef2ff"
+}

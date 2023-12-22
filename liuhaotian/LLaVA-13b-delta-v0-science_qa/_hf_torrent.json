@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model-00003-of-00003.bin--62b07cc819abb8c2af06e78d6a9464c7f6c14b105f14be7d4854ff55a3882411",
+    "pytorch_model-00001-of-00003.bin": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model-00001-of-00003.bin--e586f0c19ff855a6186a5cbd5bde61cc596ed00a584516b17835328ed5aa43c2",
+    "pytorch_model.bin.index.json": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model.bin.index.json--de057fa82914f986126f473eaab6c80cd8b75f64",
+    "special_tokens_map.json": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-special_tokens_map.json--318f9131477d72be713dcfee9da3a2e43d7ac8ad",
+    "tokenizer_config.json": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-tokenizer_config.json--2d12db9f2cb6bf5b52e845d520bb8077cf2a6887",
+    "tokenizer.model": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-README.md--061d09f28b555f504180cebed2c2d6f3afab212a",
+    "generation_config.json": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-generation_config.json--128b48946713166edcc3e3c62ae5fe285df776be",
+    "config.json": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-config.json--90c132c77dbeea252b7b1dc76d353cfe4b91291a",
+    "pytorch_model-00002-of-00003.bin": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model-00002-of-00003.bin--c9d3db8f0d47a5ba9e499cdd3eb26fe640bf4cbdb445803431766a02d4a15577",
+    ".gitattributes": "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model-00003-of-00003.bin--62b07cc819abb8c2af06e78d6a9464c7f6c14b105f14be7d4854ff55a3882411": "pytorch_model-00003-of-00003.bin",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model-00001-of-00003.bin--e586f0c19ff855a6186a5cbd5bde61cc596ed00a584516b17835328ed5aa43c2": "pytorch_model-00001-of-00003.bin",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model.bin.index.json--de057fa82914f986126f473eaab6c80cd8b75f64": "pytorch_model.bin.index.json",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-special_tokens_map.json--318f9131477d72be713dcfee9da3a2e43d7ac8ad": "special_tokens_map.json",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-tokenizer_config.json--2d12db9f2cb6bf5b52e845d520bb8077cf2a6887": "tokenizer_config.json",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-README.md--061d09f28b555f504180cebed2c2d6f3afab212a": "README.md",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-generation_config.json--128b48946713166edcc3e3c62ae5fe285df776be": "generation_config.json",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-config.json--90c132c77dbeea252b7b1dc76d353cfe4b91291a": "config.json",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-pytorch_model-00002-of-00003.bin--c9d3db8f0d47a5ba9e499cdd3eb26fe640bf4cbdb445803431766a02d4a15577": "pytorch_model-00002-of-00003.bin",
+    "models--liuhaotian--LLaVA-13b-delta-v0-science_qa-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 02:58:06 (Asia/Shanghai)",
+  "lastest-commit": "a8b202759741ef0dd12dc4f6bfdcb6409fd7cd77"
+}

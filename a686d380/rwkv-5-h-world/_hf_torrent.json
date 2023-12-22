@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--a686d380--rwkv-5-h-world-README.md--4111f368157230b9363bc7e36e7cd29af9815966",
+    "rwkv-5-h-world-3B.pth": "models--a686d380--rwkv-5-h-world-rwkv-5-h-world-3B.pth--3a1394b87de3b39eff118e9d27b3d303a94597668b6e536d5261f1c541749dfa",
+    "rwkv-5-h-world-1b5.pth": "models--a686d380--rwkv-5-h-world-rwkv-5-h-world-1b5.pth--c580e4578d60dac76c2179a7aaabf3671c48017affaba0d0340f991b80e76eb3",
+    ".gitattributes": "models--a686d380--rwkv-5-h-world-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--a686d380--rwkv-5-h-world-README.md--4111f368157230b9363bc7e36e7cd29af9815966": "README.md",
+    "models--a686d380--rwkv-5-h-world-rwkv-5-h-world-3B.pth--3a1394b87de3b39eff118e9d27b3d303a94597668b6e536d5261f1c541749dfa": "rwkv-5-h-world-3B.pth",
+    "models--a686d380--rwkv-5-h-world-rwkv-5-h-world-1b5.pth--c580e4578d60dac76c2179a7aaabf3671c48017affaba0d0340f991b80e76eb3": "rwkv-5-h-world-1b5.pth",
+    "models--a686d380--rwkv-5-h-world-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:32:21 (Asia/Shanghai)",
+  "lastest-commit": "1b2ef924b984135a4eb223d5110577142f151b1f"
+}

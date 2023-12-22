@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "config.yaml": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-config.yaml--9f86516b1b0e199bf9ae2753c487be83da5f7148",
+    "README.md": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-README.md--aa44f20d7b25cb73d58c06052216a0be21e92bc8",
+    "events.out.tfevents.1648092666.40461928b0877f0b496ecfdcbf613f0d-master-0.1776.0": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-events.out.tfevents.1648092666.40461928b0877f0b496ecfdcbf613f0d-master-0.1776.0--08a67ef7e305bf2605c86d03416e80f7934bbcd300c91e999eb28535b0ab1fac",
+    "log.txt": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-log.txt--9527f3cc43b72d50ce835eccca8845bb87114af7",
+    "config.json": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-config.json--30e02a6f28bd205ad36ae7a6d0f22e1a915eed7a",
+    "model_final.pth": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-model_final.pth--6a00f69371203a19a5815896ab849e61956bea1fa8f3bdc831ee560dd0c2ce2b",
+    ".gitattributes": "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-.gitattributes--64f23e0770da589d2949e1c24149405f5eda3d68"
+  },
+  "uuid2fpath": {
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-config.yaml--9f86516b1b0e199bf9ae2753c487be83da5f7148": "config.yaml",
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-README.md--aa44f20d7b25cb73d58c06052216a0be21e92bc8": "README.md",
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-events.out.tfevents.1648092666.40461928b0877f0b496ecfdcbf613f0d-master-0.1776.0--08a67ef7e305bf2605c86d03416e80f7934bbcd300c91e999eb28535b0ab1fac": "events.out.tfevents.1648092666.40461928b0877f0b496ecfdcbf613f0d-master-0.1776.0",
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-log.txt--9527f3cc43b72d50ce835eccca8845bb87114af7": "log.txt",
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-config.json--30e02a6f28bd205ad36ae7a6d0f22e1a915eed7a": "config.json",
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-model_final.pth--6a00f69371203a19a5815896ab849e61956bea1fa8f3bdc831ee560dd0c2ce2b": "model_final.pth",
+    "models--HYPJUDY--layoutlmv3-base-finetuned-publaynet-.gitattributes--64f23e0770da589d2949e1c24149405f5eda3d68": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:56:42 (Asia/Shanghai)",
+  "lastest-commit": "1c4d2cf657feafac1f53b6f92afe23b279d4f45b"
+}

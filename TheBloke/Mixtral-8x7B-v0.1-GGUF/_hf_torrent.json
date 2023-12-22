@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "mixtral-8x7b-v0.1.Q4_0.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q4_0.gguf--48c23eb0861a3b91cc506269bf772ed420679940312e9df2286d6304f6a7c767",
+    "mixtral-8x7b-v0.1.Q4_K_M.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q4_K_M.gguf--5e066c60d89d904db46c3bf577661040578a223a5a39ba3fd23ff091549767f0",
+    "mixtral-8x7b-v0.1.Q5_0.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q5_0.gguf--59ac8096b551c7e11e23a1b56ffeaca10b0441070d6edcecfa023c8edd78604c",
+    "mixtral-8x7b-v0.1.Q2_K.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q2_K.gguf--27e3909257480e313a79ff63a1168df5ac7016917add8ad56b5dc489f9215f13",
+    "mixtral-8x7b-v0.1.Q6_K.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q6_K.gguf--366dec12b8823603f23c549f438ee444df868f32ec8a64b60dfeae026860d3fc",
+    "README.md": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-README.md--86c32e32b34f9c2ca8fffac8843365d81c79bf9c",
+    "mixtral-8x7b-v0.1.Q5_K_M.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q5_K_M.gguf--917ee5cbf7bee1f0d37653f8df3debe40a1cdff2fcc185d1914664b4ffa43acd",
+    "mixtral-8x7b-v0.1.Q8_0.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q8_0.gguf--1fffc762b1a1b0efd98de78ee6256ae4cc2541249f84f3a3ae86e96d171d68d2",
+    "mixtral-8x7b-v0.1.Q3_K_M.gguf": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q3_K_M.gguf--542d24532f63219db9f530bd2819be9c74f514919ab661dc5162cef844bac38b",
+    "config.json": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-config.json--c2dc548a36b1b154d6d92107c2ee091dd5b592e4",
+    ".gitattributes": "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-.gitattributes--6fdb57662ca740847325d6a83cb02a8d7269ca4a"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q4_0.gguf--48c23eb0861a3b91cc506269bf772ed420679940312e9df2286d6304f6a7c767": "mixtral-8x7b-v0.1.Q4_0.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q4_K_M.gguf--5e066c60d89d904db46c3bf577661040578a223a5a39ba3fd23ff091549767f0": "mixtral-8x7b-v0.1.Q4_K_M.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q5_0.gguf--59ac8096b551c7e11e23a1b56ffeaca10b0441070d6edcecfa023c8edd78604c": "mixtral-8x7b-v0.1.Q5_0.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q2_K.gguf--27e3909257480e313a79ff63a1168df5ac7016917add8ad56b5dc489f9215f13": "mixtral-8x7b-v0.1.Q2_K.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q6_K.gguf--366dec12b8823603f23c549f438ee444df868f32ec8a64b60dfeae026860d3fc": "mixtral-8x7b-v0.1.Q6_K.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-README.md--86c32e32b34f9c2ca8fffac8843365d81c79bf9c": "README.md",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q5_K_M.gguf--917ee5cbf7bee1f0d37653f8df3debe40a1cdff2fcc185d1914664b4ffa43acd": "mixtral-8x7b-v0.1.Q5_K_M.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q8_0.gguf--1fffc762b1a1b0efd98de78ee6256ae4cc2541249f84f3a3ae86e96d171d68d2": "mixtral-8x7b-v0.1.Q8_0.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-mixtral-8x7b-v0.1.Q3_K_M.gguf--542d24532f63219db9f530bd2819be9c74f514919ab661dc5162cef844bac38b": "mixtral-8x7b-v0.1.Q3_K_M.gguf",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-config.json--c2dc548a36b1b154d6d92107c2ee091dd5b592e4": "config.json",
+    "models--TheBloke--Mixtral-8x7B-v0.1-GGUF-.gitattributes--6fdb57662ca740847325d6a83cb02a8d7269ca4a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 18:56:10 (Asia/Shanghai)",
+  "lastest-commit": "38762deaceb8f976428ab44e4c3ccf927a91132a"
+}

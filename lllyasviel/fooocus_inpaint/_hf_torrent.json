@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--lllyasviel--fooocus_inpaint-README.md--09f57832c8954e8c173e36a80408c72d9b921525",
+    "fooocus_inpaint_head.pth": "models--lllyasviel--fooocus_inpaint-fooocus_inpaint_head.pth--32f7f838e0c6d8f13437ba8411e77a4688d77a2e34df8857e4ef4d51f6b97692",
+    "inpaint.fooocus.patch": "models--lllyasviel--fooocus_inpaint-inpaint.fooocus.patch--ba2a82dec0151105cb593ba7254f58548ec6810aeb9e081c4533fb227d654476",
+    "inpaint_v25.fooocus.patch": "models--lllyasviel--fooocus_inpaint-inpaint_v25.fooocus.patch--640e480158e8a8e0aa673c77d19f8b4095a562ac72e2f2a146b445f78ed0febc",
+    "fooocus_lama.safetensors": "models--lllyasviel--fooocus_inpaint-fooocus_lama.safetensors--9cca32dda6b2e8d12d150f4e39087cea44c1fff9d799e71f23b65e7b065f18b2",
+    "inpaint_v26.fooocus.patch": "models--lllyasviel--fooocus_inpaint-inpaint_v26.fooocus.patch--f8657a025104e22d70f9c060635d8e8c2196f433871a2f68dc40abd2171f0d59",
+    ".gitattributes": "models--lllyasviel--fooocus_inpaint-.gitattributes--83c076489eef02cd59a513481e545e57f39547f7"
+  },
+  "uuid2fpath": {
+    "models--lllyasviel--fooocus_inpaint-README.md--09f57832c8954e8c173e36a80408c72d9b921525": "README.md",
+    "models--lllyasviel--fooocus_inpaint-fooocus_inpaint_head.pth--32f7f838e0c6d8f13437ba8411e77a4688d77a2e34df8857e4ef4d51f6b97692": "fooocus_inpaint_head.pth",
+    "models--lllyasviel--fooocus_inpaint-inpaint.fooocus.patch--ba2a82dec0151105cb593ba7254f58548ec6810aeb9e081c4533fb227d654476": "inpaint.fooocus.patch",
+    "models--lllyasviel--fooocus_inpaint-inpaint_v25.fooocus.patch--640e480158e8a8e0aa673c77d19f8b4095a562ac72e2f2a146b445f78ed0febc": "inpaint_v25.fooocus.patch",
+    "models--lllyasviel--fooocus_inpaint-fooocus_lama.safetensors--9cca32dda6b2e8d12d150f4e39087cea44c1fff9d799e71f23b65e7b065f18b2": "fooocus_lama.safetensors",
+    "models--lllyasviel--fooocus_inpaint-inpaint_v26.fooocus.patch--f8657a025104e22d70f9c060635d8e8c2196f433871a2f68dc40abd2171f0d59": "inpaint_v26.fooocus.patch",
+    "models--lllyasviel--fooocus_inpaint-.gitattributes--83c076489eef02cd59a513481e545e57f39547f7": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 19:53:41 (Asia/Shanghai)",
+  "lastest-commit": "74bbcc070e55219adb9b6c3b0d035b34e3697d1d"
+}

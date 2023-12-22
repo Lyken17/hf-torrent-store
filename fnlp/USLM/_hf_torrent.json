@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "images/overview.png": "models--fnlp--USLM-images--overview.png--efbfcdc3fa1019cbb4325149767a66334b363476",
+    "images/README.md": "models--fnlp--USLM-images--README.md--8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "USLM_libritts/unique_text_tokens.k2symbols": "models--fnlp--USLM-USLM_libritts--unique_text_tokens.k2symbols--36e24295ec41453b9e213bddc7e9507db9329068",
+    "USLM_libritts/README.md": "models--fnlp--USLM-USLM_libritts--README.md--e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "USLM_libritts/USLM.pt": "models--fnlp--USLM-USLM_libritts--USLM.pt--ef0651d77de9ec328820a7e2ad9da367f552d86ccb77bd5392788f680be3d406",
+    "SoundStorm_LibriSpeech/SoundStorm_best_dev.pt": "models--fnlp--USLM-SoundStorm_LibriSpeech--SoundStorm_best_dev.pt--09b9874b45c8f011807baec2bd5ad2228d9e07f502e3194fd9dde2bd12ab6398",
+    "README.md": "models--fnlp--USLM-README.md--40d2a1924fb0ff6c038056d88f219de2107f15c3",
+    ".gitattributes": "models--fnlp--USLM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--fnlp--USLM-images--overview.png--efbfcdc3fa1019cbb4325149767a66334b363476": "images/overview.png",
+    "models--fnlp--USLM-images--README.md--8b137891791fe96927ad78e64b0aad7bded08bdc": "images/README.md",
+    "models--fnlp--USLM-USLM_libritts--unique_text_tokens.k2symbols--36e24295ec41453b9e213bddc7e9507db9329068": "USLM_libritts/unique_text_tokens.k2symbols",
+    "models--fnlp--USLM-USLM_libritts--README.md--e69de29bb2d1d6434b8b29ae775ad8c2e48c5391": "USLM_libritts/README.md",
+    "models--fnlp--USLM-USLM_libritts--USLM.pt--ef0651d77de9ec328820a7e2ad9da367f552d86ccb77bd5392788f680be3d406": "USLM_libritts/USLM.pt",
+    "models--fnlp--USLM-SoundStorm_LibriSpeech--SoundStorm_best_dev.pt--09b9874b45c8f011807baec2bd5ad2228d9e07f502e3194fd9dde2bd12ab6398": "SoundStorm_LibriSpeech/SoundStorm_best_dev.pt",
+    "models--fnlp--USLM-README.md--40d2a1924fb0ff6c038056d88f219de2107f15c3": "README.md",
+    "models--fnlp--USLM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:03:49 (Asia/Shanghai)",
+  "lastest-commit": "ca4a012a3d3123ab88c018c3a7b3407d3fac3ab2"
+}

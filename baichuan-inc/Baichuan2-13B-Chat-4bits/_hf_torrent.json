@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "requirements.txt": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-requirements.txt--a2d04a755f67a2837dff46a16bc8b6285448329b",
+    "tokenization_baichuan.py": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-tokenization_baichuan.py--978963e0edadb45d50b2f43224b380ee061ac431",
+    "quantizer.py": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-quantizer.py--d30f7a7c791dc42a139bffe37c87aa9795186671",
+    "special_tokens_map.json": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-special_tokens_map.json--4835406b0da9f2bed097895a32056ca040085b4f",
+    "generation_utils.py": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-generation_utils.py--57716991333e2b8f6d1eabcefe32ef00f1d1dc84",
+    "configuration_baichuan.py": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-configuration_baichuan.py--592d27452c11af41464f64940ef946d035b67946",
+    "tokenizer_config.json": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-tokenizer_config.json--e441aae849b5da78c70da3c96c38e8e6e1cc83a3",
+    "tokenizer.model": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-tokenizer.model--79452955be6b419a65984273a9f08af86042e1c2a75ee3ba989cbf620a133cc2",
+    "README.md": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-README.md--d8a01042a0212eaf7b1397989920a24aabf17ac7",
+    "Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf--411d36a0687c9e93548a9ebfc0c3bdc513aeb874",
+    "Community License for Baichuan2 Model.pdf": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-Community License for Baichuan2 Model.pdf--8f1aef49cfd60bd7d30793566e1ed32de8b6a350",
+    "modeling_baichuan.py": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-modeling_baichuan.py--bb43521df41af3bf6b9fa5bf81b2fdaa41bfaf20",
+    "generation_config.json": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-generation_config.json--b1cd1e597fb36e91da8a30ba3b78c8d0fcd954d5",
+    "handler.py": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-handler.py--f74b015aa0fb200825f65a95cd270db77429337c",
+    "pytorch_model.bin": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-pytorch_model.bin--1d805c460a12cd7be30c7b9a200ad7a14364abc85617a666f486788a4ab11742",
+    "config.json": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-config.json--6a5368bfb0daa16a6e93cbca5fe5ac92fed31248",
+    ".gitattributes": "models--baichuan-inc--Baichuan2-13B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-requirements.txt--a2d04a755f67a2837dff46a16bc8b6285448329b": "requirements.txt",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-tokenization_baichuan.py--978963e0edadb45d50b2f43224b380ee061ac431": "tokenization_baichuan.py",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-quantizer.py--d30f7a7c791dc42a139bffe37c87aa9795186671": "quantizer.py",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-special_tokens_map.json--4835406b0da9f2bed097895a32056ca040085b4f": "special_tokens_map.json",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-generation_utils.py--57716991333e2b8f6d1eabcefe32ef00f1d1dc84": "generation_utils.py",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-configuration_baichuan.py--592d27452c11af41464f64940ef946d035b67946": "configuration_baichuan.py",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-tokenizer_config.json--e441aae849b5da78c70da3c96c38e8e6e1cc83a3": "tokenizer_config.json",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-tokenizer.model--79452955be6b419a65984273a9f08af86042e1c2a75ee3ba989cbf620a133cc2": "tokenizer.model",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-README.md--d8a01042a0212eaf7b1397989920a24aabf17ac7": "README.md",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf--411d36a0687c9e93548a9ebfc0c3bdc513aeb874": "Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-Community License for Baichuan2 Model.pdf--8f1aef49cfd60bd7d30793566e1ed32de8b6a350": "Community License for Baichuan2 Model.pdf",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-modeling_baichuan.py--bb43521df41af3bf6b9fa5bf81b2fdaa41bfaf20": "modeling_baichuan.py",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-generation_config.json--b1cd1e597fb36e91da8a30ba3b78c8d0fcd954d5": "generation_config.json",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-handler.py--f74b015aa0fb200825f65a95cd270db77429337c": "handler.py",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-pytorch_model.bin--1d805c460a12cd7be30c7b9a200ad7a14364abc85617a666f486788a4ab11742": "pytorch_model.bin",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-config.json--6a5368bfb0daa16a6e93cbca5fe5ac92fed31248": "config.json",
+    "models--baichuan-inc--Baichuan2-13B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:12:19 (Asia/Shanghai)",
+  "lastest-commit": "082b2dc01b2abd0850150b3badd0f6c7ab9984f9"
+}

@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "added_tokens.json": "models--llava-hf--vip-llava-7b-hf-added_tokens.json--4bd5222947172917d6a7770e47e797f3253c669a",
+    "special_tokens_map.json": "models--llava-hf--vip-llava-7b-hf-special_tokens_map.json--a782b2f1cdab4d0bacb2dc0f85d02c4b1e31f0bd",
+    "model-00002-of-00003.safetensors": "models--llava-hf--vip-llava-7b-hf-model-00002-of-00003.safetensors--a014c14ec290834b9256e71ce0befc09d3714f6d9af9d99bbfe93e40cc104687",
+    "tokenizer_config.json": "models--llava-hf--vip-llava-7b-hf-tokenizer_config.json--cf7c2320391f9bbf1c8c92c65a3d0501400cecc1",
+    "tokenizer.model": "models--llava-hf--vip-llava-7b-hf-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--llava-hf--vip-llava-7b-hf-README.md--ae42cf7a18503f1c787f89a0e70729dfe22802d9",
+    "tokenizer.json": "models--llava-hf--vip-llava-7b-hf-tokenizer.json--c778434737e1d2d17ce35dca993896d0265b7480",
+    "generation_config.json": "models--llava-hf--vip-llava-7b-hf-generation_config.json--8d7eb9299fc02285ea047807e43b0688944ff6d0",
+    "model-00003-of-00003.safetensors": "models--llava-hf--vip-llava-7b-hf-model-00003-of-00003.safetensors--504a3cbe8b3dcbb01b789bed5faa8673d36d987cac336273d6fabf8d645a2326",
+    "preprocessor_config.json": "models--llava-hf--vip-llava-7b-hf-preprocessor_config.json--8f5e3ca16adbe8a35df25bf96a24b91fc1a9b23b",
+    "model-00001-of-00003.safetensors": "models--llava-hf--vip-llava-7b-hf-model-00001-of-00003.safetensors--d6fc763d5225ebf5e575fc2f2c3bf03b3a6dd319f56542976af4a598e566ebe2",
+    "model.safetensors.index.json": "models--llava-hf--vip-llava-7b-hf-model.safetensors.index.json--46ce23d9e9069bb0ed28d94ab2c7fc655aaa3408",
+    "config.json": "models--llava-hf--vip-llava-7b-hf-config.json--056404eb6114772883685456f0537aecc795ea9d",
+    ".gitattributes": "models--llava-hf--vip-llava-7b-hf-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--llava-hf--vip-llava-7b-hf-added_tokens.json--4bd5222947172917d6a7770e47e797f3253c669a": "added_tokens.json",
+    "models--llava-hf--vip-llava-7b-hf-special_tokens_map.json--a782b2f1cdab4d0bacb2dc0f85d02c4b1e31f0bd": "special_tokens_map.json",
+    "models--llava-hf--vip-llava-7b-hf-model-00002-of-00003.safetensors--a014c14ec290834b9256e71ce0befc09d3714f6d9af9d99bbfe93e40cc104687": "model-00002-of-00003.safetensors",
+    "models--llava-hf--vip-llava-7b-hf-tokenizer_config.json--cf7c2320391f9bbf1c8c92c65a3d0501400cecc1": "tokenizer_config.json",
+    "models--llava-hf--vip-llava-7b-hf-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--llava-hf--vip-llava-7b-hf-README.md--ae42cf7a18503f1c787f89a0e70729dfe22802d9": "README.md",
+    "models--llava-hf--vip-llava-7b-hf-tokenizer.json--c778434737e1d2d17ce35dca993896d0265b7480": "tokenizer.json",
+    "models--llava-hf--vip-llava-7b-hf-generation_config.json--8d7eb9299fc02285ea047807e43b0688944ff6d0": "generation_config.json",
+    "models--llava-hf--vip-llava-7b-hf-model-00003-of-00003.safetensors--504a3cbe8b3dcbb01b789bed5faa8673d36d987cac336273d6fabf8d645a2326": "model-00003-of-00003.safetensors",
+    "models--llava-hf--vip-llava-7b-hf-preprocessor_config.json--8f5e3ca16adbe8a35df25bf96a24b91fc1a9b23b": "preprocessor_config.json",
+    "models--llava-hf--vip-llava-7b-hf-model-00001-of-00003.safetensors--d6fc763d5225ebf5e575fc2f2c3bf03b3a6dd319f56542976af4a598e566ebe2": "model-00001-of-00003.safetensors",
+    "models--llava-hf--vip-llava-7b-hf-model.safetensors.index.json--46ce23d9e9069bb0ed28d94ab2c7fc655aaa3408": "model.safetensors.index.json",
+    "models--llava-hf--vip-llava-7b-hf-config.json--056404eb6114772883685456f0537aecc795ea9d": "config.json",
+    "models--llava-hf--vip-llava-7b-hf-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:30:20 (Asia/Shanghai)",
+  "lastest-commit": "5d134f9ba7b88b43a182961ca23be37d5874fb92"
+}

@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--facebook--wav2vec2-base-100h-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d",
+    "tokenizer_config.json": "models--facebook--wav2vec2-base-100h-tokenizer_config.json--c02f151c44348a878cc90b16bc98119a28e26364",
+    "README.md": "models--facebook--wav2vec2-base-100h-README.md--4eee897d1ea49b1767427a1d2d38ed2a72da7cb9",
+    "vocab.json": "models--facebook--wav2vec2-base-100h-vocab.json--7efc55a6619a53189e1ca2b5bdcca400a2d4f3e6",
+    "preprocessor_config.json": "models--facebook--wav2vec2-base-100h-preprocessor_config.json--3f24dc078fcba55ee1d417a413847ead40c093a3",
+    "pytorch_model.bin": "models--facebook--wav2vec2-base-100h-pytorch_model.bin--0a445d205b6dc42bca27c0c52b7bb3607fd58a720f0d02a757893cff37ee3ab7",
+    "config.json": "models--facebook--wav2vec2-base-100h-config.json--a51461863ec9c51a1fd16dd252842e9abd453bfa",
+    ".gitattributes": "models--facebook--wav2vec2-base-100h-.gitattributes--d699711d884c16db686245dffb53739ddf85119c"
+  },
+  "uuid2fpath": {
+    "models--facebook--wav2vec2-base-100h-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d": "special_tokens_map.json",
+    "models--facebook--wav2vec2-base-100h-tokenizer_config.json--c02f151c44348a878cc90b16bc98119a28e26364": "tokenizer_config.json",
+    "models--facebook--wav2vec2-base-100h-README.md--4eee897d1ea49b1767427a1d2d38ed2a72da7cb9": "README.md",
+    "models--facebook--wav2vec2-base-100h-vocab.json--7efc55a6619a53189e1ca2b5bdcca400a2d4f3e6": "vocab.json",
+    "models--facebook--wav2vec2-base-100h-preprocessor_config.json--3f24dc078fcba55ee1d417a413847ead40c093a3": "preprocessor_config.json",
+    "models--facebook--wav2vec2-base-100h-pytorch_model.bin--0a445d205b6dc42bca27c0c52b7bb3607fd58a720f0d02a757893cff37ee3ab7": "pytorch_model.bin",
+    "models--facebook--wav2vec2-base-100h-config.json--a51461863ec9c51a1fd16dd252842e9abd453bfa": "config.json",
+    "models--facebook--wav2vec2-base-100h-.gitattributes--d699711d884c16db686245dffb53739ddf85119c": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:07:06 (Asia/Shanghai)",
+  "lastest-commit": "9c1fef36b62a428a658e5b022ef9f21b38f47e0b"
+}

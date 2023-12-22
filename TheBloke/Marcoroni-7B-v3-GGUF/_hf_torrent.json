@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "marcoroni-7b-v3.Q4_K_S.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q4_K_S.gguf--c81ceac6c2e89df307e32e19c16414ee710ee2d54516ff5d87cf33fb4e8a12f7",
+    "marcoroni-7b-v3.Q5_0.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q5_0.gguf--9248d40484d43a800f979ae2b1ca9b0a87c653b603a18ae6d3cdbb1e816bf27a",
+    "marcoroni-7b-v3.Q4_0.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q4_0.gguf--6eda5905bd848f0820fbe9de4520de5fe4299d42bb1123c10ef9333ffac85405",
+    "marcoroni-7b-v3.Q4_K_M.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q4_K_M.gguf--ec3d076b6b3d8fec99189ee55c3bcf0e8e35505092f42473c82620d67fb47210",
+    "marcoroni-7b-v3.Q3_K_S.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q3_K_S.gguf--88a55fe6af2db4788755b3d57a10c39d95010de92ac2b7245058f7be337a024e",
+    "README.md": "models--TheBloke--Marcoroni-7B-v3-GGUF-README.md--f32e82e92c66a049c580651dffb6547837f47416",
+    "marcoroni-7b-v3.Q3_K_M.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q3_K_M.gguf--f872eb2d1b20baf8d16f43c84606e09f42735efbc53a43f9ab7f9ea0fc138475",
+    "marcoroni-7b-v3.Q3_K_L.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q3_K_L.gguf--ccdd2dbb11c4e567e4ec5369c7baf41b7d2b420e00fb24859c6b775ac4bfa621",
+    "marcoroni-7b-v3.Q5_K_M.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q5_K_M.gguf--81206007a3a4435ce669e7c13826b9d87c8b53db4f27c6a832024883da696a79",
+    "marcoroni-7b-v3.Q5_K_S.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q5_K_S.gguf--cea95537e9f8077fe81fe77ddf63c06910c56682e8e327dad48213bc7d5310b9",
+    "marcoroni-7b-v3.Q6_K.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q6_K.gguf--05e4814cbb0266d12ce9f7cb8c7c74593c9d5714a3118be6b64fd85704a1070d",
+    "marcoroni-7b-v3.Q8_0.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q8_0.gguf--0da3e377c9cef0d8be1647f6b549407e3d5799d581453b8e67871b44b44f8c3d",
+    "config.json": "models--TheBloke--Marcoroni-7B-v3-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c",
+    "marcoroni-7b-v3.Q2_K.gguf": "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q2_K.gguf--a6e95152250b332af789bac8af86d416a5892ccf80b8a08068a4d7de722fe344",
+    ".gitattributes": "models--TheBloke--Marcoroni-7B-v3-GGUF-.gitattributes--ac3f7b46cc185782d215547c6270afee0e5dc45b"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q4_K_S.gguf--c81ceac6c2e89df307e32e19c16414ee710ee2d54516ff5d87cf33fb4e8a12f7": "marcoroni-7b-v3.Q4_K_S.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q5_0.gguf--9248d40484d43a800f979ae2b1ca9b0a87c653b603a18ae6d3cdbb1e816bf27a": "marcoroni-7b-v3.Q5_0.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q4_0.gguf--6eda5905bd848f0820fbe9de4520de5fe4299d42bb1123c10ef9333ffac85405": "marcoroni-7b-v3.Q4_0.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q4_K_M.gguf--ec3d076b6b3d8fec99189ee55c3bcf0e8e35505092f42473c82620d67fb47210": "marcoroni-7b-v3.Q4_K_M.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q3_K_S.gguf--88a55fe6af2db4788755b3d57a10c39d95010de92ac2b7245058f7be337a024e": "marcoroni-7b-v3.Q3_K_S.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-README.md--f32e82e92c66a049c580651dffb6547837f47416": "README.md",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q3_K_M.gguf--f872eb2d1b20baf8d16f43c84606e09f42735efbc53a43f9ab7f9ea0fc138475": "marcoroni-7b-v3.Q3_K_M.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q3_K_L.gguf--ccdd2dbb11c4e567e4ec5369c7baf41b7d2b420e00fb24859c6b775ac4bfa621": "marcoroni-7b-v3.Q3_K_L.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q5_K_M.gguf--81206007a3a4435ce669e7c13826b9d87c8b53db4f27c6a832024883da696a79": "marcoroni-7b-v3.Q5_K_M.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q5_K_S.gguf--cea95537e9f8077fe81fe77ddf63c06910c56682e8e327dad48213bc7d5310b9": "marcoroni-7b-v3.Q5_K_S.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q6_K.gguf--05e4814cbb0266d12ce9f7cb8c7c74593c9d5714a3118be6b64fd85704a1070d": "marcoroni-7b-v3.Q6_K.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q8_0.gguf--0da3e377c9cef0d8be1647f6b549407e3d5799d581453b8e67871b44b44f8c3d": "marcoroni-7b-v3.Q8_0.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c": "config.json",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-marcoroni-7b-v3.Q2_K.gguf--a6e95152250b332af789bac8af86d416a5892ccf80b8a08068a4d7de722fe344": "marcoroni-7b-v3.Q2_K.gguf",
+    "models--TheBloke--Marcoroni-7B-v3-GGUF-.gitattributes--ac3f7b46cc185782d215547c6270afee0e5dc45b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 00:09:37 (Asia/Shanghai)",
+  "lastest-commit": "e037d6f9cd694938ac1b42a32524c8a15633a6e8"
+}

@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--Helsinki-NLP--opus-mt-zh-en-rust_model.ot--859d0e2531693a5f003ea110aa5cee1b3439cea362980668923126bbb11d56de",
+    "tf_model.h5": "models--Helsinki-NLP--opus-mt-zh-en-tf_model.h5--5cfa433c98aeeaa39d7e93f317787467ecb9696b440b96e6d6a4ae3a91b2fb99",
+    "source.spm": "models--Helsinki-NLP--opus-mt-zh-en-source.spm--0ab361451ecc57b6223303c7b52e216ff40dc7e6",
+    "tokenizer_config.json": "models--Helsinki-NLP--opus-mt-zh-en-tokenizer_config.json--60000ab989b1eec84f7b0299368f9dd498cdab61",
+    "README.md": "models--Helsinki-NLP--opus-mt-zh-en-README.md--50861444b1f4f181fe7ceccf971333b882c6c6f7",
+    "metadata.json": "models--Helsinki-NLP--opus-mt-zh-en-metadata.json--0fba11b0f7b582cae4b4d2a6b837d509fa2b8d51",
+    "generation_config.json": "models--Helsinki-NLP--opus-mt-zh-en-generation_config.json--a43af728d2ddefe1ed73656ce004be6391c02e0a",
+    "vocab.json": "models--Helsinki-NLP--opus-mt-zh-en-vocab.json--3be15dddf54535a2257b485f32c8f9226352d5c4",
+    "pytorch_model.bin": "models--Helsinki-NLP--opus-mt-zh-en-pytorch_model.bin--9d8ceb91d103ef89400c9d9d62328b4858743cf8924878aee3b8afc594242ce0",
+    "config.json": "models--Helsinki-NLP--opus-mt-zh-en-config.json--710dcdf966ec0aa5b3d991a35264c7cb174ccf14",
+    "target.spm": "models--Helsinki-NLP--opus-mt-zh-en-target.spm--878ae3c6ca6afea7971e3be0b18debdd0d41e3ea",
+    ".gitattributes": "models--Helsinki-NLP--opus-mt-zh-en-.gitattributes--dc08351d4dc0732d9c8af04070ced089b201ce2f"
+  },
+  "uuid2fpath": {
+    "models--Helsinki-NLP--opus-mt-zh-en-rust_model.ot--859d0e2531693a5f003ea110aa5cee1b3439cea362980668923126bbb11d56de": "rust_model.ot",
+    "models--Helsinki-NLP--opus-mt-zh-en-tf_model.h5--5cfa433c98aeeaa39d7e93f317787467ecb9696b440b96e6d6a4ae3a91b2fb99": "tf_model.h5",
+    "models--Helsinki-NLP--opus-mt-zh-en-source.spm--0ab361451ecc57b6223303c7b52e216ff40dc7e6": "source.spm",
+    "models--Helsinki-NLP--opus-mt-zh-en-tokenizer_config.json--60000ab989b1eec84f7b0299368f9dd498cdab61": "tokenizer_config.json",
+    "models--Helsinki-NLP--opus-mt-zh-en-README.md--50861444b1f4f181fe7ceccf971333b882c6c6f7": "README.md",
+    "models--Helsinki-NLP--opus-mt-zh-en-metadata.json--0fba11b0f7b582cae4b4d2a6b837d509fa2b8d51": "metadata.json",
+    "models--Helsinki-NLP--opus-mt-zh-en-generation_config.json--a43af728d2ddefe1ed73656ce004be6391c02e0a": "generation_config.json",
+    "models--Helsinki-NLP--opus-mt-zh-en-vocab.json--3be15dddf54535a2257b485f32c8f9226352d5c4": "vocab.json",
+    "models--Helsinki-NLP--opus-mt-zh-en-pytorch_model.bin--9d8ceb91d103ef89400c9d9d62328b4858743cf8924878aee3b8afc594242ce0": "pytorch_model.bin",
+    "models--Helsinki-NLP--opus-mt-zh-en-config.json--710dcdf966ec0aa5b3d991a35264c7cb174ccf14": "config.json",
+    "models--Helsinki-NLP--opus-mt-zh-en-target.spm--878ae3c6ca6afea7971e3be0b18debdd0d41e3ea": "target.spm",
+    "models--Helsinki-NLP--opus-mt-zh-en-.gitattributes--dc08351d4dc0732d9c8af04070ced089b201ce2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 19:53:53 (Asia/Shanghai)",
+  "lastest-commit": "cf109095479db38d6df799875e34039d4938aaa6"
+}

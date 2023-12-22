@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "mistral-7b-instruct-v0.2.Q3_K_S.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q3_K_S.gguf--03968f7dc1ce056db8413079d6f2d03e8f2b9677987cee04cd744c15b03aac86",
+    "mistral-7b-instruct-v0.2.Q3_K_L.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q3_K_L.gguf--2c0e37f9d639e349c31dbc3c365fc1a140339a43fe478702511f6efead15488a",
+    "mistral-7b-instruct-v0.2.Q4_K_M.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q4_K_M.gguf--3e0039fd0273fcbebb49228943b17831aadd55cbcbf56f0af00499be2040ccf9",
+    "README.md": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-README.md--b2508550b7a1b485f630425c49ef738cb8b62f12",
+    "mistral-7b-instruct-v0.2.Q5_0.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q5_0.gguf--254ea79a2521dfb59f155078d9c37ad2fcfdf4ea3d8c2700ed17e03339ad402b",
+    "mistral-7b-instruct-v0.2.Q5_K_M.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q5_K_M.gguf--b85cdd596ddd76f3194047b9108a73c74d77ba04bef49255a50fc0cfbda83d32",
+    "mistral-7b-instruct-v0.2.Q8_0.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q8_0.gguf--f326f5f4f137f3ad30f8c9cc21d4d39e54476583e8306ee2931d5a022cb85b06",
+    "mistral-7b-instruct-v0.2.Q4_K_S.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q4_K_S.gguf--1213e19b3e103932fdfdc82e3b6dee765f57ad5756e0f673e7d36514a5b60d0a",
+    "mistral-7b-instruct-v0.2.Q5_K_S.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q5_K_S.gguf--83d1104865d0790ada7a5e1191f2f702b9956ff3a457d67109ded0ab6a56aafd",
+    "mistral-7b-instruct-v0.2.Q2_K.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q2_K.gguf--6d52a37032d25bc879691b0e870da12ffd5788e6f4dd2eea1b5d9a7020091f71",
+    "mistral-7b-instruct-v0.2.Q3_K_M.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q3_K_M.gguf--a9d5cdce059f6e091f4dc664b28e6e21204a91794207b934a8308f2f37500043",
+    "mistral-7b-instruct-v0.2.Q4_0.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q4_0.gguf--25d80b918e4432661726ef408b248005bebefe3f8e1ac722d55d0c5dcf2893e0",
+    "mistral-7b-instruct-v0.2.Q6_K.gguf": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q6_K.gguf--a4643671c92f47eb6027d0eff50b9875562e8e172128a4b10b2be250bb4264de",
+    "config.json": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c",
+    ".gitattributes": "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-.gitattributes--aa31dab6e782c2bc6dc1c5576cfd877c3b08f49d"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q3_K_S.gguf--03968f7dc1ce056db8413079d6f2d03e8f2b9677987cee04cd744c15b03aac86": "mistral-7b-instruct-v0.2.Q3_K_S.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q3_K_L.gguf--2c0e37f9d639e349c31dbc3c365fc1a140339a43fe478702511f6efead15488a": "mistral-7b-instruct-v0.2.Q3_K_L.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q4_K_M.gguf--3e0039fd0273fcbebb49228943b17831aadd55cbcbf56f0af00499be2040ccf9": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-README.md--b2508550b7a1b485f630425c49ef738cb8b62f12": "README.md",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q5_0.gguf--254ea79a2521dfb59f155078d9c37ad2fcfdf4ea3d8c2700ed17e03339ad402b": "mistral-7b-instruct-v0.2.Q5_0.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q5_K_M.gguf--b85cdd596ddd76f3194047b9108a73c74d77ba04bef49255a50fc0cfbda83d32": "mistral-7b-instruct-v0.2.Q5_K_M.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q8_0.gguf--f326f5f4f137f3ad30f8c9cc21d4d39e54476583e8306ee2931d5a022cb85b06": "mistral-7b-instruct-v0.2.Q8_0.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q4_K_S.gguf--1213e19b3e103932fdfdc82e3b6dee765f57ad5756e0f673e7d36514a5b60d0a": "mistral-7b-instruct-v0.2.Q4_K_S.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q5_K_S.gguf--83d1104865d0790ada7a5e1191f2f702b9956ff3a457d67109ded0ab6a56aafd": "mistral-7b-instruct-v0.2.Q5_K_S.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q2_K.gguf--6d52a37032d25bc879691b0e870da12ffd5788e6f4dd2eea1b5d9a7020091f71": "mistral-7b-instruct-v0.2.Q2_K.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q3_K_M.gguf--a9d5cdce059f6e091f4dc664b28e6e21204a91794207b934a8308f2f37500043": "mistral-7b-instruct-v0.2.Q3_K_M.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q4_0.gguf--25d80b918e4432661726ef408b248005bebefe3f8e1ac722d55d0c5dcf2893e0": "mistral-7b-instruct-v0.2.Q4_0.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-mistral-7b-instruct-v0.2.Q6_K.gguf--a4643671c92f47eb6027d0eff50b9875562e8e172128a4b10b2be250bb4264de": "mistral-7b-instruct-v0.2.Q6_K.gguf",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c": "config.json",
+    "models--TheBloke--Mistral-7B-Instruct-v0.2-GGUF-.gitattributes--aa31dab6e782c2bc6dc1c5576cfd877c3b08f49d": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:45:35 (Asia/Shanghai)",
+  "lastest-commit": "3a6fbf4a41a1d52e415a4958cde6856d34b2db93"
+}

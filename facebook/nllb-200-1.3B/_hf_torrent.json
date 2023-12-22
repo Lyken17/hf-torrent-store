@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--facebook--nllb-200-1.3B-special_tokens_map.json--02fba84e401dd2017999a39cac2c1278591c3a03",
+    "tokenizer_config.json": "models--facebook--nllb-200-1.3B-tokenizer_config.json--742aa330eae62f661fe28ff3fdd1d216d1481294",
+    "README.md": "models--facebook--nllb-200-1.3B-README.md--c929f02fa899b9fbcead8db93c414ea59da0f7f3",
+    "tokenizer.json": "models--facebook--nllb-200-1.3B-tokenizer.json--e316b82de11d0f951f370943b3c438311629547285129b0b81dadabd01bca665",
+    "generation_config.json": "models--facebook--nllb-200-1.3B-generation_config.json--4c6d168201607a22255bee55a6ed092b0e3ed7a1",
+    "sentencepiece.bpe.model": "models--facebook--nllb-200-1.3B-sentencepiece.bpe.model--14bb8dfb35c0ffdea7bc01e56cea38b9e3d5efcdcb9c251d6b40538e1aab555a",
+    "pytorch_model.bin": "models--facebook--nllb-200-1.3B-pytorch_model.bin--8a134f26de3677e0b7c47d3e98c199fdb4c85a8c6577448d861af4ff24e2ad3f",
+    "config.json": "models--facebook--nllb-200-1.3B-config.json--5933e93fc5ec6b7e62b2d6dc224fcd7a656a1da6",
+    ".gitattributes": "models--facebook--nllb-200-1.3B-.gitattributes--5b0b9613c3d3a8b6f6a52f5c455a56e9c79ab7e7"
+  },
+  "uuid2fpath": {
+    "models--facebook--nllb-200-1.3B-special_tokens_map.json--02fba84e401dd2017999a39cac2c1278591c3a03": "special_tokens_map.json",
+    "models--facebook--nllb-200-1.3B-tokenizer_config.json--742aa330eae62f661fe28ff3fdd1d216d1481294": "tokenizer_config.json",
+    "models--facebook--nllb-200-1.3B-README.md--c929f02fa899b9fbcead8db93c414ea59da0f7f3": "README.md",
+    "models--facebook--nllb-200-1.3B-tokenizer.json--e316b82de11d0f951f370943b3c438311629547285129b0b81dadabd01bca665": "tokenizer.json",
+    "models--facebook--nllb-200-1.3B-generation_config.json--4c6d168201607a22255bee55a6ed092b0e3ed7a1": "generation_config.json",
+    "models--facebook--nllb-200-1.3B-sentencepiece.bpe.model--14bb8dfb35c0ffdea7bc01e56cea38b9e3d5efcdcb9c251d6b40538e1aab555a": "sentencepiece.bpe.model",
+    "models--facebook--nllb-200-1.3B-pytorch_model.bin--8a134f26de3677e0b7c47d3e98c199fdb4c85a8c6577448d861af4ff24e2ad3f": "pytorch_model.bin",
+    "models--facebook--nllb-200-1.3B-config.json--5933e93fc5ec6b7e62b2d6dc224fcd7a656a1da6": "config.json",
+    "models--facebook--nllb-200-1.3B-.gitattributes--5b0b9613c3d3a8b6f6a52f5c455a56e9c79ab7e7": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:25:14 (Asia/Shanghai)",
+  "lastest-commit": "b0de46b488af0cf31749cd8da5ed3171e11b2309"
+}

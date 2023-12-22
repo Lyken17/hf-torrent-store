@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "added_tokens.json": "models--THUDM--glm-large-chinese-added_tokens.json--6e2658734cb4c106183a2e0f65124259769d9702",
+    "tokenizer_config.json": "models--THUDM--glm-large-chinese-tokenizer_config.json--e87fefee5828b8a4d33777767b996eb214af3e4d",
+    "README.md": "models--THUDM--glm-large-chinese-README.md--81616463507accd68e0fd4bd3598da48c2df28ea",
+    "modeling_glm.py": "models--THUDM--glm-large-chinese-modeling_glm.py--118c7ce4fd150733a817168666afb0ec4a2c0923",
+    "cog-pretrain.model": "models--THUDM--glm-large-chinese-cog-pretrain.model--6ea6f4164152bc58d23e24e48f7bf4187aad72a32e97ec4b3acc832fe183cbc2",
+    "pytorch_model.bin": "models--THUDM--glm-large-chinese-pytorch_model.bin--6d797cfd353cde41644b62fef5badb36e8b4a0abfa262360401b61caaa73234b",
+    "configuration_glm.py": "models--THUDM--glm-large-chinese-configuration_glm.py--509fdfe0d048b4ce6753662662687e2187e6655e",
+    "config.json": "models--THUDM--glm-large-chinese-config.json--9f848bff17f190f274d40cd72926ea985ba87408",
+    "tokenization_glm.py": "models--THUDM--glm-large-chinese-tokenization_glm.py--b18daa7b251871027f35c843a099fd211aa8d5af",
+    ".gitattributes": "models--THUDM--glm-large-chinese-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--THUDM--glm-large-chinese-added_tokens.json--6e2658734cb4c106183a2e0f65124259769d9702": "added_tokens.json",
+    "models--THUDM--glm-large-chinese-tokenizer_config.json--e87fefee5828b8a4d33777767b996eb214af3e4d": "tokenizer_config.json",
+    "models--THUDM--glm-large-chinese-README.md--81616463507accd68e0fd4bd3598da48c2df28ea": "README.md",
+    "models--THUDM--glm-large-chinese-modeling_glm.py--118c7ce4fd150733a817168666afb0ec4a2c0923": "modeling_glm.py",
+    "models--THUDM--glm-large-chinese-cog-pretrain.model--6ea6f4164152bc58d23e24e48f7bf4187aad72a32e97ec4b3acc832fe183cbc2": "cog-pretrain.model",
+    "models--THUDM--glm-large-chinese-pytorch_model.bin--6d797cfd353cde41644b62fef5badb36e8b4a0abfa262360401b61caaa73234b": "pytorch_model.bin",
+    "models--THUDM--glm-large-chinese-configuration_glm.py--509fdfe0d048b4ce6753662662687e2187e6655e": "configuration_glm.py",
+    "models--THUDM--glm-large-chinese-config.json--9f848bff17f190f274d40cd72926ea985ba87408": "config.json",
+    "models--THUDM--glm-large-chinese-tokenization_glm.py--b18daa7b251871027f35c843a099fd211aa8d5af": "tokenization_glm.py",
+    "models--THUDM--glm-large-chinese-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 10:32:42 (Asia/Shanghai)",
+  "lastest-commit": "230f54e413fab4bc8f29bd3508aab301d757ef3e"
+}

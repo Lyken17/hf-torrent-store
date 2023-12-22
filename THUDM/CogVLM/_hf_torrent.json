@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "cogvlm-base-490.zip": "models--THUDM--CogVLM-cogvlm-base-490.zip--af4d64c5b7082d6706dc27edb227a986f1da31c71c48bd393d0d5ff05a6dc88e",
+    "cogvlm-grounding-generalist-v1.1.zip": "models--THUDM--CogVLM-cogvlm-grounding-generalist-v1.1.zip--7eac70963ba31eb9ba62aaecfc45d7ed16d03eaf8ae545f411ce6986273f3e9a",
+    "README.md": "models--THUDM--CogVLM-README.md--5f0d28d1f5d291ef53b5add0878bb5d760d4ec8a",
+    "cogvlm-chat-v1.1.zip": "models--THUDM--CogVLM-cogvlm-chat-v1.1.zip--360d91a47913440637b226190924bbaa23b9bbed103b89dde815cf4effbf6b14",
+    "cogvlm-grounding-base.zip": "models--THUDM--CogVLM-cogvlm-grounding-base.zip--b6e5c6b1571c1b88938bbb8de40751e62ce8011a6400def2eaa4550f75c43e0c",
+    "cogvlm-base-224.zip": "models--THUDM--CogVLM-cogvlm-base-224.zip--ee19938fad9ed1e503fc7582deeb56c79fdcba9e61a3b7a29604b7a4c766d2dc",
+    ".gitattributes": "models--THUDM--CogVLM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--THUDM--CogVLM-cogvlm-base-490.zip--af4d64c5b7082d6706dc27edb227a986f1da31c71c48bd393d0d5ff05a6dc88e": "cogvlm-base-490.zip",
+    "models--THUDM--CogVLM-cogvlm-grounding-generalist-v1.1.zip--7eac70963ba31eb9ba62aaecfc45d7ed16d03eaf8ae545f411ce6986273f3e9a": "cogvlm-grounding-generalist-v1.1.zip",
+    "models--THUDM--CogVLM-README.md--5f0d28d1f5d291ef53b5add0878bb5d760d4ec8a": "README.md",
+    "models--THUDM--CogVLM-cogvlm-chat-v1.1.zip--360d91a47913440637b226190924bbaa23b9bbed103b89dde815cf4effbf6b14": "cogvlm-chat-v1.1.zip",
+    "models--THUDM--CogVLM-cogvlm-grounding-base.zip--b6e5c6b1571c1b88938bbb8de40751e62ce8011a6400def2eaa4550f75c43e0c": "cogvlm-grounding-base.zip",
+    "models--THUDM--CogVLM-cogvlm-base-224.zip--ee19938fad9ed1e503fc7582deeb56c79fdcba9e61a3b7a29604b7a4c766d2dc": "cogvlm-base-224.zip",
+    "models--THUDM--CogVLM-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:59:03 (Asia/Shanghai)",
+  "lastest-commit": "b9ccd2d71f6ee657b845e3e7ce76853f8b07b660"
+}

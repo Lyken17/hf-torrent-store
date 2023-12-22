@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--openai--consistency-decoder-README.md--4b1f5fe30829ca60c266be769c769ad05665d11a",
+    "diffusion_pytorch_model.safetensors": "models--openai--consistency-decoder-diffusion_pytorch_model.safetensors--df6386a06f741c7dfaaa4709b6db39aca345a406d8413dc2c4dbd48a0dce1cfb",
+    "diffusion_pytorch_model.fp16.safetensors": "models--openai--consistency-decoder-diffusion_pytorch_model.fp16.safetensors--df6386a06f741c7dfaaa4709b6db39aca345a406d8413dc2c4dbd48a0dce1cfb",
+    "config.json": "models--openai--consistency-decoder-config.json--75c732192ef228f6dcc040675fdc563ea79627d9",
+    ".gitattributes": "models--openai--consistency-decoder-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--openai--consistency-decoder-README.md--4b1f5fe30829ca60c266be769c769ad05665d11a": "README.md",
+    "models--openai--consistency-decoder-diffusion_pytorch_model.safetensors--df6386a06f741c7dfaaa4709b6db39aca345a406d8413dc2c4dbd48a0dce1cfb": "diffusion_pytorch_model.safetensors",
+    "models--openai--consistency-decoder-diffusion_pytorch_model.fp16.safetensors--df6386a06f741c7dfaaa4709b6db39aca345a406d8413dc2c4dbd48a0dce1cfb": "diffusion_pytorch_model.fp16.safetensors",
+    "models--openai--consistency-decoder-config.json--75c732192ef228f6dcc040675fdc563ea79627d9": "config.json",
+    "models--openai--consistency-decoder-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:07:24 (Asia/Shanghai)",
+  "lastest-commit": "63b7a48896d92b6f56772f4111d0860b1bee3dd3"
+}

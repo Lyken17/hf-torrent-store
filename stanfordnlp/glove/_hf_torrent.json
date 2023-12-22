@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "glove.42B.300d.zip": "models--stanfordnlp--glove-glove.42B.300d.zip--357baac33090f645e71e253b3295ee1b767c98a0336e9a1d99c77e9e33b43c4a",
+    "glove.6B.zip": "models--stanfordnlp--glove-glove.6B.zip--6471382cdd837544bf3ac72497a38715e845897d265b2b424b4761832009c837",
+    "README.md": "models--stanfordnlp--glove-README.md--e128552d00b70ab45babdaf00fbc972b6bddc0a0",
+    "glove.840B.300d.zip": "models--stanfordnlp--glove-glove.840B.300d.zip--f47355dd5b267bd10f08671e513790690233c76a9ffd73aa915d78f894a8912e",
+    "glove.twitter.27B.zip": "models--stanfordnlp--glove-glove.twitter.27B.zip--3123e7f5c3f6a30095d413b12fc3284bbf717acd2a9bed63d1c7c13bf5223352",
+    ".gitattributes": "models--stanfordnlp--glove-.gitattributes--cffb53bab37d544391097531f3fb0acddd8692ca"
+  },
+  "uuid2fpath": {
+    "models--stanfordnlp--glove-glove.42B.300d.zip--357baac33090f645e71e253b3295ee1b767c98a0336e9a1d99c77e9e33b43c4a": "glove.42B.300d.zip",
+    "models--stanfordnlp--glove-glove.6B.zip--6471382cdd837544bf3ac72497a38715e845897d265b2b424b4761832009c837": "glove.6B.zip",
+    "models--stanfordnlp--glove-README.md--e128552d00b70ab45babdaf00fbc972b6bddc0a0": "README.md",
+    "models--stanfordnlp--glove-glove.840B.300d.zip--f47355dd5b267bd10f08671e513790690233c76a9ffd73aa915d78f894a8912e": "glove.840B.300d.zip",
+    "models--stanfordnlp--glove-glove.twitter.27B.zip--3123e7f5c3f6a30095d413b12fc3284bbf717acd2a9bed63d1c7c13bf5223352": "glove.twitter.27B.zip",
+    "models--stanfordnlp--glove-.gitattributes--cffb53bab37d544391097531f3fb0acddd8692ca": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:31:38 (Asia/Shanghai)",
+  "lastest-commit": "1db2080b2d94def6e5b0386a523102f9d8849e9d"
+}

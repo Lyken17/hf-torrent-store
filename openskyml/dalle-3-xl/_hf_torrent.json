@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "images/00002441-10291230.jpeg": "models--openskyml--dalle-3-xl-images--00002441-10291230.jpeg--ae6186a251fe8c771076ed70f3de325a9a6e1686de8efdea133e67a15181aca7",
+    "images/c96a4147-b14d-4e71-8c08-e04c31c8be18.jpg": "models--openskyml--dalle-3-xl-images--c96a4147-b14d-4e71-8c08-e04c31c8be18.jpg--7fd325b5552e6bdd9e183939aa56d09e70f90015a570e6e3b8b8a8aefe389851",
+    "images/b7ad0f38-5d2a-48cd-b7d4-b94be1d23c40.jpg": "models--openskyml--dalle-3-xl-images--b7ad0f38-5d2a-48cd-b7d4-b94be1d23c40.jpg--d2ebfc95c60da3961941664fcceb499e90b804ea6df798cbe9f3cc6e635f2d66",
+    "images/00002489-10291327.jpeg": "models--openskyml--dalle-3-xl-images--00002489-10291327.jpeg--10357cae16d6ed2425da05ff657e425b189b98546babe5eb8b663db9cc608789",
+    "README.md": "models--openskyml--dalle-3-xl-README.md--c6f28191c56f471574b40563243235756b76df4d",
+    "Dall-e_3_0.3-v2.safetensors": "models--openskyml--dalle-3-xl-Dall-e_3_0.3-v2.safetensors--5765695e8f3bd4a05ec9b29219535673fe7d09681a2c3625d183928df3ccdb31",
+    ".gitattributes": "models--openskyml--dalle-3-xl-.gitattributes--28df5f900b358436f0267334b3e3e9af33f917ba"
+  },
+  "uuid2fpath": {
+    "models--openskyml--dalle-3-xl-images--00002441-10291230.jpeg--ae6186a251fe8c771076ed70f3de325a9a6e1686de8efdea133e67a15181aca7": "images/00002441-10291230.jpeg",
+    "models--openskyml--dalle-3-xl-images--c96a4147-b14d-4e71-8c08-e04c31c8be18.jpg--7fd325b5552e6bdd9e183939aa56d09e70f90015a570e6e3b8b8a8aefe389851": "images/c96a4147-b14d-4e71-8c08-e04c31c8be18.jpg",
+    "models--openskyml--dalle-3-xl-images--b7ad0f38-5d2a-48cd-b7d4-b94be1d23c40.jpg--d2ebfc95c60da3961941664fcceb499e90b804ea6df798cbe9f3cc6e635f2d66": "images/b7ad0f38-5d2a-48cd-b7d4-b94be1d23c40.jpg",
+    "models--openskyml--dalle-3-xl-images--00002489-10291327.jpeg--10357cae16d6ed2425da05ff657e425b189b98546babe5eb8b663db9cc608789": "images/00002489-10291327.jpeg",
+    "models--openskyml--dalle-3-xl-README.md--c6f28191c56f471574b40563243235756b76df4d": "README.md",
+    "models--openskyml--dalle-3-xl-Dall-e_3_0.3-v2.safetensors--5765695e8f3bd4a05ec9b29219535673fe7d09681a2c3625d183928df3ccdb31": "Dall-e_3_0.3-v2.safetensors",
+    "models--openskyml--dalle-3-xl-.gitattributes--28df5f900b358436f0267334b3e3e9af33f917ba": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 02:30:48 (Asia/Shanghai)",
+  "lastest-commit": "096a0b849ab02ef53b6430067199cd148f5478fb"
+}

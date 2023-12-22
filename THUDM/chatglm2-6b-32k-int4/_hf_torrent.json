@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "modeling_chatglm.py": "models--THUDM--chatglm2-6b-32k-int4-modeling_chatglm.py--647ab2cd06f7b51b5698a4dd13b91f03f1ebcdba",
+    "tokenizer_config.json": "models--THUDM--chatglm2-6b-32k-int4-tokenizer_config.json--ac27c0b95da639fcf952cbee6f87aaadeb8f159a",
+    "tokenizer.model": "models--THUDM--chatglm2-6b-32k-int4-tokenizer.model--e7dc4c393423b76e4373e5157ddc34803a0189ba96b21ddbb40269d31468a6f2",
+    "README.md": "models--THUDM--chatglm2-6b-32k-int4-README.md--c8980d0b1d7d28b7baca75cabe11953b304a9473",
+    "configuration_chatglm.py": "models--THUDM--chatglm2-6b-32k-int4-configuration_chatglm.py--a10aad3e8d284b54512504422cf95cb7fef32b0c",
+    "quantization.py": "models--THUDM--chatglm2-6b-32k-int4-quantization.py--401496776e4033da6aa14f05cbf01b480eb17427",
+    "MODEL_LICENSE": "models--THUDM--chatglm2-6b-32k-int4-MODEL_LICENSE--26198b21b6b2e56883359aa4de1b2a49bc3bd692",
+    "tokenization_chatglm.py": "models--THUDM--chatglm2-6b-32k-int4-tokenization_chatglm.py--af6c93b525bba989462106165c8f9d5d01c0e9f1",
+    "pytorch_model.bin": "models--THUDM--chatglm2-6b-32k-int4-pytorch_model.bin--977ae8141f27d066cfda840273d3500fcd02b34eb2b1a9f8ca23714c365743b0",
+    "config.json": "models--THUDM--chatglm2-6b-32k-int4-config.json--78bd9044409dcb54f75b2a46e2a01e3c1a880ad6",
+    ".gitattributes": "models--THUDM--chatglm2-6b-32k-int4-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--THUDM--chatglm2-6b-32k-int4-modeling_chatglm.py--647ab2cd06f7b51b5698a4dd13b91f03f1ebcdba": "modeling_chatglm.py",
+    "models--THUDM--chatglm2-6b-32k-int4-tokenizer_config.json--ac27c0b95da639fcf952cbee6f87aaadeb8f159a": "tokenizer_config.json",
+    "models--THUDM--chatglm2-6b-32k-int4-tokenizer.model--e7dc4c393423b76e4373e5157ddc34803a0189ba96b21ddbb40269d31468a6f2": "tokenizer.model",
+    "models--THUDM--chatglm2-6b-32k-int4-README.md--c8980d0b1d7d28b7baca75cabe11953b304a9473": "README.md",
+    "models--THUDM--chatglm2-6b-32k-int4-configuration_chatglm.py--a10aad3e8d284b54512504422cf95cb7fef32b0c": "configuration_chatglm.py",
+    "models--THUDM--chatglm2-6b-32k-int4-quantization.py--401496776e4033da6aa14f05cbf01b480eb17427": "quantization.py",
+    "models--THUDM--chatglm2-6b-32k-int4-MODEL_LICENSE--26198b21b6b2e56883359aa4de1b2a49bc3bd692": "MODEL_LICENSE",
+    "models--THUDM--chatglm2-6b-32k-int4-tokenization_chatglm.py--af6c93b525bba989462106165c8f9d5d01c0e9f1": "tokenization_chatglm.py",
+    "models--THUDM--chatglm2-6b-32k-int4-pytorch_model.bin--977ae8141f27d066cfda840273d3500fcd02b34eb2b1a9f8ca23714c365743b0": "pytorch_model.bin",
+    "models--THUDM--chatglm2-6b-32k-int4-config.json--78bd9044409dcb54f75b2a46e2a01e3c1a880ad6": "config.json",
+    "models--THUDM--chatglm2-6b-32k-int4-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:20:59 (Asia/Shanghai)",
+  "lastest-commit": "bac45edda11b4f88961e054b67bd3547099e84c5"
+}

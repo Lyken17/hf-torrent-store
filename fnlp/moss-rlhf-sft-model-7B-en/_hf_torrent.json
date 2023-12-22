@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "diff/generation_config.json": "models--fnlp--moss-rlhf-sft-model-7B-en-diff--generation_config.json--2ff3f3ed737315926c38771034a125a19f01dfb7",
+    "diff/pytorch_model.bin": "models--fnlp--moss-rlhf-sft-model-7B-en-diff--pytorch_model.bin--163b2d6238709e651facbaa86987d4d904fbc9093779945786f887902e97b3ac",
+    "diff/config.json": "models--fnlp--moss-rlhf-sft-model-7B-en-diff--config.json--2e37c74dd7f214da0b25730a89511ba085350553",
+    "special_tokens_map.json": "models--fnlp--moss-rlhf-sft-model-7B-en-special_tokens_map.json--09a41a350e349ab0990be2f5cab2b105fad54199",
+    "tokenizer_config.json": "models--fnlp--moss-rlhf-sft-model-7B-en-tokenizer_config.json--115c7f1379f931d6e841798cec2cca30fbb4b719",
+    "tokenizer.model": "models--fnlp--moss-rlhf-sft-model-7B-en-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--fnlp--moss-rlhf-sft-model-7B-en-README.md--10ace37ef879d17979aadb8cd17c235c11c9353d",
+    ".gitattributes": "models--fnlp--moss-rlhf-sft-model-7B-en-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--fnlp--moss-rlhf-sft-model-7B-en-diff--generation_config.json--2ff3f3ed737315926c38771034a125a19f01dfb7": "diff/generation_config.json",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-diff--pytorch_model.bin--163b2d6238709e651facbaa86987d4d904fbc9093779945786f887902e97b3ac": "diff/pytorch_model.bin",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-diff--config.json--2e37c74dd7f214da0b25730a89511ba085350553": "diff/config.json",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-special_tokens_map.json--09a41a350e349ab0990be2f5cab2b105fad54199": "special_tokens_map.json",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-tokenizer_config.json--115c7f1379f931d6e841798cec2cca30fbb4b719": "tokenizer_config.json",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-README.md--10ace37ef879d17979aadb8cd17c235c11c9353d": "README.md",
+    "models--fnlp--moss-rlhf-sft-model-7B-en-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:20:26 (Asia/Shanghai)",
+  "lastest-commit": "f4e08d5f810627df3eaabfbb3b225c11442fa1e6"
+}

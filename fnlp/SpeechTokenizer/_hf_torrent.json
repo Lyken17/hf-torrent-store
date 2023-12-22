@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "speechtokenizer_hubert_avg/SpeechTokenizer.pt": "models--fnlp--SpeechTokenizer-speechtokenizer_hubert_avg--SpeechTokenizer.pt--d04593b6c9a4b475f91ca481141a6ef5b23e6ac112f347dd2b2717f193c1c728",
+    "speechtokenizer_hubert_avg/config.json": "models--fnlp--SpeechTokenizer-speechtokenizer_hubert_avg--config.json--c8a8a0fe54262436174c168987313bd222af156d",
+    "images/overview.png": "models--fnlp--SpeechTokenizer-images--overview.png--efbfcdc3fa1019cbb4325149767a66334b363476",
+    "images/speechtokenizer_framework.jpg": "models--fnlp--SpeechTokenizer-images--speechtokenizer_framework.jpg--aa77ad2a2207553accbd3dae539e93164610d58b",
+    "images/READ.me": "models--fnlp--SpeechTokenizer-images--READ.me--8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "README.md": "models--fnlp--SpeechTokenizer-README.md--8dd5f39a26318539d0166849a279a12578452806",
+    ".gitattributes": "models--fnlp--SpeechTokenizer-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--fnlp--SpeechTokenizer-speechtokenizer_hubert_avg--SpeechTokenizer.pt--d04593b6c9a4b475f91ca481141a6ef5b23e6ac112f347dd2b2717f193c1c728": "speechtokenizer_hubert_avg/SpeechTokenizer.pt",
+    "models--fnlp--SpeechTokenizer-speechtokenizer_hubert_avg--config.json--c8a8a0fe54262436174c168987313bd222af156d": "speechtokenizer_hubert_avg/config.json",
+    "models--fnlp--SpeechTokenizer-images--overview.png--efbfcdc3fa1019cbb4325149767a66334b363476": "images/overview.png",
+    "models--fnlp--SpeechTokenizer-images--speechtokenizer_framework.jpg--aa77ad2a2207553accbd3dae539e93164610d58b": "images/speechtokenizer_framework.jpg",
+    "models--fnlp--SpeechTokenizer-images--READ.me--8b137891791fe96927ad78e64b0aad7bded08bdc": "images/READ.me",
+    "models--fnlp--SpeechTokenizer-README.md--8dd5f39a26318539d0166849a279a12578452806": "README.md",
+    "models--fnlp--SpeechTokenizer-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:04:05 (Asia/Shanghai)",
+  "lastest-commit": "4d54939beef00572fa7bfe41ee35a335c3732f51"
+}

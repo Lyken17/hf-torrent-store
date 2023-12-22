@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "Research License.docx": "models--microsoft--phi-1-Research License.docx--390505dd1ab349a07cf9764b9dc733d28ea28385",
+    "configuration_phi.py": "models--microsoft--phi-1-configuration_phi.py--27cb3b49799153bce735dd696c4653ba4a0d5271",
+    "merges.txt": "models--microsoft--phi-1-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "added_tokens.json": "models--microsoft--phi-1-added_tokens.json--7debb4784a7d53328d4d021fc46314bec4af3833",
+    "special_tokens_map.json": "models--microsoft--phi-1-special_tokens_map.json--0204ed10c186a4c7c68f55dff8f26087a45898d6",
+    "tokenizer_config.json": "models--microsoft--phi-1-tokenizer_config.json--e10f4ab8508c6cb06f731c68342800afa791a62a",
+    "README.md": "models--microsoft--phi-1-README.md--6dbcabdfb1a2dcdbb6300b4a38d70c9dfe3bcb37",
+    "tokenizer.json": "models--microsoft--phi-1-tokenizer.json--c1148447551675ea739c440ee3e247df9f354d8f",
+    "modeling_phi.py": "models--microsoft--phi-1-modeling_phi.py--f0710a28af108f83e84297ca4189155db19250b1",
+    "generation_config.json": "models--microsoft--phi-1-generation_config.json--bd895eecc7609b61c28ea243b9cd5faf3ac9f6da",
+    "vocab.json": "models--microsoft--phi-1-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b",
+    "pytorch_model.bin": "models--microsoft--phi-1-pytorch_model.bin--377817423946637718e6276fc003a319019fdc396e45f6e970ce96c32ca2dafb",
+    "config.json": "models--microsoft--phi-1-config.json--d68db703a2add0a44dd11bb09adc2a5dec53185b",
+    ".gitattributes": "models--microsoft--phi-1-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--microsoft--phi-1-Research License.docx--390505dd1ab349a07cf9764b9dc733d28ea28385": "Research License.docx",
+    "models--microsoft--phi-1-configuration_phi.py--27cb3b49799153bce735dd696c4653ba4a0d5271": "configuration_phi.py",
+    "models--microsoft--phi-1-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--microsoft--phi-1-added_tokens.json--7debb4784a7d53328d4d021fc46314bec4af3833": "added_tokens.json",
+    "models--microsoft--phi-1-special_tokens_map.json--0204ed10c186a4c7c68f55dff8f26087a45898d6": "special_tokens_map.json",
+    "models--microsoft--phi-1-tokenizer_config.json--e10f4ab8508c6cb06f731c68342800afa791a62a": "tokenizer_config.json",
+    "models--microsoft--phi-1-README.md--6dbcabdfb1a2dcdbb6300b4a38d70c9dfe3bcb37": "README.md",
+    "models--microsoft--phi-1-tokenizer.json--c1148447551675ea739c440ee3e247df9f354d8f": "tokenizer.json",
+    "models--microsoft--phi-1-modeling_phi.py--f0710a28af108f83e84297ca4189155db19250b1": "modeling_phi.py",
+    "models--microsoft--phi-1-generation_config.json--bd895eecc7609b61c28ea243b9cd5faf3ac9f6da": "generation_config.json",
+    "models--microsoft--phi-1-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b": "vocab.json",
+    "models--microsoft--phi-1-pytorch_model.bin--377817423946637718e6276fc003a319019fdc396e45f6e970ce96c32ca2dafb": "pytorch_model.bin",
+    "models--microsoft--phi-1-config.json--d68db703a2add0a44dd11bb09adc2a5dec53185b": "config.json",
+    "models--microsoft--phi-1-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:59:57 (Asia/Shanghai)",
+  "lastest-commit": "530294c25a46bb685b9341058b32ae66b8fd3d4c"
+}

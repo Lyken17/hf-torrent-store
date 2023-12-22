@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "densepose_r50_fpn_dl.torchscript": "models--LayerNorm--DensePose-TorchScript-with-hint-image-densepose_r50_fpn_dl.torchscript--4f7260daa498ce8d4b4679f0692ef2f1f426e39121a907181eab37b8b0585878",
+    "densepose_r101_fpn_dl.torchscript": "models--LayerNorm--DensePose-TorchScript-with-hint-image-densepose_r101_fpn_dl.torchscript--4fe0d458d7ad25bd97d03605f693a2547219e4bae4de9aa727ebb7ecbaaf65a3",
+    "README.md": "models--LayerNorm--DensePose-TorchScript-with-hint-image-README.md--154df8298fab5ecf322016157858e08cd1bccbe1",
+    ".gitattributes": "models--LayerNorm--DensePose-TorchScript-with-hint-image-.gitattributes--9bcc3f5437e07e5565699e42834ae9c4e99b4b72"
+  },
+  "uuid2fpath": {
+    "models--LayerNorm--DensePose-TorchScript-with-hint-image-densepose_r50_fpn_dl.torchscript--4f7260daa498ce8d4b4679f0692ef2f1f426e39121a907181eab37b8b0585878": "densepose_r50_fpn_dl.torchscript",
+    "models--LayerNorm--DensePose-TorchScript-with-hint-image-densepose_r101_fpn_dl.torchscript--4fe0d458d7ad25bd97d03605f693a2547219e4bae4de9aa727ebb7ecbaaf65a3": "densepose_r101_fpn_dl.torchscript",
+    "models--LayerNorm--DensePose-TorchScript-with-hint-image-README.md--154df8298fab5ecf322016157858e08cd1bccbe1": "README.md",
+    "models--LayerNorm--DensePose-TorchScript-with-hint-image-.gitattributes--9bcc3f5437e07e5565699e42834ae9c4e99b4b72": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:25:54 (Asia/Shanghai)",
+  "lastest-commit": "65446422ea6225b9d72f93f3d2e2ad55e78b0b78"
+}

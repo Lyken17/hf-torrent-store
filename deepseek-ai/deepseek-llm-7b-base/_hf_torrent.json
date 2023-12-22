@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--deepseek-ai--deepseek-llm-7b-base-pytorch_model.bin.index.json--ce6094ab4c40400eca5963470784235f52b7e843",
+    "pytorch_model-00002-of-00002.bin": "models--deepseek-ai--deepseek-llm-7b-base-pytorch_model-00002-of-00002.bin--9883470e0517cadf59a6f163e0c58e0854de662de0f7a68a1b28d95e209de34c",
+    "tokenizer_config.json": "models--deepseek-ai--deepseek-llm-7b-base-tokenizer_config.json--2ce3e64b924456e883199f647710a677f18c7ad5",
+    "README.md": "models--deepseek-ai--deepseek-llm-7b-base-README.md--d5f5fd5bbfa33c7dae43cce97ccc5ebc105841a2",
+    "tokenizer.json": "models--deepseek-ai--deepseek-llm-7b-base-tokenizer.json--22a7dddf5732f937c53eb3bfc6127c6528d42cf8",
+    "pytorch_model-00001-of-00002.bin": "models--deepseek-ai--deepseek-llm-7b-base-pytorch_model-00001-of-00002.bin--950392f338e46bc0807acfedd86dc7da12745b8835b78e704e98d7e26d2e618d",
+    "generation_config.json": "models--deepseek-ai--deepseek-llm-7b-base-generation_config.json--b605732c455d72a41c4538867012531876194411",
+    "config.json": "models--deepseek-ai--deepseek-llm-7b-base-config.json--208956063b630f445b00f8c081cf0cbfe4d93e42",
+    ".gitattributes": "models--deepseek-ai--deepseek-llm-7b-base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--deepseek-ai--deepseek-llm-7b-base-pytorch_model.bin.index.json--ce6094ab4c40400eca5963470784235f52b7e843": "pytorch_model.bin.index.json",
+    "models--deepseek-ai--deepseek-llm-7b-base-pytorch_model-00002-of-00002.bin--9883470e0517cadf59a6f163e0c58e0854de662de0f7a68a1b28d95e209de34c": "pytorch_model-00002-of-00002.bin",
+    "models--deepseek-ai--deepseek-llm-7b-base-tokenizer_config.json--2ce3e64b924456e883199f647710a677f18c7ad5": "tokenizer_config.json",
+    "models--deepseek-ai--deepseek-llm-7b-base-README.md--d5f5fd5bbfa33c7dae43cce97ccc5ebc105841a2": "README.md",
+    "models--deepseek-ai--deepseek-llm-7b-base-tokenizer.json--22a7dddf5732f937c53eb3bfc6127c6528d42cf8": "tokenizer.json",
+    "models--deepseek-ai--deepseek-llm-7b-base-pytorch_model-00001-of-00002.bin--950392f338e46bc0807acfedd86dc7da12745b8835b78e704e98d7e26d2e618d": "pytorch_model-00001-of-00002.bin",
+    "models--deepseek-ai--deepseek-llm-7b-base-generation_config.json--b605732c455d72a41c4538867012531876194411": "generation_config.json",
+    "models--deepseek-ai--deepseek-llm-7b-base-config.json--208956063b630f445b00f8c081cf0cbfe4d93e42": "config.json",
+    "models--deepseek-ai--deepseek-llm-7b-base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:51:10 (Asia/Shanghai)",
+  "lastest-commit": "7683fea62db869066ddaff6a41d032262c490d4f"
+}

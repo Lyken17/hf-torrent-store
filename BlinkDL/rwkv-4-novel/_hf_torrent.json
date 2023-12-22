@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "RWKV-4-Novel-3B-v1-ChnEng-20230412-ctx4096.pth": "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-3B-v1-ChnEng-20230412-ctx4096.pth--283c6e6fa10c52a93e9a01d9630f288473267ea152a49c6579b5c0427bdc9c61",
+    "RWKV-4-Novel-7B-v1-ChnEng-ChnPro-20230410-ctx4096.pth": "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-7B-v1-ChnEng-ChnPro-20230410-ctx4096.pth--cd40b661930dea46c0f930c51d99cef6b484fe3d641388981dee5a0c68e2b1c7",
+    "README.md": "models--BlinkDL--rwkv-4-novel-README.md--76d2a5e5dd579d07d597740fc90220229559357a",
+    "RWKV-4-Novel-3B-v1-Chn-20230412-ctx4096.pth": "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-3B-v1-Chn-20230412-ctx4096.pth--c41e0af2cbc66e94121377680e8224a1504fac6c9ea620c395f0a79281db26e7",
+    "RWKV-4-Novel-7B-v1-ChnEng-20230426-ctx8192.pth": "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-7B-v1-ChnEng-20230426-ctx8192.pth--bd08c75a296bd193dcfadb993fe06d7f9dd91ca3385231f24c592c89d25cd596",
+    "RWKV-4-Novel-7B-v1-Chn-20230426-ctx8192.pth": "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-7B-v1-Chn-20230426-ctx8192.pth--5fced44febdf80d303250eef9c020f087abded43aaecc8caaea8a9e7f1fb771e",
+    ".gitattributes": "models--BlinkDL--rwkv-4-novel-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-3B-v1-ChnEng-20230412-ctx4096.pth--283c6e6fa10c52a93e9a01d9630f288473267ea152a49c6579b5c0427bdc9c61": "RWKV-4-Novel-3B-v1-ChnEng-20230412-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-7B-v1-ChnEng-ChnPro-20230410-ctx4096.pth--cd40b661930dea46c0f930c51d99cef6b484fe3d641388981dee5a0c68e2b1c7": "RWKV-4-Novel-7B-v1-ChnEng-ChnPro-20230410-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-novel-README.md--76d2a5e5dd579d07d597740fc90220229559357a": "README.md",
+    "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-3B-v1-Chn-20230412-ctx4096.pth--c41e0af2cbc66e94121377680e8224a1504fac6c9ea620c395f0a79281db26e7": "RWKV-4-Novel-3B-v1-Chn-20230412-ctx4096.pth",
+    "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-7B-v1-ChnEng-20230426-ctx8192.pth--bd08c75a296bd193dcfadb993fe06d7f9dd91ca3385231f24c592c89d25cd596": "RWKV-4-Novel-7B-v1-ChnEng-20230426-ctx8192.pth",
+    "models--BlinkDL--rwkv-4-novel-RWKV-4-Novel-7B-v1-Chn-20230426-ctx8192.pth--5fced44febdf80d303250eef9c020f087abded43aaecc8caaea8a9e7f1fb771e": "RWKV-4-Novel-7B-v1-Chn-20230426-ctx8192.pth",
+    "models--BlinkDL--rwkv-4-novel-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:42:08 (Asia/Shanghai)",
+  "lastest-commit": "05d4f202b9a627a9d73fb3c5ef720be2dd6b9864"
+}

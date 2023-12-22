@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--google--flan-t5-large-tf_model.h5--1e41a6feb46b32caa15dde6cf644fce4fd96614f42a1e69d10b5a4069c89f4ce",
+    "special_tokens_map.json": "models--google--flan-t5-large-special_tokens_map.json--2c19eb6e3b583f52d34b903b5978d3d30b6b7682",
+    "tokenizer_config.json": "models--google--flan-t5-large-tokenizer_config.json--031ce30f2198693aabefeac9588257b81658d7f4",
+    "README.md": "models--google--flan-t5-large-README.md--d763a5405d53b5003d409cb3c4ac340f76cd1acc",
+    "tokenizer.json": "models--google--flan-t5-large-tokenizer.json--fc669fbad1a6a82119ca3e1fa75db33ee22ca47d",
+    "model.safetensors": "models--google--flan-t5-large-model.safetensors--a9dd06ce490f139af36e9eb77dd3758b4fd07a08a73d5a1abe5ff2591e2d388e",
+    "generation_config.json": "models--google--flan-t5-large-generation_config.json--d52815623b46b7db1c4b957b5a83a8ad30b0146a",
+    "flax_model.msgpack": "models--google--flan-t5-large-flax_model.msgpack--44c5f419a8cb7b2c7d2f89c49ea324220ae403178405be0c9ead68d76445e558",
+    "pytorch_model.bin": "models--google--flan-t5-large-pytorch_model.bin--93249e5f2b058ccddd0f4f5ef82aad80e262133eb103f1b42dc2da4b9bc97b36",
+    "spiece.model": "models--google--flan-t5-large-spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86",
+    "config.json": "models--google--flan-t5-large-config.json--52d6c53a0bc88c7d1fe251e9643ce8aaf1c13e2e",
+    ".gitattributes": "models--google--flan-t5-large-.gitattributes--e2e68308705c59d0e047f13c1116ed223f9b7fec"
+  },
+  "uuid2fpath": {
+    "models--google--flan-t5-large-tf_model.h5--1e41a6feb46b32caa15dde6cf644fce4fd96614f42a1e69d10b5a4069c89f4ce": "tf_model.h5",
+    "models--google--flan-t5-large-special_tokens_map.json--2c19eb6e3b583f52d34b903b5978d3d30b6b7682": "special_tokens_map.json",
+    "models--google--flan-t5-large-tokenizer_config.json--031ce30f2198693aabefeac9588257b81658d7f4": "tokenizer_config.json",
+    "models--google--flan-t5-large-README.md--d763a5405d53b5003d409cb3c4ac340f76cd1acc": "README.md",
+    "models--google--flan-t5-large-tokenizer.json--fc669fbad1a6a82119ca3e1fa75db33ee22ca47d": "tokenizer.json",
+    "models--google--flan-t5-large-model.safetensors--a9dd06ce490f139af36e9eb77dd3758b4fd07a08a73d5a1abe5ff2591e2d388e": "model.safetensors",
+    "models--google--flan-t5-large-generation_config.json--d52815623b46b7db1c4b957b5a83a8ad30b0146a": "generation_config.json",
+    "models--google--flan-t5-large-flax_model.msgpack--44c5f419a8cb7b2c7d2f89c49ea324220ae403178405be0c9ead68d76445e558": "flax_model.msgpack",
+    "models--google--flan-t5-large-pytorch_model.bin--93249e5f2b058ccddd0f4f5ef82aad80e262133eb103f1b42dc2da4b9bc97b36": "pytorch_model.bin",
+    "models--google--flan-t5-large-spiece.model--d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86": "spiece.model",
+    "models--google--flan-t5-large-config.json--52d6c53a0bc88c7d1fe251e9643ce8aaf1c13e2e": "config.json",
+    "models--google--flan-t5-large-.gitattributes--e2e68308705c59d0e047f13c1116ed223f9b7fec": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:06:13 (Asia/Shanghai)",
+  "lastest-commit": "0613663d0d48ea86ba8cb3d7a44f0f65dc596a2a"
+}

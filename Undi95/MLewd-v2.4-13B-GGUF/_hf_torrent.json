@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "MLewd-v2.4-13B.q8_0.gguf": "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q8_0.gguf--cf0736a26d3be32da6f65a56d684c52d1a6256fddb62c6270ba9da132bc7f808",
+    "README.md": "models--Undi95--MLewd-v2.4-13B-GGUF-README.md--a1a30bb63d41aca0e6922f348f00d96f142299f5",
+    "MLewd-v2.4-13B.q5_k_m.gguf": "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q5_k_m.gguf--6e6b162e2418831f469f599be3512c5b913cfa6163a324d2ef1e6dbe1187f8c0",
+    "MLewd-v2.4-13B.q6_k.gguf": "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q6_k.gguf--629844316cc932e48dde5bcad8bb949164dbe1b33a323017ba2e65c4508d2498",
+    "MLewd-v2.4-13B.q4_k_s.gguf": "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q4_k_s.gguf--36419d85dc1f47314adcbde5ca6034e9a8056bca958cb90941fe975e577747c5",
+    ".gitattributes": "models--Undi95--MLewd-v2.4-13B-GGUF-.gitattributes--8aaa3a406cc6b19ad4761200af483f1ab5ef57c5"
+  },
+  "uuid2fpath": {
+    "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q8_0.gguf--cf0736a26d3be32da6f65a56d684c52d1a6256fddb62c6270ba9da132bc7f808": "MLewd-v2.4-13B.q8_0.gguf",
+    "models--Undi95--MLewd-v2.4-13B-GGUF-README.md--a1a30bb63d41aca0e6922f348f00d96f142299f5": "README.md",
+    "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q5_k_m.gguf--6e6b162e2418831f469f599be3512c5b913cfa6163a324d2ef1e6dbe1187f8c0": "MLewd-v2.4-13B.q5_k_m.gguf",
+    "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q6_k.gguf--629844316cc932e48dde5bcad8bb949164dbe1b33a323017ba2e65c4508d2498": "MLewd-v2.4-13B.q6_k.gguf",
+    "models--Undi95--MLewd-v2.4-13B-GGUF-MLewd-v2.4-13B.q4_k_s.gguf--36419d85dc1f47314adcbde5ca6034e9a8056bca958cb90941fe975e577747c5": "MLewd-v2.4-13B.q4_k_s.gguf",
+    "models--Undi95--MLewd-v2.4-13B-GGUF-.gitattributes--8aaa3a406cc6b19ad4761200af483f1ab5ef57c5": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:08:08 (Asia/Shanghai)",
+  "lastest-commit": "53a2ca06401bd27a480cea5826a6ec537d58ce12"
+}

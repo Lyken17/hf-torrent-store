@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--moka-ai--m3e-large-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "tokenizer_config.json": "models--moka-ai--m3e-large-tokenizer_config.json--030176b2840fb5727cc7171e6f0499d47247e4e5",
+    "README.md": "models--moka-ai--m3e-large-README.md--f96844b3d8f0eca9906e2359e51aa642de7518b3",
+    "tokenizer.json": "models--moka-ai--m3e-large-tokenizer.json--82b2e57a947d76646c17642f21af18da43d6d950",
+    "vocab.txt": "models--moka-ai--m3e-large-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "pytorch_model.bin": "models--moka-ai--m3e-large-pytorch_model.bin--4f9930dbac74403217ab922e948114a4237eb8ea7fb63c6830050d9679289aa4",
+    "config.json": "models--moka-ai--m3e-large-config.json--f85691820b4cf67cf4427c3c00b7a58b1d7dc232",
+    ".gitattributes": "models--moka-ai--m3e-large-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--moka-ai--m3e-large-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--moka-ai--m3e-large-tokenizer_config.json--030176b2840fb5727cc7171e6f0499d47247e4e5": "tokenizer_config.json",
+    "models--moka-ai--m3e-large-README.md--f96844b3d8f0eca9906e2359e51aa642de7518b3": "README.md",
+    "models--moka-ai--m3e-large-tokenizer.json--82b2e57a947d76646c17642f21af18da43d6d950": "tokenizer.json",
+    "models--moka-ai--m3e-large-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--moka-ai--m3e-large-pytorch_model.bin--4f9930dbac74403217ab922e948114a4237eb8ea7fb63c6830050d9679289aa4": "pytorch_model.bin",
+    "models--moka-ai--m3e-large-config.json--f85691820b4cf67cf4427c3c00b7a58b1d7dc232": "config.json",
+    "models--moka-ai--m3e-large-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:30:51 (Asia/Shanghai)",
+  "lastest-commit": "12900375086c37ba5d83d1e417b21dc7d1d1f388"
+}

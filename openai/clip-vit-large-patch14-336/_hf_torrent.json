@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--openai--clip-vit-large-patch14-336-tf_model.h5--d12828ca8f0f3c92194f277b7d893da7f2fb7824d0b99dedb305eb48eb46bb7f",
+    "merges.txt": "models--openai--clip-vit-large-patch14-336-merges.txt--bbfec752c9a675946c6dce106def6f35c882dcc2",
+    "special_tokens_map.json": "models--openai--clip-vit-large-patch14-336-special_tokens_map.json--9bfb42aa97dcd61e89f279ccaee988bccb4fabae",
+    "tokenizer_config.json": "models--openai--clip-vit-large-patch14-336-tokenizer_config.json--24feaf785502565f990d348aafa501c254710ed8",
+    "README.md": "models--openai--clip-vit-large-patch14-336-README.md--119dfc21c8e97d46a9be63cc69039ea5ef40d387",
+    "tokenizer.json": "models--openai--clip-vit-large-patch14-336-tokenizer.json--564c0ebd5ce29c4ee4864004aee693deadd3128c",
+    "vocab.json": "models--openai--clip-vit-large-patch14-336-vocab.json--182766ce89b439768edadda342519f33802f5364",
+    "preprocessor_config.json": "models--openai--clip-vit-large-patch14-336-preprocessor_config.json--a4604d0a1564fa0c45a6ff087bada5066a6335ea",
+    "pytorch_model.bin": "models--openai--clip-vit-large-patch14-336-pytorch_model.bin--c6032c2e0caae3dc2d4fba35535fa6307dbb49df59c7e182b1bc4b3329b81801",
+    "config.json": "models--openai--clip-vit-large-patch14-336-config.json--e9c5a5dc325b017eda0b6e802f79283a1f68bf27",
+    ".gitattributes": "models--openai--clip-vit-large-patch14-336-.gitattributes--64f23e0770da589d2949e1c24149405f5eda3d68"
+  },
+  "uuid2fpath": {
+    "models--openai--clip-vit-large-patch14-336-tf_model.h5--d12828ca8f0f3c92194f277b7d893da7f2fb7824d0b99dedb305eb48eb46bb7f": "tf_model.h5",
+    "models--openai--clip-vit-large-patch14-336-merges.txt--bbfec752c9a675946c6dce106def6f35c882dcc2": "merges.txt",
+    "models--openai--clip-vit-large-patch14-336-special_tokens_map.json--9bfb42aa97dcd61e89f279ccaee988bccb4fabae": "special_tokens_map.json",
+    "models--openai--clip-vit-large-patch14-336-tokenizer_config.json--24feaf785502565f990d348aafa501c254710ed8": "tokenizer_config.json",
+    "models--openai--clip-vit-large-patch14-336-README.md--119dfc21c8e97d46a9be63cc69039ea5ef40d387": "README.md",
+    "models--openai--clip-vit-large-patch14-336-tokenizer.json--564c0ebd5ce29c4ee4864004aee693deadd3128c": "tokenizer.json",
+    "models--openai--clip-vit-large-patch14-336-vocab.json--182766ce89b439768edadda342519f33802f5364": "vocab.json",
+    "models--openai--clip-vit-large-patch14-336-preprocessor_config.json--a4604d0a1564fa0c45a6ff087bada5066a6335ea": "preprocessor_config.json",
+    "models--openai--clip-vit-large-patch14-336-pytorch_model.bin--c6032c2e0caae3dc2d4fba35535fa6307dbb49df59c7e182b1bc4b3329b81801": "pytorch_model.bin",
+    "models--openai--clip-vit-large-patch14-336-config.json--e9c5a5dc325b017eda0b6e802f79283a1f68bf27": "config.json",
+    "models--openai--clip-vit-large-patch14-336-.gitattributes--64f23e0770da589d2949e1c24149405f5eda3d68": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 02:28:41 (Asia/Shanghai)",
+  "lastest-commit": "ce19dc912ca5cd21c8a653c79e251e808ccabcd1"
+}

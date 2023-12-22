@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "128k-examples/QQ\u56fe\u724720230811221238.jpg": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221238.jpg--5af45e355f1d98551cf5170efbb0b3851ac97969",
+    "128k-examples/conversation-128k-1.txt": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--conversation-128k-1.txt--d07fe3aa0c3815aa80a2dbe45a79323af4adf30c",
+    "128k-examples/QQ\u56fe\u724720230811221242.jpg": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221242.jpg--5024e4153eadfd93d655757dd0541b8867641ddf",
+    "128k-examples/QQ\u56fe\u724720230811221230.png": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221230.png--6813a16bd7b159d864c14d3ca0ef2f59955a42b5",
+    "128k-examples/conversation-128k-2.txt": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--conversation-128k-2.txt--94686885129bfaba42dc97faff359a745d4ec97d",
+    "128k-examples/conversation-128k-3.txt": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--conversation-128k-3.txt--a270974e9bf29663901bc64f0a15e603e4978657",
+    "128k-examples/QQ\u56fe\u724720230811221225.jpg": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221225.jpg--76d80b72a37949c3f9f884bf45ad6a67ea754ae0",
+    "128k-examples/QQ\u56fe\u724720230811221234.jpg": "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221234.jpg--3ed105e042534cadcccfe3a3191e0f60a5ca4143",
+    "RWKV-novel-4-World-7B-20230810-ctx128k.pth": "models--xiaol--rwkv-7B-world-novel-128k-RWKV-novel-4-World-7B-20230810-ctx128k.pth--5e429c49e4cab2f29a93f87a80635422c8710d70e5b1d962c078e47d957389c8",
+    "README.md": "models--xiaol--rwkv-7B-world-novel-128k-README.md--48a2be71660ef3cadc2dfa1d3a10015bbe2e01ec",
+    ".gitattributes": "models--xiaol--rwkv-7B-world-novel-128k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221238.jpg--5af45e355f1d98551cf5170efbb0b3851ac97969": "128k-examples/QQ\u56fe\u724720230811221238.jpg",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--conversation-128k-1.txt--d07fe3aa0c3815aa80a2dbe45a79323af4adf30c": "128k-examples/conversation-128k-1.txt",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221242.jpg--5024e4153eadfd93d655757dd0541b8867641ddf": "128k-examples/QQ\u56fe\u724720230811221242.jpg",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221230.png--6813a16bd7b159d864c14d3ca0ef2f59955a42b5": "128k-examples/QQ\u56fe\u724720230811221230.png",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--conversation-128k-2.txt--94686885129bfaba42dc97faff359a745d4ec97d": "128k-examples/conversation-128k-2.txt",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--conversation-128k-3.txt--a270974e9bf29663901bc64f0a15e603e4978657": "128k-examples/conversation-128k-3.txt",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221225.jpg--76d80b72a37949c3f9f884bf45ad6a67ea754ae0": "128k-examples/QQ\u56fe\u724720230811221225.jpg",
+    "models--xiaol--rwkv-7B-world-novel-128k-128k-examples--QQ\u56fe\u724720230811221234.jpg--3ed105e042534cadcccfe3a3191e0f60a5ca4143": "128k-examples/QQ\u56fe\u724720230811221234.jpg",
+    "models--xiaol--rwkv-7B-world-novel-128k-RWKV-novel-4-World-7B-20230810-ctx128k.pth--5e429c49e4cab2f29a93f87a80635422c8710d70e5b1d962c078e47d957389c8": "RWKV-novel-4-World-7B-20230810-ctx128k.pth",
+    "models--xiaol--rwkv-7B-world-novel-128k-README.md--48a2be71660ef3cadc2dfa1d3a10015bbe2e01ec": "README.md",
+    "models--xiaol--rwkv-7B-world-novel-128k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:48:14 (Asia/Shanghai)",
+  "lastest-commit": "063e151befa37568764dfe6ceb354b58e55a96c3"
+}

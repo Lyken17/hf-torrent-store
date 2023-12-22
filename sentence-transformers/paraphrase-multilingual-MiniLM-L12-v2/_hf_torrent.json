@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "1_Pooling/config.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-1_Pooling--config.json--d1514c3162bbe87b343f565fadc62e6c06f04f03",
+    "modules.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-modules.json--f7640f94e81bb7f4f04daf1668850b38763a13d9",
+    "tf_model.h5": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-tf_model.h5--22150b6ba00e477c7f816f1988d028fff924e2b52e14540889690c72c5add40e",
+    "special_tokens_map.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-special_tokens_map.json--2ea7ad0e45a9d1d1591782ba7e29a703d0758831",
+    "sentence_bert_config.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-sentence_bert_config.json--5fd10429389515d3e5cccdeda08cae5fea1ae82e",
+    "tokenizer_config.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-tokenizer_config.json--0da3507018a1a1c625ff93179ff60bdb9202cc6c",
+    "README.md": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-README.md--9ece6f4876cc6bcccba9225704a8b3c207e90423",
+    "tokenizer.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-tokenizer.json--2c3387be76557bd40970cec13153b3bbf80407865484b209e655e5e4729076b8",
+    "sentencepiece.bpe.model": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+    "unigram.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-unigram.json--71b44701d7efd054205115acfa6ef126c5d2f84bd3affe0c59e48163674d19a6",
+    "pytorch_model.bin": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-pytorch_model.bin--16cc9e54df6e083272378abec2d75dc34d7a48b5276db3ccc050d18de672ac59",
+    "config.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-config.json--c06d5b49495f044e6380e68a60538be17a6bd5d1",
+    "config_sentence_transformers.json": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-config_sentence_transformers.json--b974b349cb2d419ada11181750a733ff82f291ad",
+    ".gitattributes": "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-.gitattributes--ef4a55971246c7825073cfa3690eeda3d967f376"
+  },
+  "uuid2fpath": {
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-1_Pooling--config.json--d1514c3162bbe87b343f565fadc62e6c06f04f03": "1_Pooling/config.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-modules.json--f7640f94e81bb7f4f04daf1668850b38763a13d9": "modules.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-tf_model.h5--22150b6ba00e477c7f816f1988d028fff924e2b52e14540889690c72c5add40e": "tf_model.h5",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-special_tokens_map.json--2ea7ad0e45a9d1d1591782ba7e29a703d0758831": "special_tokens_map.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-sentence_bert_config.json--5fd10429389515d3e5cccdeda08cae5fea1ae82e": "sentence_bert_config.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-tokenizer_config.json--0da3507018a1a1c625ff93179ff60bdb9202cc6c": "tokenizer_config.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-README.md--9ece6f4876cc6bcccba9225704a8b3c207e90423": "README.md",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-tokenizer.json--2c3387be76557bd40970cec13153b3bbf80407865484b209e655e5e4729076b8": "tokenizer.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865": "sentencepiece.bpe.model",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-unigram.json--71b44701d7efd054205115acfa6ef126c5d2f84bd3affe0c59e48163674d19a6": "unigram.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-pytorch_model.bin--16cc9e54df6e083272378abec2d75dc34d7a48b5276db3ccc050d18de672ac59": "pytorch_model.bin",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-config.json--c06d5b49495f044e6380e68a60538be17a6bd5d1": "config.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-config_sentence_transformers.json--b974b349cb2d419ada11181750a733ff82f291ad": "config_sentence_transformers.json",
+    "models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2-.gitattributes--ef4a55971246c7825073cfa3690eeda3d967f376": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 00:17:27 (Asia/Shanghai)",
+  "lastest-commit": "a9c555277f9bcf24f28fa5e092e665fc6f7c49cd"
+}

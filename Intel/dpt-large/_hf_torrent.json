@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--Intel--dpt-large-README.md--f872e44ea7c577908c4b30e381873bb2bee87191",
+    "preprocessor_config.json": "models--Intel--dpt-large-preprocessor_config.json--a0fbbe1170f71fba7cee165aad8b0d68185def61",
+    "pytorch_model.bin": "models--Intel--dpt-large-pytorch_model.bin--71150941604c39c1c770a72a7b2f56487669f0e3a4d99c8759e233fb1be24080",
+    "config.json": "models--Intel--dpt-large-config.json--ee679a1bf4c5dc149c47ff8db3855ed787161240",
+    ".gitattributes": "models--Intel--dpt-large-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--Intel--dpt-large-README.md--f872e44ea7c577908c4b30e381873bb2bee87191": "README.md",
+    "models--Intel--dpt-large-preprocessor_config.json--a0fbbe1170f71fba7cee165aad8b0d68185def61": "preprocessor_config.json",
+    "models--Intel--dpt-large-pytorch_model.bin--71150941604c39c1c770a72a7b2f56487669f0e3a4d99c8759e233fb1be24080": "pytorch_model.bin",
+    "models--Intel--dpt-large-config.json--ee679a1bf4c5dc149c47ff8db3855ed787161240": "config.json",
+    "models--Intel--dpt-large-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:21:39 (Asia/Shanghai)",
+  "lastest-commit": "979c319c3c0482a628979b7b1c7623c16f8892ae"
+}

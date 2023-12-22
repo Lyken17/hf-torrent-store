@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "added_tokens.json": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-added_tokens.json--b00a603c130b10480764bdc64fdb81ecdfae0e75",
+    "special_tokens_map.json": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-special_tokens_map.json--99d3fe8a29413ba31209645431556756ba5cb0c5",
+    "tokenizer_config.json": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-tokenizer_config.json--056271a5f1a802e7bae4408f34ae614a636f800d",
+    "README.md": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-README.md--cea8ba6ad3c22df03818117647c014cdb0fc7f3f",
+    "tokenizer.json": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-tokenizer.json--875c8139a054e9a85f18cdc75702e2d5592b59cd",
+    "model.safetensors": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-model.safetensors--f53081f5f5cad16fb7b370ad3d8743926862bfeaa6e41f770201136ebd59231a",
+    "pytorch_model.bin": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-pytorch_model.bin--7cca4e67410fa7a56042e57cd449830397ea58d0562d5d2c37ecd7e36191a790",
+    "spiece.model": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-spiece.model--8a1836aa16c5e41fb9bec14c477218b83812919d19dfdde1c49a419cd9935615",
+    "config.json": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-config.json--df95201b77fdf48bcbebab928b7526cdb9a57b7f",
+    ".gitattributes": "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-.gitattributes--4a6f8b4e86851998a84353598f557e78c6a947de"
+  },
+  "uuid2fpath": {
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-added_tokens.json--b00a603c130b10480764bdc64fdb81ecdfae0e75": "added_tokens.json",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-special_tokens_map.json--99d3fe8a29413ba31209645431556756ba5cb0c5": "special_tokens_map.json",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-tokenizer_config.json--056271a5f1a802e7bae4408f34ae614a636f800d": "tokenizer_config.json",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-README.md--cea8ba6ad3c22df03818117647c014cdb0fc7f3f": "README.md",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-tokenizer.json--875c8139a054e9a85f18cdc75702e2d5592b59cd": "tokenizer.json",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-model.safetensors--f53081f5f5cad16fb7b370ad3d8743926862bfeaa6e41f770201136ebd59231a": "model.safetensors",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-pytorch_model.bin--7cca4e67410fa7a56042e57cd449830397ea58d0562d5d2c37ecd7e36191a790": "pytorch_model.bin",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-spiece.model--8a1836aa16c5e41fb9bec14c477218b83812919d19dfdde1c49a419cd9935615": "spiece.model",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-config.json--df95201b77fdf48bcbebab928b7526cdb9a57b7f": "config.json",
+    "models--IDEA-CCNL--Randeng-BART-139M-SUMMARY-.gitattributes--4a6f8b4e86851998a84353598f557e78c6a947de": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 02:58:23 (Asia/Shanghai)",
+  "lastest-commit": "3e03ab7a4dd4fabafe392165fed77f02d22edf81"
+}

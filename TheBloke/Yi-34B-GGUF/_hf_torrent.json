@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "yi-34b.Q3_K_L.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q3_K_L.gguf--50f5e5a09ad05380fdb4bb7763b106149f8d1ca0e34b05260e399f2338044ecf",
+    "yi-34b.Q2_K.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q2_K.gguf--917e6b42b228f48b474115bd6111ef46c7c457177eb8ea1fde00bb41cbf918d7",
+    "yi-34b.Q6_K.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q6_K.gguf--27d1dd146e14987e8aa9a8d32fb691b891188e608c0369a885d9182d6f5c3374",
+    "yi-34b.Q5_0.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q5_0.gguf--22e32242e57441f5b160765a14f6957b752290125d0b190e61f0e452ca531dcf",
+    "yi-34b.Q4_0.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q4_0.gguf--c0a8dc63797b422f764607e89e5550fb1a2acf15402d0adbdcc6dfb1c447541f",
+    "yi-34b.Q5_K_M.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q5_K_M.gguf--fbd1d109046aa4cc3f1465300a583f827adfaa248a14ffb728455cb271622b7b",
+    "yi-34b.Q4_K_S.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q4_K_S.gguf--20aba237d550bb9d25fd35fa53888394bd1d6a7e7e819f483e7449787f849232",
+    "README.md": "models--TheBloke--Yi-34B-GGUF-README.md--1d42b4ca85f85263fea598bbb5ae5cba720f9841",
+    "yi-34b.Q3_K_S.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q3_K_S.gguf--dba7eaa474914d72303cfcfdac3762eb91e172331a95cf9bff3e9ff1ad5da86f",
+    "yi-34b.Q5_K_S.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q5_K_S.gguf--bb2becb3f9c3b6eba1ede3b1f1133383afa44e2df158db1c55953f50ca500d3a",
+    "yi-34b.Q8_0.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q8_0.gguf--d4d403cc6017b5b95c017118cc35ab2c377df91d32ce011b4e691b685930297a",
+    "yi-34b.Q4_K_M.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q4_K_M.gguf--b479197735ad92de839e9122282f3d5255c583cd96ad2cb574cc763edb0f8bd0",
+    "yi-34b.Q3_K_M.gguf": "models--TheBloke--Yi-34B-GGUF-yi-34b.Q3_K_M.gguf--918e3436821dccbebc6d199e405cfae5548138e2596b25411a583b1759c05c99",
+    "config.json": "models--TheBloke--Yi-34B-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e",
+    ".gitattributes": "models--TheBloke--Yi-34B-GGUF-.gitattributes--c6d697e7bca71605326ac3660a352f30c9e7b934"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q3_K_L.gguf--50f5e5a09ad05380fdb4bb7763b106149f8d1ca0e34b05260e399f2338044ecf": "yi-34b.Q3_K_L.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q2_K.gguf--917e6b42b228f48b474115bd6111ef46c7c457177eb8ea1fde00bb41cbf918d7": "yi-34b.Q2_K.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q6_K.gguf--27d1dd146e14987e8aa9a8d32fb691b891188e608c0369a885d9182d6f5c3374": "yi-34b.Q6_K.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q5_0.gguf--22e32242e57441f5b160765a14f6957b752290125d0b190e61f0e452ca531dcf": "yi-34b.Q5_0.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q4_0.gguf--c0a8dc63797b422f764607e89e5550fb1a2acf15402d0adbdcc6dfb1c447541f": "yi-34b.Q4_0.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q5_K_M.gguf--fbd1d109046aa4cc3f1465300a583f827adfaa248a14ffb728455cb271622b7b": "yi-34b.Q5_K_M.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q4_K_S.gguf--20aba237d550bb9d25fd35fa53888394bd1d6a7e7e819f483e7449787f849232": "yi-34b.Q4_K_S.gguf",
+    "models--TheBloke--Yi-34B-GGUF-README.md--1d42b4ca85f85263fea598bbb5ae5cba720f9841": "README.md",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q3_K_S.gguf--dba7eaa474914d72303cfcfdac3762eb91e172331a95cf9bff3e9ff1ad5da86f": "yi-34b.Q3_K_S.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q5_K_S.gguf--bb2becb3f9c3b6eba1ede3b1f1133383afa44e2df158db1c55953f50ca500d3a": "yi-34b.Q5_K_S.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q8_0.gguf--d4d403cc6017b5b95c017118cc35ab2c377df91d32ce011b4e691b685930297a": "yi-34b.Q8_0.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q4_K_M.gguf--b479197735ad92de839e9122282f3d5255c583cd96ad2cb574cc763edb0f8bd0": "yi-34b.Q4_K_M.gguf",
+    "models--TheBloke--Yi-34B-GGUF-yi-34b.Q3_K_M.gguf--918e3436821dccbebc6d199e405cfae5548138e2596b25411a583b1759c05c99": "yi-34b.Q3_K_M.gguf",
+    "models--TheBloke--Yi-34B-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e": "config.json",
+    "models--TheBloke--Yi-34B-GGUF-.gitattributes--c6d697e7bca71605326ac3660a352f30c9e7b934": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:29:01 (Asia/Shanghai)",
+  "lastest-commit": "d1146f30eb8de2783f68f70f825e99eb519bd05f"
+}

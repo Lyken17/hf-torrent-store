@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "1_Pooling/config.json": "models--moka-ai--m3e-base-1_Pooling--config.json--4e09f293dfe90bba49f87cfe7996271f07be2666",
+    "modules.json": "models--moka-ai--m3e-base-modules.json--f7640f94e81bb7f4f04daf1668850b38763a13d9",
+    "special_tokens_map.json": "models--moka-ai--m3e-base-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "sentence_bert_config.json": "models--moka-ai--m3e-base-sentence_bert_config.json--f789d99277496b282d19020415c5ba9ca79ac875",
+    "tokenizer_config.json": "models--moka-ai--m3e-base-tokenizer_config.json--030176b2840fb5727cc7171e6f0499d47247e4e5",
+    "README.md": "models--moka-ai--m3e-base-README.md--b196da36e027b867ab122912ed03138819f78e8b",
+    "tokenizer.json": "models--moka-ai--m3e-base-tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002",
+    "model.safetensors": "models--moka-ai--m3e-base-model.safetensors--d2c4a5f5d0a984180182c95c3f7d3dc1390b137ee4952ffb588428111ec79388",
+    "vocab.txt": "models--moka-ai--m3e-base-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "pytorch_model.bin": "models--moka-ai--m3e-base-pytorch_model.bin--0a544833c902627231fb568d9a43e2f02c84366042e5596c0459de1526cb0f36",
+    "config.json": "models--moka-ai--m3e-base-config.json--df73ac9efbe60c2da3436b1115c57cfd7c865ad2",
+    ".gitattributes": "models--moka-ai--m3e-base-.gitattributes--427ccc0c293e72274498859c37c465e2032b1617"
+  },
+  "uuid2fpath": {
+    "models--moka-ai--m3e-base-1_Pooling--config.json--4e09f293dfe90bba49f87cfe7996271f07be2666": "1_Pooling/config.json",
+    "models--moka-ai--m3e-base-modules.json--f7640f94e81bb7f4f04daf1668850b38763a13d9": "modules.json",
+    "models--moka-ai--m3e-base-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--moka-ai--m3e-base-sentence_bert_config.json--f789d99277496b282d19020415c5ba9ca79ac875": "sentence_bert_config.json",
+    "models--moka-ai--m3e-base-tokenizer_config.json--030176b2840fb5727cc7171e6f0499d47247e4e5": "tokenizer_config.json",
+    "models--moka-ai--m3e-base-README.md--b196da36e027b867ab122912ed03138819f78e8b": "README.md",
+    "models--moka-ai--m3e-base-tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002": "tokenizer.json",
+    "models--moka-ai--m3e-base-model.safetensors--d2c4a5f5d0a984180182c95c3f7d3dc1390b137ee4952ffb588428111ec79388": "model.safetensors",
+    "models--moka-ai--m3e-base-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--moka-ai--m3e-base-pytorch_model.bin--0a544833c902627231fb568d9a43e2f02c84366042e5596c0459de1526cb0f36": "pytorch_model.bin",
+    "models--moka-ai--m3e-base-config.json--df73ac9efbe60c2da3436b1115c57cfd7c865ad2": "config.json",
+    "models--moka-ai--m3e-base-.gitattributes--427ccc0c293e72274498859c37c465e2032b1617": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:21:09 (Asia/Shanghai)",
+  "lastest-commit": "764b537a0e50e5c7d64db883f2d2e051cbe3c64c"
+}

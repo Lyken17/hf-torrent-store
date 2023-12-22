@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "adapter_model.bin": "models--liuhaotian--llava-v1.5-13b-lora-adapter_model.bin--edc30a3d2ba6b3a67dec8523e86d441aa874ea5f8328b4da04f86cb126c48544",
+    "non_lora_trainables.bin": "models--liuhaotian--llava-v1.5-13b-lora-non_lora_trainables.bin--c7f4a5cdcc200a504efe66e82f1dea9ee164eec363d001ecbd1eb5abfab83bd7",
+    "README.md": "models--liuhaotian--llava-v1.5-13b-lora-README.md--91663daa78ee8cbb515711ff9a3e60c62682239a",
+    "trainer_state.json": "models--liuhaotian--llava-v1.5-13b-lora-trainer_state.json--89c19689800ec2edfc8ab51fd7b1fc5e4d0ad0e9",
+    "config.json": "models--liuhaotian--llava-v1.5-13b-lora-config.json--392733170c886d1d815130a0ccbb3c49d8f20ef0",
+    "adapter_config.json": "models--liuhaotian--llava-v1.5-13b-lora-adapter_config.json--edbd33ae312efecae862e96a71a352dc13855d4c",
+    ".gitattributes": "models--liuhaotian--llava-v1.5-13b-lora-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.5-13b-lora-adapter_model.bin--edc30a3d2ba6b3a67dec8523e86d441aa874ea5f8328b4da04f86cb126c48544": "adapter_model.bin",
+    "models--liuhaotian--llava-v1.5-13b-lora-non_lora_trainables.bin--c7f4a5cdcc200a504efe66e82f1dea9ee164eec363d001ecbd1eb5abfab83bd7": "non_lora_trainables.bin",
+    "models--liuhaotian--llava-v1.5-13b-lora-README.md--91663daa78ee8cbb515711ff9a3e60c62682239a": "README.md",
+    "models--liuhaotian--llava-v1.5-13b-lora-trainer_state.json--89c19689800ec2edfc8ab51fd7b1fc5e4d0ad0e9": "trainer_state.json",
+    "models--liuhaotian--llava-v1.5-13b-lora-config.json--392733170c886d1d815130a0ccbb3c49d8f20ef0": "config.json",
+    "models--liuhaotian--llava-v1.5-13b-lora-adapter_config.json--edbd33ae312efecae862e96a71a352dc13855d4c": "adapter_config.json",
+    "models--liuhaotian--llava-v1.5-13b-lora-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 02:50:34 (Asia/Shanghai)",
+  "lastest-commit": "0a3218b880f0e8984e2ab73187c7814b7124357b"
+}

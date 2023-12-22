@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "merges.txt": "models--openai--clip-vit-base-patch16-merges.txt--76e821f1b6f0a9709293c3b6b51ed90980b3166b",
+    "special_tokens_map.json": "models--openai--clip-vit-base-patch16-special_tokens_map.json--9bfb42aa97dcd61e89f279ccaee988bccb4fabae",
+    "tokenizer_config.json": "models--openai--clip-vit-base-patch16-tokenizer_config.json--a104224724ffb0721da7bee21ab59081b10fccef",
+    "README.md": "models--openai--clip-vit-base-patch16-README.md--a033ef2e4442455d71da3f594caa1fa9eadf2686",
+    "tokenizer.json": "models--openai--clip-vit-base-patch16-tokenizer.json--580c79c6862f31d1f9bd08dd1a415ba0d0502cd9",
+    "vocab.json": "models--openai--clip-vit-base-patch16-vocab.json--4297ea6a8d2bae1fea8f48b45e257814dcb11f69",
+    "flax_model.msgpack": "models--openai--clip-vit-base-patch16-flax_model.msgpack--eb01703b5ecb458909b5dadbbadd929f7096782dda1f879273bbd38a2c14fc66",
+    "preprocessor_config.json": "models--openai--clip-vit-base-patch16-preprocessor_config.json--5a12a1eb250987a4eee0e3e7d7338c4b22724be1",
+    "pytorch_model.bin": "models--openai--clip-vit-base-patch16-pytorch_model.bin--ec89c7b09c749a60aae3c9cd910516f24b58214a7df060b48962d14c469cfbf0",
+    "config.json": "models--openai--clip-vit-base-patch16-config.json--9f7102db4ae77c02982bfec1c16a63039fbc78db",
+    ".gitattributes": "models--openai--clip-vit-base-patch16-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--openai--clip-vit-base-patch16-merges.txt--76e821f1b6f0a9709293c3b6b51ed90980b3166b": "merges.txt",
+    "models--openai--clip-vit-base-patch16-special_tokens_map.json--9bfb42aa97dcd61e89f279ccaee988bccb4fabae": "special_tokens_map.json",
+    "models--openai--clip-vit-base-patch16-tokenizer_config.json--a104224724ffb0721da7bee21ab59081b10fccef": "tokenizer_config.json",
+    "models--openai--clip-vit-base-patch16-README.md--a033ef2e4442455d71da3f594caa1fa9eadf2686": "README.md",
+    "models--openai--clip-vit-base-patch16-tokenizer.json--580c79c6862f31d1f9bd08dd1a415ba0d0502cd9": "tokenizer.json",
+    "models--openai--clip-vit-base-patch16-vocab.json--4297ea6a8d2bae1fea8f48b45e257814dcb11f69": "vocab.json",
+    "models--openai--clip-vit-base-patch16-flax_model.msgpack--eb01703b5ecb458909b5dadbbadd929f7096782dda1f879273bbd38a2c14fc66": "flax_model.msgpack",
+    "models--openai--clip-vit-base-patch16-preprocessor_config.json--5a12a1eb250987a4eee0e3e7d7338c4b22724be1": "preprocessor_config.json",
+    "models--openai--clip-vit-base-patch16-pytorch_model.bin--ec89c7b09c749a60aae3c9cd910516f24b58214a7df060b48962d14c469cfbf0": "pytorch_model.bin",
+    "models--openai--clip-vit-base-patch16-config.json--9f7102db4ae77c02982bfec1c16a63039fbc78db": "config.json",
+    "models--openai--clip-vit-base-patch16-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:25:49 (Asia/Shanghai)",
+  "lastest-commit": "57c216476eefef5ab752ec549e440a49ae4ae5f3"
+}

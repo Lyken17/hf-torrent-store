@@ -1,0 +1,22 @@
+{
+  "fpath2uuid": {
+    "adapter_model.bin": "models--liuhaotian--llava-v1.5-7b-lora-adapter_model.bin--6a7951255073a472277af72ac69daaed4c63b012a6b01cddefeb38e891760343",
+    "non_lora_trainables.bin": "models--liuhaotian--llava-v1.5-7b-lora-non_lora_trainables.bin--f7a3d4196ab4ed486a584c73ee6f92095da8ebe5c656fb33622e0adec67e6454",
+    "README.md": "models--liuhaotian--llava-v1.5-7b-lora-README.md--407ec5e67a36a1c6bc32e05b392da10f0646f650",
+    "trainer_state.json": "models--liuhaotian--llava-v1.5-7b-lora-trainer_state.json--d5aea3c923e2304dc3199169a17b89b0bff16f1a",
+    "config.json": "models--liuhaotian--llava-v1.5-7b-lora-config.json--3c12c36d7691b78eab61d13f732629b92c37f010",
+    "adapter_config.json": "models--liuhaotian--llava-v1.5-7b-lora-adapter_config.json--a4a1a4c4e410db66a8ee97b70fcaea94de541b0a",
+    ".gitattributes": "models--liuhaotian--llava-v1.5-7b-lora-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.5-7b-lora-adapter_model.bin--6a7951255073a472277af72ac69daaed4c63b012a6b01cddefeb38e891760343": "adapter_model.bin",
+    "models--liuhaotian--llava-v1.5-7b-lora-non_lora_trainables.bin--f7a3d4196ab4ed486a584c73ee6f92095da8ebe5c656fb33622e0adec67e6454": "non_lora_trainables.bin",
+    "models--liuhaotian--llava-v1.5-7b-lora-README.md--407ec5e67a36a1c6bc32e05b392da10f0646f650": "README.md",
+    "models--liuhaotian--llava-v1.5-7b-lora-trainer_state.json--d5aea3c923e2304dc3199169a17b89b0bff16f1a": "trainer_state.json",
+    "models--liuhaotian--llava-v1.5-7b-lora-config.json--3c12c36d7691b78eab61d13f732629b92c37f010": "config.json",
+    "models--liuhaotian--llava-v1.5-7b-lora-adapter_config.json--a4a1a4c4e410db66a8ee97b70fcaea94de541b0a": "adapter_config.json",
+    "models--liuhaotian--llava-v1.5-7b-lora-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 02:32:36 (Asia/Shanghai)",
+  "lastest-commit": "ffb3de739d9af91ea94df8bd6929b81b21ab3146"
+}

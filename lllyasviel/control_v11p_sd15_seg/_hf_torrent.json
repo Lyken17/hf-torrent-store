@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "images/control.png": "models--lllyasviel--control_v11p_sd15_seg-images--control.png--73d66d6332fd25ed0fcf4c3fa7653011e463b08a",
+    "images/image_out.png": "models--lllyasviel--control_v11p_sd15_seg-images--image_out.png--5b882bb2e7d04d416352bb1312d7c308761ff1cf",
+    "images/input.png": "models--lllyasviel--control_v11p_sd15_seg-images--input.png--f46f6700781e157884b4325dac3835b102eb7212",
+    "diffusion_pytorch_model.fp16.bin": "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.fp16.bin--90dcbc018c19a01dc146a3062227a35142f700031abd5f0a5385447f469cbce2",
+    "sd.png": "models--lllyasviel--control_v11p_sd15_seg-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797",
+    "README.md": "models--lllyasviel--control_v11p_sd15_seg-README.md--39601c06cc2d9a56f79411996e69e0ac6dd50bc5",
+    "diffusion_pytorch_model.bin": "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.bin--4397ad13ff43760023ad5f7b13969731e52c0d23cc1c609fcb4b25da2c00be0b",
+    "diffusion_pytorch_model.safetensors": "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.safetensors--68291d493d0d75df67fe931c753c9b204cf3863509d5471b5eb64e5f0f2b4b38",
+    "diffusion_pytorch_model.fp16.safetensors": "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.fp16.safetensors--23809d298edb48bf97ce95c6b8c4a69a749e57bf3838d866fbdc45f8fa11f6f4",
+    "config.json": "models--lllyasviel--control_v11p_sd15_seg-config.json--fe36c360da352f3630fd66b60b771f2691687117",
+    "control_net_seg.py": "models--lllyasviel--control_v11p_sd15_seg-control_net_seg.py--d7bee08560b0fc3ef4078edf9dc40031f3ab042e",
+    ".gitattributes": "models--lllyasviel--control_v11p_sd15_seg-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--lllyasviel--control_v11p_sd15_seg-images--control.png--73d66d6332fd25ed0fcf4c3fa7653011e463b08a": "images/control.png",
+    "models--lllyasviel--control_v11p_sd15_seg-images--image_out.png--5b882bb2e7d04d416352bb1312d7c308761ff1cf": "images/image_out.png",
+    "models--lllyasviel--control_v11p_sd15_seg-images--input.png--f46f6700781e157884b4325dac3835b102eb7212": "images/input.png",
+    "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.fp16.bin--90dcbc018c19a01dc146a3062227a35142f700031abd5f0a5385447f469cbce2": "diffusion_pytorch_model.fp16.bin",
+    "models--lllyasviel--control_v11p_sd15_seg-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797": "sd.png",
+    "models--lllyasviel--control_v11p_sd15_seg-README.md--39601c06cc2d9a56f79411996e69e0ac6dd50bc5": "README.md",
+    "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.bin--4397ad13ff43760023ad5f7b13969731e52c0d23cc1c609fcb4b25da2c00be0b": "diffusion_pytorch_model.bin",
+    "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.safetensors--68291d493d0d75df67fe931c753c9b204cf3863509d5471b5eb64e5f0f2b4b38": "diffusion_pytorch_model.safetensors",
+    "models--lllyasviel--control_v11p_sd15_seg-diffusion_pytorch_model.fp16.safetensors--23809d298edb48bf97ce95c6b8c4a69a749e57bf3838d866fbdc45f8fa11f6f4": "diffusion_pytorch_model.fp16.safetensors",
+    "models--lllyasviel--control_v11p_sd15_seg-config.json--fe36c360da352f3630fd66b60b771f2691687117": "config.json",
+    "models--lllyasviel--control_v11p_sd15_seg-control_net_seg.py--d7bee08560b0fc3ef4078edf9dc40031f3ab042e": "control_net_seg.py",
+    "models--lllyasviel--control_v11p_sd15_seg-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:25:18 (Asia/Shanghai)",
+  "lastest-commit": "210682041b41097834006a910b8773f423343900"
+}

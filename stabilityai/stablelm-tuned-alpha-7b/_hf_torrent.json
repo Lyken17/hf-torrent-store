@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model.bin.index.json--8c0d28136f407a91a152d46caef526449f83065f",
+    "special_tokens_map.json": "models--stabilityai--stablelm-tuned-alpha-7b-special_tokens_map.json--0204ed10c186a4c7c68f55dff8f26087a45898d6",
+    "pytorch_model-00001-of-00004.bin": "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00001-of-00004.bin--5a9a1188946994d1d2d2f34ac852e58a31224ca2e9fadf5f00a9e53d3fd0abb8",
+    "tokenizer_config.json": "models--stabilityai--stablelm-tuned-alpha-7b-tokenizer_config.json--c0d792bfdf7eead80999b587a412553ebac8521b",
+    "pytorch_model-00002-of-00004.bin": "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00002-of-00004.bin--7d67d1607cff57a943ba1a0dda3be515b2576805cdca995a99ea9cbe351e1c44",
+    "README.md": "models--stabilityai--stablelm-tuned-alpha-7b-README.md--927015c875a08dde27897c9ad30fb5bf938bded0",
+    "pytorch_model-00004-of-00004.bin": "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00004-of-00004.bin--c5a0d650fd3115f6f2b369ae6110587fd2fbf996b5723e17dea21da0aabe79d6",
+    "tokenizer.json": "models--stabilityai--stablelm-tuned-alpha-7b-tokenizer.json--cde7d0685a3f2729971f0ea4fc199c1b9f4ad534",
+    "pytorch_model-00003-of-00004.bin": "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00003-of-00004.bin--9bfe37e7a716e462abfe653c587b49b72c78e8315b2cec054ca4f59f7b080ac3",
+    "generation_config.json": "models--stabilityai--stablelm-tuned-alpha-7b-generation_config.json--344b8478e86f0cb7933a50ef1fff9127ed27266c",
+    "config.json": "models--stabilityai--stablelm-tuned-alpha-7b-config.json--8134eef1e1373aba6f3a592441bf2af488fcfae9",
+    ".gitattributes": "models--stabilityai--stablelm-tuned-alpha-7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model.bin.index.json--8c0d28136f407a91a152d46caef526449f83065f": "pytorch_model.bin.index.json",
+    "models--stabilityai--stablelm-tuned-alpha-7b-special_tokens_map.json--0204ed10c186a4c7c68f55dff8f26087a45898d6": "special_tokens_map.json",
+    "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00001-of-00004.bin--5a9a1188946994d1d2d2f34ac852e58a31224ca2e9fadf5f00a9e53d3fd0abb8": "pytorch_model-00001-of-00004.bin",
+    "models--stabilityai--stablelm-tuned-alpha-7b-tokenizer_config.json--c0d792bfdf7eead80999b587a412553ebac8521b": "tokenizer_config.json",
+    "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00002-of-00004.bin--7d67d1607cff57a943ba1a0dda3be515b2576805cdca995a99ea9cbe351e1c44": "pytorch_model-00002-of-00004.bin",
+    "models--stabilityai--stablelm-tuned-alpha-7b-README.md--927015c875a08dde27897c9ad30fb5bf938bded0": "README.md",
+    "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00004-of-00004.bin--c5a0d650fd3115f6f2b369ae6110587fd2fbf996b5723e17dea21da0aabe79d6": "pytorch_model-00004-of-00004.bin",
+    "models--stabilityai--stablelm-tuned-alpha-7b-tokenizer.json--cde7d0685a3f2729971f0ea4fc199c1b9f4ad534": "tokenizer.json",
+    "models--stabilityai--stablelm-tuned-alpha-7b-pytorch_model-00003-of-00004.bin--9bfe37e7a716e462abfe653c587b49b72c78e8315b2cec054ca4f59f7b080ac3": "pytorch_model-00003-of-00004.bin",
+    "models--stabilityai--stablelm-tuned-alpha-7b-generation_config.json--344b8478e86f0cb7933a50ef1fff9127ed27266c": "generation_config.json",
+    "models--stabilityai--stablelm-tuned-alpha-7b-config.json--8134eef1e1373aba6f3a592441bf2af488fcfae9": "config.json",
+    "models--stabilityai--stablelm-tuned-alpha-7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:23:41 (Asia/Shanghai)",
+  "lastest-commit": "25071b093c15c0d1cb2b2876c6deb621b764fcf5"
+}

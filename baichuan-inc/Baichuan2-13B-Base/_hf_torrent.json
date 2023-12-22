@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00003-of-00003.bin": "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model-00003-of-00003.bin--6fcde694f470709e24b7fa4c8a1939d798c60bdb9ad6f3ab096c4729a16074b4",
+    "tokenization_baichuan.py": "models--baichuan-inc--Baichuan2-13B-Base-tokenization_baichuan.py--978963e0edadb45d50b2f43224b380ee061ac431",
+    "pytorch_model-00001-of-00003.bin": "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model-00001-of-00003.bin--015ac5047b08f017dccd0c509c7425d17932d33af28affe170ada3c96c0c5041",
+    "pytorch_model.bin.index.json": "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model.bin.index.json--fd3757db6edfc6d96f064f647360a9232d8a6c5b",
+    "quantizer.py": "models--baichuan-inc--Baichuan2-13B-Base-quantizer.py--d30f7a7c791dc42a139bffe37c87aa9795186671",
+    "special_tokens_map.json": "models--baichuan-inc--Baichuan2-13B-Base-special_tokens_map.json--28d1171cdbe2ef42d935636f890bb1792a11956f",
+    "generation_utils.py": "models--baichuan-inc--Baichuan2-13B-Base-generation_utils.py--57716991333e2b8f6d1eabcefe32ef00f1d1dc84",
+    "configuration_baichuan.py": "models--baichuan-inc--Baichuan2-13B-Base-configuration_baichuan.py--592d27452c11af41464f64940ef946d035b67946",
+    "tokenizer_config.json": "models--baichuan-inc--Baichuan2-13B-Base-tokenizer_config.json--e441aae849b5da78c70da3c96c38e8e6e1cc83a3",
+    "tokenizer.model": "models--baichuan-inc--Baichuan2-13B-Base-tokenizer.model--79452955be6b419a65984273a9f08af86042e1c2a75ee3ba989cbf620a133cc2",
+    "README.md": "models--baichuan-inc--Baichuan2-13B-Base-README.md--8893cdd22890cefabe2d3b8765ebcced367dbe9a",
+    "Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf": "models--baichuan-inc--Baichuan2-13B-Base-Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf--411d36a0687c9e93548a9ebfc0c3bdc513aeb874",
+    "Community License for Baichuan2 Model.pdf": "models--baichuan-inc--Baichuan2-13B-Base-Community License for Baichuan2 Model.pdf--8f1aef49cfd60bd7d30793566e1ed32de8b6a350",
+    "modeling_baichuan.py": "models--baichuan-inc--Baichuan2-13B-Base-modeling_baichuan.py--b9d2bce01f1ee098c4de4b94bf2092cb0ce40f9e",
+    "config.json": "models--baichuan-inc--Baichuan2-13B-Base-config.json--1555afba94dacfe2fe23e0dbfc10e8c3e05d41f1",
+    "pytorch_model-00002-of-00003.bin": "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model-00002-of-00003.bin--37f8f5e13e4a4e4d90a94f527c0ff89b10c78bd0f78af6f7c0bea77f4203714b",
+    ".gitattributes": "models--baichuan-inc--Baichuan2-13B-Base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model-00003-of-00003.bin--6fcde694f470709e24b7fa4c8a1939d798c60bdb9ad6f3ab096c4729a16074b4": "pytorch_model-00003-of-00003.bin",
+    "models--baichuan-inc--Baichuan2-13B-Base-tokenization_baichuan.py--978963e0edadb45d50b2f43224b380ee061ac431": "tokenization_baichuan.py",
+    "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model-00001-of-00003.bin--015ac5047b08f017dccd0c509c7425d17932d33af28affe170ada3c96c0c5041": "pytorch_model-00001-of-00003.bin",
+    "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model.bin.index.json--fd3757db6edfc6d96f064f647360a9232d8a6c5b": "pytorch_model.bin.index.json",
+    "models--baichuan-inc--Baichuan2-13B-Base-quantizer.py--d30f7a7c791dc42a139bffe37c87aa9795186671": "quantizer.py",
+    "models--baichuan-inc--Baichuan2-13B-Base-special_tokens_map.json--28d1171cdbe2ef42d935636f890bb1792a11956f": "special_tokens_map.json",
+    "models--baichuan-inc--Baichuan2-13B-Base-generation_utils.py--57716991333e2b8f6d1eabcefe32ef00f1d1dc84": "generation_utils.py",
+    "models--baichuan-inc--Baichuan2-13B-Base-configuration_baichuan.py--592d27452c11af41464f64940ef946d035b67946": "configuration_baichuan.py",
+    "models--baichuan-inc--Baichuan2-13B-Base-tokenizer_config.json--e441aae849b5da78c70da3c96c38e8e6e1cc83a3": "tokenizer_config.json",
+    "models--baichuan-inc--Baichuan2-13B-Base-tokenizer.model--79452955be6b419a65984273a9f08af86042e1c2a75ee3ba989cbf620a133cc2": "tokenizer.model",
+    "models--baichuan-inc--Baichuan2-13B-Base-README.md--8893cdd22890cefabe2d3b8765ebcced367dbe9a": "README.md",
+    "models--baichuan-inc--Baichuan2-13B-Base-Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf--411d36a0687c9e93548a9ebfc0c3bdc513aeb874": "Baichuan2 \u6a21\u578b\u793e\u533a\u8bb8\u53ef\u534f\u8bae.pdf",
+    "models--baichuan-inc--Baichuan2-13B-Base-Community License for Baichuan2 Model.pdf--8f1aef49cfd60bd7d30793566e1ed32de8b6a350": "Community License for Baichuan2 Model.pdf",
+    "models--baichuan-inc--Baichuan2-13B-Base-modeling_baichuan.py--b9d2bce01f1ee098c4de4b94bf2092cb0ce40f9e": "modeling_baichuan.py",
+    "models--baichuan-inc--Baichuan2-13B-Base-config.json--1555afba94dacfe2fe23e0dbfc10e8c3e05d41f1": "config.json",
+    "models--baichuan-inc--Baichuan2-13B-Base-pytorch_model-00002-of-00003.bin--37f8f5e13e4a4e4d90a94f527c0ff89b10c78bd0f78af6f7c0bea77f4203714b": "pytorch_model-00002-of-00003.bin",
+    "models--baichuan-inc--Baichuan2-13B-Base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 19:39:19 (Asia/Shanghai)",
+  "lastest-commit": "e2a280b79a96607652eca9b5a78d0c4d3dd5286e"
+}

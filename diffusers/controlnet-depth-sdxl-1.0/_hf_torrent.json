@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "diffusion_pytorch_model.fp16.bin": "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.fp16.bin--7b139b4fb4b2819868616b27e3dc2935c8b4b55ec57b115c031a2d2807a61e53",
+    "spiderman.png": "models--diffusers--controlnet-depth-sdxl-1.0-spiderman.png--2229cade24c6efc97310c9a67115eea65a36784d25ef9f39749db37d2e884406",
+    "README.md": "models--diffusers--controlnet-depth-sdxl-1.0-README.md--622c3e49298d27e8cb9960edf3acfaff50f8ac0f",
+    "diffusion_pytorch_model.bin": "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.bin--edf33a2662e4f270d4eeeff3a56292bed7a050eba13841d07bba8a213f08a090",
+    "diffusion_pytorch_model.safetensors": "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.safetensors--b760b1ed26970c7c60abbcef08e7238bb9428bee510a405aff239e06a1471945",
+    "diffusion_pytorch_model.fp16.safetensors": "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.fp16.safetensors--66a6813e6bd7270ecfe68206a59ddd605a011ae85321188376605c66e0a4f303",
+    "config.json": "models--diffusers--controlnet-depth-sdxl-1.0-config.json--9e36326b51f8c1d0b35cc74aa75cfd2504cc8d5f",
+    ".gitattributes": "models--diffusers--controlnet-depth-sdxl-1.0-.gitattributes--2886043667a5d6834e23a9aead405895e5539711"
+  },
+  "uuid2fpath": {
+    "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.fp16.bin--7b139b4fb4b2819868616b27e3dc2935c8b4b55ec57b115c031a2d2807a61e53": "diffusion_pytorch_model.fp16.bin",
+    "models--diffusers--controlnet-depth-sdxl-1.0-spiderman.png--2229cade24c6efc97310c9a67115eea65a36784d25ef9f39749db37d2e884406": "spiderman.png",
+    "models--diffusers--controlnet-depth-sdxl-1.0-README.md--622c3e49298d27e8cb9960edf3acfaff50f8ac0f": "README.md",
+    "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.bin--edf33a2662e4f270d4eeeff3a56292bed7a050eba13841d07bba8a213f08a090": "diffusion_pytorch_model.bin",
+    "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.safetensors--b760b1ed26970c7c60abbcef08e7238bb9428bee510a405aff239e06a1471945": "diffusion_pytorch_model.safetensors",
+    "models--diffusers--controlnet-depth-sdxl-1.0-diffusion_pytorch_model.fp16.safetensors--66a6813e6bd7270ecfe68206a59ddd605a011ae85321188376605c66e0a4f303": "diffusion_pytorch_model.fp16.safetensors",
+    "models--diffusers--controlnet-depth-sdxl-1.0-config.json--9e36326b51f8c1d0b35cc74aa75cfd2504cc8d5f": "config.json",
+    "models--diffusers--controlnet-depth-sdxl-1.0-.gitattributes--2886043667a5d6834e23a9aead405895e5539711": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:51:41 (Asia/Shanghai)",
+  "lastest-commit": "cb2e660019b26f7d2379e26922b5b2c87253dcf7"
+}

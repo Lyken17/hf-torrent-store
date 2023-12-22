@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "PromptMKR_GPTQ.safetensors": "models--impactframes--IF_PromptMKR_GPTQ-PromptMKR_GPTQ.safetensors--464cb9bb5391fffd9c67ab4bc6a67401ac4af9ba8007f0782fd76584eda3ce7e",
+    "added_tokens.json": "models--impactframes--IF_PromptMKR_GPTQ-added_tokens.json--9c16aa4be022f03ad001b006fba14dfb73a1929c",
+    "special_tokens_map.json": "models--impactframes--IF_PromptMKR_GPTQ-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "tokenizer_config.json": "models--impactframes--IF_PromptMKR_GPTQ-tokenizer_config.json--8f2f20d2d1036b71a0702dc89b04a12535d0e5a5",
+    "quantize_config.json": "models--impactframes--IF_PromptMKR_GPTQ-quantize_config.json--55cf880c2ffbeb0a6a81be8a55c4981b43113d3b",
+    "tokenizer.model": "models--impactframes--IF_PromptMKR_GPTQ-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--impactframes--IF_PromptMKR_GPTQ-README.md--df528cf4c8f0a5280047badcb1201a0b8bb99360",
+    "tokenizer.json": "models--impactframes--IF_PromptMKR_GPTQ-tokenizer.json--ab74d1ce80361fcf10fb04924fa4d2798fddb61d",
+    "generation_config.json": "models--impactframes--IF_PromptMKR_GPTQ-generation_config.json--d71519fb45b2a4d99c09fa7c1d916023fdd3d1f3",
+    "config.json": "models--impactframes--IF_PromptMKR_GPTQ-config.json--7ea18a39c676f8fd0eb94b9d7850e57b5ebdbc8b",
+    ".gitattributes": "models--impactframes--IF_PromptMKR_GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--impactframes--IF_PromptMKR_GPTQ-PromptMKR_GPTQ.safetensors--464cb9bb5391fffd9c67ab4bc6a67401ac4af9ba8007f0782fd76584eda3ce7e": "PromptMKR_GPTQ.safetensors",
+    "models--impactframes--IF_PromptMKR_GPTQ-added_tokens.json--9c16aa4be022f03ad001b006fba14dfb73a1929c": "added_tokens.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-tokenizer_config.json--8f2f20d2d1036b71a0702dc89b04a12535d0e5a5": "tokenizer_config.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-quantize_config.json--55cf880c2ffbeb0a6a81be8a55c4981b43113d3b": "quantize_config.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--impactframes--IF_PromptMKR_GPTQ-README.md--df528cf4c8f0a5280047badcb1201a0b8bb99360": "README.md",
+    "models--impactframes--IF_PromptMKR_GPTQ-tokenizer.json--ab74d1ce80361fcf10fb04924fa4d2798fddb61d": "tokenizer.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-generation_config.json--d71519fb45b2a4d99c09fa7c1d916023fdd3d1f3": "generation_config.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-config.json--7ea18a39c676f8fd0eb94b9d7850e57b5ebdbc8b": "config.json",
+    "models--impactframes--IF_PromptMKR_GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:35:54 (Asia/Shanghai)",
+  "lastest-commit": "7aedd63051a10207193d9c831c954def5eb8e530"
+}

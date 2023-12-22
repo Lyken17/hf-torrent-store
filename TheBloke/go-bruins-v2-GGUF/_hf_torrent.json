@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "go-bruins-v2.Q2_K.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q2_K.gguf--5c41baa11571f638c8dad9210307352355e6175b09aa4fa1cbc0211298ada91b",
+    "go-bruins-v2.Q5_0.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q5_0.gguf--c42d97b39f0c967e624a63342e20ca622cb3154fd3f4321a4f978e84394dd317",
+    "go-bruins-v2.Q4_0.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q4_0.gguf--9f6a842e081af3eaa909cece1094a8701122a2ab2e6aa44e3c3289d120113045",
+    "README.md": "models--TheBloke--go-bruins-v2-GGUF-README.md--a19e6e52ffcc6443d7407aecd222dde69bfaed77",
+    "go-bruins-v2.Q3_K_S.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q3_K_S.gguf--20c475694f6906a368d382fb7d1376455a4b9f20f516d87475a06c86c74873bb",
+    "go-bruins-v2.Q5_K_S.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q5_K_S.gguf--f7e22350950d415c929b431a96d89f76aca476389ef3dcc17a58f226a89eb7d4",
+    "go-bruins-v2.Q3_K_M.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q3_K_M.gguf--c534914e583194a11cf5bad07808d5192142bc57747bff437132be2fcfa7919a",
+    "go-bruins-v2.Q3_K_L.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q3_K_L.gguf--07860c65550b99b4f3b7eb94a44c2f196dcc07d72b3a69ac0abfad74da536eee",
+    "go-bruins-v2.Q4_K_S.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q4_K_S.gguf--6189eb0b3858b2053ccb7ea11be4f5d6abac20f3f23d4e10c30172caadddb377",
+    "go-bruins-v2.Q5_K_M.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q5_K_M.gguf--34ed97752e975e32ff44b4d21ef43ba38c5c58c062f84587f1b3fb5d9da3c3ee",
+    "go-bruins-v2.Q8_0.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q8_0.gguf--18762055c3bff614c014872eaeed830879d9747ac5dbdd670631cd86ed3580ac",
+    "go-bruins-v2.Q4_K_M.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q4_K_M.gguf--9f428b7f7d102cd800cc7ebdd56b2ea6a7e23b595b13f27cca1e04d534fb5cc3",
+    "config.json": "models--TheBloke--go-bruins-v2-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c",
+    "go-bruins-v2.Q6_K.gguf": "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q6_K.gguf--92ab0854c17f72cacb41252bd636adb5857ce8805f956bac8951392ffd530e88",
+    ".gitattributes": "models--TheBloke--go-bruins-v2-GGUF-.gitattributes--272b61d1c9be1943e0f1b36d9b8db2b37981dcbb"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q2_K.gguf--5c41baa11571f638c8dad9210307352355e6175b09aa4fa1cbc0211298ada91b": "go-bruins-v2.Q2_K.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q5_0.gguf--c42d97b39f0c967e624a63342e20ca622cb3154fd3f4321a4f978e84394dd317": "go-bruins-v2.Q5_0.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q4_0.gguf--9f6a842e081af3eaa909cece1094a8701122a2ab2e6aa44e3c3289d120113045": "go-bruins-v2.Q4_0.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-README.md--a19e6e52ffcc6443d7407aecd222dde69bfaed77": "README.md",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q3_K_S.gguf--20c475694f6906a368d382fb7d1376455a4b9f20f516d87475a06c86c74873bb": "go-bruins-v2.Q3_K_S.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q5_K_S.gguf--f7e22350950d415c929b431a96d89f76aca476389ef3dcc17a58f226a89eb7d4": "go-bruins-v2.Q5_K_S.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q3_K_M.gguf--c534914e583194a11cf5bad07808d5192142bc57747bff437132be2fcfa7919a": "go-bruins-v2.Q3_K_M.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q3_K_L.gguf--07860c65550b99b4f3b7eb94a44c2f196dcc07d72b3a69ac0abfad74da536eee": "go-bruins-v2.Q3_K_L.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q4_K_S.gguf--6189eb0b3858b2053ccb7ea11be4f5d6abac20f3f23d4e10c30172caadddb377": "go-bruins-v2.Q4_K_S.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q5_K_M.gguf--34ed97752e975e32ff44b4d21ef43ba38c5c58c062f84587f1b3fb5d9da3c3ee": "go-bruins-v2.Q5_K_M.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q8_0.gguf--18762055c3bff614c014872eaeed830879d9747ac5dbdd670631cd86ed3580ac": "go-bruins-v2.Q8_0.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q4_K_M.gguf--9f428b7f7d102cd800cc7ebdd56b2ea6a7e23b595b13f27cca1e04d534fb5cc3": "go-bruins-v2.Q4_K_M.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-config.json--9f0f76f8d1de0ed9b8adf494540f149aaef5f07c": "config.json",
+    "models--TheBloke--go-bruins-v2-GGUF-go-bruins-v2.Q6_K.gguf--92ab0854c17f72cacb41252bd636adb5857ce8805f956bac8951392ffd530e88": "go-bruins-v2.Q6_K.gguf",
+    "models--TheBloke--go-bruins-v2-GGUF-.gitattributes--272b61d1c9be1943e0f1b36d9b8db2b37981dcbb": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 03:58:14 (Asia/Shanghai)",
+  "lastest-commit": "cdb0bb8bff0b1ef04f0f9697d79f7ebe0a65464c"
+}

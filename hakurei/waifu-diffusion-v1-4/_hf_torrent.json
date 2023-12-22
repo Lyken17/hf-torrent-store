@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "vae/kl-f8-anime.ckpt": "models--hakurei--waifu-diffusion-v1-4-vae--kl-f8-anime.ckpt--2f11c4a99ddc28d0ad8bce0acc38bed310b45d38a3fe4bb367dc30f3ef1a4868",
+    "vae/config.yaml": "models--hakurei--waifu-diffusion-v1-4-vae--config.yaml--38c615e5bab9baf6435093eadc78780346c7df6f",
+    "vae/pruner.py": "models--hakurei--waifu-diffusion-v1-4-vae--pruner.py--d4cbc3faa33ef313290591d14135bfeeb66e913d",
+    "vae/kl-f8-anime2.ckpt": "models--hakurei--waifu-diffusion-v1-4-vae--kl-f8-anime2.ckpt--df3c506e51b7ee1d7b5a6a2bb7142d47d488743c96aa778afb0f53a2cdc2d38d",
+    "models/wd-1-3-penultimate-ucg-cont.ckpt": "models--hakurei--waifu-diffusion-v1-4-models--wd-1-3-penultimate-ucg-cont.ckpt--efee5ef4ce99e980bd10ed9bbb042ede5f71ed4f5ae7f06c48285a47b4ed6427",
+    "models/aes-B32-v0.pth": "models--hakurei--waifu-diffusion-v1-4-models--aes-B32-v0.pth--51d9fadc3dcced1ad916cc02cb65b34c5b8baf92df05e822366572c2f7df5897",
+    "models/wd-1-3-5_80000-fp32.ckpt": "models--hakurei--waifu-diffusion-v1-4-models--wd-1-3-5_80000-fp32.ckpt--b438efac4434af4e482d20cdfcea64067f8dfec438628261d2f2aa60ffc41452",
+    "wd-1-4-anime_e1.ckpt": "models--hakurei--waifu-diffusion-v1-4-wd-1-4-anime_e1.ckpt--e8f4b2225b8ac6464e9d13d25b708349b1ca340c92dfc3575e8d5ef18f689457",
+    "wd-1-4-anime_e1.yaml": "models--hakurei--waifu-diffusion-v1-4-wd-1-4-anime_e1.yaml--73ea4cabce39e54340ed99ffb49269a647eae31d",
+    "README.md": "models--hakurei--waifu-diffusion-v1-4-README.md--c34d79090a5d3fe4c0a6da94f22e75618a667681",
+    "wd-1-4-anime_e2.ckpt": "models--hakurei--waifu-diffusion-v1-4-wd-1-4-anime_e2.ckpt--c76e0962bc60ccdc18e0dce387635b472b5a19038d637216030acbbe6eda2713",
+    ".gitattributes": "models--hakurei--waifu-diffusion-v1-4-.gitattributes--5dcbb92b06fde754dfa3366c23baee685e85f81a"
+  },
+  "uuid2fpath": {
+    "models--hakurei--waifu-diffusion-v1-4-vae--kl-f8-anime.ckpt--2f11c4a99ddc28d0ad8bce0acc38bed310b45d38a3fe4bb367dc30f3ef1a4868": "vae/kl-f8-anime.ckpt",
+    "models--hakurei--waifu-diffusion-v1-4-vae--config.yaml--38c615e5bab9baf6435093eadc78780346c7df6f": "vae/config.yaml",
+    "models--hakurei--waifu-diffusion-v1-4-vae--pruner.py--d4cbc3faa33ef313290591d14135bfeeb66e913d": "vae/pruner.py",
+    "models--hakurei--waifu-diffusion-v1-4-vae--kl-f8-anime2.ckpt--df3c506e51b7ee1d7b5a6a2bb7142d47d488743c96aa778afb0f53a2cdc2d38d": "vae/kl-f8-anime2.ckpt",
+    "models--hakurei--waifu-diffusion-v1-4-models--wd-1-3-penultimate-ucg-cont.ckpt--efee5ef4ce99e980bd10ed9bbb042ede5f71ed4f5ae7f06c48285a47b4ed6427": "models/wd-1-3-penultimate-ucg-cont.ckpt",
+    "models--hakurei--waifu-diffusion-v1-4-models--aes-B32-v0.pth--51d9fadc3dcced1ad916cc02cb65b34c5b8baf92df05e822366572c2f7df5897": "models/aes-B32-v0.pth",
+    "models--hakurei--waifu-diffusion-v1-4-models--wd-1-3-5_80000-fp32.ckpt--b438efac4434af4e482d20cdfcea64067f8dfec438628261d2f2aa60ffc41452": "models/wd-1-3-5_80000-fp32.ckpt",
+    "models--hakurei--waifu-diffusion-v1-4-wd-1-4-anime_e1.ckpt--e8f4b2225b8ac6464e9d13d25b708349b1ca340c92dfc3575e8d5ef18f689457": "wd-1-4-anime_e1.ckpt",
+    "models--hakurei--waifu-diffusion-v1-4-wd-1-4-anime_e1.yaml--73ea4cabce39e54340ed99ffb49269a647eae31d": "wd-1-4-anime_e1.yaml",
+    "models--hakurei--waifu-diffusion-v1-4-README.md--c34d79090a5d3fe4c0a6da94f22e75618a667681": "README.md",
+    "models--hakurei--waifu-diffusion-v1-4-wd-1-4-anime_e2.ckpt--c76e0962bc60ccdc18e0dce387635b472b5a19038d637216030acbbe6eda2713": "wd-1-4-anime_e2.ckpt",
+    "models--hakurei--waifu-diffusion-v1-4-.gitattributes--5dcbb92b06fde754dfa3366c23baee685e85f81a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 20:37:45 (Asia/Shanghai)",
+  "lastest-commit": "6b239e9a5f0cdeba45131cde0fade1753179da4f"
+}

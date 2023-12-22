@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--stabilityai--sd-vae-ft-mse-README.md--61d3c7cf571c574a406544612b857ac1b26f4439",
+    "diffusion_pytorch_model.bin": "models--stabilityai--sd-vae-ft-mse-diffusion_pytorch_model.bin--1b4889b6b1d4ce7ae320a02dedaeff1780ad77d415ea0d744b476155c6377ddc",
+    "diffusion_pytorch_model.safetensors": "models--stabilityai--sd-vae-ft-mse-diffusion_pytorch_model.safetensors--a1d993488569e928462932c8c38a0760b874d166399b14414135bd9c42df5815",
+    "config.json": "models--stabilityai--sd-vae-ft-mse-config.json--0db26717579be63eb0ddbf15b43faa43700dfe5a",
+    ".gitattributes": "models--stabilityai--sd-vae-ft-mse-.gitattributes--99f243ff7947dfc5afddaf3d818da3d0124d5ca2"
+  },
+  "uuid2fpath": {
+    "models--stabilityai--sd-vae-ft-mse-README.md--61d3c7cf571c574a406544612b857ac1b26f4439": "README.md",
+    "models--stabilityai--sd-vae-ft-mse-diffusion_pytorch_model.bin--1b4889b6b1d4ce7ae320a02dedaeff1780ad77d415ea0d744b476155c6377ddc": "diffusion_pytorch_model.bin",
+    "models--stabilityai--sd-vae-ft-mse-diffusion_pytorch_model.safetensors--a1d993488569e928462932c8c38a0760b874d166399b14414135bd9c42df5815": "diffusion_pytorch_model.safetensors",
+    "models--stabilityai--sd-vae-ft-mse-config.json--0db26717579be63eb0ddbf15b43faa43700dfe5a": "config.json",
+    "models--stabilityai--sd-vae-ft-mse-.gitattributes--99f243ff7947dfc5afddaf3d818da3d0124d5ca2": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 22:24:18 (Asia/Shanghai)",
+  "lastest-commit": "31f26fdeee1355a5c34592e401dd41e45d25a493"
+}

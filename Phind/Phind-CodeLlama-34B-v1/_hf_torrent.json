@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00002-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00002-of-00007.bin--3a8dffe0ac57e34f9394e4de8bd448e6b3f359a22f368236a86628b1c90a1c36",
+    "pytorch_model.bin.index.json": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model.bin.index.json--9a714170172282cfbcaa120af13c0df08b06d040ff24dab30229d8a010821d3d",
+    "pytorch_model-00005-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00005-of-00007.bin--5c22fe9d72bbcc3d704bccae9e8bf9d858b411f8fdecd9d266cf4eba714aef21",
+    "special_tokens_map.json": "models--Phind--Phind-CodeLlama-34B-v1-special_tokens_map.json--1e1a9978a99207be181b1c1191efa32cec429a86",
+    "pytorch_model-00001-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00001-of-00007.bin--2c435fac62ec2fbd8010384ab0972fb2d3281c3db7a66644afd940c4c7599fa6",
+    "tokenizer_config.json": "models--Phind--Phind-CodeLlama-34B-v1-tokenizer_config.json--20ec58efd5f7c2ac1c9d5468b56d9a6d466ae894",
+    "tokenizer.model": "models--Phind--Phind-CodeLlama-34B-v1-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--Phind--Phind-CodeLlama-34B-v1-README.md--942a92e961916c6f6cea9800ec2f68d8407c62c6",
+    "pytorch_model-00004-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00004-of-00007.bin--3c8b2b722f93dcda1ae562e69b96b5b3af053be42d6cdbf71f9283a50538e2e4",
+    "generation_config.json": "models--Phind--Phind-CodeLlama-34B-v1-generation_config.json--aa9aac2cbaa80cf25094e7d9a527bd1cab9f5321",
+    "config.json": "models--Phind--Phind-CodeLlama-34B-v1-config.json--bf5414f8109528b69ecab76fab330423e7f32bc3",
+    "pytorch_model-00006-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00006-of-00007.bin--5620f94b61642f900d5f340d9965484abbd82a8f791c9ef4880f71027145d2c3",
+    "pytorch_model-00007-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00007-of-00007.bin--01eda1723bd387466038efc783c22da0b927409aefbe5c1fe15457450f14b753",
+    "pytorch_model-00003-of-00007.bin": "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00003-of-00007.bin--67413510582a4f75bbf19be25f745d3b7a45d995c6f6d4a727f4e4fb39f15994",
+    ".gitattributes": "models--Phind--Phind-CodeLlama-34B-v1-.gitattributes--46f6ab82903516c55ebb298aecb2dc993b6f21da"
+  },
+  "uuid2fpath": {
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00002-of-00007.bin--3a8dffe0ac57e34f9394e4de8bd448e6b3f359a22f368236a86628b1c90a1c36": "pytorch_model-00002-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model.bin.index.json--9a714170172282cfbcaa120af13c0df08b06d040ff24dab30229d8a010821d3d": "pytorch_model.bin.index.json",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00005-of-00007.bin--5c22fe9d72bbcc3d704bccae9e8bf9d858b411f8fdecd9d266cf4eba714aef21": "pytorch_model-00005-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-special_tokens_map.json--1e1a9978a99207be181b1c1191efa32cec429a86": "special_tokens_map.json",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00001-of-00007.bin--2c435fac62ec2fbd8010384ab0972fb2d3281c3db7a66644afd940c4c7599fa6": "pytorch_model-00001-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-tokenizer_config.json--20ec58efd5f7c2ac1c9d5468b56d9a6d466ae894": "tokenizer_config.json",
+    "models--Phind--Phind-CodeLlama-34B-v1-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--Phind--Phind-CodeLlama-34B-v1-README.md--942a92e961916c6f6cea9800ec2f68d8407c62c6": "README.md",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00004-of-00007.bin--3c8b2b722f93dcda1ae562e69b96b5b3af053be42d6cdbf71f9283a50538e2e4": "pytorch_model-00004-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-generation_config.json--aa9aac2cbaa80cf25094e7d9a527bd1cab9f5321": "generation_config.json",
+    "models--Phind--Phind-CodeLlama-34B-v1-config.json--bf5414f8109528b69ecab76fab330423e7f32bc3": "config.json",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00006-of-00007.bin--5620f94b61642f900d5f340d9965484abbd82a8f791c9ef4880f71027145d2c3": "pytorch_model-00006-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00007-of-00007.bin--01eda1723bd387466038efc783c22da0b927409aefbe5c1fe15457450f14b753": "pytorch_model-00007-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-pytorch_model-00003-of-00007.bin--67413510582a4f75bbf19be25f745d3b7a45d995c6f6d4a727f4e4fb39f15994": "pytorch_model-00003-of-00007.bin",
+    "models--Phind--Phind-CodeLlama-34B-v1-.gitattributes--46f6ab82903516c55ebb298aecb2dc993b6f21da": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:56:05 (Asia/Shanghai)",
+  "lastest-commit": "32699c5f938c0d53125f8cf446bfe50ba73148cd"
+}

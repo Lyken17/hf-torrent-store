@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "custom_autotune.py": "models--fnlp--moss-moon-003-sft-int4-custom_autotune.py--ed8ee24932d2c8322dc2a34b27981cbebf64608c",
+    "configuration_moss.py": "models--fnlp--moss-moon-003-sft-int4-configuration_moss.py--1b34d80d694264610de485243608420e386df76c",
+    "merges.txt": "models--fnlp--moss-moon-003-sft-int4-merges.txt--0d5e72e4369a3bc5aa280a45b19a0fbef7980d94",
+    "added_tokens.json": "models--fnlp--moss-moon-003-sft-int4-added_tokens.json--ef747f9759a298c7dee330a39cd5d6e574783bc2",
+    "special_tokens_map.json": "models--fnlp--moss-moon-003-sft-int4-special_tokens_map.json--20caa0110a07c0b15e677829b1809066e3c6723e",
+    "tokenizer_config.json": "models--fnlp--moss-moon-003-sft-int4-tokenizer_config.json--06bbbe9972ca44c52989601f5173a84b8ec640d9",
+    "modeling_moss.py": "models--fnlp--moss-moon-003-sft-int4-modeling_moss.py--434e4d5afca78b8ae19183a1d439f0844b5f4c95",
+    "README.md": "models--fnlp--moss-moon-003-sft-int4-README.md--1d3355d7df33419624ace1d9a4c7e9d571249b7c",
+    "tokenization_moss.py": "models--fnlp--moss-moon-003-sft-int4-tokenization_moss.py--54fe4eba91e9572fa52e4bda5e52b47478b6cff1",
+    "quantization.py": "models--fnlp--moss-moon-003-sft-int4-quantization.py--090276c9a00ed2422d1fdbbe923e8477eb0a8089",
+    "vocab.json": "models--fnlp--moss-moon-003-sft-int4-vocab.json--c585a6eedb0eb321f827dbf63614ff9cd3f3af20",
+    "pytorch_model.bin": "models--fnlp--moss-moon-003-sft-int4-pytorch_model.bin--db0b5a90e353f9edb15b866d908bedd310d883c126663c1830d041bd081b0f5f",
+    "config.json": "models--fnlp--moss-moon-003-sft-int4-config.json--dad94f125d5ebfeff8fbea2f0900c448411112d6",
+    ".gitattributes": "models--fnlp--moss-moon-003-sft-int4-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--fnlp--moss-moon-003-sft-int4-custom_autotune.py--ed8ee24932d2c8322dc2a34b27981cbebf64608c": "custom_autotune.py",
+    "models--fnlp--moss-moon-003-sft-int4-configuration_moss.py--1b34d80d694264610de485243608420e386df76c": "configuration_moss.py",
+    "models--fnlp--moss-moon-003-sft-int4-merges.txt--0d5e72e4369a3bc5aa280a45b19a0fbef7980d94": "merges.txt",
+    "models--fnlp--moss-moon-003-sft-int4-added_tokens.json--ef747f9759a298c7dee330a39cd5d6e574783bc2": "added_tokens.json",
+    "models--fnlp--moss-moon-003-sft-int4-special_tokens_map.json--20caa0110a07c0b15e677829b1809066e3c6723e": "special_tokens_map.json",
+    "models--fnlp--moss-moon-003-sft-int4-tokenizer_config.json--06bbbe9972ca44c52989601f5173a84b8ec640d9": "tokenizer_config.json",
+    "models--fnlp--moss-moon-003-sft-int4-modeling_moss.py--434e4d5afca78b8ae19183a1d439f0844b5f4c95": "modeling_moss.py",
+    "models--fnlp--moss-moon-003-sft-int4-README.md--1d3355d7df33419624ace1d9a4c7e9d571249b7c": "README.md",
+    "models--fnlp--moss-moon-003-sft-int4-tokenization_moss.py--54fe4eba91e9572fa52e4bda5e52b47478b6cff1": "tokenization_moss.py",
+    "models--fnlp--moss-moon-003-sft-int4-quantization.py--090276c9a00ed2422d1fdbbe923e8477eb0a8089": "quantization.py",
+    "models--fnlp--moss-moon-003-sft-int4-vocab.json--c585a6eedb0eb321f827dbf63614ff9cd3f3af20": "vocab.json",
+    "models--fnlp--moss-moon-003-sft-int4-pytorch_model.bin--db0b5a90e353f9edb15b866d908bedd310d883c126663c1830d041bd081b0f5f": "pytorch_model.bin",
+    "models--fnlp--moss-moon-003-sft-int4-config.json--dad94f125d5ebfeff8fbea2f0900c448411112d6": "config.json",
+    "models--fnlp--moss-moon-003-sft-int4-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 17:45:02 (Asia/Shanghai)",
+  "lastest-commit": "e3f0d7e7fba3944d5932ca2608b816678220ed25"
+}

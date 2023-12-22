@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-500.pth": "models--xiaol--chatgal-rwkv-7b-world-32k-chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-500.pth--b5d347d5dedb4f398ec31489ab87b75b1dee772ae7d0a34c26635cf5d95c8794",
+    "README.md": "models--xiaol--chatgal-rwkv-7b-world-32k-README.md--154df8298fab5ecf322016157858e08cd1bccbe1",
+    "chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-1000.pth": "models--xiaol--chatgal-rwkv-7b-world-32k-chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-1000.pth--aaed29cfd1bddee47c48f564aa800eb001f62fd03290d772647d5678e40d66e8",
+    ".gitattributes": "models--xiaol--chatgal-rwkv-7b-world-32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--xiaol--chatgal-rwkv-7b-world-32k-chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-500.pth--b5d347d5dedb4f398ec31489ab87b75b1dee772ae7d0a34c26635cf5d95c8794": "chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-500.pth",
+    "models--xiaol--chatgal-rwkv-7b-world-32k-README.md--154df8298fab5ecf322016157858e08cd1bccbe1": "README.md",
+    "models--xiaol--chatgal-rwkv-7b-world-32k-chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-1000.pth--aaed29cfd1bddee47c48f564aa800eb001f62fd03290d772647d5678e40d66e8": "chatgal-RWKV-4-World-CHNtuned-7B-v1-20230709-ctx32k-1000.pth",
+    "models--xiaol--chatgal-rwkv-7b-world-32k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 00:17:12 (Asia/Shanghai)",
+  "lastest-commit": "4dfd5b383b4e9179a1c9721e949ec4acdf0c01ce"
+}

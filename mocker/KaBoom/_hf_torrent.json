@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "sample/00217-20230207050723___Custom_ColorBomb-fp16-no-ema_627f50eea8.png": "models--mocker--KaBoom-sample--00217-20230207050723___Custom_ColorBomb-fp16-no-ema_627f50eea8.png--125403c2c549bc4a934d4559a1e8ba813096e671ec0dfcca4caeb6fe250810f3",
+    "sample/00183-20230207043529___Custom_ColorBomb-fp16-no-ema_627f50eea8.png": "models--mocker--KaBoom-sample--00183-20230207043529___Custom_ColorBomb-fp16-no-ema_627f50eea8.png--6a277f021f1d69650a2592b6c8cd222fe297d4e947d454fed593c77d78add97e",
+    "sample/00211-20230207050108___Custom_FaceBombMix-fp16-no-ema_aad629159b.png": "models--mocker--KaBoom-sample--00211-20230207050108___Custom_FaceBombMix-fp16-no-ema_aad629159b.png--929b28965eefa2445c6c27c5f2deb4d657e012c6c7dc88b48323c81488ee9373",
+    "sample/00218-20230207050741___Custom_FaceBombMix-fp16-no-ema_aad629159b.png": "models--mocker--KaBoom-sample--00218-20230207050741___Custom_FaceBombMix-fp16-no-ema_aad629159b.png--238590c2c3b4876fd8cc4540262f49aa279a0e3b83420a01ff88e1fee9c5959e",
+    "sample/00185-20230207043650___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png": "models--mocker--KaBoom-sample--00185-20230207043650___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png--fa73b0df2a0b6263439c7632c9655f887fe60f3944b7bb337336ada00960060d",
+    "sample/00184-20230207043613___Custom_FaceBombMix-fp16-no-ema_aad629159b.png": "models--mocker--KaBoom-sample--00184-20230207043613___Custom_FaceBombMix-fp16-no-ema_aad629159b.png--b614e77867389a4fab0b355dcc8f0fa2b950bd58a134486d787daa3069ead49b",
+    "sample/00219-20230207050801___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png": "models--mocker--KaBoom-sample--00219-20230207050801___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png--5e075aa307fb0e71ebcd06cd531eac5e71f3684cc87a40c2c7290e20d921419c",
+    "sample/00210-20230207050046___Custom_ColorBomb-fp16-no-ema_627f50eea8.png": "models--mocker--KaBoom-sample--00210-20230207050046___Custom_ColorBomb-fp16-no-ema_627f50eea8.png--d4cb69924be98db109289742db2dd71046946fc2e7024526d871ee8b704259f9",
+    "sample/00212-20230207050130___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png": "models--mocker--KaBoom-sample--00212-20230207050130___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png--d2787cf82573ff9f210f6fe954b57abb96f95f820f6d817d7e63ba150016bd89",
+    "FaceBombMix-fp16-no-ema.safetensors": "models--mocker--KaBoom-FaceBombMix-fp16-no-ema.safetensors--aad629159b4cf3cb88f3b797da1a6ecf99b3cd092c2062ba16526640db797bad",
+    "README.md": "models--mocker--KaBoom-README.md--0d51405bb7f8bd809cc4f15b60df79cccbac4a44",
+    "ColorBombMix-fp16-no-ema.safetensors": "models--mocker--KaBoom-ColorBombMix-fp16-no-ema.safetensors--627f50eea879bafd7ae7c3b55485eb921787c996ec383ba5b51eb3475051a597",
+    "HyperBombMix-fp16-no-ema.safetensors": "models--mocker--KaBoom-HyperBombMix-fp16-no-ema.safetensors--16c6ca45b1f033cbf3047d21d07c269eedf23d42d495d03c47604c551bc42563",
+    ".gitattributes": "models--mocker--KaBoom-.gitattributes--a49a81f3c974af9f1a4c4afaa7768ce2254fdcfd"
+  },
+  "uuid2fpath": {
+    "models--mocker--KaBoom-sample--00217-20230207050723___Custom_ColorBomb-fp16-no-ema_627f50eea8.png--125403c2c549bc4a934d4559a1e8ba813096e671ec0dfcca4caeb6fe250810f3": "sample/00217-20230207050723___Custom_ColorBomb-fp16-no-ema_627f50eea8.png",
+    "models--mocker--KaBoom-sample--00183-20230207043529___Custom_ColorBomb-fp16-no-ema_627f50eea8.png--6a277f021f1d69650a2592b6c8cd222fe297d4e947d454fed593c77d78add97e": "sample/00183-20230207043529___Custom_ColorBomb-fp16-no-ema_627f50eea8.png",
+    "models--mocker--KaBoom-sample--00211-20230207050108___Custom_FaceBombMix-fp16-no-ema_aad629159b.png--929b28965eefa2445c6c27c5f2deb4d657e012c6c7dc88b48323c81488ee9373": "sample/00211-20230207050108___Custom_FaceBombMix-fp16-no-ema_aad629159b.png",
+    "models--mocker--KaBoom-sample--00218-20230207050741___Custom_FaceBombMix-fp16-no-ema_aad629159b.png--238590c2c3b4876fd8cc4540262f49aa279a0e3b83420a01ff88e1fee9c5959e": "sample/00218-20230207050741___Custom_FaceBombMix-fp16-no-ema_aad629159b.png",
+    "models--mocker--KaBoom-sample--00185-20230207043650___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png--fa73b0df2a0b6263439c7632c9655f887fe60f3944b7bb337336ada00960060d": "sample/00185-20230207043650___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png",
+    "models--mocker--KaBoom-sample--00184-20230207043613___Custom_FaceBombMix-fp16-no-ema_aad629159b.png--b614e77867389a4fab0b355dcc8f0fa2b950bd58a134486d787daa3069ead49b": "sample/00184-20230207043613___Custom_FaceBombMix-fp16-no-ema_aad629159b.png",
+    "models--mocker--KaBoom-sample--00219-20230207050801___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png--5e075aa307fb0e71ebcd06cd531eac5e71f3684cc87a40c2c7290e20d921419c": "sample/00219-20230207050801___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png",
+    "models--mocker--KaBoom-sample--00210-20230207050046___Custom_ColorBomb-fp16-no-ema_627f50eea8.png--d4cb69924be98db109289742db2dd71046946fc2e7024526d871ee8b704259f9": "sample/00210-20230207050046___Custom_ColorBomb-fp16-no-ema_627f50eea8.png",
+    "models--mocker--KaBoom-sample--00212-20230207050130___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png--d2787cf82573ff9f210f6fe954b57abb96f95f820f6d817d7e63ba150016bd89": "sample/00212-20230207050130___Custom_HyperBombMix-fp16-no-ema_16c6ca45b1.png",
+    "models--mocker--KaBoom-FaceBombMix-fp16-no-ema.safetensors--aad629159b4cf3cb88f3b797da1a6ecf99b3cd092c2062ba16526640db797bad": "FaceBombMix-fp16-no-ema.safetensors",
+    "models--mocker--KaBoom-README.md--0d51405bb7f8bd809cc4f15b60df79cccbac4a44": "README.md",
+    "models--mocker--KaBoom-ColorBombMix-fp16-no-ema.safetensors--627f50eea879bafd7ae7c3b55485eb921787c996ec383ba5b51eb3475051a597": "ColorBombMix-fp16-no-ema.safetensors",
+    "models--mocker--KaBoom-HyperBombMix-fp16-no-ema.safetensors--16c6ca45b1f033cbf3047d21d07c269eedf23d42d495d03c47604c551bc42563": "HyperBombMix-fp16-no-ema.safetensors",
+    "models--mocker--KaBoom-.gitattributes--a49a81f3c974af9f1a4c4afaa7768ce2254fdcfd": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-21 23:57:53 (Asia/Shanghai)",
+  "lastest-commit": "dfe3d38c3f09a5a2b0310a557df43a645ba732b5"
+}
