@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--FlagAlpha--Llama2-Chinese-7b-Chat-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4",
+    "special_tokens_map.json": "models--FlagAlpha--Llama2-Chinese-7b-Chat-special_tokens_map.json--451134b2ddc2e78555d1e857518c54b4bdc2e87d",
+    "pytorch_model-00002-of-00002.bin": "models--FlagAlpha--Llama2-Chinese-7b-Chat-pytorch_model-00002-of-00002.bin--db985e24dd56db66ca64fec483a3c8613bef661f43c9142bd895a0fb4d093360",
+    "tokenizer_config.json": "models--FlagAlpha--Llama2-Chinese-7b-Chat-tokenizer_config.json--5557c019f635783532b53857546f2c72db496f76",
+    "tokenizer.model": "models--FlagAlpha--Llama2-Chinese-7b-Chat-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--FlagAlpha--Llama2-Chinese-7b-Chat-README.md--107b36db18c460f11771e50c9ff9b95ae6a8fc95",
+    "pytorch_model-00001-of-00002.bin": "models--FlagAlpha--Llama2-Chinese-7b-Chat-pytorch_model-00001-of-00002.bin--588403a4a346b4447f2136b3f1ea191be369b724d1be6d07387634e0af7a330e",
+    "generation_config.json": "models--FlagAlpha--Llama2-Chinese-7b-Chat-generation_config.json--c8a0a690c519ac018d14c9d829417b4ee6dabd10",
+    "config.json": "models--FlagAlpha--Llama2-Chinese-7b-Chat-config.json--47f618b1741ff15b7c9b108d2f99db9eed90ba6a",
+    ".gitattributes": "models--FlagAlpha--Llama2-Chinese-7b-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4": "pytorch_model.bin.index.json",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-special_tokens_map.json--451134b2ddc2e78555d1e857518c54b4bdc2e87d": "special_tokens_map.json",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-pytorch_model-00002-of-00002.bin--db985e24dd56db66ca64fec483a3c8613bef661f43c9142bd895a0fb4d093360": "pytorch_model-00002-of-00002.bin",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-tokenizer_config.json--5557c019f635783532b53857546f2c72db496f76": "tokenizer_config.json",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-README.md--107b36db18c460f11771e50c9ff9b95ae6a8fc95": "README.md",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-pytorch_model-00001-of-00002.bin--588403a4a346b4447f2136b3f1ea191be369b724d1be6d07387634e0af7a330e": "pytorch_model-00001-of-00002.bin",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-generation_config.json--c8a0a690c519ac018d14c9d829417b4ee6dabd10": "generation_config.json",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-config.json--47f618b1741ff15b7c9b108d2f99db9eed90ba6a": "config.json",
+    "models--FlagAlpha--Llama2-Chinese-7b-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:07:29 (Asia/Shanghai)",
+  "lastest-commit": "4c3bc725f71898c6a1acd4ea98a2f8d74d1b1b6b"
+}

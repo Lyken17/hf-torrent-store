@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "yi-34b-chat.Q2_K.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q2_K.gguf--7881f079f107811b98248115e279a23b62dcd4cc59a92753a92942ef923f3dd9",
+    "yi-34b-chat.Q4_K_S.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q4_K_S.gguf--3eb836a4352d95f5a4349d7f4a4e88c8e6e4d0b4563e44260548b91723d7a446",
+    "yi-34b-chat.Q4_0.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q4_0.gguf--466c638b275f5c4359b99ca4c4240446af7792e77c39c1b58b15733e48c1c798",
+    "yi-34b-chat.Q3_K_M.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q3_K_M.gguf--82bc46a4ad7748381b4f3ec5472ed4294e0c6a2f509cb488794cb4ea57193bea",
+    "yi-34b-chat.Q3_K_S.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q3_K_S.gguf--5b46469851070e00d1c9b2b91216f6d0c2a60a50df81b519cec88314db515cb5",
+    "yi-34b-chat.Q5_K_M.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q5_K_M.gguf--562dcba5754311d75245f0359de545dd51f9a9a2e4fcd3adfae6d746ba4295f6",
+    "README.md": "models--TheBloke--Yi-34B-Chat-GGUF-README.md--427bda44223eab53e1680d7603dc6ac46569b205",
+    "yi-34b-chat.Q5_K_S.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q5_K_S.gguf--84ffaa661d01305eeb10d2c0d9a27e02053ac777e59103068e302f9eeb6f6532",
+    "yi-34b-chat.Q8_0.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q8_0.gguf--163011ba9907f85336681293420c12a3c7ab3e531618552be2340bcb298eba1e",
+    "yi-34b-chat.Q3_K_L.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q3_K_L.gguf--cbce31417d4e7408e8c1e71cdf344b1d9a9cb1e7eee218ab934a7b41b001c654",
+    "yi-34b-chat.Q6_K.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q6_K.gguf--235248dbb95de8afafaa48bfb694ae4d7f3b69c79725276a0a8366239245e26e",
+    "yi-34b-chat.Q5_0.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q5_0.gguf--001f85bc8d9f62b8f754cecad2c4ee32f99db9c93803cbbaf914a26b6e6ca80a",
+    "config.json": "models--TheBloke--Yi-34B-Chat-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e",
+    "yi-34b-chat.Q4_K_M.gguf": "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q4_K_M.gguf--a496c77605613da3b0de45cb02af9a171625e6f9e27150dfc59da543e06e4dbe",
+    ".gitattributes": "models--TheBloke--Yi-34B-Chat-GGUF-.gitattributes--9e4c175454f36c9806e10b8f10d642b9e0d19bec"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q2_K.gguf--7881f079f107811b98248115e279a23b62dcd4cc59a92753a92942ef923f3dd9": "yi-34b-chat.Q2_K.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q4_K_S.gguf--3eb836a4352d95f5a4349d7f4a4e88c8e6e4d0b4563e44260548b91723d7a446": "yi-34b-chat.Q4_K_S.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q4_0.gguf--466c638b275f5c4359b99ca4c4240446af7792e77c39c1b58b15733e48c1c798": "yi-34b-chat.Q4_0.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q3_K_M.gguf--82bc46a4ad7748381b4f3ec5472ed4294e0c6a2f509cb488794cb4ea57193bea": "yi-34b-chat.Q3_K_M.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q3_K_S.gguf--5b46469851070e00d1c9b2b91216f6d0c2a60a50df81b519cec88314db515cb5": "yi-34b-chat.Q3_K_S.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q5_K_M.gguf--562dcba5754311d75245f0359de545dd51f9a9a2e4fcd3adfae6d746ba4295f6": "yi-34b-chat.Q5_K_M.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-README.md--427bda44223eab53e1680d7603dc6ac46569b205": "README.md",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q5_K_S.gguf--84ffaa661d01305eeb10d2c0d9a27e02053ac777e59103068e302f9eeb6f6532": "yi-34b-chat.Q5_K_S.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q8_0.gguf--163011ba9907f85336681293420c12a3c7ab3e531618552be2340bcb298eba1e": "yi-34b-chat.Q8_0.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q3_K_L.gguf--cbce31417d4e7408e8c1e71cdf344b1d9a9cb1e7eee218ab934a7b41b001c654": "yi-34b-chat.Q3_K_L.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q6_K.gguf--235248dbb95de8afafaa48bfb694ae4d7f3b69c79725276a0a8366239245e26e": "yi-34b-chat.Q6_K.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q5_0.gguf--001f85bc8d9f62b8f754cecad2c4ee32f99db9c93803cbbaf914a26b6e6ca80a": "yi-34b-chat.Q5_0.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e": "config.json",
+    "models--TheBloke--Yi-34B-Chat-GGUF-yi-34b-chat.Q4_K_M.gguf--a496c77605613da3b0de45cb02af9a171625e6f9e27150dfc59da543e06e4dbe": "yi-34b-chat.Q4_K_M.gguf",
+    "models--TheBloke--Yi-34B-Chat-GGUF-.gitattributes--9e4c175454f36c9806e10b8f10d642b9e0d19bec": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 00:29:44 (Asia/Shanghai)",
+  "lastest-commit": "ee827f906e733381ab65c650dcfdd2caf6de8762"
+}

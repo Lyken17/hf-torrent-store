@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--defog--sqlcoder2-pytorch_model.bin.index.json--39e6a9d6cd79f77f28fd453ff47eb4b3c6579fb4",
+    "merges.txt": "models--defog--sqlcoder2-merges.txt--f8479fb696fe07332c55300a6accf8cc191acc6a",
+    "special_tokens_map.json": "models--defog--sqlcoder2-special_tokens_map.json--c29d075707c112beeebd7a93e59dfa37c86c67c8",
+    "pytorch_model-00001-of-00004.bin": "models--defog--sqlcoder2-pytorch_model-00001-of-00004.bin--b18fab048eb252ebbfa2d76e18a24e20662cad6fdac7b9ea8f1eb6d62162eb43",
+    "tokenizer_config.json": "models--defog--sqlcoder2-tokenizer_config.json--258e169924e918b7a69dfcbd4343415bf9810f63",
+    "pytorch_model-00002-of-00004.bin": "models--defog--sqlcoder2-pytorch_model-00002-of-00004.bin--e6d053320b6a7dd67da1fb38334fb9cee647c0935d8bcbf587b657d756cab06b",
+    "README.md": "models--defog--sqlcoder2-README.md--5f95b7d9d825a3330c86aa5d93052d2be76b92d4",
+    "pytorch_model-00004-of-00004.bin": "models--defog--sqlcoder2-pytorch_model-00004-of-00004.bin--deb0bbd2c4d8cecf2ab67e3bc37794a1ac8d8b315f01ce61ac2481e9ea92e273",
+    "tokenizer.json": "models--defog--sqlcoder2-tokenizer.json--3f2fb5824f1edb882c477533179cf8ed3bca5644",
+    "pytorch_model-00003-of-00004.bin": "models--defog--sqlcoder2-pytorch_model-00003-of-00004.bin--81c2ff50f1c4690542ffd91e0080f9d2067a5e0e71b9f78f46aad34310349858",
+    "generation_config.json": "models--defog--sqlcoder2-generation_config.json--583f73a25971a1772d9000b515512891d8e84333",
+    "vocab.json": "models--defog--sqlcoder2-vocab.json--795a5a47f65fcf89e7957e8462d42c45cf9ca240",
+    "LICENSE": "models--defog--sqlcoder2-LICENSE--af3fe0738fa2128983eb79bd4c7c9bfa2ada10df",
+    "config.json": "models--defog--sqlcoder2-config.json--649e68b3751597a4c142516c0e0c5f7fa9cebbf3",
+    ".gitattributes": "models--defog--sqlcoder2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--defog--sqlcoder2-pytorch_model.bin.index.json--39e6a9d6cd79f77f28fd453ff47eb4b3c6579fb4": "pytorch_model.bin.index.json",
+    "models--defog--sqlcoder2-merges.txt--f8479fb696fe07332c55300a6accf8cc191acc6a": "merges.txt",
+    "models--defog--sqlcoder2-special_tokens_map.json--c29d075707c112beeebd7a93e59dfa37c86c67c8": "special_tokens_map.json",
+    "models--defog--sqlcoder2-pytorch_model-00001-of-00004.bin--b18fab048eb252ebbfa2d76e18a24e20662cad6fdac7b9ea8f1eb6d62162eb43": "pytorch_model-00001-of-00004.bin",
+    "models--defog--sqlcoder2-tokenizer_config.json--258e169924e918b7a69dfcbd4343415bf9810f63": "tokenizer_config.json",
+    "models--defog--sqlcoder2-pytorch_model-00002-of-00004.bin--e6d053320b6a7dd67da1fb38334fb9cee647c0935d8bcbf587b657d756cab06b": "pytorch_model-00002-of-00004.bin",
+    "models--defog--sqlcoder2-README.md--5f95b7d9d825a3330c86aa5d93052d2be76b92d4": "README.md",
+    "models--defog--sqlcoder2-pytorch_model-00004-of-00004.bin--deb0bbd2c4d8cecf2ab67e3bc37794a1ac8d8b315f01ce61ac2481e9ea92e273": "pytorch_model-00004-of-00004.bin",
+    "models--defog--sqlcoder2-tokenizer.json--3f2fb5824f1edb882c477533179cf8ed3bca5644": "tokenizer.json",
+    "models--defog--sqlcoder2-pytorch_model-00003-of-00004.bin--81c2ff50f1c4690542ffd91e0080f9d2067a5e0e71b9f78f46aad34310349858": "pytorch_model-00003-of-00004.bin",
+    "models--defog--sqlcoder2-generation_config.json--583f73a25971a1772d9000b515512891d8e84333": "generation_config.json",
+    "models--defog--sqlcoder2-vocab.json--795a5a47f65fcf89e7957e8462d42c45cf9ca240": "vocab.json",
+    "models--defog--sqlcoder2-LICENSE--af3fe0738fa2128983eb79bd4c7c9bfa2ada10df": "LICENSE",
+    "models--defog--sqlcoder2-config.json--649e68b3751597a4c142516c0e0c5f7fa9cebbf3": "config.json",
+    "models--defog--sqlcoder2-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:45:44 (Asia/Shanghai)",
+  "lastest-commit": "4ccba9158b67de83b070a4eb2fadaeb58ab2cd14"
+}

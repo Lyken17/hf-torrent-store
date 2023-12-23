@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "diffusion_pytorch_model.fp16.bin": "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.fp16.bin--a42da57d6e2fd6ec786ccfea1cf1a06d2c1d91b2d8a14c7de3a67553b10b2948",
+    "out_tornado.png": "models--diffusers--controlnet-canny-sdxl-1.0-out_tornado.png--b2ecd942a61e5ee4f8b5d1c8d108232a0e3a012036eaa4b8865ebfd0b7e15346",
+    "README.md": "models--diffusers--controlnet-canny-sdxl-1.0-README.md--e0d3061d55bced91483105e02b1aa0e3fdf14510",
+    "out_women.png": "models--diffusers--controlnet-canny-sdxl-1.0-out_women.png--ada3827272bdd1599372d5d8842a173e054bc1164097c4e347c4bcd7cfcd3c7c",
+    "out_room.png": "models--diffusers--controlnet-canny-sdxl-1.0-out_room.png--fce39ad0ca4c081aecd90a2c16118bc38d89ac27c7ca25d59a80d470b1c4ed31",
+    "diffusion_pytorch_model.bin": "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.bin--982e12f72cb41031c060de08a5d78ff6912e9b02c6ad91fc480f05a72cad10cb",
+    "out_couple.png": "models--diffusers--controlnet-canny-sdxl-1.0-out_couple.png--3613a6c3119ccc39d687ed917c8b364f05c17e16c1d9cf0c36816ef07da80868",
+    "out_hug_lab_7.png": "models--diffusers--controlnet-canny-sdxl-1.0-out_hug_lab_7.png--33d7a1f77d34f565df9910bf8a3276817cb21fa7f4025174f93f1f3517b2a4f1",
+    "diffusion_pytorch_model.safetensors": "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.safetensors--ea99040544a999f814fd854575a3aee069a005d026864c8d321b82576706a221",
+    "out_bird.png": "models--diffusers--controlnet-canny-sdxl-1.0-out_bird.png--596aecc5291798f1f25b665a92110627f7661d13d4eef3ae038b175de9db93c2",
+    "diffusion_pytorch_model.fp16.safetensors": "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.fp16.safetensors--b2e7d3921058a442cc80430d1ec8847f42599c705e2451c95e77cf4dcf8d6c25",
+    "config.json": "models--diffusers--controlnet-canny-sdxl-1.0-config.json--c38f38aa9f7b635abd06ccd5d211870d9c8c150b",
+    ".gitattributes": "models--diffusers--controlnet-canny-sdxl-1.0-.gitattributes--9b9898b45af8ac54cf70db518a6211661af9b205"
+  },
+  "uuid2fpath": {
+    "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.fp16.bin--a42da57d6e2fd6ec786ccfea1cf1a06d2c1d91b2d8a14c7de3a67553b10b2948": "diffusion_pytorch_model.fp16.bin",
+    "models--diffusers--controlnet-canny-sdxl-1.0-out_tornado.png--b2ecd942a61e5ee4f8b5d1c8d108232a0e3a012036eaa4b8865ebfd0b7e15346": "out_tornado.png",
+    "models--diffusers--controlnet-canny-sdxl-1.0-README.md--e0d3061d55bced91483105e02b1aa0e3fdf14510": "README.md",
+    "models--diffusers--controlnet-canny-sdxl-1.0-out_women.png--ada3827272bdd1599372d5d8842a173e054bc1164097c4e347c4bcd7cfcd3c7c": "out_women.png",
+    "models--diffusers--controlnet-canny-sdxl-1.0-out_room.png--fce39ad0ca4c081aecd90a2c16118bc38d89ac27c7ca25d59a80d470b1c4ed31": "out_room.png",
+    "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.bin--982e12f72cb41031c060de08a5d78ff6912e9b02c6ad91fc480f05a72cad10cb": "diffusion_pytorch_model.bin",
+    "models--diffusers--controlnet-canny-sdxl-1.0-out_couple.png--3613a6c3119ccc39d687ed917c8b364f05c17e16c1d9cf0c36816ef07da80868": "out_couple.png",
+    "models--diffusers--controlnet-canny-sdxl-1.0-out_hug_lab_7.png--33d7a1f77d34f565df9910bf8a3276817cb21fa7f4025174f93f1f3517b2a4f1": "out_hug_lab_7.png",
+    "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.safetensors--ea99040544a999f814fd854575a3aee069a005d026864c8d321b82576706a221": "diffusion_pytorch_model.safetensors",
+    "models--diffusers--controlnet-canny-sdxl-1.0-out_bird.png--596aecc5291798f1f25b665a92110627f7661d13d4eef3ae038b175de9db93c2": "out_bird.png",
+    "models--diffusers--controlnet-canny-sdxl-1.0-diffusion_pytorch_model.fp16.safetensors--b2e7d3921058a442cc80430d1ec8847f42599c705e2451c95e77cf4dcf8d6c25": "diffusion_pytorch_model.fp16.safetensors",
+    "models--diffusers--controlnet-canny-sdxl-1.0-config.json--c38f38aa9f7b635abd06ccd5d211870d9c8c150b": "config.json",
+    "models--diffusers--controlnet-canny-sdxl-1.0-.gitattributes--9b9898b45af8ac54cf70db518a6211661af9b205": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 19:55:59 (Asia/Shanghai)",
+  "lastest-commit": "eb115a19a10d14909256db740ed109532ab1483c"
+}

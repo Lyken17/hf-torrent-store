@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--shiviguptta--controllora_coco-README.md--930b31c3004aa2d47c6c3f160ea1d090fb7cb8fc",
+    "image_control.png": "models--shiviguptta--controllora_coco-image_control.png--8369b04dc80fd4726b9cba572dd97a9b3672b6df",
+    "images_2.png": "models--shiviguptta--controllora_coco-images_2.png--0b2a087453634f8a80a702a82c6f291da4f63a61186a394f73530ec6904c9559",
+    "images_0.png": "models--shiviguptta--controllora_coco-images_0.png--b10766ecccca01ac0d32e855e00227c6d40d2dd57ea04c2f496d7f7c622e9706",
+    "images_1.png": "models--shiviguptta--controllora_coco-images_1.png--46453832fbb04746de0b5d6b7a4e413622733bac048bb1c3020754d8fc5deec0",
+    "diffusion_pytorch_model.safetensors": "models--shiviguptta--controllora_coco-diffusion_pytorch_model.safetensors--7528390cb28c26efc3e5b1d931bfce441d159b36722a38c7f51c631808bb9b37",
+    "config.json": "models--shiviguptta--controllora_coco-config.json--6cc9408a7965990550c2713a248e0e29c01e55b4",
+    ".gitattributes": "models--shiviguptta--controllora_coco-.gitattributes--dad60b4a1f88f4de5bd65ea12f26fc9f6eeed088"
+  },
+  "uuid2fpath": {
+    "models--shiviguptta--controllora_coco-README.md--930b31c3004aa2d47c6c3f160ea1d090fb7cb8fc": "README.md",
+    "models--shiviguptta--controllora_coco-image_control.png--8369b04dc80fd4726b9cba572dd97a9b3672b6df": "image_control.png",
+    "models--shiviguptta--controllora_coco-images_2.png--0b2a087453634f8a80a702a82c6f291da4f63a61186a394f73530ec6904c9559": "images_2.png",
+    "models--shiviguptta--controllora_coco-images_0.png--b10766ecccca01ac0d32e855e00227c6d40d2dd57ea04c2f496d7f7c622e9706": "images_0.png",
+    "models--shiviguptta--controllora_coco-images_1.png--46453832fbb04746de0b5d6b7a4e413622733bac048bb1c3020754d8fc5deec0": "images_1.png",
+    "models--shiviguptta--controllora_coco-diffusion_pytorch_model.safetensors--7528390cb28c26efc3e5b1d931bfce441d159b36722a38c7f51c631808bb9b37": "diffusion_pytorch_model.safetensors",
+    "models--shiviguptta--controllora_coco-config.json--6cc9408a7965990550c2713a248e0e29c01e55b4": "config.json",
+    "models--shiviguptta--controllora_coco-.gitattributes--dad60b4a1f88f4de5bd65ea12f26fc9f6eeed088": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:52:17 (Asia/Shanghai)",
+  "lastest-commit": "da0cacb31a5791f86363a8ab369a7aa2e857538c"
+}

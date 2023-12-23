@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--microsoft--layoutlmv3-base-tf_model.h5--0e8ef2140ebbfb261a441cded24114ca32eaeb6ca4485aa06e81be7bdd790d40",
+    "merges.txt": "models--microsoft--layoutlmv3-base-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "tokenizer_config.json": "models--microsoft--layoutlmv3-base-tokenizer_config.json--7cfd8adde9cd57d6511e3fb0f89de48386d62406",
+    "README.md": "models--microsoft--layoutlmv3-base-README.md--4e173911c7aa0b0afdbcac8a3bb0095ba6bc45d5",
+    "vocab.json": "models--microsoft--layoutlmv3-base-vocab.json--0a39732b2d8be8e493cab3da68b68cc3e28221de",
+    "model.onnx": "models--microsoft--layoutlmv3-base-model.onnx--e8d1f8e133bc7e727ec873b400fa31b226a488bccf392c1fc97ec5e0bdbba96a",
+    "preprocessor_config.json": "models--microsoft--layoutlmv3-base-preprocessor_config.json--a0bc8712d624b7bf0338f7df42f66641170ef581",
+    "pytorch_model.bin": "models--microsoft--layoutlmv3-base-pytorch_model.bin--3b631333e3cbcbef18801873b9f53c19bffddfd88922d805e7d309d7c019941f",
+    "config.json": "models--microsoft--layoutlmv3-base-config.json--ec0aa732969695a03b4694f4119ff44f5b477d61",
+    ".gitattributes": "models--microsoft--layoutlmv3-base-.gitattributes--64f23e0770da589d2949e1c24149405f5eda3d68"
+  },
+  "uuid2fpath": {
+    "models--microsoft--layoutlmv3-base-tf_model.h5--0e8ef2140ebbfb261a441cded24114ca32eaeb6ca4485aa06e81be7bdd790d40": "tf_model.h5",
+    "models--microsoft--layoutlmv3-base-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--microsoft--layoutlmv3-base-tokenizer_config.json--7cfd8adde9cd57d6511e3fb0f89de48386d62406": "tokenizer_config.json",
+    "models--microsoft--layoutlmv3-base-README.md--4e173911c7aa0b0afdbcac8a3bb0095ba6bc45d5": "README.md",
+    "models--microsoft--layoutlmv3-base-vocab.json--0a39732b2d8be8e493cab3da68b68cc3e28221de": "vocab.json",
+    "models--microsoft--layoutlmv3-base-model.onnx--e8d1f8e133bc7e727ec873b400fa31b226a488bccf392c1fc97ec5e0bdbba96a": "model.onnx",
+    "models--microsoft--layoutlmv3-base-preprocessor_config.json--a0bc8712d624b7bf0338f7df42f66641170ef581": "preprocessor_config.json",
+    "models--microsoft--layoutlmv3-base-pytorch_model.bin--3b631333e3cbcbef18801873b9f53c19bffddfd88922d805e7d309d7c019941f": "pytorch_model.bin",
+    "models--microsoft--layoutlmv3-base-config.json--ec0aa732969695a03b4694f4119ff44f5b477d61": "config.json",
+    "models--microsoft--layoutlmv3-base-.gitattributes--64f23e0770da589d2949e1c24149405f5eda3d68": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 02:05:20 (Asia/Shanghai)",
+  "lastest-commit": "ba7716c277fb9b49bba6c3c4cad84123b689acf2"
+}

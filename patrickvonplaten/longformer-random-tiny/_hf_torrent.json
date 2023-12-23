@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--patrickvonplaten--longformer-random-tiny-tf_model.h5--0c7d7a6d6c6f3bf390562f2186597f7017d2c7c5814629b8951dcc060b04de7b",
+    "model.safetensors": "models--patrickvonplaten--longformer-random-tiny-model.safetensors--1569f594e1a38aa65d2c67e7711885aaf6daffc6",
+    "pytorch_model.bin": "models--patrickvonplaten--longformer-random-tiny-pytorch_model.bin--7fbb6f305da1600343d0c19abf3c25a78ecb01b89293c4a4be378c9bcae823fb",
+    "config.json": "models--patrickvonplaten--longformer-random-tiny-config.json--631d875616f2ec06f0f9a31a53a50e6ddda8bdf8",
+    ".gitattributes": "models--patrickvonplaten--longformer-random-tiny-.gitattributes--dc08351d4dc0732d9c8af04070ced089b201ce2f"
+  },
+  "uuid2fpath": {
+    "models--patrickvonplaten--longformer-random-tiny-tf_model.h5--0c7d7a6d6c6f3bf390562f2186597f7017d2c7c5814629b8951dcc060b04de7b": "tf_model.h5",
+    "models--patrickvonplaten--longformer-random-tiny-model.safetensors--1569f594e1a38aa65d2c67e7711885aaf6daffc6": "model.safetensors",
+    "models--patrickvonplaten--longformer-random-tiny-pytorch_model.bin--7fbb6f305da1600343d0c19abf3c25a78ecb01b89293c4a4be378c9bcae823fb": "pytorch_model.bin",
+    "models--patrickvonplaten--longformer-random-tiny-config.json--631d875616f2ec06f0f9a31a53a50e6ddda8bdf8": "config.json",
+    "models--patrickvonplaten--longformer-random-tiny-.gitattributes--dc08351d4dc0732d9c8af04070ced089b201ce2f": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 20:52:46 (Asia/Shanghai)",
+  "lastest-commit": "d85d8ea5b5fc2d251fc8e3e01d1511f4bd23b48c"
+}

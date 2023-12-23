@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "hifigan.json": "models--facebook--tts_transformer-zh-cv7_css10-hifigan.json--ce97366f7dee6dd4148ac1e0e369a33cd4f200f7",
+    "spm_char.txt": "models--facebook--tts_transformer-zh-cv7_css10-spm_char.txt--1fc7c2612671a9821c19fc2055b388377ecd6225",
+    "config.yaml": "models--facebook--tts_transformer-zh-cv7_css10-config.yaml--45e4666326ce06125aa07bdf685fbc4c19dae8a3",
+    "hifigan.bin": "models--facebook--tts_transformer-zh-cv7_css10-hifigan.bin--cb49091e18de9d48ce62e4bd387d023d6355d694965a71b23c5ab0b72c18b165",
+    "speakers.txt": "models--facebook--tts_transformer-zh-cv7_css10-speakers.txt--f98786ef973b715f2282638fcceb45e9d48e01e1aee68e3ef0945d6e05ac5ab5",
+    "spm_char.model": "models--facebook--tts_transformer-zh-cv7_css10-spm_char.model--0ca73045d251a914b88a420e82a1833c328ed910aee7c90a9d5fdd046cb3e59f",
+    "model.pt": "models--facebook--tts_transformer-zh-cv7_css10-model.pt--2996e6e589c1ed834a2f49a7e0478240dcdd49d6f2dd0d026f71741b875b458d",
+    "README.md": "models--facebook--tts_transformer-zh-cv7_css10-README.md--69bc017495386088eb251464bba10e65a819fa47",
+    "gcmvn_stats.npz": "models--facebook--tts_transformer-zh-cv7_css10-gcmvn_stats.npz--87bc624f6263fc1e07c0f10f5e7ed98bbd3dc870",
+    ".gitattributes": "models--facebook--tts_transformer-zh-cv7_css10-.gitattributes--ec954322e106113ae3866e9428256f22971405e5"
+  },
+  "uuid2fpath": {
+    "models--facebook--tts_transformer-zh-cv7_css10-hifigan.json--ce97366f7dee6dd4148ac1e0e369a33cd4f200f7": "hifigan.json",
+    "models--facebook--tts_transformer-zh-cv7_css10-spm_char.txt--1fc7c2612671a9821c19fc2055b388377ecd6225": "spm_char.txt",
+    "models--facebook--tts_transformer-zh-cv7_css10-config.yaml--45e4666326ce06125aa07bdf685fbc4c19dae8a3": "config.yaml",
+    "models--facebook--tts_transformer-zh-cv7_css10-hifigan.bin--cb49091e18de9d48ce62e4bd387d023d6355d694965a71b23c5ab0b72c18b165": "hifigan.bin",
+    "models--facebook--tts_transformer-zh-cv7_css10-speakers.txt--f98786ef973b715f2282638fcceb45e9d48e01e1aee68e3ef0945d6e05ac5ab5": "speakers.txt",
+    "models--facebook--tts_transformer-zh-cv7_css10-spm_char.model--0ca73045d251a914b88a420e82a1833c328ed910aee7c90a9d5fdd046cb3e59f": "spm_char.model",
+    "models--facebook--tts_transformer-zh-cv7_css10-model.pt--2996e6e589c1ed834a2f49a7e0478240dcdd49d6f2dd0d026f71741b875b458d": "model.pt",
+    "models--facebook--tts_transformer-zh-cv7_css10-README.md--69bc017495386088eb251464bba10e65a819fa47": "README.md",
+    "models--facebook--tts_transformer-zh-cv7_css10-gcmvn_stats.npz--87bc624f6263fc1e07c0f10f5e7ed98bbd3dc870": "gcmvn_stats.npz",
+    "models--facebook--tts_transformer-zh-cv7_css10-.gitattributes--ec954322e106113ae3866e9428256f22971405e5": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 00:58:13 (Asia/Shanghai)",
+  "lastest-commit": "d53bcc4df296168dbc1d7c8ae7e831c961d02e5d"
+}

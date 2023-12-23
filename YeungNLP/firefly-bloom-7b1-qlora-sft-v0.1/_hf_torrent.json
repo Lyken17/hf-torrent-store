@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d",
+    "adapter_model.bin": "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-adapter_model.bin--96aadcf56fab259705923f1dc611dab15996221cf8d2c0c12eaab82c24a48a1f",
+    "tokenizer_config.json": "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-tokenizer_config.json--612d97d5aeea6f682ea29c0ee6d1fed2eba39468",
+    "tokenizer.json": "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-tokenizer.json--17a208233d2ee8d8c83b23bc214df737c44806a1919f444e89b31e586cd956ba",
+    "adapter_config.json": "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-adapter_config.json--ebbff6a32b62071c556fed5e59a0bdeffedee373",
+    ".gitattributes": "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-.gitattributes--52373fe24473b1aa44333d318f578ae6bf04b49b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-special_tokens_map.json--fdafe480f024ff444c7492147536765ce5d55a2d": "special_tokens_map.json",
+    "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-adapter_model.bin--96aadcf56fab259705923f1dc611dab15996221cf8d2c0c12eaab82c24a48a1f": "adapter_model.bin",
+    "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-tokenizer_config.json--612d97d5aeea6f682ea29c0ee6d1fed2eba39468": "tokenizer_config.json",
+    "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-tokenizer.json--17a208233d2ee8d8c83b23bc214df737c44806a1919f444e89b31e586cd956ba": "tokenizer.json",
+    "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-adapter_config.json--ebbff6a32b62071c556fed5e59a0bdeffedee373": "adapter_config.json",
+    "models--YeungNLP--firefly-bloom-7b1-qlora-sft-v0.1-.gitattributes--52373fe24473b1aa44333d318f578ae6bf04b49b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:07:47 (Asia/Shanghai)",
+  "lastest-commit": "c23e2ec9d90c55fcf236c925ab053ff3aeedaaf9"
+}

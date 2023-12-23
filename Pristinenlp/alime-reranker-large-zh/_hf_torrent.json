@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--Pristinenlp--alime-reranker-large-zh-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b",
+    "tokenizer_config.json": "models--Pristinenlp--alime-reranker-large-zh-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5",
+    "README.md": "models--Pristinenlp--alime-reranker-large-zh-README.md--81328d4363728e902359b3b5fb87f33c2bc22032",
+    "gitattributes": "models--Pristinenlp--alime-reranker-large-zh-gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "sentencepiece.bpe.model": "models--Pristinenlp--alime-reranker-large-zh-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+    "pytorch_model.bin": "models--Pristinenlp--alime-reranker-large-zh-pytorch_model.bin--9124850b3ed51219c665675e32cd7104efab748d039b0a93a93c390689717505",
+    "config.json": "models--Pristinenlp--alime-reranker-large-zh-config.json--97d7107613233c94b142154bedcb0692a809d0f0",
+    ".gitattributes": "models--Pristinenlp--alime-reranker-large-zh-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--Pristinenlp--alime-reranker-large-zh-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b": "special_tokens_map.json",
+    "models--Pristinenlp--alime-reranker-large-zh-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5": "tokenizer_config.json",
+    "models--Pristinenlp--alime-reranker-large-zh-README.md--81328d4363728e902359b3b5fb87f33c2bc22032": "README.md",
+    "models--Pristinenlp--alime-reranker-large-zh-gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": "gitattributes",
+    "models--Pristinenlp--alime-reranker-large-zh-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865": "sentencepiece.bpe.model",
+    "models--Pristinenlp--alime-reranker-large-zh-pytorch_model.bin--9124850b3ed51219c665675e32cd7104efab748d039b0a93a93c390689717505": "pytorch_model.bin",
+    "models--Pristinenlp--alime-reranker-large-zh-config.json--97d7107613233c94b142154bedcb0692a809d0f0": "config.json",
+    "models--Pristinenlp--alime-reranker-large-zh-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 21:01:35 (Asia/Shanghai)",
+  "lastest-commit": "1a4ceba28a27fec199327a6ab791a043d912260d"
+}

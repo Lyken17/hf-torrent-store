@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00004-of-00005.bin": "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00004-of-00005.bin--f069b4362265840846cc44f3ad125893917fcaa23afa41bf5f7de0ab680969cc",
+    "pytorch_model.bin.index.json": "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model.bin.index.json--abb23d7236576b09f03d41824d7bbda12278a2bba11de17c0aa19f9e8d89cc77",
+    "pytorch_model-00001-of-00005.bin": "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00001-of-00005.bin--bd420eb358a99a5150cb374dec757373d5cc91b0b460ac2eb2d3bfb22888dcf6",
+    "pytorch_model-00003-of-00005.bin": "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00003-of-00005.bin--3c1ab90263be374c6c66cc3f368b943585fc8f40e59571c6c98e1664edea9690",
+    "pytorch_model-00002-of-00005.bin": "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00002-of-00005.bin--a37b91bed13a298130eb8a8a8ae19477cc5ddb6ebd0ee89abe109cb3474d23a7",
+    "pytorch_model-00005-of-00005.bin": "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00005-of-00005.bin--a7fb234990f8f085471fe63b90c1039a48dc904762962d21928764fb91ee9234",
+    "config.json": "models--hf-internal-testing--tiny-random-bert-sharded-config.json--943c38dce9dfe2355c8a207f270d2fd0864d4af3",
+    ".gitattributes": "models--hf-internal-testing--tiny-random-bert-sharded-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00004-of-00005.bin--f069b4362265840846cc44f3ad125893917fcaa23afa41bf5f7de0ab680969cc": "pytorch_model-00004-of-00005.bin",
+    "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model.bin.index.json--abb23d7236576b09f03d41824d7bbda12278a2bba11de17c0aa19f9e8d89cc77": "pytorch_model.bin.index.json",
+    "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00001-of-00005.bin--bd420eb358a99a5150cb374dec757373d5cc91b0b460ac2eb2d3bfb22888dcf6": "pytorch_model-00001-of-00005.bin",
+    "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00003-of-00005.bin--3c1ab90263be374c6c66cc3f368b943585fc8f40e59571c6c98e1664edea9690": "pytorch_model-00003-of-00005.bin",
+    "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00002-of-00005.bin--a37b91bed13a298130eb8a8a8ae19477cc5ddb6ebd0ee89abe109cb3474d23a7": "pytorch_model-00002-of-00005.bin",
+    "models--hf-internal-testing--tiny-random-bert-sharded-pytorch_model-00005-of-00005.bin--a7fb234990f8f085471fe63b90c1039a48dc904762962d21928764fb91ee9234": "pytorch_model-00005-of-00005.bin",
+    "models--hf-internal-testing--tiny-random-bert-sharded-config.json--943c38dce9dfe2355c8a207f270d2fd0864d4af3": "config.json",
+    "models--hf-internal-testing--tiny-random-bert-sharded-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:52:21 (Asia/Shanghai)",
+  "lastest-commit": "6ef72e86254aef4ff42ce3bb4777081310c1c254"
+}

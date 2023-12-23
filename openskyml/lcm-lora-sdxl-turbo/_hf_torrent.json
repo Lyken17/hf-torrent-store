@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "images/image (25).png": "models--openskyml--lcm-lora-sdxl-turbo-images--image (25).png--17e586399d8e3bb5fe964da5e86c4815d8a17a89f86af861f66771ce4e35ae7a",
+    "images/image (26).png": "models--openskyml--lcm-lora-sdxl-turbo-images--image (26).png--f408fe47422d0576598908fc0b3ea2483d6893eb60433bb93d6df04b58b2256a",
+    "lcm-lora-sdxl-turbo.safetensors": "models--openskyml--lcm-lora-sdxl-turbo-lcm-lora-sdxl-turbo.safetensors--a764e6859b6e04047cd761c08ff0cee96413a8e004c9f07707530cd776b19141",
+    "README.md": "models--openskyml--lcm-lora-sdxl-turbo-README.md--b0c3ea51069432f4c564e96d69461d67347214b8",
+    ".gitattributes": "models--openskyml--lcm-lora-sdxl-turbo-.gitattributes--28df5f900b358436f0267334b3e3e9af33f917ba"
+  },
+  "uuid2fpath": {
+    "models--openskyml--lcm-lora-sdxl-turbo-images--image (25).png--17e586399d8e3bb5fe964da5e86c4815d8a17a89f86af861f66771ce4e35ae7a": "images/image (25).png",
+    "models--openskyml--lcm-lora-sdxl-turbo-images--image (26).png--f408fe47422d0576598908fc0b3ea2483d6893eb60433bb93d6df04b58b2256a": "images/image (26).png",
+    "models--openskyml--lcm-lora-sdxl-turbo-lcm-lora-sdxl-turbo.safetensors--a764e6859b6e04047cd761c08ff0cee96413a8e004c9f07707530cd776b19141": "lcm-lora-sdxl-turbo.safetensors",
+    "models--openskyml--lcm-lora-sdxl-turbo-README.md--b0c3ea51069432f4c564e96d69461d67347214b8": "README.md",
+    "models--openskyml--lcm-lora-sdxl-turbo-.gitattributes--28df5f900b358436f0267334b3e3e9af33f917ba": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:41:59 (Asia/Shanghai)",
+  "lastest-commit": "cef4f442db22b10c4599c1ca05082d0850966854"
+}

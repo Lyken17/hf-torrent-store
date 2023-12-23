@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "pytorch_model-00002-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00002-of-00007.bin--ac245286f77cf0c30c88be535bbf16c7190ac27b278988c0cba4cdcc6988d147",
+    "pytorch_model.bin.index.json": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model.bin.index.json--65125b3a55e4f2adb51deaa4888697a3f8c19406",
+    "pytorch_model-00005-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00005-of-00007.bin--2fb3227227321710a64c00bcbeed1b8ac84cae3b5335ad5411feb8a4fe48db65",
+    "pytorch_model-00001-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00001-of-00007.bin--228b4156e069bb4917241ad7cb2ce257750332624489a267b697638b2e8f7b1d",
+    "tokenizer_config.json": "models--deepseek-ai--deepseek-coder-33b-instruct-tokenizer_config.json--68f6f5bd3350366399a8c53d32a602c825390806",
+    "README.md": "models--deepseek-ai--deepseek-coder-33b-instruct-README.md--d924013e09781bd3351016401bda3e072508be7a",
+    "tokenizer.json": "models--deepseek-ai--deepseek-coder-33b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762",
+    "pytorch_model-00004-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00004-of-00007.bin--a99752942fa618a2010ec331a04f918307b635f54411d30ce092374082044f45",
+    "generation_config.json": "models--deepseek-ai--deepseek-coder-33b-instruct-generation_config.json--19a930a8e7a08b1d002e8fa317438423b61fff22",
+    "LICENSE": "models--deepseek-ai--deepseek-coder-33b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f",
+    "config.json": "models--deepseek-ai--deepseek-coder-33b-instruct-config.json--dfa26b3aeeb3c468c427f6d689329fdffa55ccb3",
+    "pytorch_model-00006-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00006-of-00007.bin--16007614be34b8ac283cba1a6759095e89c8603d28b534c8a302165d2e08dccc",
+    "pytorch_model-00007-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00007-of-00007.bin--e76df5547cfdc0a6e2ef50e3f036a969d3dbbf4d5fe1d4007daaf7d961d9a28a",
+    "pytorch_model-00003-of-00007.bin": "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00003-of-00007.bin--2f9159fd588a871a3051494183a0c9b5c4cf6953579a110436e5749b267510da",
+    ".gitattributes": "models--deepseek-ai--deepseek-coder-33b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00002-of-00007.bin--ac245286f77cf0c30c88be535bbf16c7190ac27b278988c0cba4cdcc6988d147": "pytorch_model-00002-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model.bin.index.json--65125b3a55e4f2adb51deaa4888697a3f8c19406": "pytorch_model.bin.index.json",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00005-of-00007.bin--2fb3227227321710a64c00bcbeed1b8ac84cae3b5335ad5411feb8a4fe48db65": "pytorch_model-00005-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00001-of-00007.bin--228b4156e069bb4917241ad7cb2ce257750332624489a267b697638b2e8f7b1d": "pytorch_model-00001-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-tokenizer_config.json--68f6f5bd3350366399a8c53d32a602c825390806": "tokenizer_config.json",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-README.md--d924013e09781bd3351016401bda3e072508be7a": "README.md",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762": "tokenizer.json",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00004-of-00007.bin--a99752942fa618a2010ec331a04f918307b635f54411d30ce092374082044f45": "pytorch_model-00004-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-generation_config.json--19a930a8e7a08b1d002e8fa317438423b61fff22": "generation_config.json",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f": "LICENSE",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-config.json--dfa26b3aeeb3c468c427f6d689329fdffa55ccb3": "config.json",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00006-of-00007.bin--16007614be34b8ac283cba1a6759095e89c8603d28b534c8a302165d2e08dccc": "pytorch_model-00006-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00007-of-00007.bin--e76df5547cfdc0a6e2ef50e3f036a969d3dbbf4d5fe1d4007daaf7d961d9a28a": "pytorch_model-00007-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-pytorch_model-00003-of-00007.bin--2f9159fd588a871a3051494183a0c9b5c4cf6953579a110436e5749b267510da": "pytorch_model-00003-of-00007.bin",
+    "models--deepseek-ai--deepseek-coder-33b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:05:56 (Asia/Shanghai)",
+  "lastest-commit": "ea15d17db84d1fc94ac5cba8e6fa97764c9549d3"
+}

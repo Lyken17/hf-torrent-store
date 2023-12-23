@@ -1,0 +1,30 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4",
+    "added_tokens.json": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532",
+    "special_tokens_map.json": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca",
+    "pytorch_model-00002-of-00002.bin": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-pytorch_model-00002-of-00002.bin--8997e3d797992c500e44ce4a78655a22ae99f16970db255869690a81af2904e4",
+    "tokenizer_config.json": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-tokenizer_config.json--a9608c18368845f604b2c21d933478ac96efc323",
+    "tokenizer.model": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-README.md--fa59ca79bda69b0aae7a75d48070c92b7d96d0bd",
+    "pytorch_model-00001-of-00002.bin": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-pytorch_model-00001-of-00002.bin--2e93a334cc0e9583221120b18056445e3d01307b78baed6609a9fffebbeed784",
+    "generation_config.json": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-generation_config.json--b49055657f740368853af9333ec76feeaf96e6b6",
+    "config.json": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-config.json--313927846a50e22f215f124c0196522e41915ab0",
+    ".gitattributes": "models--YeungNLP--LongQLoRA-Llama2-7b-8k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-pytorch_model.bin.index.json--db7264b24cac7a39947bb5fc02fe5c2d7ac9eaf4": "pytorch_model.bin.index.json",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532": "added_tokens.json",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-special_tokens_map.json--f928b2409a393d47ce0d9fe519f17e048a471eca": "special_tokens_map.json",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-pytorch_model-00002-of-00002.bin--8997e3d797992c500e44ce4a78655a22ae99f16970db255869690a81af2904e4": "pytorch_model-00002-of-00002.bin",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-tokenizer_config.json--a9608c18368845f604b2c21d933478ac96efc323": "tokenizer_config.json",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-README.md--fa59ca79bda69b0aae7a75d48070c92b7d96d0bd": "README.md",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-pytorch_model-00001-of-00002.bin--2e93a334cc0e9583221120b18056445e3d01307b78baed6609a9fffebbeed784": "pytorch_model-00001-of-00002.bin",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-generation_config.json--b49055657f740368853af9333ec76feeaf96e6b6": "generation_config.json",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-config.json--313927846a50e22f215f124c0196522e41915ab0": "config.json",
+    "models--YeungNLP--LongQLoRA-Llama2-7b-8k-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 02:04:54 (Asia/Shanghai)",
+  "lastest-commit": "d29069d302700fcbd9322c4b4189a0eac4bccaa7"
+}

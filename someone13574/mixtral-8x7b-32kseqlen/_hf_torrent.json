@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "consolidated.00.pth-split0": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split0--326de7ea2762ca91e8871139873bbdff45828ddb743d6bba159d9476268cec25",
+    "params.json": "models--someone13574--mixtral-8x7b-32kseqlen-params.json--f1016aa890d8e5f09fe56df7b2b7525f7d04b3ae",
+    "consolidated.00.pth-split6": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split6--0f0ce3cc45624919a31c762ca4363c7521c95263145399fe7be21036c022f9ba",
+    "consolidated.00.pth-split7": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split7--ee3546832dffacfcf53eed0752790468cab0df875368aef3c6f036a8ef23cfee",
+    "consolidated.00.pth-split3": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split3--03fb22e87becca43f2ff3ac68169595545383bd740339654dd3ee3e709a0d4f9",
+    "consolidated.00.pth-split4": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split4--aa2459ef3351e58c467d882bf42ced46a4239243b2afcb6ca9cf8a4a41df6f09",
+    "RELEASE": "models--someone13574--mixtral-8x7b-32kseqlen-RELEASE--0ff6fd9fe68222577f2b286976060837a20df47c",
+    "tokenizer.model": "models--someone13574--mixtral-8x7b-32kseqlen-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "consolidated.00.pth-split10": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split10--6fcb904b54b26cdac1db8085c30abc65079a4c90cb06a784c39b9f54e8e7bb71",
+    "README.md": "models--someone13574--mixtral-8x7b-32kseqlen-README.md--ef5ef976394740609348145c9190ddbaa309fb5b",
+    "consolidated.00.pth-split2": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split2--807b4f1bdb51df32d60c93bc2538fb76716deb42f6fa812028e8ae97422b6b1f",
+    "consolidated.00.pth-split1": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split1--6dcf104861631b562053ba37d809b53cd7190703ea4f6f8379db324a29f0525e",
+    "consolidated.00.pth-split9": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split9--83807544df9b67ed724c40c01189385a181909e5ee51b7f8176d0565558a0b80",
+    "consolidated.00.pth-split8": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split8--069fea7e71c4d27e298b94fbc4376e5af8b854b0449c2cd0adf8e832ab62cffd",
+    "consolidated.00.pth-split5": "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split5--e3775b95b0c363b6da9e7606ae9652d7e227f72a67ff17e54e545bebc35f643a",
+    ".gitattributes": "models--someone13574--mixtral-8x7b-32kseqlen-.gitattributes--fbdc3ffea7a0fe3949782a78653b9eb9239ff16e"
+  },
+  "uuid2fpath": {
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split0--326de7ea2762ca91e8871139873bbdff45828ddb743d6bba159d9476268cec25": "consolidated.00.pth-split0",
+    "models--someone13574--mixtral-8x7b-32kseqlen-params.json--f1016aa890d8e5f09fe56df7b2b7525f7d04b3ae": "params.json",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split6--0f0ce3cc45624919a31c762ca4363c7521c95263145399fe7be21036c022f9ba": "consolidated.00.pth-split6",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split7--ee3546832dffacfcf53eed0752790468cab0df875368aef3c6f036a8ef23cfee": "consolidated.00.pth-split7",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split3--03fb22e87becca43f2ff3ac68169595545383bd740339654dd3ee3e709a0d4f9": "consolidated.00.pth-split3",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split4--aa2459ef3351e58c467d882bf42ced46a4239243b2afcb6ca9cf8a4a41df6f09": "consolidated.00.pth-split4",
+    "models--someone13574--mixtral-8x7b-32kseqlen-RELEASE--0ff6fd9fe68222577f2b286976060837a20df47c": "RELEASE",
+    "models--someone13574--mixtral-8x7b-32kseqlen-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split10--6fcb904b54b26cdac1db8085c30abc65079a4c90cb06a784c39b9f54e8e7bb71": "consolidated.00.pth-split10",
+    "models--someone13574--mixtral-8x7b-32kseqlen-README.md--ef5ef976394740609348145c9190ddbaa309fb5b": "README.md",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split2--807b4f1bdb51df32d60c93bc2538fb76716deb42f6fa812028e8ae97422b6b1f": "consolidated.00.pth-split2",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split1--6dcf104861631b562053ba37d809b53cd7190703ea4f6f8379db324a29f0525e": "consolidated.00.pth-split1",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split9--83807544df9b67ed724c40c01189385a181909e5ee51b7f8176d0565558a0b80": "consolidated.00.pth-split9",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split8--069fea7e71c4d27e298b94fbc4376e5af8b854b0449c2cd0adf8e832ab62cffd": "consolidated.00.pth-split8",
+    "models--someone13574--mixtral-8x7b-32kseqlen-consolidated.00.pth-split5--e3775b95b0c363b6da9e7606ae9652d7e227f72a67ff17e54e545bebc35f643a": "consolidated.00.pth-split5",
+    "models--someone13574--mixtral-8x7b-32kseqlen-.gitattributes--fbdc3ffea7a0fe3949782a78653b9eb9239ff16e": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 19:45:12 (Asia/Shanghai)",
+  "lastest-commit": "1347ea161aa8aee5d5b1aa94d0a072af13c8206d"
+}

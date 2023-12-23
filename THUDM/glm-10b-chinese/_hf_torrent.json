@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "added_tokens.json": "models--THUDM--glm-10b-chinese-added_tokens.json--6e2658734cb4c106183a2e0f65124259769d9702",
+    "tokenizer_config.json": "models--THUDM--glm-10b-chinese-tokenizer_config.json--9b091260641085afc6b867eea24bf665dd976a98",
+    "README.md": "models--THUDM--glm-10b-chinese-README.md--8d4d7183c99856427d07f66a1ed7e6c945b3ea79",
+    "modeling_glm.py": "models--THUDM--glm-10b-chinese-modeling_glm.py--118c7ce4fd150733a817168666afb0ec4a2c0923",
+    "cog-pretrain.model": "models--THUDM--glm-10b-chinese-cog-pretrain.model--6ea6f4164152bc58d23e24e48f7bf4187aad72a32e97ec4b3acc832fe183cbc2",
+    "pytorch_model.bin": "models--THUDM--glm-10b-chinese-pytorch_model.bin--4070e0d118c25d0cd97606a0c9b284e724710ac696ad681e6080307c927cb73f",
+    "configuration_glm.py": "models--THUDM--glm-10b-chinese-configuration_glm.py--509fdfe0d048b4ce6753662662687e2187e6655e",
+    "config.json": "models--THUDM--glm-10b-chinese-config.json--e52e467f7f5c2f95922659e12e99f66f34c7a3f9",
+    "tokenization_glm.py": "models--THUDM--glm-10b-chinese-tokenization_glm.py--b18daa7b251871027f35c843a099fd211aa8d5af",
+    ".gitattributes": "models--THUDM--glm-10b-chinese-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--THUDM--glm-10b-chinese-added_tokens.json--6e2658734cb4c106183a2e0f65124259769d9702": "added_tokens.json",
+    "models--THUDM--glm-10b-chinese-tokenizer_config.json--9b091260641085afc6b867eea24bf665dd976a98": "tokenizer_config.json",
+    "models--THUDM--glm-10b-chinese-README.md--8d4d7183c99856427d07f66a1ed7e6c945b3ea79": "README.md",
+    "models--THUDM--glm-10b-chinese-modeling_glm.py--118c7ce4fd150733a817168666afb0ec4a2c0923": "modeling_glm.py",
+    "models--THUDM--glm-10b-chinese-cog-pretrain.model--6ea6f4164152bc58d23e24e48f7bf4187aad72a32e97ec4b3acc832fe183cbc2": "cog-pretrain.model",
+    "models--THUDM--glm-10b-chinese-pytorch_model.bin--4070e0d118c25d0cd97606a0c9b284e724710ac696ad681e6080307c927cb73f": "pytorch_model.bin",
+    "models--THUDM--glm-10b-chinese-configuration_glm.py--509fdfe0d048b4ce6753662662687e2187e6655e": "configuration_glm.py",
+    "models--THUDM--glm-10b-chinese-config.json--e52e467f7f5c2f95922659e12e99f66f34c7a3f9": "config.json",
+    "models--THUDM--glm-10b-chinese-tokenization_glm.py--b18daa7b251871027f35c843a099fd211aa8d5af": "tokenization_glm.py",
+    "models--THUDM--glm-10b-chinese-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:19:59 (Asia/Shanghai)",
+  "lastest-commit": "01717dd11fb4d3a80c465eee9eb4789bc954046d"
+}

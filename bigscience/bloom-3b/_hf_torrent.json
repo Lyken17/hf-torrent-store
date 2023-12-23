@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--bigscience--bloom-3b-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1",
+    "tokenizer_config.json": "models--bigscience--bloom-3b-tokenizer_config.json--e7016b49fcff7e162946ec012d3c7b4db0b66d87",
+    "README.md": "models--bigscience--bloom-3b-README.md--7766683d7c073ee84ddfc224902a962c26439598",
+    "tokenizer.json": "models--bigscience--bloom-3b-tokenizer.json--3fa39cd4b1500feb205bcce3b9703a4373414cafe4970e0657b413f7ddd2a9d3",
+    "model.safetensors": "models--bigscience--bloom-3b-model.safetensors--89cd2e7c42c4086b91903e557575c9b4319a3bfcb4949e14606bb33af7e76186",
+    "LICENSE": "models--bigscience--bloom-3b-LICENSE--ab1f554e777c9a2075dca946ae706c0ab257a9de",
+    "pytorch_model.bin": "models--bigscience--bloom-3b-pytorch_model.bin--a1b85a3b8b4190072590e8ca0e70086e209fd062698860a102a7df91c22cb5eb",
+    "config.json": "models--bigscience--bloom-3b-config.json--1fc4a0dd20318ada3eee1d33530605ec1e287f52",
+    ".gitattributes": "models--bigscience--bloom-3b-.gitattributes--1fb2995885163929c09b672819a9f8f1a065895c"
+  },
+  "uuid2fpath": {
+    "models--bigscience--bloom-3b-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1": "special_tokens_map.json",
+    "models--bigscience--bloom-3b-tokenizer_config.json--e7016b49fcff7e162946ec012d3c7b4db0b66d87": "tokenizer_config.json",
+    "models--bigscience--bloom-3b-README.md--7766683d7c073ee84ddfc224902a962c26439598": "README.md",
+    "models--bigscience--bloom-3b-tokenizer.json--3fa39cd4b1500feb205bcce3b9703a4373414cafe4970e0657b413f7ddd2a9d3": "tokenizer.json",
+    "models--bigscience--bloom-3b-model.safetensors--89cd2e7c42c4086b91903e557575c9b4319a3bfcb4949e14606bb33af7e76186": "model.safetensors",
+    "models--bigscience--bloom-3b-LICENSE--ab1f554e777c9a2075dca946ae706c0ab257a9de": "LICENSE",
+    "models--bigscience--bloom-3b-pytorch_model.bin--a1b85a3b8b4190072590e8ca0e70086e209fd062698860a102a7df91c22cb5eb": "pytorch_model.bin",
+    "models--bigscience--bloom-3b-config.json--1fc4a0dd20318ada3eee1d33530605ec1e287f52": "config.json",
+    "models--bigscience--bloom-3b-.gitattributes--1fb2995885163929c09b672819a9f8f1a065895c": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 21:04:55 (Asia/Shanghai)",
+  "lastest-commit": "52bc5b43010b4844513826b8be3f78c7344c37d7"
+}

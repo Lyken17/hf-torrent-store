@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--openchat--opencoderplus-pytorch_model.bin.index.json--01751d2ba35ad37c5f8d6d7cf70abf9449323af2",
+    "merges.txt": "models--openchat--opencoderplus-merges.txt--f8479fb696fe07332c55300a6accf8cc191acc6a",
+    "added_tokens.json": "models--openchat--opencoderplus-added_tokens.json--4708185d968abbcd93a43a51cd569d06551a20bf",
+    "special_tokens_map.json": "models--openchat--opencoderplus-special_tokens_map.json--d2a860f03118728db24322afcfff7860b7384c11",
+    "pytorch_model-00001-of-00004.bin": "models--openchat--opencoderplus-pytorch_model-00001-of-00004.bin--c7441188b4ed97f2eac40beabaf1e9fc5b9e2908ecef193210cfdc27627a0e41",
+    "tokenizer_config.json": "models--openchat--opencoderplus-tokenizer_config.json--97ad62a14aeafb0ab000c2f5dac9694b38eaed18",
+    "pytorch_model-00002-of-00004.bin": "models--openchat--opencoderplus-pytorch_model-00002-of-00004.bin--02a25b6227a8baa52f28cbdef5cf9b0897be850cec2e13a29384d21430d6d14c",
+    "README.md": "models--openchat--opencoderplus-README.md--548187c74fccb716741f79ec51f00e5884ae9344",
+    "pytorch_model-00004-of-00004.bin": "models--openchat--opencoderplus-pytorch_model-00004-of-00004.bin--1509161539ba7ce6b228ea951fba88852faf1e3a54558bff88c35a45208f97e8",
+    "pytorch_model-00003-of-00004.bin": "models--openchat--opencoderplus-pytorch_model-00003-of-00004.bin--00d943bd023e738e653a2664708f8c4b51bb81387ca70cfe34982dd42d3b9b16",
+    "generation_config.json": "models--openchat--opencoderplus-generation_config.json--9dd4fbb27b6e7fea9396826918172a35112645b3",
+    "vocab.json": "models--openchat--opencoderplus-vocab.json--48ab7e7430a2d010d0debd9faaf611ac29f96e5a",
+    "config.json": "models--openchat--opencoderplus-config.json--f794c6ab8f2d4a714bf2f5c74f454642ce3999d6",
+    ".gitattributes": "models--openchat--opencoderplus-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--openchat--opencoderplus-pytorch_model.bin.index.json--01751d2ba35ad37c5f8d6d7cf70abf9449323af2": "pytorch_model.bin.index.json",
+    "models--openchat--opencoderplus-merges.txt--f8479fb696fe07332c55300a6accf8cc191acc6a": "merges.txt",
+    "models--openchat--opencoderplus-added_tokens.json--4708185d968abbcd93a43a51cd569d06551a20bf": "added_tokens.json",
+    "models--openchat--opencoderplus-special_tokens_map.json--d2a860f03118728db24322afcfff7860b7384c11": "special_tokens_map.json",
+    "models--openchat--opencoderplus-pytorch_model-00001-of-00004.bin--c7441188b4ed97f2eac40beabaf1e9fc5b9e2908ecef193210cfdc27627a0e41": "pytorch_model-00001-of-00004.bin",
+    "models--openchat--opencoderplus-tokenizer_config.json--97ad62a14aeafb0ab000c2f5dac9694b38eaed18": "tokenizer_config.json",
+    "models--openchat--opencoderplus-pytorch_model-00002-of-00004.bin--02a25b6227a8baa52f28cbdef5cf9b0897be850cec2e13a29384d21430d6d14c": "pytorch_model-00002-of-00004.bin",
+    "models--openchat--opencoderplus-README.md--548187c74fccb716741f79ec51f00e5884ae9344": "README.md",
+    "models--openchat--opencoderplus-pytorch_model-00004-of-00004.bin--1509161539ba7ce6b228ea951fba88852faf1e3a54558bff88c35a45208f97e8": "pytorch_model-00004-of-00004.bin",
+    "models--openchat--opencoderplus-pytorch_model-00003-of-00004.bin--00d943bd023e738e653a2664708f8c4b51bb81387ca70cfe34982dd42d3b9b16": "pytorch_model-00003-of-00004.bin",
+    "models--openchat--opencoderplus-generation_config.json--9dd4fbb27b6e7fea9396826918172a35112645b3": "generation_config.json",
+    "models--openchat--opencoderplus-vocab.json--48ab7e7430a2d010d0debd9faaf611ac29f96e5a": "vocab.json",
+    "models--openchat--opencoderplus-config.json--f794c6ab8f2d4a714bf2f5c74f454642ce3999d6": "config.json",
+    "models--openchat--opencoderplus-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 22:32:18 (Asia/Shanghai)",
+  "lastest-commit": "94dce7e57019f2b0ed8d120622fac1ab5ccaf583"
+}

@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "model-00001-of-00002.safetensors": "models--adept--fuyu-8b-model-00001-of-00002.safetensors--e0360c23415254b77cf052e5dc5b57ecd98f28d65e1e4cb7a222c9fa35e97c0e",
+    "added_tokens.json": "models--adept--fuyu-8b-added_tokens.json--19c0095d8d728b41b4615e3421da97b77516e787",
+    "special_tokens_map.json": "models--adept--fuyu-8b-special_tokens_map.json--27217b2ad6d3ba4353ac6388512294d570840baa",
+    "tokenizer_config.json": "models--adept--fuyu-8b-tokenizer_config.json--823efb773ec8ca9ca0bebd6ca04d3def74d75c47",
+    "chart.png": "models--adept--fuyu-8b-chart.png--332b68df5c2f6d002a11cb4b7d004ea467b2fb13",
+    "tokenizer.model": "models--adept--fuyu-8b-tokenizer.model--407d001d18582959881b30ff39b660d4bd5ee50957d03f57daeeb3059e9db54c",
+    "README.md": "models--adept--fuyu-8b-README.md--f840a26c3565be34b2cd217c04944a6be9e8d038",
+    "architecture.png": "models--adept--fuyu-8b-architecture.png--a4116ea443757871223befa3d048a73d5bcbfeb0",
+    "tokenizer.json": "models--adept--fuyu-8b-tokenizer.json--20119416a890c3fefc86210999fb8189dde194c12f7f861dbb3bc7a922baaabb",
+    "model-00002-of-00002.safetensors": "models--adept--fuyu-8b-model-00002-of-00002.safetensors--eb67849dfa2f360d8bf653386a3cbc36002b8921de62f9916f70872ab929e3eb",
+    "skateboard.png": "models--adept--fuyu-8b-skateboard.png--3a3b08450b879e28dccaf9adcbc9f94693002983",
+    "bus.png": "models--adept--fuyu-8b-bus.png--8994abc458806adf7205e38d1eecbdb205a4e58d",
+    "generation_config.json": "models--adept--fuyu-8b-generation_config.json--9f76a78af01349ecbf5664566201d0fd2b5ab31b",
+    "preprocessor_config.json": "models--adept--fuyu-8b-preprocessor_config.json--1a4775b7601513e3ced68a14d618097636f6c7b7",
+    "model.safetensors.index.json": "models--adept--fuyu-8b-model.safetensors.index.json--3c3f26d31dd03481f0a0f8838b9033bd15836c20",
+    "config.json": "models--adept--fuyu-8b-config.json--d3499d6b1f9f3400d4ad3323c5192b73c0289b91",
+    ".gitattributes": "models--adept--fuyu-8b-.gitattributes--d6bd709a00f330966661994c30c9e8a767025cb0"
+  },
+  "uuid2fpath": {
+    "models--adept--fuyu-8b-model-00001-of-00002.safetensors--e0360c23415254b77cf052e5dc5b57ecd98f28d65e1e4cb7a222c9fa35e97c0e": "model-00001-of-00002.safetensors",
+    "models--adept--fuyu-8b-added_tokens.json--19c0095d8d728b41b4615e3421da97b77516e787": "added_tokens.json",
+    "models--adept--fuyu-8b-special_tokens_map.json--27217b2ad6d3ba4353ac6388512294d570840baa": "special_tokens_map.json",
+    "models--adept--fuyu-8b-tokenizer_config.json--823efb773ec8ca9ca0bebd6ca04d3def74d75c47": "tokenizer_config.json",
+    "models--adept--fuyu-8b-chart.png--332b68df5c2f6d002a11cb4b7d004ea467b2fb13": "chart.png",
+    "models--adept--fuyu-8b-tokenizer.model--407d001d18582959881b30ff39b660d4bd5ee50957d03f57daeeb3059e9db54c": "tokenizer.model",
+    "models--adept--fuyu-8b-README.md--f840a26c3565be34b2cd217c04944a6be9e8d038": "README.md",
+    "models--adept--fuyu-8b-architecture.png--a4116ea443757871223befa3d048a73d5bcbfeb0": "architecture.png",
+    "models--adept--fuyu-8b-tokenizer.json--20119416a890c3fefc86210999fb8189dde194c12f7f861dbb3bc7a922baaabb": "tokenizer.json",
+    "models--adept--fuyu-8b-model-00002-of-00002.safetensors--eb67849dfa2f360d8bf653386a3cbc36002b8921de62f9916f70872ab929e3eb": "model-00002-of-00002.safetensors",
+    "models--adept--fuyu-8b-skateboard.png--3a3b08450b879e28dccaf9adcbc9f94693002983": "skateboard.png",
+    "models--adept--fuyu-8b-bus.png--8994abc458806adf7205e38d1eecbdb205a4e58d": "bus.png",
+    "models--adept--fuyu-8b-generation_config.json--9f76a78af01349ecbf5664566201d0fd2b5ab31b": "generation_config.json",
+    "models--adept--fuyu-8b-preprocessor_config.json--1a4775b7601513e3ced68a14d618097636f6c7b7": "preprocessor_config.json",
+    "models--adept--fuyu-8b-model.safetensors.index.json--3c3f26d31dd03481f0a0f8838b9033bd15836c20": "model.safetensors.index.json",
+    "models--adept--fuyu-8b-config.json--d3499d6b1f9f3400d4ad3323c5192b73c0289b91": "config.json",
+    "models--adept--fuyu-8b-.gitattributes--d6bd709a00f330966661994c30c9e8a767025cb0": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:11:53 (Asia/Shanghai)",
+  "lastest-commit": "f41defefdb89be0d28cac19d94ce216e37cb6be5"
+}

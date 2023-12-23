@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "onnx/model.onnx_data": "models--xlm-roberta-large-onnx--model.onnx_data--1798dab29db9d3fe4193ffa091512730369bd1c1c2041de430e09394d4f57df1",
+    "onnx/special_tokens_map.json": "models--xlm-roberta-large-onnx--special_tokens_map.json--d5698132694f4f1bcff08fa7d937b1701812598e",
+    "onnx/tokenizer_config.json": "models--xlm-roberta-large-onnx--tokenizer_config.json--6de1940d16d38be9877bf7cc228c9377841b311f",
+    "onnx/tokenizer.json": "models--xlm-roberta-large-onnx--tokenizer.json--62c24cdc13d4c9952d63718d6c9fa4c287974249e16b7ade6d5a85e7bbb75626",
+    "onnx/sentencepiece.bpe.model": "models--xlm-roberta-large-onnx--sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+    "onnx/model.onnx": "models--xlm-roberta-large-onnx--model.onnx--bb5a52503a3ef35247f5b5ae6c473aaae60505dd3ffaef56d7b69e2f84683c05",
+    "onnx/config.json": "models--xlm-roberta-large-onnx--config.json--ebc8438f4984c23fe41d3459c8d1ab75ba2f5fcb",
+    "tf_model.h5": "models--xlm-roberta-large-tf_model.h5--a465c8d459fe83e10db5655221e2e7e7b6df3de2216c524399358d17ac7315ea",
+    "README.md": "models--xlm-roberta-large-README.md--353e24dd8962783166f4ffc9841b57c62c3a9849",
+    "tokenizer.json": "models--xlm-roberta-large-tokenizer.json--463f3414782c1c9405828c9b31bfa36dda1f45c5",
+    "model.safetensors": "models--xlm-roberta-large-model.safetensors--2dfa19f172412917cab174da04b46e2134811b723666965fd0aabd97caa6e23b",
+    "sentencepiece.bpe.model": "models--xlm-roberta-large-sentencepiece.bpe.model--db9af13bf09fd3028ca32be90d3fb66d5e470399",
+    "flax_model.msgpack": "models--xlm-roberta-large-flax_model.msgpack--96d19a73ca044be7c23518d2d23154eb0a1e6fb301d3b086e2d80bdfff1391ce",
+    "pytorch_model.bin": "models--xlm-roberta-large-pytorch_model.bin--01e55aa45dbb9164fee19aef60007a1c91d175051c01be1fb15056cfa60f3e53",
+    "config.json": "models--xlm-roberta-large-config.json--8e5fb14e1352fd8fc678a7b293b63cfb5cf091f6",
+    ".gitattributes": "models--xlm-roberta-large-.gitattributes--02ad21b7d01294a7a4b7900ac62f12a81d118a66"
+  },
+  "uuid2fpath": {
+    "models--xlm-roberta-large-onnx--model.onnx_data--1798dab29db9d3fe4193ffa091512730369bd1c1c2041de430e09394d4f57df1": "onnx/model.onnx_data",
+    "models--xlm-roberta-large-onnx--special_tokens_map.json--d5698132694f4f1bcff08fa7d937b1701812598e": "onnx/special_tokens_map.json",
+    "models--xlm-roberta-large-onnx--tokenizer_config.json--6de1940d16d38be9877bf7cc228c9377841b311f": "onnx/tokenizer_config.json",
+    "models--xlm-roberta-large-onnx--tokenizer.json--62c24cdc13d4c9952d63718d6c9fa4c287974249e16b7ade6d5a85e7bbb75626": "onnx/tokenizer.json",
+    "models--xlm-roberta-large-onnx--sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865": "onnx/sentencepiece.bpe.model",
+    "models--xlm-roberta-large-onnx--model.onnx--bb5a52503a3ef35247f5b5ae6c473aaae60505dd3ffaef56d7b69e2f84683c05": "onnx/model.onnx",
+    "models--xlm-roberta-large-onnx--config.json--ebc8438f4984c23fe41d3459c8d1ab75ba2f5fcb": "onnx/config.json",
+    "models--xlm-roberta-large-tf_model.h5--a465c8d459fe83e10db5655221e2e7e7b6df3de2216c524399358d17ac7315ea": "tf_model.h5",
+    "models--xlm-roberta-large-README.md--353e24dd8962783166f4ffc9841b57c62c3a9849": "README.md",
+    "models--xlm-roberta-large-tokenizer.json--463f3414782c1c9405828c9b31bfa36dda1f45c5": "tokenizer.json",
+    "models--xlm-roberta-large-model.safetensors--2dfa19f172412917cab174da04b46e2134811b723666965fd0aabd97caa6e23b": "model.safetensors",
+    "models--xlm-roberta-large-sentencepiece.bpe.model--db9af13bf09fd3028ca32be90d3fb66d5e470399": "sentencepiece.bpe.model",
+    "models--xlm-roberta-large-flax_model.msgpack--96d19a73ca044be7c23518d2d23154eb0a1e6fb301d3b086e2d80bdfff1391ce": "flax_model.msgpack",
+    "models--xlm-roberta-large-pytorch_model.bin--01e55aa45dbb9164fee19aef60007a1c91d175051c01be1fb15056cfa60f3e53": "pytorch_model.bin",
+    "models--xlm-roberta-large-config.json--8e5fb14e1352fd8fc678a7b293b63cfb5cf091f6": "config.json",
+    "models--xlm-roberta-large-.gitattributes--02ad21b7d01294a7a4b7900ac62f12a81d118a66": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:51:57 (Asia/Shanghai)",
+  "lastest-commit": "19638cbb324df1eabdbe808eaaef59da837a5152"
+}

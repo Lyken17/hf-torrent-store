@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "deepsex-34b.Q3_K_M.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q3_K_M.gguf--cec6de2507905395a0ebc03a63e5de8d8a54462576dce9f7556742d05bd4fdb5",
+    "deepsex-34b.Q6_K.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q6_K.gguf--73e2c19d331c253b735d3d96b5648cdf463ce7ae1df053466b958506940b2d44",
+    "deepsex-34b.Q4_K_M.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q4_K_M.gguf--2a28286f85bcb1dc2255d95d8ba633988f27ad0a8818e6e8df2058e5c80b77d4",
+    "deepsex-34b.Q4_0.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q4_0.gguf--39898396b7232470260615e0c787804aa6781ec1aa3d97203cd30db8feb22c6f",
+    "deepsex-34b.Q8_0.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q8_0.gguf--84aa170c16ada0cfc5656e571f8d7890df3b8d778d37b82b32ffc2a9b20865b7",
+    "deepsex-34b.Q3_K_S.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q3_K_S.gguf--6f95cbe5d0fd6d05a31d40bd28718a782e9bf302672b3337b2afaa6463f4bec5",
+    "deepsex-34b.Q5_K_S.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q5_K_S.gguf--4331d406aaf0068fef83b5c6ea62cb4b1e0bc1fc35b4e84f2735a9da6bd95871",
+    "deepsex-34b.Q5_0.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q5_0.gguf--e0eff60912a70dfef243088ba2870a6dae26dba0f9db9e2708b92e1cd41797e4",
+    "README.md": "models--TheBloke--deepsex-34b-GGUF-README.md--5e3dd1ec5fcdc734292cd9aebfc807c4b0ccf482",
+    "deepsex-34b.Q5_K_M.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q5_K_M.gguf--a96386ff116bb08f868847b4b25fe3ee706f27eeb3e8f3657fffcb6ac8c810a5",
+    "deepsex-34b.Q4_K_S.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q4_K_S.gguf--7a4f2ef1ee93297523f88e4db6f2bb000040bf9687aec18535c0caa64f91dbc2",
+    "deepsex-34b.Q3_K_L.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q3_K_L.gguf--4868fccc64ad7b35bc865b759a8a192ef4ac6938e187d843b24fa7d507ffada7",
+    "config.json": "models--TheBloke--deepsex-34b-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e",
+    ".gitattributes": "models--TheBloke--deepsex-34b-GGUF-.gitattributes--01773975aa9b235ab365bd74662be74ae76c6b8b",
+    "deepsex-34b.Q2_K.gguf": "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q2_K.gguf--19097a69a738df17178836c51ddf6a38b3f94ef3bbb8856d5368676c7e1e0eac"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q3_K_M.gguf--cec6de2507905395a0ebc03a63e5de8d8a54462576dce9f7556742d05bd4fdb5": "deepsex-34b.Q3_K_M.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q6_K.gguf--73e2c19d331c253b735d3d96b5648cdf463ce7ae1df053466b958506940b2d44": "deepsex-34b.Q6_K.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q4_K_M.gguf--2a28286f85bcb1dc2255d95d8ba633988f27ad0a8818e6e8df2058e5c80b77d4": "deepsex-34b.Q4_K_M.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q4_0.gguf--39898396b7232470260615e0c787804aa6781ec1aa3d97203cd30db8feb22c6f": "deepsex-34b.Q4_0.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q8_0.gguf--84aa170c16ada0cfc5656e571f8d7890df3b8d778d37b82b32ffc2a9b20865b7": "deepsex-34b.Q8_0.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q3_K_S.gguf--6f95cbe5d0fd6d05a31d40bd28718a782e9bf302672b3337b2afaa6463f4bec5": "deepsex-34b.Q3_K_S.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q5_K_S.gguf--4331d406aaf0068fef83b5c6ea62cb4b1e0bc1fc35b4e84f2735a9da6bd95871": "deepsex-34b.Q5_K_S.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q5_0.gguf--e0eff60912a70dfef243088ba2870a6dae26dba0f9db9e2708b92e1cd41797e4": "deepsex-34b.Q5_0.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-README.md--5e3dd1ec5fcdc734292cd9aebfc807c4b0ccf482": "README.md",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q5_K_M.gguf--a96386ff116bb08f868847b4b25fe3ee706f27eeb3e8f3657fffcb6ac8c810a5": "deepsex-34b.Q5_K_M.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q4_K_S.gguf--7a4f2ef1ee93297523f88e4db6f2bb000040bf9687aec18535c0caa64f91dbc2": "deepsex-34b.Q4_K_S.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q3_K_L.gguf--4868fccc64ad7b35bc865b759a8a192ef4ac6938e187d843b24fa7d507ffada7": "deepsex-34b.Q3_K_L.gguf",
+    "models--TheBloke--deepsex-34b-GGUF-config.json--3d78b09a0a5dcdab6836b4020023cce7d0256e9e": "config.json",
+    "models--TheBloke--deepsex-34b-GGUF-.gitattributes--01773975aa9b235ab365bd74662be74ae76c6b8b": ".gitattributes",
+    "models--TheBloke--deepsex-34b-GGUF-deepsex-34b.Q2_K.gguf--19097a69a738df17178836c51ddf6a38b3f94ef3bbb8856d5368676c7e1e0eac": "deepsex-34b.Q2_K.gguf"
+  },
+  "lastest-generated": "2023-12-23 02:36:44 (Asia/Shanghai)",
+  "lastest-commit": "faee39a594bff5f850b7b20f9c964c94cab1a3ee"
+}

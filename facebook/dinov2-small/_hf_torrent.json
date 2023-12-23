@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--facebook--dinov2-small-README.md--6b3380957df44ed203ec1d5102e1245accbbbba9",
+    "model.safetensors": "models--facebook--dinov2-small-model.safetensors--ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1",
+    "preprocessor_config.json": "models--facebook--dinov2-small-preprocessor_config.json--ff5b47c2edcd1d3556d63c01a65d93b58b9efce1",
+    "pytorch_model.bin": "models--facebook--dinov2-small-pytorch_model.bin--1051e25b2ed69ddad24f3c41e7b6eed6e7f7d012103ea227e47eb82e87dc2050",
+    "config.json": "models--facebook--dinov2-small-config.json--5664b325e6258d3960fad8c4c1cff958f3cc2272",
+    ".gitattributes": "models--facebook--dinov2-small-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--facebook--dinov2-small-README.md--6b3380957df44ed203ec1d5102e1245accbbbba9": "README.md",
+    "models--facebook--dinov2-small-model.safetensors--ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1": "model.safetensors",
+    "models--facebook--dinov2-small-preprocessor_config.json--ff5b47c2edcd1d3556d63c01a65d93b58b9efce1": "preprocessor_config.json",
+    "models--facebook--dinov2-small-pytorch_model.bin--1051e25b2ed69ddad24f3c41e7b6eed6e7f7d012103ea227e47eb82e87dc2050": "pytorch_model.bin",
+    "models--facebook--dinov2-small-config.json--5664b325e6258d3960fad8c4c1cff958f3cc2272": "config.json",
+    "models--facebook--dinov2-small-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:10:20 (Asia/Shanghai)",
+  "lastest-commit": "ed25f3a31f01632728cabb09d1542f84ab7b0056"
+}

@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "adapter_model.bin": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-adapter_model.bin--af87992a5f15213bff8d4ac57a33540b1ef704e9d643e28a93dde80bea0f6c22",
+    "non_lora_trainables.bin": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-non_lora_trainables.bin--9a14fbc6338ab49786f8c67d39e8c249abf5c382c0abb1030a90a8f03257d079",
+    "README.md": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-README.md--82e933306f0c8ada082dbb369a951195d998127f",
+    "LICENSE": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-LICENSE--51089e27e6764fb9f72c06a0f3710699fb6c9448",
+    "trainer_state.json": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-trainer_state.json--7dbd3ba1cd9888d3b6788bad5d3c7be08281053d",
+    "config.json": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-config.json--98b5044dec69085558afa3efb681c5d95b074386",
+    "adapter_config.json": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-adapter_config.json--e2bc483ba7f9e3320601deaf2b47b9c1d45b27ba",
+    ".gitattributes": "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-adapter_model.bin--af87992a5f15213bff8d4ac57a33540b1ef704e9d643e28a93dde80bea0f6c22": "adapter_model.bin",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-non_lora_trainables.bin--9a14fbc6338ab49786f8c67d39e8c249abf5c382c0abb1030a90a8f03257d079": "non_lora_trainables.bin",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-README.md--82e933306f0c8ada082dbb369a951195d998127f": "README.md",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-LICENSE--51089e27e6764fb9f72c06a0f3710699fb6c9448": "LICENSE",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-trainer_state.json--7dbd3ba1cd9888d3b6788bad5d3c7be08281053d": "trainer_state.json",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-config.json--98b5044dec69085558afa3efb681c5d95b074386": "config.json",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-adapter_config.json--e2bc483ba7f9e3320601deaf2b47b9c1d45b27ba": "adapter_config.json",
+    "models--liuhaotian--llava-llama-2-7b-chat-lightning-lora-preview-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 20:12:38 (Asia/Shanghai)",
+  "lastest-commit": "9e8673e2ee6614377ce2d2c71ae15b4258dcf3c8"
+}

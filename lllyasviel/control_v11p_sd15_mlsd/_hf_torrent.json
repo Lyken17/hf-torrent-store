@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "images/control.png": "models--lllyasviel--control_v11p_sd15_mlsd-images--control.png--4c129a9c01a57e14cacef7ecdca5f4ed12cc603e",
+    "images/image_out.png": "models--lllyasviel--control_v11p_sd15_mlsd-images--image_out.png--f5b29cf5d4a8848030b004242663c8a88b01376a",
+    "images/input.png": "models--lllyasviel--control_v11p_sd15_mlsd-images--input.png--95c1390d03bd780eb4e48bfe9698b4d6e92c3251",
+    "diffusion_pytorch_model.fp16.bin": "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.fp16.bin--6c226d3493b6f81f59336b38bc80db1c755ef4b42136dd2b6912b9f99be5d797",
+    "sd.png": "models--lllyasviel--control_v11p_sd15_mlsd-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797",
+    "control_net_mlsd.py": "models--lllyasviel--control_v11p_sd15_mlsd-control_net_mlsd.py--bccbf2d81996e750f0b4c9ce626deed07da2e006",
+    "README.md": "models--lllyasviel--control_v11p_sd15_mlsd-README.md--eb4c566dec84b65f69e382e657654f3605596fa9",
+    "diffusion_pytorch_model.bin": "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.bin--edae7a20db7d6f51e71a15cc61a8018c12857951338bd060f0c07c1bcb95b421",
+    "diffusion_pytorch_model.safetensors": "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.safetensors--acfafe4d73e85b06b6858afd3db4226f65acc60f7cb420fec723ca3372d1f01c",
+    "diffusion_pytorch_model.fp16.safetensors": "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.fp16.safetensors--7ffedf5319792a7ae36209529170bea7bcb76a3cdd2390d35609ccf670814c2e",
+    "config.json": "models--lllyasviel--control_v11p_sd15_mlsd-config.json--6b40740107a1ffa9b6754e47b7fd173853d0141b",
+    ".gitattributes": "models--lllyasviel--control_v11p_sd15_mlsd-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--lllyasviel--control_v11p_sd15_mlsd-images--control.png--4c129a9c01a57e14cacef7ecdca5f4ed12cc603e": "images/control.png",
+    "models--lllyasviel--control_v11p_sd15_mlsd-images--image_out.png--f5b29cf5d4a8848030b004242663c8a88b01376a": "images/image_out.png",
+    "models--lllyasviel--control_v11p_sd15_mlsd-images--input.png--95c1390d03bd780eb4e48bfe9698b4d6e92c3251": "images/input.png",
+    "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.fp16.bin--6c226d3493b6f81f59336b38bc80db1c755ef4b42136dd2b6912b9f99be5d797": "diffusion_pytorch_model.fp16.bin",
+    "models--lllyasviel--control_v11p_sd15_mlsd-sd.png--2eb3a8567e5278cae0d7a29e65e965d09cba4797": "sd.png",
+    "models--lllyasviel--control_v11p_sd15_mlsd-control_net_mlsd.py--bccbf2d81996e750f0b4c9ce626deed07da2e006": "control_net_mlsd.py",
+    "models--lllyasviel--control_v11p_sd15_mlsd-README.md--eb4c566dec84b65f69e382e657654f3605596fa9": "README.md",
+    "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.bin--edae7a20db7d6f51e71a15cc61a8018c12857951338bd060f0c07c1bcb95b421": "diffusion_pytorch_model.bin",
+    "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.safetensors--acfafe4d73e85b06b6858afd3db4226f65acc60f7cb420fec723ca3372d1f01c": "diffusion_pytorch_model.safetensors",
+    "models--lllyasviel--control_v11p_sd15_mlsd-diffusion_pytorch_model.fp16.safetensors--7ffedf5319792a7ae36209529170bea7bcb76a3cdd2390d35609ccf670814c2e": "diffusion_pytorch_model.fp16.safetensors",
+    "models--lllyasviel--control_v11p_sd15_mlsd-config.json--6b40740107a1ffa9b6754e47b7fd173853d0141b": "config.json",
+    "models--lllyasviel--control_v11p_sd15_mlsd-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:42:46 (Asia/Shanghai)",
+  "lastest-commit": "f6d481b1e7346b5067de10288329e64cb4d39537"
+}

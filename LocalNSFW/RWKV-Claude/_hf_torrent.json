@@ -1,0 +1,16 @@
+{
+  "fpath2uuid": {
+    "rwkv-15.pth": "models--LocalNSFW--RWKV-Claude-rwkv-15.pth--0defa11da4146cd6911fd7c82174d85e9d3a7b7d60518d04af36cc77fa6140f1",
+    "README.md": "models--LocalNSFW--RWKV-Claude-README.md--f557873b328441b3d60f4c3d11523c4f76a53c0b",
+    "RWKV-claude-4-World-7B-20230805-ctx65k.pth": "models--LocalNSFW--RWKV-Claude-RWKV-claude-4-World-7B-20230805-ctx65k.pth--8cd25f8a1ab58965993cc47b3b2f99585836eed008a2e44526c258189ea751a6",
+    ".gitattributes": "models--LocalNSFW--RWKV-Claude-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--LocalNSFW--RWKV-Claude-rwkv-15.pth--0defa11da4146cd6911fd7c82174d85e9d3a7b7d60518d04af36cc77fa6140f1": "rwkv-15.pth",
+    "models--LocalNSFW--RWKV-Claude-README.md--f557873b328441b3d60f4c3d11523c4f76a53c0b": "README.md",
+    "models--LocalNSFW--RWKV-Claude-RWKV-claude-4-World-7B-20230805-ctx65k.pth--8cd25f8a1ab58965993cc47b3b2f99585836eed008a2e44526c258189ea751a6": "RWKV-claude-4-World-7B-20230805-ctx65k.pth",
+    "models--LocalNSFW--RWKV-Claude-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:43:23 (Asia/Shanghai)",
+  "lastest-commit": "c5b8419caf629cabf344353ed38b0b5c242f88d1"
+}

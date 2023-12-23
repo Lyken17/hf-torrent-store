@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "yi-chat-6b.f16.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.f16.gguf--44f7c77c1b3d5f71721cb918add07b8be3074f6402acbebf62595682b8c50c77",
+    "yi-chat-6b.Q2_K.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q2_K.gguf--abac18b4508ea281884ed547d0e20edd983c663d536598143b36c05ea58a52fd",
+    "yi-chat-6b.Q3_K_S.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q3_K_S.gguf--df7c60d3020b734160021493cf449f07455b8d651441fd1fb1346e6a5240b525",
+    "yi-chat-6b.Q3_K_L.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q3_K_L.gguf--60055831e231d6fbc767340d487edcc64196820824ce678ea6e7f760cab96487",
+    "yi-chat-6b.Q5_K_M.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q5_K_M.gguf--844ae9b449d4a1cdb985ae87b77e22cbfc6ec09d632bc33e57aada364fff5036",
+    "yi-chat-6b.Q5_K_S.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q5_K_S.gguf--0707bf14e073092545973fdfd8c2de1eafee2d1e0c662103185596f03eb06b16",
+    "yi-chat-6b.Q4_K_S.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q4_K_S.gguf--36cf0d946abbacd8a7d563be1165e8b4c80a41c4b8ce6d213042e697f3b7ad5a",
+    "yi-chat-6b.Q3_K_M.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q3_K_M.gguf--5b84a6d51fbf4ed60889c65cbac646998f54c865e954d0e40ed8d8fb45a37eeb",
+    "README.md": "models--XeIaso--yi-chat-6B-GGUF-README.md--e7cec494da21d51caa65f302fcd98e6af566434c",
+    "yi-chat-6b.Q4_0.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q4_0.gguf--9a1a647d93f0686687bc776e37331fec00b2b0236584a95a9c8d0db6a3784ea3",
+    "yi-chat-6b.Q4_K_M.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q4_K_M.gguf--704cded3bd2af243be46a6f0bd904c8d5418804186bcfc8edbaea912ddd6d06f",
+    "yi-chat-6b.Q8_0.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q8_0.gguf--e98959bfa3bddc221eb45ba9d870174844e7de9e9b8f05e0b953e100e5ebe343",
+    "yi-chat-6b.Q5_0.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q5_0.gguf--de1a19c734c0ef393ad2d55377c042c91195ef240eb7e8150241e21bfaf4b269",
+    "yi-chat-6b.Q6_K.gguf": "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q6_K.gguf--098a0e5b819cfef7ed9ff46cc1d6dcbf9ad7e0dcd610206b0d14b993d50179ab",
+    "config.json": "models--XeIaso--yi-chat-6B-GGUF-config.json--a13e87f6bb1cc40ee2ca29b4eb87229415e78ec1",
+    ".gitattributes": "models--XeIaso--yi-chat-6B-GGUF-.gitattributes--f15b49c2e62c6e52121f7b498c0b245512d97955"
+  },
+  "uuid2fpath": {
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.f16.gguf--44f7c77c1b3d5f71721cb918add07b8be3074f6402acbebf62595682b8c50c77": "yi-chat-6b.f16.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q2_K.gguf--abac18b4508ea281884ed547d0e20edd983c663d536598143b36c05ea58a52fd": "yi-chat-6b.Q2_K.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q3_K_S.gguf--df7c60d3020b734160021493cf449f07455b8d651441fd1fb1346e6a5240b525": "yi-chat-6b.Q3_K_S.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q3_K_L.gguf--60055831e231d6fbc767340d487edcc64196820824ce678ea6e7f760cab96487": "yi-chat-6b.Q3_K_L.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q5_K_M.gguf--844ae9b449d4a1cdb985ae87b77e22cbfc6ec09d632bc33e57aada364fff5036": "yi-chat-6b.Q5_K_M.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q5_K_S.gguf--0707bf14e073092545973fdfd8c2de1eafee2d1e0c662103185596f03eb06b16": "yi-chat-6b.Q5_K_S.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q4_K_S.gguf--36cf0d946abbacd8a7d563be1165e8b4c80a41c4b8ce6d213042e697f3b7ad5a": "yi-chat-6b.Q4_K_S.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q3_K_M.gguf--5b84a6d51fbf4ed60889c65cbac646998f54c865e954d0e40ed8d8fb45a37eeb": "yi-chat-6b.Q3_K_M.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-README.md--e7cec494da21d51caa65f302fcd98e6af566434c": "README.md",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q4_0.gguf--9a1a647d93f0686687bc776e37331fec00b2b0236584a95a9c8d0db6a3784ea3": "yi-chat-6b.Q4_0.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q4_K_M.gguf--704cded3bd2af243be46a6f0bd904c8d5418804186bcfc8edbaea912ddd6d06f": "yi-chat-6b.Q4_K_M.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q8_0.gguf--e98959bfa3bddc221eb45ba9d870174844e7de9e9b8f05e0b953e100e5ebe343": "yi-chat-6b.Q8_0.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q5_0.gguf--de1a19c734c0ef393ad2d55377c042c91195ef240eb7e8150241e21bfaf4b269": "yi-chat-6b.Q5_0.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-yi-chat-6b.Q6_K.gguf--098a0e5b819cfef7ed9ff46cc1d6dcbf9ad7e0dcd610206b0d14b993d50179ab": "yi-chat-6b.Q6_K.gguf",
+    "models--XeIaso--yi-chat-6B-GGUF-config.json--a13e87f6bb1cc40ee2ca29b4eb87229415e78ec1": "config.json",
+    "models--XeIaso--yi-chat-6B-GGUF-.gitattributes--f15b49c2e62c6e52121f7b498c0b245512d97955": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:41:44 (Asia/Shanghai)",
+  "lastest-commit": "19b36de83a3c71447146b47acdcff87a6fef4f40"
+}

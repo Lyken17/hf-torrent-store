@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--TheBloke--zephyr-7B-beta-GPTQ-special_tokens_map.json--8cd5f1eb30d4e97d74cbf915c36db116aea5eca7",
+    "tokenizer_config.json": "models--TheBloke--zephyr-7B-beta-GPTQ-tokenizer_config.json--c57f1bf6ea28d2e3ca4540709beb3a80815c2aab",
+    "all_results.json": "models--TheBloke--zephyr-7B-beta-GPTQ-all_results.json--c9e2649018585a832638e2946afe11419920415b",
+    "quantize_config.json": "models--TheBloke--zephyr-7B-beta-GPTQ-quantize_config.json--c5264e3bfd02436912daa1ace5c7963b84f45198",
+    "tokenizer.model": "models--TheBloke--zephyr-7B-beta-GPTQ-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--TheBloke--zephyr-7B-beta-GPTQ-README.md--18c6f65e5d54e601255d9e6af7a0ec4c2b9491c5",
+    "eval_results.json": "models--TheBloke--zephyr-7B-beta-GPTQ-eval_results.json--529ea489b78090d4008797dc6a2dbd5f18c95d44",
+    "tokenizer.json": "models--TheBloke--zephyr-7B-beta-GPTQ-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "model.safetensors": "models--TheBloke--zephyr-7B-beta-GPTQ-model.safetensors--2a57c77a2bcad11f0953e20010f3bd1aaddd4a843b026c7d51ac67a389d19169",
+    "generation_config.json": "models--TheBloke--zephyr-7B-beta-GPTQ-generation_config.json--d268e34fb9c760c1cb422121c89688e0de1cd55c",
+    "config.json": "models--TheBloke--zephyr-7B-beta-GPTQ-config.json--b7d2dda72db89880db3c94de7d8994a85f404ef6",
+    "train_results.json": "models--TheBloke--zephyr-7B-beta-GPTQ-train_results.json--450c32390a0da58bb287be70c77e662762a829b5",
+    ".gitattributes": "models--TheBloke--zephyr-7B-beta-GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--TheBloke--zephyr-7B-beta-GPTQ-special_tokens_map.json--8cd5f1eb30d4e97d74cbf915c36db116aea5eca7": "special_tokens_map.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-tokenizer_config.json--c57f1bf6ea28d2e3ca4540709beb3a80815c2aab": "tokenizer_config.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-all_results.json--c9e2649018585a832638e2946afe11419920415b": "all_results.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-quantize_config.json--c5264e3bfd02436912daa1ace5c7963b84f45198": "quantize_config.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-README.md--18c6f65e5d54e601255d9e6af7a0ec4c2b9491c5": "README.md",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-eval_results.json--529ea489b78090d4008797dc6a2dbd5f18c95d44": "eval_results.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-model.safetensors--2a57c77a2bcad11f0953e20010f3bd1aaddd4a843b026c7d51ac67a389d19169": "model.safetensors",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-generation_config.json--d268e34fb9c760c1cb422121c89688e0de1cd55c": "generation_config.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-config.json--b7d2dda72db89880db3c94de7d8994a85f404ef6": "config.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-train_results.json--450c32390a0da58bb287be70c77e662762a829b5": "train_results.json",
+    "models--TheBloke--zephyr-7B-beta-GPTQ-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 21:06:48 (Asia/Shanghai)",
+  "lastest-commit": "8128029fba795c423004d08695fdda8491289748"
+}

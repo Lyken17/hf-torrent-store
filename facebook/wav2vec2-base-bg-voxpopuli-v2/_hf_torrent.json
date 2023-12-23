@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--facebook--wav2vec2-base-bg-voxpopuli-v2-README.md--aab3081207ee3fad6baadf601bd4d2723a19e96d",
+    "preprocessor_config.json": "models--facebook--wav2vec2-base-bg-voxpopuli-v2-preprocessor_config.json--8df8da1de6563b3f11638f4df5f2336f4ca94c04",
+    "pytorch_model.bin": "models--facebook--wav2vec2-base-bg-voxpopuli-v2-pytorch_model.bin--d316c3eec80b9e3d34c9450cb88b40ca93b202a3c9c49ad41aa5b0a81dff9bc8",
+    "config.json": "models--facebook--wav2vec2-base-bg-voxpopuli-v2-config.json--237e0c10576e70e4349e655bbab9c47e918f32fd",
+    ".gitattributes": "models--facebook--wav2vec2-base-bg-voxpopuli-v2-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+  },
+  "uuid2fpath": {
+    "models--facebook--wav2vec2-base-bg-voxpopuli-v2-README.md--aab3081207ee3fad6baadf601bd4d2723a19e96d": "README.md",
+    "models--facebook--wav2vec2-base-bg-voxpopuli-v2-preprocessor_config.json--8df8da1de6563b3f11638f4df5f2336f4ca94c04": "preprocessor_config.json",
+    "models--facebook--wav2vec2-base-bg-voxpopuli-v2-pytorch_model.bin--d316c3eec80b9e3d34c9450cb88b40ca93b202a3c9c49ad41aa5b0a81dff9bc8": "pytorch_model.bin",
+    "models--facebook--wav2vec2-base-bg-voxpopuli-v2-config.json--237e0c10576e70e4349e655bbab9c47e918f32fd": "config.json",
+    "models--facebook--wav2vec2-base-bg-voxpopuli-v2-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 21:06:15 (Asia/Shanghai)",
+  "lastest-commit": "e68f7b0567909f8280074b46ad137057aefe2f4c"
+}

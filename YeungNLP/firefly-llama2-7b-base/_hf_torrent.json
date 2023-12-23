@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "pics/token-number.png": "models--YeungNLP--firefly-llama2-7b-base-pics--token-number.png--049a4e4b51a64bc9df77b080b9cf4987d93bb699",
+    "pics/pretrain-data.png": "models--YeungNLP--firefly-llama2-7b-base-pics--pretrain-data.png--9134229b6fc382b33552f52847be485e8ccea72c",
+    "pics/finetune-loss.png": "models--YeungNLP--firefly-llama2-7b-base-pics--finetune-loss.png--9caaadb806aa2a57633736d1581a1f19f4bd02bb",
+    "pics/wechat.png": "models--YeungNLP--firefly-llama2-7b-base-pics--wechat.png--9897f62d3392af868d8413becf8a17cdfb9bfe6a",
+    "pics/firefly_logo.png": "models--YeungNLP--firefly-llama2-7b-base-pics--firefly_logo.png--1ed131d2d391b6cd3b49764eeba878e20f113773",
+    "pics/gongzhonghao.png": "models--YeungNLP--firefly-llama2-7b-base-pics--gongzhonghao.png--86d1e7ec5a268cf1a39b2f780202bea3727b6f24",
+    "pytorch_model.bin.index.json": "models--YeungNLP--firefly-llama2-7b-base-pytorch_model.bin.index.json--fdd5966615fd50ede50917349bb31d9430cc9376",
+    "special_tokens_map.json": "models--YeungNLP--firefly-llama2-7b-base-special_tokens_map.json--9588650714fc017603ed2e0810f032ff0f970aad",
+    "pytorch_model-00002-of-00002.bin": "models--YeungNLP--firefly-llama2-7b-base-pytorch_model-00002-of-00002.bin--8506ebd4de44319cda478b8065aed242dcc3e99c3b052f5039371d06fc169faf",
+    "tokenizer_config.json": "models--YeungNLP--firefly-llama2-7b-base-tokenizer_config.json--5076180410784a5b5cd561378840981c4ee125c1",
+    "tokenizer.model": "models--YeungNLP--firefly-llama2-7b-base-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c",
+    "README.md": "models--YeungNLP--firefly-llama2-7b-base-README.md--9692989fef41fd292f3afa375c8c4e4835a77cea",
+    "pytorch_model-00001-of-00002.bin": "models--YeungNLP--firefly-llama2-7b-base-pytorch_model-00001-of-00002.bin--baeee3ee91178a1604b4262e3e4b9906133d23447437ecf70261309e2cf70d1e",
+    "generation_config.json": "models--YeungNLP--firefly-llama2-7b-base-generation_config.json--29e6facde145c440a35cf7915cbfc285aa630237",
+    "config.json": "models--YeungNLP--firefly-llama2-7b-base-config.json--adae494b34db42f4a63308040a78033ebaeada1c",
+    ".gitattributes": "models--YeungNLP--firefly-llama2-7b-base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--YeungNLP--firefly-llama2-7b-base-pics--token-number.png--049a4e4b51a64bc9df77b080b9cf4987d93bb699": "pics/token-number.png",
+    "models--YeungNLP--firefly-llama2-7b-base-pics--pretrain-data.png--9134229b6fc382b33552f52847be485e8ccea72c": "pics/pretrain-data.png",
+    "models--YeungNLP--firefly-llama2-7b-base-pics--finetune-loss.png--9caaadb806aa2a57633736d1581a1f19f4bd02bb": "pics/finetune-loss.png",
+    "models--YeungNLP--firefly-llama2-7b-base-pics--wechat.png--9897f62d3392af868d8413becf8a17cdfb9bfe6a": "pics/wechat.png",
+    "models--YeungNLP--firefly-llama2-7b-base-pics--firefly_logo.png--1ed131d2d391b6cd3b49764eeba878e20f113773": "pics/firefly_logo.png",
+    "models--YeungNLP--firefly-llama2-7b-base-pics--gongzhonghao.png--86d1e7ec5a268cf1a39b2f780202bea3727b6f24": "pics/gongzhonghao.png",
+    "models--YeungNLP--firefly-llama2-7b-base-pytorch_model.bin.index.json--fdd5966615fd50ede50917349bb31d9430cc9376": "pytorch_model.bin.index.json",
+    "models--YeungNLP--firefly-llama2-7b-base-special_tokens_map.json--9588650714fc017603ed2e0810f032ff0f970aad": "special_tokens_map.json",
+    "models--YeungNLP--firefly-llama2-7b-base-pytorch_model-00002-of-00002.bin--8506ebd4de44319cda478b8065aed242dcc3e99c3b052f5039371d06fc169faf": "pytorch_model-00002-of-00002.bin",
+    "models--YeungNLP--firefly-llama2-7b-base-tokenizer_config.json--5076180410784a5b5cd561378840981c4ee125c1": "tokenizer_config.json",
+    "models--YeungNLP--firefly-llama2-7b-base-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c": "tokenizer.model",
+    "models--YeungNLP--firefly-llama2-7b-base-README.md--9692989fef41fd292f3afa375c8c4e4835a77cea": "README.md",
+    "models--YeungNLP--firefly-llama2-7b-base-pytorch_model-00001-of-00002.bin--baeee3ee91178a1604b4262e3e4b9906133d23447437ecf70261309e2cf70d1e": "pytorch_model-00001-of-00002.bin",
+    "models--YeungNLP--firefly-llama2-7b-base-generation_config.json--29e6facde145c440a35cf7915cbfc285aa630237": "generation_config.json",
+    "models--YeungNLP--firefly-llama2-7b-base-config.json--adae494b34db42f4a63308040a78033ebaeada1c": "config.json",
+    "models--YeungNLP--firefly-llama2-7b-base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:24:44 (Asia/Shanghai)",
+  "lastest-commit": "a621c8724a9c8a67d69f1594c15e4117f6b2d2ce"
+}

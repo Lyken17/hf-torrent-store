@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--bigscience--mt0-xxl-mt-pytorch_model.bin.index.json--554fff47d444c5abf0743152d1c366c1456366d4",
+    "pytorch_model-00006-of-00006.bin": "models--bigscience--mt0-xxl-mt-pytorch_model-00006-of-00006.bin--948d95155746d052b3c06d09d8e46ce3ed6f390279b706b819025e60a01d7ee2",
+    "special_tokens_map.json": "models--bigscience--mt0-xxl-mt-special_tokens_map.json--79ae7ea5bf033de69d0055820c57885e3d377bbb",
+    "pytorch_model-00003-of-00006.bin": "models--bigscience--mt0-xxl-mt-pytorch_model-00003-of-00006.bin--dbddfc4430f8d9d07e0b3da2898cc1163ff13fe1362f2324a7b240e773942142",
+    "pytorch_model-00005-of-00006.bin": "models--bigscience--mt0-xxl-mt-pytorch_model-00005-of-00006.bin--a08b10e4f76d7af780642c704a387bf65e97c922e9a6f0f9740007b3e5b6462d",
+    "tokenizer_config.json": "models--bigscience--mt0-xxl-mt-tokenizer_config.json--dbcf71aae6ac359b69873084d0570d3ada493201",
+    "README.md": "models--bigscience--mt0-xxl-mt-README.md--02f2afbbe41fbb7d5cdebafbec793e5c96f1851c",
+    "tokenizer.json": "models--bigscience--mt0-xxl-mt-tokenizer.json--93c3578052e1605d8332eb961bc08d72e246071974e4cc54aa6991826b802aa5",
+    "pytorch_model-00004-of-00006.bin": "models--bigscience--mt0-xxl-mt-pytorch_model-00004-of-00006.bin--cce121554bd4533277f8158baec7bcf1cbb9056131bdd2d77d6a140bad100ec9",
+    "pytorch_model-00001-of-00006.bin": "models--bigscience--mt0-xxl-mt-pytorch_model-00001-of-00006.bin--eae9fd70f6886b00be3c66e98fb97b2b0d79c05b031b97ad36528736655e9344",
+    "spiece.model": "models--bigscience--mt0-xxl-mt-spiece.model--ef78f86560d809067d12bac6c09f19a462cb3af3f54d2b8acbba26e1433125d6",
+    "config.json": "models--bigscience--mt0-xxl-mt-config.json--497103622a63b46b5545f619da7e526c471e97f1",
+    "pytorch_model-00002-of-00006.bin": "models--bigscience--mt0-xxl-mt-pytorch_model-00002-of-00006.bin--b3b314f3325206d2793d6458b178dda9e58cb7ed22381f8a9192a247f94d3144",
+    ".gitattributes": "models--bigscience--mt0-xxl-mt-.gitattributes--e2e68308705c59d0e047f13c1116ed223f9b7fec"
+  },
+  "uuid2fpath": {
+    "models--bigscience--mt0-xxl-mt-pytorch_model.bin.index.json--554fff47d444c5abf0743152d1c366c1456366d4": "pytorch_model.bin.index.json",
+    "models--bigscience--mt0-xxl-mt-pytorch_model-00006-of-00006.bin--948d95155746d052b3c06d09d8e46ce3ed6f390279b706b819025e60a01d7ee2": "pytorch_model-00006-of-00006.bin",
+    "models--bigscience--mt0-xxl-mt-special_tokens_map.json--79ae7ea5bf033de69d0055820c57885e3d377bbb": "special_tokens_map.json",
+    "models--bigscience--mt0-xxl-mt-pytorch_model-00003-of-00006.bin--dbddfc4430f8d9d07e0b3da2898cc1163ff13fe1362f2324a7b240e773942142": "pytorch_model-00003-of-00006.bin",
+    "models--bigscience--mt0-xxl-mt-pytorch_model-00005-of-00006.bin--a08b10e4f76d7af780642c704a387bf65e97c922e9a6f0f9740007b3e5b6462d": "pytorch_model-00005-of-00006.bin",
+    "models--bigscience--mt0-xxl-mt-tokenizer_config.json--dbcf71aae6ac359b69873084d0570d3ada493201": "tokenizer_config.json",
+    "models--bigscience--mt0-xxl-mt-README.md--02f2afbbe41fbb7d5cdebafbec793e5c96f1851c": "README.md",
+    "models--bigscience--mt0-xxl-mt-tokenizer.json--93c3578052e1605d8332eb961bc08d72e246071974e4cc54aa6991826b802aa5": "tokenizer.json",
+    "models--bigscience--mt0-xxl-mt-pytorch_model-00004-of-00006.bin--cce121554bd4533277f8158baec7bcf1cbb9056131bdd2d77d6a140bad100ec9": "pytorch_model-00004-of-00006.bin",
+    "models--bigscience--mt0-xxl-mt-pytorch_model-00001-of-00006.bin--eae9fd70f6886b00be3c66e98fb97b2b0d79c05b031b97ad36528736655e9344": "pytorch_model-00001-of-00006.bin",
+    "models--bigscience--mt0-xxl-mt-spiece.model--ef78f86560d809067d12bac6c09f19a462cb3af3f54d2b8acbba26e1433125d6": "spiece.model",
+    "models--bigscience--mt0-xxl-mt-config.json--497103622a63b46b5545f619da7e526c471e97f1": "config.json",
+    "models--bigscience--mt0-xxl-mt-pytorch_model-00002-of-00006.bin--b3b314f3325206d2793d6458b178dda9e58cb7ed22381f8a9192a247f94d3144": "pytorch_model-00002-of-00006.bin",
+    "models--bigscience--mt0-xxl-mt-.gitattributes--e2e68308705c59d0e047f13c1116ed223f9b7fec": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 21:54:14 (Asia/Shanghai)",
+  "lastest-commit": "37ebb4fc083eb54509f8b36c810e757e48240381"
+}

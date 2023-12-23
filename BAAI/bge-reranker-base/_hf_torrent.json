@@ -1,0 +1,26 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--BAAI--bge-reranker-base-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b",
+    "tokenizer_config.json": "models--BAAI--bge-reranker-base-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5",
+    "README.md": "models--BAAI--bge-reranker-base-README.md--b3e4bb44cf9972eedac11116bcf551e2185f7c4f",
+    "tokenizer.json": "models--BAAI--bge-reranker-base-tokenizer.json--9eb652ac4e40cc093272bbbe0f55d521cf67570060227109b5cdc20945a4489e",
+    "model.safetensors": "models--BAAI--bge-reranker-base-model.safetensors--ced967c45fd1902eb92716c9ceeca7c95a936770ea9db611f5a841b926e33fbd",
+    "sentencepiece.bpe.model": "models--BAAI--bge-reranker-base-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+    "pytorch_model.bin": "models--BAAI--bge-reranker-base-pytorch_model.bin--5b475bec40425c52229bbc63f9f50e290315c29f4e52c8f8dd404a159c0469fa",
+    "config.json": "models--BAAI--bge-reranker-base-config.json--ff248a5f7d76e27b10778b3c593c9fba1df4c448",
+    ".gitattributes": "models--BAAI--bge-reranker-base-.gitattributes--c4cb545ce9c9bbbff6607aa2f92b4a57a0851402"
+  },
+  "uuid2fpath": {
+    "models--BAAI--bge-reranker-base-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b": "special_tokens_map.json",
+    "models--BAAI--bge-reranker-base-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5": "tokenizer_config.json",
+    "models--BAAI--bge-reranker-base-README.md--b3e4bb44cf9972eedac11116bcf551e2185f7c4f": "README.md",
+    "models--BAAI--bge-reranker-base-tokenizer.json--9eb652ac4e40cc093272bbbe0f55d521cf67570060227109b5cdc20945a4489e": "tokenizer.json",
+    "models--BAAI--bge-reranker-base-model.safetensors--ced967c45fd1902eb92716c9ceeca7c95a936770ea9db611f5a841b926e33fbd": "model.safetensors",
+    "models--BAAI--bge-reranker-base-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865": "sentencepiece.bpe.model",
+    "models--BAAI--bge-reranker-base-pytorch_model.bin--5b475bec40425c52229bbc63f9f50e290315c29f4e52c8f8dd404a159c0469fa": "pytorch_model.bin",
+    "models--BAAI--bge-reranker-base-config.json--ff248a5f7d76e27b10778b3c593c9fba1df4c448": "config.json",
+    "models--BAAI--bge-reranker-base-.gitattributes--c4cb545ce9c9bbbff6607aa2f92b4a57a0851402": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:10:13 (Asia/Shanghai)",
+  "lastest-commit": "6d64eef0e764fd49f21e56bb59d54ed86102024b"
+}

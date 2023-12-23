@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "1_Pooling/config.json": "models--thenlper--gte-large-zh-1_Pooling--config.json--44f6756130a9c447a7275695768c1684efff518d",
+    "modules.json": "models--thenlper--gte-large-zh-modules.json--9764f7d75f4fef753b86e559660000a0a7013a5c",
+    "special_tokens_map.json": "models--thenlper--gte-large-zh-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "sentence_bert_config.json": "models--thenlper--gte-large-zh-sentence_bert_config.json--4eca68d85ecd3034cf4174d8a4033a75344ea62d",
+    "tokenizer_config.json": "models--thenlper--gte-large-zh-tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f",
+    "README.md": "models--thenlper--gte-large-zh-README.md--3e9be8eac889f2d7658dfbd5f4410fb4ddfc5c7b",
+    "tokenizer.json": "models--thenlper--gte-large-zh-tokenizer.json--f059ca4bde6bc13f08db361d4153f4de1fcd855b",
+    "model.safetensors": "models--thenlper--gte-large-zh-model.safetensors--b76b3c6111f02e4e0fab4a620fff21531d364b3e09de536df12ed9d8c75dfb34",
+    "vocab.txt": "models--thenlper--gte-large-zh-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "pytorch_model.bin": "models--thenlper--gte-large-zh-pytorch_model.bin--4da2f368a3b2333f625d7e08b4d4df62a6230d168a309745c2fc8b90cfb9d221",
+    "config.json": "models--thenlper--gte-large-zh-config.json--3b05af877a614bd5b021ae8dc9a7f767dc6418d9",
+    ".gitattributes": "models--thenlper--gte-large-zh-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--thenlper--gte-large-zh-1_Pooling--config.json--44f6756130a9c447a7275695768c1684efff518d": "1_Pooling/config.json",
+    "models--thenlper--gte-large-zh-modules.json--9764f7d75f4fef753b86e559660000a0a7013a5c": "modules.json",
+    "models--thenlper--gte-large-zh-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--thenlper--gte-large-zh-sentence_bert_config.json--4eca68d85ecd3034cf4174d8a4033a75344ea62d": "sentence_bert_config.json",
+    "models--thenlper--gte-large-zh-tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f": "tokenizer_config.json",
+    "models--thenlper--gte-large-zh-README.md--3e9be8eac889f2d7658dfbd5f4410fb4ddfc5c7b": "README.md",
+    "models--thenlper--gte-large-zh-tokenizer.json--f059ca4bde6bc13f08db361d4153f4de1fcd855b": "tokenizer.json",
+    "models--thenlper--gte-large-zh-model.safetensors--b76b3c6111f02e4e0fab4a620fff21531d364b3e09de536df12ed9d8c75dfb34": "model.safetensors",
+    "models--thenlper--gte-large-zh-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--thenlper--gte-large-zh-pytorch_model.bin--4da2f368a3b2333f625d7e08b4d4df62a6230d168a309745c2fc8b90cfb9d221": "pytorch_model.bin",
+    "models--thenlper--gte-large-zh-config.json--3b05af877a614bd5b021ae8dc9a7f767dc6418d9": "config.json",
+    "models--thenlper--gte-large-zh-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 02:38:10 (Asia/Shanghai)",
+  "lastest-commit": "952432e6b99137bbfd8397d5ad92f920be5f22e9"
+}

@@ -1,0 +1,24 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "tokenizer_config.json": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-tokenizer_config.json--8ab2175580e45760875557201e5543019ca3039b",
+    "README.md": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-README.md--b7317110ce981c229ebd7b3b975545de5f35fa30",
+    "model.safetensors": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-model.safetensors--2630f547d018524a7b03506a42c700cbac49e29bdc441845b0615bfb3b5d74d2",
+    "vocab.txt": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-vocab.txt--4e0fdefcccde8187db648276f62a3e79bb3350de",
+    "pytorch_model.bin": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-pytorch_model.bin--bf0dab8ad87bd7c22e85ec71e04f2240804fda6d33196157d6b5923af6ea1201",
+    "config.json": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-config.json--9fb6b0ac2ec49b6556e58b5ed9492eb33166714d",
+    ".gitattributes": "models--ku-nlp--deberta-v2-large-japanese-char-wwm-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-tokenizer_config.json--8ab2175580e45760875557201e5543019ca3039b": "tokenizer_config.json",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-README.md--b7317110ce981c229ebd7b3b975545de5f35fa30": "README.md",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-model.safetensors--2630f547d018524a7b03506a42c700cbac49e29bdc441845b0615bfb3b5d74d2": "model.safetensors",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-vocab.txt--4e0fdefcccde8187db648276f62a3e79bb3350de": "vocab.txt",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-pytorch_model.bin--bf0dab8ad87bd7c22e85ec71e04f2240804fda6d33196157d6b5923af6ea1201": "pytorch_model.bin",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-config.json--9fb6b0ac2ec49b6556e58b5ed9492eb33166714d": "config.json",
+    "models--ku-nlp--deberta-v2-large-japanese-char-wwm-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-23 01:46:40 (Asia/Shanghai)",
+  "lastest-commit": "547b0e8b044fba3f9b84d0ab9f990440bd130c8b"
+}

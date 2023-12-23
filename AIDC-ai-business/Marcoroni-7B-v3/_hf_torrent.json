@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--AIDC-ai-business--Marcoroni-7B-v3-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775",
+    "added_tokens.json": "models--AIDC-ai-business--Marcoroni-7B-v3-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532",
+    "special_tokens_map.json": "models--AIDC-ai-business--Marcoroni-7B-v3-special_tokens_map.json--9131cab615f619848c778b3485ab5f07d94242c4",
+    "pytorch_model-00002-of-00002.bin": "models--AIDC-ai-business--Marcoroni-7B-v3-pytorch_model-00002-of-00002.bin--d9ab08926d6b6f0ec4ebd74176f870c4c890dd2f8fbabf0b4b16a1a4adf7d233",
+    "tokenizer_config.json": "models--AIDC-ai-business--Marcoroni-7B-v3-tokenizer_config.json--46fd2f2f0bf446d820526e559f89c719a9e692a4",
+    "tokenizer.model": "models--AIDC-ai-business--Marcoroni-7B-v3-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "README.md": "models--AIDC-ai-business--Marcoroni-7B-v3-README.md--492877ce3febd498e39512dd38e5e724f7b84989",
+    "tokenizer.json": "models--AIDC-ai-business--Marcoroni-7B-v3-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "pytorch_model-00001-of-00002.bin": "models--AIDC-ai-business--Marcoroni-7B-v3-pytorch_model-00001-of-00002.bin--db67bae24db8107aabdafdd76c79b78079ca62f92d2d316804a2499215d16e51",
+    "generation_config.json": "models--AIDC-ai-business--Marcoroni-7B-v3-generation_config.json--7327bd306f5194519214f3480ea06c6dcd8ceefe",
+    "config.json": "models--AIDC-ai-business--Marcoroni-7B-v3-config.json--227673d4118d71d474cb0f56ff10a9e1a3afe7d1",
+    ".gitattributes": "models--AIDC-ai-business--Marcoroni-7B-v3-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "uuid2fpath": {
+    "models--AIDC-ai-business--Marcoroni-7B-v3-pytorch_model.bin.index.json--520ee2fc9a8659d53be1f9f0a4502c151fc24775": "pytorch_model.bin.index.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-added_tokens.json--cbce74e5c64b97114098962fa58454a57d7fb532": "added_tokens.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-special_tokens_map.json--9131cab615f619848c778b3485ab5f07d94242c4": "special_tokens_map.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-pytorch_model-00002-of-00002.bin--d9ab08926d6b6f0ec4ebd74176f870c4c890dd2f8fbabf0b4b16a1a4adf7d233": "pytorch_model-00002-of-00002.bin",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-tokenizer_config.json--46fd2f2f0bf446d820526e559f89c719a9e692a4": "tokenizer_config.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-README.md--492877ce3febd498e39512dd38e5e724f7b84989": "README.md",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-pytorch_model-00001-of-00002.bin--db67bae24db8107aabdafdd76c79b78079ca62f92d2d316804a2499215d16e51": "pytorch_model-00001-of-00002.bin",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-generation_config.json--7327bd306f5194519214f3480ea06c6dcd8ceefe": "generation_config.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-config.json--227673d4118d71d474cb0f56ff10a9e1a3afe7d1": "config.json",
+    "models--AIDC-ai-business--Marcoroni-7B-v3-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 20:52:41 (Asia/Shanghai)",
+  "lastest-commit": "8fc15109ce538354499e09e82c00e69fb87f60e0"
+}

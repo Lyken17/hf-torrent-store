@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    "rust_model.ot": "models--facebook--m2m100_418M-rust_model.ot--f170f6a277d00b20144fa6dac6ecd781c5a5e66844c022244437dd2da3a83655",
+    "special_tokens_map.json": "models--facebook--m2m100_418M-special_tokens_map.json--c6c3195f9bb7856df9a3fdd0252bcf99ff209f5d",
+    "tokenizer_config.json": "models--facebook--m2m100_418M-tokenizer_config.json--6584fc74f646afb2a408f08e244219bd1434000a",
+    "README.md": "models--facebook--m2m100_418M-README.md--98b99edb1de68441bb0c87a9645c8f2e35ea34d0",
+    "generation_config.json": "models--facebook--m2m100_418M-generation_config.json--ba941101cd3e90b113db16712f4a20372268e767",
+    "vocab.json": "models--facebook--m2m100_418M-vocab.json--380e263bf4efc45fa72251fb19336a9593307bc4",
+    "sentencepiece.bpe.model": "models--facebook--m2m100_418M-sentencepiece.bpe.model--d8f7c76ed2a5e0822be39f0a4f95a55eb19c78f4593ce609e2edbc2aea4d380a",
+    "pytorch_model.bin": "models--facebook--m2m100_418M-pytorch_model.bin--d907ea45e4e4b9db163382a6674f6218b3c59566fe06d77f4055c208b4e87ed1",
+    "config.json": "models--facebook--m2m100_418M-config.json--93359f73052bad5dc918b1d53c1c75e89fd6a257",
+    ".gitattributes": "models--facebook--m2m100_418M-.gitattributes--07f0db3339ad9053dc95b284c4ae14e014efff89"
+  },
+  "uuid2fpath": {
+    "models--facebook--m2m100_418M-rust_model.ot--f170f6a277d00b20144fa6dac6ecd781c5a5e66844c022244437dd2da3a83655": "rust_model.ot",
+    "models--facebook--m2m100_418M-special_tokens_map.json--c6c3195f9bb7856df9a3fdd0252bcf99ff209f5d": "special_tokens_map.json",
+    "models--facebook--m2m100_418M-tokenizer_config.json--6584fc74f646afb2a408f08e244219bd1434000a": "tokenizer_config.json",
+    "models--facebook--m2m100_418M-README.md--98b99edb1de68441bb0c87a9645c8f2e35ea34d0": "README.md",
+    "models--facebook--m2m100_418M-generation_config.json--ba941101cd3e90b113db16712f4a20372268e767": "generation_config.json",
+    "models--facebook--m2m100_418M-vocab.json--380e263bf4efc45fa72251fb19336a9593307bc4": "vocab.json",
+    "models--facebook--m2m100_418M-sentencepiece.bpe.model--d8f7c76ed2a5e0822be39f0a4f95a55eb19c78f4593ce609e2edbc2aea4d380a": "sentencepiece.bpe.model",
+    "models--facebook--m2m100_418M-pytorch_model.bin--d907ea45e4e4b9db163382a6674f6218b3c59566fe06d77f4055c208b4e87ed1": "pytorch_model.bin",
+    "models--facebook--m2m100_418M-config.json--93359f73052bad5dc918b1d53c1c75e89fd6a257": "config.json",
+    "models--facebook--m2m100_418M-.gitattributes--07f0db3339ad9053dc95b284c4ae14e014efff89": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 21:02:02 (Asia/Shanghai)",
+  "lastest-commit": "62d980b8566a7c30e96918baf450d6a7218aadec"
+}

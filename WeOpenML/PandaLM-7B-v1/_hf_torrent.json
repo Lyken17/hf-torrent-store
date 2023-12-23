@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "pytorch_model.bin.index.json": "models--WeOpenML--PandaLM-7B-v1-pytorch_model.bin.index.json--5ab687f86633a36d02ffeeeb17b5bcade7196543",
+    "added_tokens.json": "models--WeOpenML--PandaLM-7B-v1-added_tokens.json--e41416ddd79948246ea2dced6800ea3cd531c424",
+    "special_tokens_map.json": "models--WeOpenML--PandaLM-7B-v1-special_tokens_map.json--318f9131477d72be713dcfee9da3a2e43d7ac8ad",
+    "pytorch_model-00002-of-00002.bin": "models--WeOpenML--PandaLM-7B-v1-pytorch_model-00002-of-00002.bin--a3c9b0faea78f12af1de004852657bcaa66e96dae45b3ec956ffe2ca05f18550",
+    "tokenizer_config.json": "models--WeOpenML--PandaLM-7B-v1-tokenizer_config.json--1cac664f9cb1f79600d2285d4c913210d0458cbf",
+    "tokenizer.model": "models--WeOpenML--PandaLM-7B-v1-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "README.md": "models--WeOpenML--PandaLM-7B-v1-README.md--68841966110a0f7c326aba29d795d93f33b8cbc5",
+    "pytorch_model-00001-of-00002.bin": "models--WeOpenML--PandaLM-7B-v1-pytorch_model-00001-of-00002.bin--14be03feaa48b0ce0129c7e091e1554ce2e752ad34f4aae399c58d8ca9988672",
+    "zero_to_fp32.py": "models--WeOpenML--PandaLM-7B-v1-zero_to_fp32.py--57009f6e2f6bbb54410646db788b43eb4350a83c",
+    "generation_config.json": "models--WeOpenML--PandaLM-7B-v1-generation_config.json--1372199d8db4c7b56921c19c5306013ce5b3c62d",
+    "config.json": "models--WeOpenML--PandaLM-7B-v1-config.json--4f480b732c3c74338059a844c0a83e0985cda6d5",
+    ".gitattributes": "models--WeOpenML--PandaLM-7B-v1-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--WeOpenML--PandaLM-7B-v1-pytorch_model.bin.index.json--5ab687f86633a36d02ffeeeb17b5bcade7196543": "pytorch_model.bin.index.json",
+    "models--WeOpenML--PandaLM-7B-v1-added_tokens.json--e41416ddd79948246ea2dced6800ea3cd531c424": "added_tokens.json",
+    "models--WeOpenML--PandaLM-7B-v1-special_tokens_map.json--318f9131477d72be713dcfee9da3a2e43d7ac8ad": "special_tokens_map.json",
+    "models--WeOpenML--PandaLM-7B-v1-pytorch_model-00002-of-00002.bin--a3c9b0faea78f12af1de004852657bcaa66e96dae45b3ec956ffe2ca05f18550": "pytorch_model-00002-of-00002.bin",
+    "models--WeOpenML--PandaLM-7B-v1-tokenizer_config.json--1cac664f9cb1f79600d2285d4c913210d0458cbf": "tokenizer_config.json",
+    "models--WeOpenML--PandaLM-7B-v1-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--WeOpenML--PandaLM-7B-v1-README.md--68841966110a0f7c326aba29d795d93f33b8cbc5": "README.md",
+    "models--WeOpenML--PandaLM-7B-v1-pytorch_model-00001-of-00002.bin--14be03feaa48b0ce0129c7e091e1554ce2e752ad34f4aae399c58d8ca9988672": "pytorch_model-00001-of-00002.bin",
+    "models--WeOpenML--PandaLM-7B-v1-zero_to_fp32.py--57009f6e2f6bbb54410646db788b43eb4350a83c": "zero_to_fp32.py",
+    "models--WeOpenML--PandaLM-7B-v1-generation_config.json--1372199d8db4c7b56921c19c5306013ce5b3c62d": "generation_config.json",
+    "models--WeOpenML--PandaLM-7B-v1-config.json--4f480b732c3c74338059a844c0a83e0985cda6d5": "config.json",
+    "models--WeOpenML--PandaLM-7B-v1-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 20:42:53 (Asia/Shanghai)",
+  "lastest-commit": "b105eaa0edc4361026968a442c861f931dd9930b"
+}

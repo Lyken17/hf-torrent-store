@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    "README.md": "models--Intel--dpt-hybrid-midas-README.md--4655ca17a45d80f889e7e67a25feeaa27064b49e",
+    "preprocessor_config.json": "models--Intel--dpt-hybrid-midas-preprocessor_config.json--ec702c4d20933ed7c1c05f61b5be8a8213217201",
+    "pytorch_model.bin": "models--Intel--dpt-hybrid-midas-pytorch_model.bin--b6c4d44f9d96ca3fa76dd3bbb153989a60b4ad5526559f3c598562a368d687ec",
+    "config.json": "models--Intel--dpt-hybrid-midas-config.json--05c1754ed8edfb44d5ee0081f46744b81a01d318",
+    ".gitattributes": "models--Intel--dpt-hybrid-midas-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+  },
+  "uuid2fpath": {
+    "models--Intel--dpt-hybrid-midas-README.md--4655ca17a45d80f889e7e67a25feeaa27064b49e": "README.md",
+    "models--Intel--dpt-hybrid-midas-preprocessor_config.json--ec702c4d20933ed7c1c05f61b5be8a8213217201": "preprocessor_config.json",
+    "models--Intel--dpt-hybrid-midas-pytorch_model.bin--b6c4d44f9d96ca3fa76dd3bbb153989a60b4ad5526559f3c598562a368d687ec": "pytorch_model.bin",
+    "models--Intel--dpt-hybrid-midas-config.json--05c1754ed8edfb44d5ee0081f46744b81a01d318": "config.json",
+    "models--Intel--dpt-hybrid-midas-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 23:26:54 (Asia/Shanghai)",
+  "lastest-commit": "530c4509f775419d716ca24ad1e7c6095e8ac2b4"
+}

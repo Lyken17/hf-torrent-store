@@ -1,0 +1,32 @@
+{
+  "fpath2uuid": {
+    "tf_model.h5": "models--EleutherAI--gpt-j-6b-tf_model.h5--b99958d6ecfdab80e1feaa577a0750e247ed5129984f91d819aeac4bd5c9fb08",
+    "merges.txt": "models--EleutherAI--gpt-j-6b-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956",
+    "added_tokens.json": "models--EleutherAI--gpt-j-6b-added_tokens.json--a9d7d93cc226c6364c7e1c58b3a56de9327080cb",
+    "special_tokens_map.json": "models--EleutherAI--gpt-j-6b-special_tokens_map.json--22fabbdda08346a6dfb95b1782a4efb6f876f2c2",
+    "tokenizer_config.json": "models--EleutherAI--gpt-j-6b-tokenizer_config.json--b5c42538c02dc5dfcfaf783388d7922e78a28730",
+    "README.md": "models--EleutherAI--gpt-j-6b-README.md--0191328513fda992fd1ccecc5d7592d0f8ff2e32",
+    "tokenizer.json": "models--EleutherAI--gpt-j-6b-tokenizer.json--47ffebc226205cbdaf3d3047c0b7f64b67620deb",
+    "vocab.json": "models--EleutherAI--gpt-j-6b-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b",
+    "flax_model.msgpack": "models--EleutherAI--gpt-j-6b-flax_model.msgpack--aa31d9d4a2187732f82a98705e9ec24ec424335e323420affd8b9c5cd7a73b17",
+    "pytorch_model.bin": "models--EleutherAI--gpt-j-6b-pytorch_model.bin--0e183edc2025ecfdba4429ba43c960224103b3c3dc26616503cdc2158a3d6c93",
+    "config.json": "models--EleutherAI--gpt-j-6b-config.json--614ae4f4e0b790bb696ca839576b09c279c3b40f",
+    ".gitattributes": "models--EleutherAI--gpt-j-6b-.gitattributes--cefbc1394f3d04a79ceecc9eb31c9fec4511b168"
+  },
+  "uuid2fpath": {
+    "models--EleutherAI--gpt-j-6b-tf_model.h5--b99958d6ecfdab80e1feaa577a0750e247ed5129984f91d819aeac4bd5c9fb08": "tf_model.h5",
+    "models--EleutherAI--gpt-j-6b-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956": "merges.txt",
+    "models--EleutherAI--gpt-j-6b-added_tokens.json--a9d7d93cc226c6364c7e1c58b3a56de9327080cb": "added_tokens.json",
+    "models--EleutherAI--gpt-j-6b-special_tokens_map.json--22fabbdda08346a6dfb95b1782a4efb6f876f2c2": "special_tokens_map.json",
+    "models--EleutherAI--gpt-j-6b-tokenizer_config.json--b5c42538c02dc5dfcfaf783388d7922e78a28730": "tokenizer_config.json",
+    "models--EleutherAI--gpt-j-6b-README.md--0191328513fda992fd1ccecc5d7592d0f8ff2e32": "README.md",
+    "models--EleutherAI--gpt-j-6b-tokenizer.json--47ffebc226205cbdaf3d3047c0b7f64b67620deb": "tokenizer.json",
+    "models--EleutherAI--gpt-j-6b-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b": "vocab.json",
+    "models--EleutherAI--gpt-j-6b-flax_model.msgpack--aa31d9d4a2187732f82a98705e9ec24ec424335e323420affd8b9c5cd7a73b17": "flax_model.msgpack",
+    "models--EleutherAI--gpt-j-6b-pytorch_model.bin--0e183edc2025ecfdba4429ba43c960224103b3c3dc26616503cdc2158a3d6c93": "pytorch_model.bin",
+    "models--EleutherAI--gpt-j-6b-config.json--614ae4f4e0b790bb696ca839576b09c279c3b40f": "config.json",
+    "models--EleutherAI--gpt-j-6b-.gitattributes--cefbc1394f3d04a79ceecc9eb31c9fec4511b168": ".gitattributes"
+  },
+  "lastest-generated": "2023-12-22 20:12:17 (Asia/Shanghai)",
+  "lastest-commit": "47e169305d2e8376be1d31e765533382721b2cc1"
+}
