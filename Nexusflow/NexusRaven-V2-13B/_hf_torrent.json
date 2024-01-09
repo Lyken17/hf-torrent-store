@@ -1,5 +1,6 @@
 {
   "fpath2uuid": {
+    "langdemo.py": "models--Nexusflow--NexusRaven-V2-13B-langdemo.py--114d7de0161ac736e146a8b0e57e227918096907",
     "pytorch_model-00003-of-00003.bin": "models--Nexusflow--NexusRaven-V2-13B-pytorch_model-00003-of-00003.bin--596f0e6308e77a120ef1ec8eb729c98ca71ba0089a16e061a3077e0f122c1ed0",
     "pytorch_model-00001-of-00003.bin": "models--Nexusflow--NexusRaven-V2-13B-pytorch_model-00001-of-00003.bin--80e5fa03fcc88bde6d4bb2ae8c00ba588f9a3af5d4269011b348d61a6a224caf",
     "pytorch_model.bin.index.json": "models--Nexusflow--NexusRaven-V2-13B-pytorch_model.bin.index.json--3125242e8cbf329822a6fdfcac31690d8c5e2c7d",
@@ -9,7 +10,7 @@
     "radar-2.png": "models--Nexusflow--NexusRaven-V2-13B-radar-2.png--b292c7831abf33991637992ea349b3fb9d03aa1b",
     "tokenizer_config.json": "models--Nexusflow--NexusRaven-V2-13B-tokenizer_config.json--0552e08eedb55ab62f7ce1a88462e4217da2aba6",
     "tokenizer.model": "models--Nexusflow--NexusRaven-V2-13B-tokenizer.model--45ccb9c8b6b561889acea59191d66986d314e7cbd6a78abc6e49b139ca91c1e6",
-    "README.md": "models--Nexusflow--NexusRaven-V2-13B-README.md--0e0f11ffbe7197c32da9c903206d462876c5f553",
+    "README.md": "models--Nexusflow--NexusRaven-V2-13B-README.md--8ea806876bf668eb05e2f1802560add9287a5f04",
     "tokenizer.json": "models--Nexusflow--NexusRaven-V2-13B-tokenizer.json--d93bcf4d1531a9fe2ac88d1cbb82713f4c22a230",
     "LICENSE.txt": "models--Nexusflow--NexusRaven-V2-13B-LICENSE.txt--38275ca462729fba9b7fb6bdad28c2d885f9d448",
     "generation_config.json": "models--Nexusflow--NexusRaven-V2-13B-generation_config.json--c7f72333bddec6132a06366c6fd7918519b3a22b",
@@ -19,6 +20,7 @@
     ".gitattributes": "models--Nexusflow--NexusRaven-V2-13B-.gitattributes--96c7b617f4d514afdec3165cbb26c317ffdc90ac"
   },
   "uuid2fpath": {
+    "models--Nexusflow--NexusRaven-V2-13B-langdemo.py--114d7de0161ac736e146a8b0e57e227918096907": "langdemo.py",
     "models--Nexusflow--NexusRaven-V2-13B-pytorch_model-00003-of-00003.bin--596f0e6308e77a120ef1ec8eb729c98ca71ba0089a16e061a3077e0f122c1ed0": "pytorch_model-00003-of-00003.bin",
     "models--Nexusflow--NexusRaven-V2-13B-pytorch_model-00001-of-00003.bin--80e5fa03fcc88bde6d4bb2ae8c00ba588f9a3af5d4269011b348d61a6a224caf": "pytorch_model-00001-of-00003.bin",
     "models--Nexusflow--NexusRaven-V2-13B-pytorch_model.bin.index.json--3125242e8cbf329822a6fdfcac31690d8c5e2c7d": "pytorch_model.bin.index.json",
@@ -28,7 +30,7 @@
     "models--Nexusflow--NexusRaven-V2-13B-radar-2.png--b292c7831abf33991637992ea349b3fb9d03aa1b": "radar-2.png",
     "models--Nexusflow--NexusRaven-V2-13B-tokenizer_config.json--0552e08eedb55ab62f7ce1a88462e4217da2aba6": "tokenizer_config.json",
     "models--Nexusflow--NexusRaven-V2-13B-tokenizer.model--45ccb9c8b6b561889acea59191d66986d314e7cbd6a78abc6e49b139ca91c1e6": "tokenizer.model",
-    "models--Nexusflow--NexusRaven-V2-13B-README.md--0e0f11ffbe7197c32da9c903206d462876c5f553": "README.md",
+    "models--Nexusflow--NexusRaven-V2-13B-README.md--8ea806876bf668eb05e2f1802560add9287a5f04": "README.md",
     "models--Nexusflow--NexusRaven-V2-13B-tokenizer.json--d93bcf4d1531a9fe2ac88d1cbb82713f4c22a230": "tokenizer.json",
     "models--Nexusflow--NexusRaven-V2-13B-LICENSE.txt--38275ca462729fba9b7fb6bdad28c2d885f9d448": "LICENSE.txt",
     "models--Nexusflow--NexusRaven-V2-13B-generation_config.json--c7f72333bddec6132a06366c6fd7918519b3a22b": "generation_config.json",
@@ -37,6 +39,6 @@
     "models--Nexusflow--NexusRaven-V2-13B-pytorch_model-00002-of-00003.bin--e3deae207791fb9cd245ded0ecb443e7664fe7269550c59cc693841cda1409c9": "pytorch_model-00002-of-00003.bin",
     "models--Nexusflow--NexusRaven-V2-13B-.gitattributes--96c7b617f4d514afdec3165cbb26c317ffdc90ac": ".gitattributes"
   },
-  "lastest-generated": "2023-12-20 17:16:25 (Asia/Shanghai)",
-  "lastest-commit": "c88dbd198b8244790e687371a20dce09a6dc0fbc"
+  "lastest-generated": "2024-01-10 02:34:42 (Asia/Shanghai)",
+  "lastest-commit": "d7f2b784d1c3281486077cd81d42d09871128512"
 }
