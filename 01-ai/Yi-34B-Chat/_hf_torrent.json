@@ -6,7 +6,7 @@
     "model-00002-of-00015.safetensors": "models--01-ai--Yi-34B-Chat-model-00002-of-00015.safetensors--556759759c6d61ef7bbfe769f0ee8bfc6d1f18a1de3a6d66272ebf7d2831e1de",
     "tokenizer_config.json": "models--01-ai--Yi-34B-Chat-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0",
     "tokenizer.model": "models--01-ai--Yi-34B-Chat-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39",
-    "README.md": "models--01-ai--Yi-34B-Chat-README.md--1ebe7de86184a60732158256f3b394fe96df74ff",
+    "README.md": "models--01-ai--Yi-34B-Chat-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e",
     "model-00010-of-00015.safetensors": "models--01-ai--Yi-34B-Chat-model-00010-of-00015.safetensors--1eb033a01ef19c1aaa65a709a057ae1892e7d1445071a7cfb5d62e3d5a46c48a",
     "model-00007-of-00015.safetensors": "models--01-ai--Yi-34B-Chat-model-00007-of-00015.safetensors--e00f7255a5cf495b4ebba2e050ca04de44baa93b809f4ba21b8125274689adee",
     "generation_config.json": "models--01-ai--Yi-34B-Chat-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0",
@@ -32,7 +32,7 @@
     "models--01-ai--Yi-34B-Chat-model-00002-of-00015.safetensors--556759759c6d61ef7bbfe769f0ee8bfc6d1f18a1de3a6d66272ebf7d2831e1de": "model-00002-of-00015.safetensors",
     "models--01-ai--Yi-34B-Chat-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0": "tokenizer_config.json",
     "models--01-ai--Yi-34B-Chat-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39": "tokenizer.model",
-    "models--01-ai--Yi-34B-Chat-README.md--1ebe7de86184a60732158256f3b394fe96df74ff": "README.md",
+    "models--01-ai--Yi-34B-Chat-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e": "README.md",
     "models--01-ai--Yi-34B-Chat-model-00010-of-00015.safetensors--1eb033a01ef19c1aaa65a709a057ae1892e7d1445071a7cfb5d62e3d5a46c48a": "model-00010-of-00015.safetensors",
     "models--01-ai--Yi-34B-Chat-model-00007-of-00015.safetensors--e00f7255a5cf495b4ebba2e050ca04de44baa93b809f4ba21b8125274689adee": "model-00007-of-00015.safetensors",
     "models--01-ai--Yi-34B-Chat-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0": "generation_config.json",
@@ -51,6 +51,6 @@
     "models--01-ai--Yi-34B-Chat-model-00012-of-00015.safetensors--ad943c29e43742fdc156bd77340be89672ff6dff953a748a3a6575b8085d1a4f": "model-00012-of-00015.safetensors",
     "models--01-ai--Yi-34B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
   },
-  "lastest-generated": "2023-12-21 10:15:59 (Asia/Shanghai)",
-  "lastest-commit": "c38982e2285d3e8e33b703b750eb67405774ae17"
+  "lastest-generated": "2024-01-10 01:14:31 (Asia/Shanghai)",
+  "lastest-commit": "6d26c6c96f3f4d4166982fc9a169adeea46fc1a1"
 }

@@ -4,7 +4,7 @@
     "model-00002-of-00003.safetensors": "models--01-ai--Yi-6B-Chat-model-00002-of-00003.safetensors--1abf84803fb5b2d88371508b35ac110243476c5b4bf0954a34232444b5f9016d",
     "tokenizer_config.json": "models--01-ai--Yi-6B-Chat-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0",
     "tokenizer.model": "models--01-ai--Yi-6B-Chat-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39",
-    "README.md": "models--01-ai--Yi-6B-Chat-README.md--fd274e85918d7fcf07ebdad847bb1fa9fc4f26b2",
+    "README.md": "models--01-ai--Yi-6B-Chat-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e",
     "generation_config.json": "models--01-ai--Yi-6B-Chat-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0",
     "model-00003-of-00003.safetensors": "models--01-ai--Yi-6B-Chat-model-00003-of-00003.safetensors--fffff0a2775222906785b875c6d662831cd6342dee3d9877e2b7732c7d2ba4d2",
     "LICENSE": "models--01-ai--Yi-6B-Chat-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0",
@@ -18,7 +18,7 @@
     "models--01-ai--Yi-6B-Chat-model-00002-of-00003.safetensors--1abf84803fb5b2d88371508b35ac110243476c5b4bf0954a34232444b5f9016d": "model-00002-of-00003.safetensors",
     "models--01-ai--Yi-6B-Chat-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0": "tokenizer_config.json",
     "models--01-ai--Yi-6B-Chat-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39": "tokenizer.model",
-    "models--01-ai--Yi-6B-Chat-README.md--fd274e85918d7fcf07ebdad847bb1fa9fc4f26b2": "README.md",
+    "models--01-ai--Yi-6B-Chat-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e": "README.md",
     "models--01-ai--Yi-6B-Chat-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0": "generation_config.json",
     "models--01-ai--Yi-6B-Chat-model-00003-of-00003.safetensors--fffff0a2775222906785b875c6d662831cd6342dee3d9877e2b7732c7d2ba4d2": "model-00003-of-00003.safetensors",
     "models--01-ai--Yi-6B-Chat-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0": "LICENSE",
@@ -27,6 +27,6 @@
     "models--01-ai--Yi-6B-Chat-config.json--d00a8707d0c98ac32015ab14d7c937bc8611b081": "config.json",
     "models--01-ai--Yi-6B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
   },
-  "lastest-generated": "2023-12-22 19:29:25 (Asia/Shanghai)",
-  "lastest-commit": "36326f9bc1c8020e0cf29ea830ee5e6679a66a23"
+  "lastest-generated": "2024-01-10 01:28:09 (Asia/Shanghai)",
+  "lastest-commit": "b4dad9ad1ef1d939068274f67aaccc3689b1bc3f"
 }

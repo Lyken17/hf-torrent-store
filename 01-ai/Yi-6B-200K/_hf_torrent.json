@@ -5,7 +5,7 @@
     "pytorch_model-00002-of-00002.bin": "models--01-ai--Yi-6B-200K-pytorch_model-00002-of-00002.bin--6d8c038a791bf65bea9d33d407962ceefe5eb97bccebc56b1f1d7e8f83104209",
     "tokenizer_config.json": "models--01-ai--Yi-6B-200K-tokenizer_config.json--1663e31b85492d31dc13baf61f9a1b94cecb7a8d",
     "tokenizer.model": "models--01-ai--Yi-6B-200K-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39",
-    "README.md": "models--01-ai--Yi-6B-200K-README.md--1ebe7de86184a60732158256f3b394fe96df74ff",
+    "README.md": "models--01-ai--Yi-6B-200K-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e",
     "tokenizer.json": "models--01-ai--Yi-6B-200K-tokenizer.json--61e22d50ee732c4542d19f8eee86fa492baf98cb",
     "model-00002-of-00002.safetensors": "models--01-ai--Yi-6B-200K-model-00002-of-00002.safetensors--4cd027336fdb50e50bc81999543b5afe852187dadb3ace6690a8f473f9268475",
     "pytorch_model-00001-of-00002.bin": "models--01-ai--Yi-6B-200K-pytorch_model-00001-of-00002.bin--515963d0ab7457e000bd13d558d1a4d2d3964ca217eed1641636c383c8ac691c",
@@ -23,7 +23,7 @@
     "models--01-ai--Yi-6B-200K-pytorch_model-00002-of-00002.bin--6d8c038a791bf65bea9d33d407962ceefe5eb97bccebc56b1f1d7e8f83104209": "pytorch_model-00002-of-00002.bin",
     "models--01-ai--Yi-6B-200K-tokenizer_config.json--1663e31b85492d31dc13baf61f9a1b94cecb7a8d": "tokenizer_config.json",
     "models--01-ai--Yi-6B-200K-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39": "tokenizer.model",
-    "models--01-ai--Yi-6B-200K-README.md--1ebe7de86184a60732158256f3b394fe96df74ff": "README.md",
+    "models--01-ai--Yi-6B-200K-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e": "README.md",
     "models--01-ai--Yi-6B-200K-tokenizer.json--61e22d50ee732c4542d19f8eee86fa492baf98cb": "tokenizer.json",
     "models--01-ai--Yi-6B-200K-model-00002-of-00002.safetensors--4cd027336fdb50e50bc81999543b5afe852187dadb3ace6690a8f473f9268475": "model-00002-of-00002.safetensors",
     "models--01-ai--Yi-6B-200K-pytorch_model-00001-of-00002.bin--515963d0ab7457e000bd13d558d1a4d2d3964ca217eed1641636c383c8ac691c": "pytorch_model-00001-of-00002.bin",
@@ -35,6 +35,6 @@
     "models--01-ai--Yi-6B-200K-md5--28ad31aef0bc93a4a78ae81519c7c98e489d2bff": "md5",
     "models--01-ai--Yi-6B-200K-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
   },
-  "lastest-generated": "2023-12-21 13:37:24 (Asia/Shanghai)",
-  "lastest-commit": "9540cae3c263fc61497b0caf3bd59d880559c012"
+  "lastest-generated": "2024-01-10 01:27:09 (Asia/Shanghai)",
+  "lastest-commit": "005a708bddab2503808b5a04f7b9d4d96ffae5be"
 }
