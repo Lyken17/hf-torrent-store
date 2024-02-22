@@ -1,18 +1,16 @@
 {
   "fpath2uuid": {
-    "rwkv-x060-1b6-world-v2-68%trained-20231208-ctx4k.pth": "models--BlinkDL--temp-rwkv-x060-1b6-world-v2-68%trained-20231208-ctx4k.pth--f6e5db58ada4b7b0a443b6359404b511dc894ecec95c0c98a3db32245358f0d3",
+    ".gitattributes": "models--BlinkDL--temp-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
     "README.md": "models--BlinkDL--temp-README.md--8a6a38feccfae2070c6d0feeb3d07bc34e12cc82",
-    "rwkv-x060-3b-world-v2-28%trained-20231208-ctx4k.pth": "models--BlinkDL--temp-rwkv-x060-3b-world-v2-28%trained-20231208-ctx4k.pth--a0ee41c59bd7b3830df5ae74fe708ed28273479dbff8660601bfc30b82077df6",
-    "rwkv-x052-7b-world-v2-79%trained-20231208-ctx4k.pth": "models--BlinkDL--temp-rwkv-x052-7b-world-v2-79%trained-20231208-ctx4k.pth--92b4ee18c06322a2e7fc1251e6933b23536dd177032e6837bf0e4d3f70961af7",
-    ".gitattributes": "models--BlinkDL--temp-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "rwkv-x060-3b-world-v2-63%trained-20240215-ctx4k.pth": "models--BlinkDL--temp-rwkv-x060-3b-world-v2-63%trained-20240215-ctx4k.pth--435258d78a36922f02380cef51179c29a8e6fbaac82a73f6cc884b6bf967d71f",
+    "rwkv-x060-1b6-world-v2-78%trained-20240131-ctx4k.pth": "models--BlinkDL--temp-rwkv-x060-1b6-world-v2-78%trained-20240131-ctx4k.pth--1717444e120b151243d62e990a3b4be79e84811253133bfc003cc2b5d456eb9c"
   },
   "uuid2fpath": {
-    "models--BlinkDL--temp-rwkv-x060-1b6-world-v2-68%trained-20231208-ctx4k.pth--f6e5db58ada4b7b0a443b6359404b511dc894ecec95c0c98a3db32245358f0d3": "rwkv-x060-1b6-world-v2-68%trained-20231208-ctx4k.pth",
+    "models--BlinkDL--temp-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
     "models--BlinkDL--temp-README.md--8a6a38feccfae2070c6d0feeb3d07bc34e12cc82": "README.md",
-    "models--BlinkDL--temp-rwkv-x060-3b-world-v2-28%trained-20231208-ctx4k.pth--a0ee41c59bd7b3830df5ae74fe708ed28273479dbff8660601bfc30b82077df6": "rwkv-x060-3b-world-v2-28%trained-20231208-ctx4k.pth",
-    "models--BlinkDL--temp-rwkv-x052-7b-world-v2-79%trained-20231208-ctx4k.pth--92b4ee18c06322a2e7fc1251e6933b23536dd177032e6837bf0e4d3f70961af7": "rwkv-x052-7b-world-v2-79%trained-20231208-ctx4k.pth",
-    "models--BlinkDL--temp-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--BlinkDL--temp-rwkv-x060-3b-world-v2-63%trained-20240215-ctx4k.pth--435258d78a36922f02380cef51179c29a8e6fbaac82a73f6cc884b6bf967d71f": "rwkv-x060-3b-world-v2-63%trained-20240215-ctx4k.pth",
+    "models--BlinkDL--temp-rwkv-x060-1b6-world-v2-78%trained-20240131-ctx4k.pth--1717444e120b151243d62e990a3b4be79e84811253133bfc003cc2b5d456eb9c": "rwkv-x060-1b6-world-v2-78%trained-20240131-ctx4k.pth"
   },
-  "lastest-generated": "2023-12-22 17:09:13 (Asia/Shanghai)",
-  "lastest-commit": "dad6448cf96973a867f27d7f9d261b22311490b9"
+  "lastest-generated": "2024-02-22 03:18:55 (Asia/Shanghai)",
+  "lastest-commit": "6b091a77f30918545202dfcebae9f611ca319e8d"
 }

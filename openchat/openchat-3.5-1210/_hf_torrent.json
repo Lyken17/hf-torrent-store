@@ -1,34 +1,36 @@
 {
   "fpath2uuid": {
-    "openchat.json": "models--openchat--openchat-3.5-1210-openchat.json--2cfeee5f68524c861df5968227b4c1a4e16f8df0",
-    "added_tokens.json": "models--openchat--openchat-3.5-1210-added_tokens.json--12a98694bf3dbf213d189451d772b42275487ac7",
+    "tokenizer.model": "models--openchat--openchat-3.5-1210-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
     "special_tokens_map.json": "models--openchat--openchat-3.5-1210-special_tokens_map.json--e746b58df3b8a375bd30ad8cd0ae8da86112ea26",
+    ".gitattributes": "models--openchat--openchat-3.5-1210-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "model-00001-of-00003.safetensors": "models--openchat--openchat-3.5-1210-model-00001-of-00003.safetensors--c65531d6a5a9bb8345aa117528f3f4105b0bf357eab647519c19b4dca952e89b",
+    "README.md": "models--openchat--openchat-3.5-1210-README.md--9b7846a43c805b342506b03116088f0ae210aa45",
+    "tokenizer.json": "models--openchat--openchat-3.5-1210-tokenizer.json--c2a45573b674b53d3b066e941068dd776c78d529",
+    "added_tokens.json": "models--openchat--openchat-3.5-1210-added_tokens.json--12a98694bf3dbf213d189451d772b42275487ac7",
     "model-00002-of-00003.safetensors": "models--openchat--openchat-3.5-1210-model-00002-of-00003.safetensors--26b18d5d207afd2257427cfa2a7f5f041bea575b77113855a25faae88d82c408",
     "tokenizer_config.json": "models--openchat--openchat-3.5-1210-tokenizer_config.json--a47013a1ccd3a91d988be5ef982226d129332548",
-    "tokenizer.model": "models--openchat--openchat-3.5-1210-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
-    "README.md": "models--openchat--openchat-3.5-1210-README.md--a021658ca0e925116ac9ef31034c6f8d46652cd5",
-    "generation_config.json": "models--openchat--openchat-3.5-1210-generation_config.json--9a05605306e988ac73d28d7292035203e0de3078",
+    "openchat.json": "models--openchat--openchat-3.5-1210-openchat.json--2cfeee5f68524c861df5968227b4c1a4e16f8df0",
     "model-00003-of-00003.safetensors": "models--openchat--openchat-3.5-1210-model-00003-of-00003.safetensors--3ff9fa33b10323cb7604dfa9da1d0fac1af5f2aa485744031b5f43d0d8885563",
-    "model-00001-of-00003.safetensors": "models--openchat--openchat-3.5-1210-model-00001-of-00003.safetensors--c65531d6a5a9bb8345aa117528f3f4105b0bf357eab647519c19b4dca952e89b",
-    "model.safetensors.index.json": "models--openchat--openchat-3.5-1210-model.safetensors.index.json--71e207631efb42944bc779548c9b6d4b5818ffe2",
+    "generation_config.json": "models--openchat--openchat-3.5-1210-generation_config.json--9a05605306e988ac73d28d7292035203e0de3078",
     "config.json": "models--openchat--openchat-3.5-1210-config.json--dde9254705d31cf228bf1d486dd7eb4e8456d4a4",
-    ".gitattributes": "models--openchat--openchat-3.5-1210-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "model.safetensors.index.json": "models--openchat--openchat-3.5-1210-model.safetensors.index.json--71e207631efb42944bc779548c9b6d4b5818ffe2"
   },
   "uuid2fpath": {
-    "models--openchat--openchat-3.5-1210-openchat.json--2cfeee5f68524c861df5968227b4c1a4e16f8df0": "openchat.json",
-    "models--openchat--openchat-3.5-1210-added_tokens.json--12a98694bf3dbf213d189451d772b42275487ac7": "added_tokens.json",
+    "models--openchat--openchat-3.5-1210-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
     "models--openchat--openchat-3.5-1210-special_tokens_map.json--e746b58df3b8a375bd30ad8cd0ae8da86112ea26": "special_tokens_map.json",
+    "models--openchat--openchat-3.5-1210-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--openchat--openchat-3.5-1210-model-00001-of-00003.safetensors--c65531d6a5a9bb8345aa117528f3f4105b0bf357eab647519c19b4dca952e89b": "model-00001-of-00003.safetensors",
+    "models--openchat--openchat-3.5-1210-README.md--9b7846a43c805b342506b03116088f0ae210aa45": "README.md",
+    "models--openchat--openchat-3.5-1210-tokenizer.json--c2a45573b674b53d3b066e941068dd776c78d529": "tokenizer.json",
+    "models--openchat--openchat-3.5-1210-added_tokens.json--12a98694bf3dbf213d189451d772b42275487ac7": "added_tokens.json",
     "models--openchat--openchat-3.5-1210-model-00002-of-00003.safetensors--26b18d5d207afd2257427cfa2a7f5f041bea575b77113855a25faae88d82c408": "model-00002-of-00003.safetensors",
     "models--openchat--openchat-3.5-1210-tokenizer_config.json--a47013a1ccd3a91d988be5ef982226d129332548": "tokenizer_config.json",
-    "models--openchat--openchat-3.5-1210-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
-    "models--openchat--openchat-3.5-1210-README.md--a021658ca0e925116ac9ef31034c6f8d46652cd5": "README.md",
-    "models--openchat--openchat-3.5-1210-generation_config.json--9a05605306e988ac73d28d7292035203e0de3078": "generation_config.json",
+    "models--openchat--openchat-3.5-1210-openchat.json--2cfeee5f68524c861df5968227b4c1a4e16f8df0": "openchat.json",
     "models--openchat--openchat-3.5-1210-model-00003-of-00003.safetensors--3ff9fa33b10323cb7604dfa9da1d0fac1af5f2aa485744031b5f43d0d8885563": "model-00003-of-00003.safetensors",
-    "models--openchat--openchat-3.5-1210-model-00001-of-00003.safetensors--c65531d6a5a9bb8345aa117528f3f4105b0bf357eab647519c19b4dca952e89b": "model-00001-of-00003.safetensors",
-    "models--openchat--openchat-3.5-1210-model.safetensors.index.json--71e207631efb42944bc779548c9b6d4b5818ffe2": "model.safetensors.index.json",
+    "models--openchat--openchat-3.5-1210-generation_config.json--9a05605306e988ac73d28d7292035203e0de3078": "generation_config.json",
     "models--openchat--openchat-3.5-1210-config.json--dde9254705d31cf228bf1d486dd7eb4e8456d4a4": "config.json",
-    "models--openchat--openchat-3.5-1210-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--openchat--openchat-3.5-1210-model.safetensors.index.json--71e207631efb42944bc779548c9b6d4b5818ffe2": "model.safetensors.index.json"
   },
-  "lastest-generated": "2023-12-21 11:58:19 (Asia/Shanghai)",
-  "lastest-commit": "76c642b674541b8a05153afdf5b582c901522367"
+  "lastest-generated": "2024-01-17 09:59:24 (Asia/Shanghai)",
+  "lastest-commit": "a78a99bd1133853f1c06d43a005d134c1a582d15"
 }

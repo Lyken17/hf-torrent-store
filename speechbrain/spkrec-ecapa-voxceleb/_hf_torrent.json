@@ -1,28 +1,28 @@
 {
   "fpath2uuid": {
-    "mean_var_norm_emb.ckpt": "models--speechbrain--spkrec-ecapa-voxceleb-mean_var_norm_emb.ckpt--1978c5e7f20d5ffd14c8a932a7e85a09816f3da9",
-    "label_encoder.txt": "models--speechbrain--spkrec-ecapa-voxceleb-label_encoder.txt--72c6fa7b170cbfd169df5e09326cd97febdf086a",
-    "embedding_model.ckpt": "models--speechbrain--spkrec-ecapa-voxceleb-embedding_model.ckpt--0575cb64845e6b9a10db9bcb74d5ac32b326b8dc90352671d345e2ee3d0126a2",
-    "README.md": "models--speechbrain--spkrec-ecapa-voxceleb-README.md--ce0fb75939a3929f13c0d2e3c848781a80b04006",
-    "example2.flac": "models--speechbrain--spkrec-ecapa-voxceleb-example2.flac--a38e3061f91ba51b02b7ef4c5fd4d088659c183d",
-    "classifier.ckpt": "models--speechbrain--spkrec-ecapa-voxceleb-classifier.ckpt--fd9e3634fe68bd0a427c95e354c0c677374f62b3f434e45b78599950d860d535",
-    "hyperparams.yaml": "models--speechbrain--spkrec-ecapa-voxceleb-hyperparams.yaml--99d49dbaf2c68699660d729649d87b80ebbd9b9d",
+    ".gitattributes": "models--speechbrain--spkrec-ecapa-voxceleb-.gitattributes--c79d72cc1197b4b32646fb55b18f4baf69a33dc1",
     "example1.wav": "models--speechbrain--spkrec-ecapa-voxceleb-example1.wav--2d5abbd526328179f0516569cb9ff5ddd289a1fc",
-    "config.json": "models--speechbrain--spkrec-ecapa-voxceleb-config.json--2e8b3b4d97ae58d7daa78954a5c7f5b8abb42934",
-    ".gitattributes": "models--speechbrain--spkrec-ecapa-voxceleb-.gitattributes--c79d72cc1197b4b32646fb55b18f4baf69a33dc1"
+    "classifier.ckpt": "models--speechbrain--spkrec-ecapa-voxceleb-classifier.ckpt--fd9e3634fe68bd0a427c95e354c0c677374f62b3f434e45b78599950d860d535",
+    "mean_var_norm_emb.ckpt": "models--speechbrain--spkrec-ecapa-voxceleb-mean_var_norm_emb.ckpt--1978c5e7f20d5ffd14c8a932a7e85a09816f3da9",
+    "README.md": "models--speechbrain--spkrec-ecapa-voxceleb-README.md--6023cecccb30eba7ed77fea84a9e47d334dd3a6c",
+    "embedding_model.ckpt": "models--speechbrain--spkrec-ecapa-voxceleb-embedding_model.ckpt--0575cb64845e6b9a10db9bcb74d5ac32b326b8dc90352671d345e2ee3d0126a2",
+    "label_encoder.txt": "models--speechbrain--spkrec-ecapa-voxceleb-label_encoder.txt--72c6fa7b170cbfd169df5e09326cd97febdf086a",
+    "example2.flac": "models--speechbrain--spkrec-ecapa-voxceleb-example2.flac--a38e3061f91ba51b02b7ef4c5fd4d088659c183d",
+    "hyperparams.yaml": "models--speechbrain--spkrec-ecapa-voxceleb-hyperparams.yaml--99d49dbaf2c68699660d729649d87b80ebbd9b9d",
+    "config.json": "models--speechbrain--spkrec-ecapa-voxceleb-config.json--2e8b3b4d97ae58d7daa78954a5c7f5b8abb42934"
   },
   "uuid2fpath": {
-    "models--speechbrain--spkrec-ecapa-voxceleb-mean_var_norm_emb.ckpt--1978c5e7f20d5ffd14c8a932a7e85a09816f3da9": "mean_var_norm_emb.ckpt",
-    "models--speechbrain--spkrec-ecapa-voxceleb-label_encoder.txt--72c6fa7b170cbfd169df5e09326cd97febdf086a": "label_encoder.txt",
-    "models--speechbrain--spkrec-ecapa-voxceleb-embedding_model.ckpt--0575cb64845e6b9a10db9bcb74d5ac32b326b8dc90352671d345e2ee3d0126a2": "embedding_model.ckpt",
-    "models--speechbrain--spkrec-ecapa-voxceleb-README.md--ce0fb75939a3929f13c0d2e3c848781a80b04006": "README.md",
-    "models--speechbrain--spkrec-ecapa-voxceleb-example2.flac--a38e3061f91ba51b02b7ef4c5fd4d088659c183d": "example2.flac",
-    "models--speechbrain--spkrec-ecapa-voxceleb-classifier.ckpt--fd9e3634fe68bd0a427c95e354c0c677374f62b3f434e45b78599950d860d535": "classifier.ckpt",
-    "models--speechbrain--spkrec-ecapa-voxceleb-hyperparams.yaml--99d49dbaf2c68699660d729649d87b80ebbd9b9d": "hyperparams.yaml",
+    "models--speechbrain--spkrec-ecapa-voxceleb-.gitattributes--c79d72cc1197b4b32646fb55b18f4baf69a33dc1": ".gitattributes",
     "models--speechbrain--spkrec-ecapa-voxceleb-example1.wav--2d5abbd526328179f0516569cb9ff5ddd289a1fc": "example1.wav",
-    "models--speechbrain--spkrec-ecapa-voxceleb-config.json--2e8b3b4d97ae58d7daa78954a5c7f5b8abb42934": "config.json",
-    "models--speechbrain--spkrec-ecapa-voxceleb-.gitattributes--c79d72cc1197b4b32646fb55b18f4baf69a33dc1": ".gitattributes"
+    "models--speechbrain--spkrec-ecapa-voxceleb-classifier.ckpt--fd9e3634fe68bd0a427c95e354c0c677374f62b3f434e45b78599950d860d535": "classifier.ckpt",
+    "models--speechbrain--spkrec-ecapa-voxceleb-mean_var_norm_emb.ckpt--1978c5e7f20d5ffd14c8a932a7e85a09816f3da9": "mean_var_norm_emb.ckpt",
+    "models--speechbrain--spkrec-ecapa-voxceleb-README.md--6023cecccb30eba7ed77fea84a9e47d334dd3a6c": "README.md",
+    "models--speechbrain--spkrec-ecapa-voxceleb-embedding_model.ckpt--0575cb64845e6b9a10db9bcb74d5ac32b326b8dc90352671d345e2ee3d0126a2": "embedding_model.ckpt",
+    "models--speechbrain--spkrec-ecapa-voxceleb-label_encoder.txt--72c6fa7b170cbfd169df5e09326cd97febdf086a": "label_encoder.txt",
+    "models--speechbrain--spkrec-ecapa-voxceleb-example2.flac--a38e3061f91ba51b02b7ef4c5fd4d088659c183d": "example2.flac",
+    "models--speechbrain--spkrec-ecapa-voxceleb-hyperparams.yaml--99d49dbaf2c68699660d729649d87b80ebbd9b9d": "hyperparams.yaml",
+    "models--speechbrain--spkrec-ecapa-voxceleb-config.json--2e8b3b4d97ae58d7daa78954a5c7f5b8abb42934": "config.json"
   },
-  "lastest-generated": "2023-12-21 10:33:59 (Asia/Shanghai)",
-  "lastest-commit": "5c0be3875fda05e81f3c004ed8c7c06be308de1e"
+  "lastest-generated": "2024-02-22 12:43:36 (Asia/Shanghai)",
+  "lastest-commit": "eac27266f68caa806381260bd44ace38b136c76a"
 }

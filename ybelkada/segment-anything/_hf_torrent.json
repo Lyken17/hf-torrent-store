@@ -1,26 +1,28 @@
 {
   "fpath2uuid": {
-    "checkpoints/sam_vit_b_01ec64.pth": "models--ybelkada--segment-anything-checkpoints--sam_vit_b_01ec64.pth--ec2df62732614e57411cdcf32a23ffdf28910380d03139ee0f4fcbe91eb8c912",
+    "assets/car.png": "models--ybelkada--segment-anything-assets--car.png--c6ae6440e3862dd9768cd9f7098b783ac980629dd7bc1fe69c10b39fca5a84cd",
+    "assets/.keepfile": "models--ybelkada--segment-anything-assets--.keepfile--e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
     "checkpoints/sam_vit_h_4b8939.pth": "models--ybelkada--segment-anything-checkpoints--sam_vit_h_4b8939.pth--a7bf3b02f3ebf1267aba913ff637d9a2d5c33d3173bb679e46d9f338c26f262e",
+    "checkpoints/mobile_sam.pth": "models--ybelkada--segment-anything-checkpoints--mobile_sam.pth--6dbb90523a35330fedd7f1d3dfc66f995213d81b29a5ca8108dbcdd4e37d6c2f",
     "checkpoints/sam_vit_l_0b3195.pth": "models--ybelkada--segment-anything-checkpoints--sam_vit_l_0b3195.pth--3adcc4315b642a4d2101128f611684e8734c41232a17c648ed1693702a49a622",
     "checkpoints/efficientsam_ti.pth": "models--ybelkada--segment-anything-checkpoints--efficientsam_ti.pth--d3311a1abf2bc637cd2f5485d5b585f259c81a359701cbe041ccd48cb0f41aef",
     "checkpoints/efficientsam_s.pth": "models--ybelkada--segment-anything-checkpoints--efficientsam_s.pth--1c1a4a9f6734baf0d879c39762ecbb9f93aff567b873ccd89c7204ffcaf81781",
-    "assets/car.png": "models--ybelkada--segment-anything-assets--car.png--c6ae6440e3862dd9768cd9f7098b783ac980629dd7bc1fe69c10b39fca5a84cd",
-    "assets/.keepfile": "models--ybelkada--segment-anything-assets--.keepfile--e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "README.md": "models--ybelkada--segment-anything-README.md--73ca84a27a42b319080e006b9916eb303cbce141",
-    ".gitattributes": "models--ybelkada--segment-anything-.gitattributes--5c5fe82676323c17c120edb14dad8fadca18bb9e"
+    "checkpoints/sam_vit_b_01ec64.pth": "models--ybelkada--segment-anything-checkpoints--sam_vit_b_01ec64.pth--ec2df62732614e57411cdcf32a23ffdf28910380d03139ee0f4fcbe91eb8c912",
+    ".gitattributes": "models--ybelkada--segment-anything-.gitattributes--5c5fe82676323c17c120edb14dad8fadca18bb9e",
+    "README.md": "models--ybelkada--segment-anything-README.md--73ca84a27a42b319080e006b9916eb303cbce141"
   },
   "uuid2fpath": {
-    "models--ybelkada--segment-anything-checkpoints--sam_vit_b_01ec64.pth--ec2df62732614e57411cdcf32a23ffdf28910380d03139ee0f4fcbe91eb8c912": "checkpoints/sam_vit_b_01ec64.pth",
+    "models--ybelkada--segment-anything-assets--car.png--c6ae6440e3862dd9768cd9f7098b783ac980629dd7bc1fe69c10b39fca5a84cd": "assets/car.png",
+    "models--ybelkada--segment-anything-assets--.keepfile--e69de29bb2d1d6434b8b29ae775ad8c2e48c5391": "assets/.keepfile",
     "models--ybelkada--segment-anything-checkpoints--sam_vit_h_4b8939.pth--a7bf3b02f3ebf1267aba913ff637d9a2d5c33d3173bb679e46d9f338c26f262e": "checkpoints/sam_vit_h_4b8939.pth",
+    "models--ybelkada--segment-anything-checkpoints--mobile_sam.pth--6dbb90523a35330fedd7f1d3dfc66f995213d81b29a5ca8108dbcdd4e37d6c2f": "checkpoints/mobile_sam.pth",
     "models--ybelkada--segment-anything-checkpoints--sam_vit_l_0b3195.pth--3adcc4315b642a4d2101128f611684e8734c41232a17c648ed1693702a49a622": "checkpoints/sam_vit_l_0b3195.pth",
     "models--ybelkada--segment-anything-checkpoints--efficientsam_ti.pth--d3311a1abf2bc637cd2f5485d5b585f259c81a359701cbe041ccd48cb0f41aef": "checkpoints/efficientsam_ti.pth",
     "models--ybelkada--segment-anything-checkpoints--efficientsam_s.pth--1c1a4a9f6734baf0d879c39762ecbb9f93aff567b873ccd89c7204ffcaf81781": "checkpoints/efficientsam_s.pth",
-    "models--ybelkada--segment-anything-assets--car.png--c6ae6440e3862dd9768cd9f7098b783ac980629dd7bc1fe69c10b39fca5a84cd": "assets/car.png",
-    "models--ybelkada--segment-anything-assets--.keepfile--e69de29bb2d1d6434b8b29ae775ad8c2e48c5391": "assets/.keepfile",
-    "models--ybelkada--segment-anything-README.md--73ca84a27a42b319080e006b9916eb303cbce141": "README.md",
-    "models--ybelkada--segment-anything-.gitattributes--5c5fe82676323c17c120edb14dad8fadca18bb9e": ".gitattributes"
+    "models--ybelkada--segment-anything-checkpoints--sam_vit_b_01ec64.pth--ec2df62732614e57411cdcf32a23ffdf28910380d03139ee0f4fcbe91eb8c912": "checkpoints/sam_vit_b_01ec64.pth",
+    "models--ybelkada--segment-anything-.gitattributes--5c5fe82676323c17c120edb14dad8fadca18bb9e": ".gitattributes",
+    "models--ybelkada--segment-anything-README.md--73ca84a27a42b319080e006b9916eb303cbce141": "README.md"
   },
-  "lastest-generated": "2023-12-22 20:54:14 (Asia/Shanghai)",
-  "lastest-commit": "16edb607b39bac8636944450b6cd782423556076"
+  "lastest-generated": "2024-01-17 10:19:46 (Asia/Shanghai)",
+  "lastest-commit": "7790786db131bcdc639f24a915d9f2c331d843ee"
 }

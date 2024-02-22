@@ -1,5 +1,15 @@
 {
   "fpath2uuid": {
+    "lcmlora/clip2.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--clip2.opt--model.onnx--1d85ae80d928b8a02b56572374a0faad41d5f4b82da473d973ebda9fbd89d970",
+    "lcmlora/vae.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--vae.opt--model.onnx--f7045d54982c1bb7c8898d38a71e6fa9bbd0aaac5222fefafe49842ccb016507",
+    "lcmlora/unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt/1376e228-9608-11ee-9b07-0242ac110002": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt--1376e228-9608-11ee-9b07-0242ac110002--e096cfd4fa4f0eac4b554b0d3f80356f413533c4af657fc9f9d532493813271b",
+    "lcmlora/unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt--model.onnx--44abca57a01d64c79a7fb5d14e9e043b83d1358f8116defe3147e5241a3d3936",
+    "lcmlora/clip.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--clip.opt--model.onnx--6c342a572b89967ec14697c57655f2b81d27172eed6de07b6f7ee91e3b914514",
+    "lcm/clip2.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--clip2.opt--model.onnx--1d85ae80d928b8a02b56572374a0faad41d5f4b82da473d973ebda9fbd89d970",
+    "lcm/vae.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--vae.opt--model.onnx--f7045d54982c1bb7c8898d38a71e6fa9bbd0aaac5222fefafe49842ccb016507",
+    "lcm/clip.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--clip.opt--model.onnx--6c342a572b89967ec14697c57655f2b81d27172eed6de07b6f7ee91e3b914514",
+    "lcm/unetxl.opt/dbf91c42-985c-11ee-9041-0242ac110002": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--unetxl.opt--dbf91c42-985c-11ee-9041-0242ac110002--b146e7cda628219dfaf6c9924716e1cb94dc6c74bbf964761da7da7929a615f9",
+    "lcm/unetxl.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--unetxl.opt--model.onnx--e6470c2fbe084e33c7672401c269469d06330fc51a419c8c5e24bac44d78a0ef",
     "sdxl-1.0-base/clip2.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-base--clip2.opt--model.onnx--fb3e48f933c5dfe6cf8ae9d2121818d37f239215b113df3405242254bae732a2",
     "sdxl-1.0-base/clip.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-base--clip.opt--model.onnx--2bcd2a625e64a43bd8d78168178c1383891c540a022d7984d86974a2b4661aba",
     "sdxl-1.0-base/unetxl.opt/435d4c0a-2d32-11ee-8476-0242c0a80101": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-base--unetxl.opt--435d4c0a-2d32-11ee-8476-0242c0a80101--dbdd1938d37406e9ea9889dbffdcd38f74da588fda7eb63b9351c491fd573853",
@@ -8,11 +18,21 @@
     "sdxl-1.0-refiner/unetxl.opt/6ed855ee-2d70-11ee-af8e-0242c0a80101": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-refiner--unetxl.opt--6ed855ee-2d70-11ee-af8e-0242c0a80101--63cb1dfb3ccb10ef89ab20dd0edfaaae26635737586ab8ad21d97f195a8cc12b",
     "sdxl-1.0-refiner/unetxl.opt/6e186582-2d74-11ee-8aa7-0242c0a80102": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-refiner--unetxl.opt--6e186582-2d74-11ee-8aa7-0242c0a80102--9b127bd75f1b4ae08c8c4915948ba4bb76ea489fbb611102e46d9470656900d5",
     "sdxl-1.0-refiner/unetxl.opt/model.onnx": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-refiner--unetxl.opt--model.onnx--0448a6ee66e6a46bd396f11003ff7075a53fda7bfeef43854cf2acdc894d3ba1",
-    "README.md": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-README.md--8b4c62324232f52331b8fefe8b92440fbca95d54",
-    "examples.jpg": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-examples.jpg--d8581bcf4e49b1af23b09d003819d36f9840aaa3",
-    ".gitattributes": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    ".gitattributes": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-.gitattributes--b18c962f0a4a7917ae7788ace8e0c4f4035e5aa7",
+    "README.md": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-README.md--f5bb04036da7fd69208e2c4d2be1b35dc056baeb",
+    "examples.jpg": "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-examples.jpg--d8581bcf4e49b1af23b09d003819d36f9840aaa3"
   },
   "uuid2fpath": {
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--clip2.opt--model.onnx--1d85ae80d928b8a02b56572374a0faad41d5f4b82da473d973ebda9fbd89d970": "lcmlora/clip2.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--vae.opt--model.onnx--f7045d54982c1bb7c8898d38a71e6fa9bbd0aaac5222fefafe49842ccb016507": "lcmlora/vae.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt--1376e228-9608-11ee-9b07-0242ac110002--e096cfd4fa4f0eac4b554b0d3f80356f413533c4af657fc9f9d532493813271b": "lcmlora/unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt/1376e228-9608-11ee-9b07-0242ac110002",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt--model.onnx--44abca57a01d64c79a7fb5d14e9e043b83d1358f8116defe3147e5241a3d3936": "lcmlora/unetxl-8c8ce9e8b00b259425e5f3eaa4b1d705-1.00.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcmlora--clip.opt--model.onnx--6c342a572b89967ec14697c57655f2b81d27172eed6de07b6f7ee91e3b914514": "lcmlora/clip.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--clip2.opt--model.onnx--1d85ae80d928b8a02b56572374a0faad41d5f4b82da473d973ebda9fbd89d970": "lcm/clip2.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--vae.opt--model.onnx--f7045d54982c1bb7c8898d38a71e6fa9bbd0aaac5222fefafe49842ccb016507": "lcm/vae.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--clip.opt--model.onnx--6c342a572b89967ec14697c57655f2b81d27172eed6de07b6f7ee91e3b914514": "lcm/clip.opt/model.onnx",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--unetxl.opt--dbf91c42-985c-11ee-9041-0242ac110002--b146e7cda628219dfaf6c9924716e1cb94dc6c74bbf964761da7da7929a615f9": "lcm/unetxl.opt/dbf91c42-985c-11ee-9041-0242ac110002",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-lcm--unetxl.opt--model.onnx--e6470c2fbe084e33c7672401c269469d06330fc51a419c8c5e24bac44d78a0ef": "lcm/unetxl.opt/model.onnx",
     "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-base--clip2.opt--model.onnx--fb3e48f933c5dfe6cf8ae9d2121818d37f239215b113df3405242254bae732a2": "sdxl-1.0-base/clip2.opt/model.onnx",
     "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-base--clip.opt--model.onnx--2bcd2a625e64a43bd8d78168178c1383891c540a022d7984d86974a2b4661aba": "sdxl-1.0-base/clip.opt/model.onnx",
     "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-base--unetxl.opt--435d4c0a-2d32-11ee-8476-0242c0a80101--dbdd1938d37406e9ea9889dbffdcd38f74da588fda7eb63b9351c491fd573853": "sdxl-1.0-base/unetxl.opt/435d4c0a-2d32-11ee-8476-0242c0a80101",
@@ -21,10 +41,10 @@
     "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-refiner--unetxl.opt--6ed855ee-2d70-11ee-af8e-0242c0a80101--63cb1dfb3ccb10ef89ab20dd0edfaaae26635737586ab8ad21d97f195a8cc12b": "sdxl-1.0-refiner/unetxl.opt/6ed855ee-2d70-11ee-af8e-0242c0a80101",
     "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-refiner--unetxl.opt--6e186582-2d74-11ee-8aa7-0242c0a80102--9b127bd75f1b4ae08c8c4915948ba4bb76ea489fbb611102e46d9470656900d5": "sdxl-1.0-refiner/unetxl.opt/6e186582-2d74-11ee-8aa7-0242c0a80102",
     "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-sdxl-1.0-refiner--unetxl.opt--model.onnx--0448a6ee66e6a46bd396f11003ff7075a53fda7bfeef43854cf2acdc894d3ba1": "sdxl-1.0-refiner/unetxl.opt/model.onnx",
-    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-README.md--8b4c62324232f52331b8fefe8b92440fbca95d54": "README.md",
-    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-examples.jpg--d8581bcf4e49b1af23b09d003819d36f9840aaa3": "examples.jpg",
-    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-.gitattributes--b18c962f0a4a7917ae7788ace8e0c4f4035e5aa7": ".gitattributes",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-README.md--f5bb04036da7fd69208e2c4d2be1b35dc056baeb": "README.md",
+    "models--stabilityai--stable-diffusion-xl-1.0-tensorrt-examples.jpg--d8581bcf4e49b1af23b09d003819d36f9840aaa3": "examples.jpg"
   },
-  "lastest-generated": "2023-12-21 16:03:38 (Asia/Shanghai)",
-  "lastest-commit": "ef49e15dddc79a419435a8b694464c89d7a1585b"
+  "lastest-generated": "2024-01-17 10:14:26 (Asia/Shanghai)",
+  "lastest-commit": "b4a207753b2ad4cc442bf848f6efab8e42f4fdb3"
 }

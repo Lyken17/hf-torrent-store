@@ -1,30 +1,32 @@
 {
   "fpath2uuid": {
-    "images/activation-magnitudes.jpg": "models--madebyollin--sdxl-vae-fp16-fix-images--activation-magnitudes.jpg--12076106317f7608fa8126083c871ebca8ff2409",
-    "images/fix-fp32.png": "models--madebyollin--sdxl-vae-fp16-fix-images--fix-fp32.png--a3bc509afe985095cafaf8cb3202edf35f74b5885869a1cc3ee331d65f1b6316",
-    "images/orig-fp32.png": "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp32.png--1770748dd6618631a2b5ecf469b80f67c917c747c90ad1ef02adc65406927e62",
-    "images/orig-fp16.png": "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp16.png--64ebcc1f89acc683437c511d8a224cfe5d459458",
     "images/fix-fp16.png": "models--madebyollin--sdxl-vae-fp16-fix-images--fix-fp16.png--1f2d50273ee5768f54890f16f76de24009339c86675213616f6a4ca49379d60c",
-    "sdxl_vae.safetensors": "models--madebyollin--sdxl-vae-fp16-fix-sdxl_vae.safetensors--235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1",
-    "README.md": "models--madebyollin--sdxl-vae-fp16-fix-README.md--d21ce19faac7cebbf6ab83ed247a2506a4fa23ee",
-    "diffusion_pytorch_model.bin": "models--madebyollin--sdxl-vae-fp16-fix-diffusion_pytorch_model.bin--37eb3e09ae1ce3d6891ddf809ca927b618e501091142cf07fdd9cd170e3a046f",
+    "images/orig-fp16.png": "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp16.png--64ebcc1f89acc683437c511d8a224cfe5d459458",
+    "images/fix-fp32.png": "models--madebyollin--sdxl-vae-fp16-fix-images--fix-fp32.png--a3bc509afe985095cafaf8cb3202edf35f74b5885869a1cc3ee331d65f1b6316",
+    "images/activation-magnitudes.jpg": "models--madebyollin--sdxl-vae-fp16-fix-images--activation-magnitudes.jpg--12076106317f7608fa8126083c871ebca8ff2409",
+    "images/orig-fp32.png": "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp32.png--1770748dd6618631a2b5ecf469b80f67c917c747c90ad1ef02adc65406927e62",
+    ".gitattributes": "models--madebyollin--sdxl-vae-fp16-fix-.gitattributes--dc5e8151e213a48c4b49f8c11e7321237648ffc8",
     "diffusion_pytorch_model.safetensors": "models--madebyollin--sdxl-vae-fp16-fix-diffusion_pytorch_model.safetensors--1b909373b28f2137098b0fd9dbc6f97f8410854f31f84ddc9fa04b077b0ace2c",
-    "config.json": "models--madebyollin--sdxl-vae-fp16-fix-config.json--a0fc2b4620b60f1e599418c4de1c3d5e45db875a",
-    ".gitattributes": "models--madebyollin--sdxl-vae-fp16-fix-.gitattributes--dc5e8151e213a48c4b49f8c11e7321237648ffc8"
+    "sdxl.vae.safetensors": "models--madebyollin--sdxl-vae-fp16-fix-sdxl.vae.safetensors--235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1",
+    "README.md": "models--madebyollin--sdxl-vae-fp16-fix-README.md--163b5ded8ce2112e81bed73619a5d87b1103d150",
+    "diffusion_pytorch_model.bin": "models--madebyollin--sdxl-vae-fp16-fix-diffusion_pytorch_model.bin--37eb3e09ae1ce3d6891ddf809ca927b618e501091142cf07fdd9cd170e3a046f",
+    "sdxl_vae.safetensors": "models--madebyollin--sdxl-vae-fp16-fix-sdxl_vae.safetensors--235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1",
+    "config.json": "models--madebyollin--sdxl-vae-fp16-fix-config.json--a0fc2b4620b60f1e599418c4de1c3d5e45db875a"
   },
   "uuid2fpath": {
-    "models--madebyollin--sdxl-vae-fp16-fix-images--activation-magnitudes.jpg--12076106317f7608fa8126083c871ebca8ff2409": "images/activation-magnitudes.jpg",
-    "models--madebyollin--sdxl-vae-fp16-fix-images--fix-fp32.png--a3bc509afe985095cafaf8cb3202edf35f74b5885869a1cc3ee331d65f1b6316": "images/fix-fp32.png",
-    "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp32.png--1770748dd6618631a2b5ecf469b80f67c917c747c90ad1ef02adc65406927e62": "images/orig-fp32.png",
-    "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp16.png--64ebcc1f89acc683437c511d8a224cfe5d459458": "images/orig-fp16.png",
     "models--madebyollin--sdxl-vae-fp16-fix-images--fix-fp16.png--1f2d50273ee5768f54890f16f76de24009339c86675213616f6a4ca49379d60c": "images/fix-fp16.png",
-    "models--madebyollin--sdxl-vae-fp16-fix-sdxl_vae.safetensors--235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1": "sdxl_vae.safetensors",
-    "models--madebyollin--sdxl-vae-fp16-fix-README.md--d21ce19faac7cebbf6ab83ed247a2506a4fa23ee": "README.md",
-    "models--madebyollin--sdxl-vae-fp16-fix-diffusion_pytorch_model.bin--37eb3e09ae1ce3d6891ddf809ca927b618e501091142cf07fdd9cd170e3a046f": "diffusion_pytorch_model.bin",
+    "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp16.png--64ebcc1f89acc683437c511d8a224cfe5d459458": "images/orig-fp16.png",
+    "models--madebyollin--sdxl-vae-fp16-fix-images--fix-fp32.png--a3bc509afe985095cafaf8cb3202edf35f74b5885869a1cc3ee331d65f1b6316": "images/fix-fp32.png",
+    "models--madebyollin--sdxl-vae-fp16-fix-images--activation-magnitudes.jpg--12076106317f7608fa8126083c871ebca8ff2409": "images/activation-magnitudes.jpg",
+    "models--madebyollin--sdxl-vae-fp16-fix-images--orig-fp32.png--1770748dd6618631a2b5ecf469b80f67c917c747c90ad1ef02adc65406927e62": "images/orig-fp32.png",
+    "models--madebyollin--sdxl-vae-fp16-fix-.gitattributes--dc5e8151e213a48c4b49f8c11e7321237648ffc8": ".gitattributes",
     "models--madebyollin--sdxl-vae-fp16-fix-diffusion_pytorch_model.safetensors--1b909373b28f2137098b0fd9dbc6f97f8410854f31f84ddc9fa04b077b0ace2c": "diffusion_pytorch_model.safetensors",
-    "models--madebyollin--sdxl-vae-fp16-fix-config.json--a0fc2b4620b60f1e599418c4de1c3d5e45db875a": "config.json",
-    "models--madebyollin--sdxl-vae-fp16-fix-.gitattributes--dc5e8151e213a48c4b49f8c11e7321237648ffc8": ".gitattributes"
+    "models--madebyollin--sdxl-vae-fp16-fix-sdxl.vae.safetensors--235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1": "sdxl.vae.safetensors",
+    "models--madebyollin--sdxl-vae-fp16-fix-README.md--163b5ded8ce2112e81bed73619a5d87b1103d150": "README.md",
+    "models--madebyollin--sdxl-vae-fp16-fix-diffusion_pytorch_model.bin--37eb3e09ae1ce3d6891ddf809ca927b618e501091142cf07fdd9cd170e3a046f": "diffusion_pytorch_model.bin",
+    "models--madebyollin--sdxl-vae-fp16-fix-sdxl_vae.safetensors--235745af8d86bf4a4c1b5b4f529868b37019a10f7c0b2e79ad0abca3a22bc6e1": "sdxl_vae.safetensors",
+    "models--madebyollin--sdxl-vae-fp16-fix-config.json--a0fc2b4620b60f1e599418c4de1c3d5e45db875a": "config.json"
   },
-  "lastest-generated": "2023-12-22 17:20:42 (Asia/Shanghai)",
-  "lastest-commit": "4df413ca49271c25289a6482ab97a433f8117d15"
+  "lastest-generated": "2024-02-22 09:13:58 (Asia/Shanghai)",
+  "lastest-commit": "207b116dae70ace3637169f1ddd2434b91b3a8cd"
 }

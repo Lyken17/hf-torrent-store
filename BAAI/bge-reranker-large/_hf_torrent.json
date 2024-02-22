@@ -1,26 +1,26 @@
 {
   "fpath2uuid": {
-    "special_tokens_map.json": "models--BAAI--bge-reranker-large-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b",
-    "tokenizer_config.json": "models--BAAI--bge-reranker-large-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5",
-    "README.md": "models--BAAI--bge-reranker-large-README.md--4417832a0196ba7def03007b8de49f4f5fe261f6",
-    "tokenizer.json": "models--BAAI--bge-reranker-large-tokenizer.json--9eb652ac4e40cc093272bbbe0f55d521cf67570060227109b5cdc20945a4489e",
-    "model.safetensors": "models--BAAI--bge-reranker-large-model.safetensors--c5ae4e262c60ed2fb507ec587358285377ec36ee0a2e6da029f0534272b06d36",
     "sentencepiece.bpe.model": "models--BAAI--bge-reranker-large-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+    "special_tokens_map.json": "models--BAAI--bge-reranker-large-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b",
+    ".gitattributes": "models--BAAI--bge-reranker-large-.gitattributes--52373fe24473b1aa44333d318f578ae6bf04b49b",
     "pytorch_model.bin": "models--BAAI--bge-reranker-large-pytorch_model.bin--62129e841464da714b961eb0bbbeb48c0f0b5f67e657902aaa3befcff6b3dab3",
-    "config.json": "models--BAAI--bge-reranker-large-config.json--bb100d3a6586ee71aed778b7566ccf68dd498947",
-    ".gitattributes": "models--BAAI--bge-reranker-large-.gitattributes--52373fe24473b1aa44333d318f578ae6bf04b49b"
+    "README.md": "models--BAAI--bge-reranker-large-README.md--6ecc87064d1e688f78559f6eee7f271ca8972b4b",
+    "tokenizer.json": "models--BAAI--bge-reranker-large-tokenizer.json--9eb652ac4e40cc093272bbbe0f55d521cf67570060227109b5cdc20945a4489e",
+    "tokenizer_config.json": "models--BAAI--bge-reranker-large-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5",
+    "model.safetensors": "models--BAAI--bge-reranker-large-model.safetensors--c5ae4e262c60ed2fb507ec587358285377ec36ee0a2e6da029f0534272b06d36",
+    "config.json": "models--BAAI--bge-reranker-large-config.json--bb100d3a6586ee71aed778b7566ccf68dd498947"
   },
   "uuid2fpath": {
-    "models--BAAI--bge-reranker-large-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b": "special_tokens_map.json",
-    "models--BAAI--bge-reranker-large-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5": "tokenizer_config.json",
-    "models--BAAI--bge-reranker-large-README.md--4417832a0196ba7def03007b8de49f4f5fe261f6": "README.md",
-    "models--BAAI--bge-reranker-large-tokenizer.json--9eb652ac4e40cc093272bbbe0f55d521cf67570060227109b5cdc20945a4489e": "tokenizer.json",
-    "models--BAAI--bge-reranker-large-model.safetensors--c5ae4e262c60ed2fb507ec587358285377ec36ee0a2e6da029f0534272b06d36": "model.safetensors",
     "models--BAAI--bge-reranker-large-sentencepiece.bpe.model--cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865": "sentencepiece.bpe.model",
+    "models--BAAI--bge-reranker-large-special_tokens_map.json--68171d1ff68b731a33d119708476692c094a466b": "special_tokens_map.json",
+    "models--BAAI--bge-reranker-large-.gitattributes--52373fe24473b1aa44333d318f578ae6bf04b49b": ".gitattributes",
     "models--BAAI--bge-reranker-large-pytorch_model.bin--62129e841464da714b961eb0bbbeb48c0f0b5f67e657902aaa3befcff6b3dab3": "pytorch_model.bin",
-    "models--BAAI--bge-reranker-large-config.json--bb100d3a6586ee71aed778b7566ccf68dd498947": "config.json",
-    "models--BAAI--bge-reranker-large-.gitattributes--52373fe24473b1aa44333d318f578ae6bf04b49b": ".gitattributes"
+    "models--BAAI--bge-reranker-large-README.md--6ecc87064d1e688f78559f6eee7f271ca8972b4b": "README.md",
+    "models--BAAI--bge-reranker-large-tokenizer.json--9eb652ac4e40cc093272bbbe0f55d521cf67570060227109b5cdc20945a4489e": "tokenizer.json",
+    "models--BAAI--bge-reranker-large-tokenizer_config.json--059214673d9d6d2ee319411e2ffec8c024b816d5": "tokenizer_config.json",
+    "models--BAAI--bge-reranker-large-model.safetensors--c5ae4e262c60ed2fb507ec587358285377ec36ee0a2e6da029f0534272b06d36": "model.safetensors",
+    "models--BAAI--bge-reranker-large-config.json--bb100d3a6586ee71aed778b7566ccf68dd498947": "config.json"
   },
-  "lastest-generated": "2023-12-22 16:55:38 (Asia/Shanghai)",
-  "lastest-commit": "708e6d1fff4ba9c97540a97c23dba46b26d87764"
+  "lastest-generated": "2024-02-22 03:07:58 (Asia/Shanghai)",
+  "lastest-commit": "b1a3b1492bcfa68f2b50d983a417601313cd85df"
 }

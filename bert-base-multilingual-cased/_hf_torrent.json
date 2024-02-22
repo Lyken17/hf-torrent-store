@@ -1,28 +1,28 @@
 {
   "fpath2uuid": {
-    "tf_model.h5": "models--bert-base-multilingual-cased-tf_model.h5--8c6fe40eebcaffac5051e6dddc93318faedfc74ed17b0de0c2512a3158f77ce5",
-    "tokenizer_config.json": "models--bert-base-multilingual-cased-tokenizer_config.json--e3c6d456fb2616f01a9a6cd01a1be1a36353ed22",
+    "vocab.txt": "models--bert-base-multilingual-cased-vocab.txt--e837bab60a5d204e29622d127c2dafe508aa0731",
+    ".gitattributes": "models--bert-base-multilingual-cased-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126",
+    "pytorch_model.bin": "models--bert-base-multilingual-cased-pytorch_model.bin--3496a508a9a3511c8a55e4d0e6f471c70c68c2a8c4784b3b2b5dc16ffb87d238",
     "README.md": "models--bert-base-multilingual-cased-README.md--b665d060ca923acbbc1720f9318b2c792bf01b6f",
     "tokenizer.json": "models--bert-base-multilingual-cased-tokenizer.json--420b0fc31334c64ddf53cc3e9222a6d4c59d0cae",
-    "model.safetensors": "models--bert-base-multilingual-cased-model.safetensors--876f584f15ebf14887dec17539c114bb99a032e96b9e72507a51c41e205337fc",
-    "vocab.txt": "models--bert-base-multilingual-cased-vocab.txt--e837bab60a5d204e29622d127c2dafe508aa0731",
     "flax_model.msgpack": "models--bert-base-multilingual-cased-flax_model.msgpack--ebee9a143c50f975a7d5074642150011e112a65d8362dd6b6b84867ee689f2ad",
-    "pytorch_model.bin": "models--bert-base-multilingual-cased-pytorch_model.bin--3496a508a9a3511c8a55e4d0e6f471c70c68c2a8c4784b3b2b5dc16ffb87d238",
-    "config.json": "models--bert-base-multilingual-cased-config.json--b122e74db13b415ea824c074da33c1c44f0d13a3",
-    ".gitattributes": "models--bert-base-multilingual-cased-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126"
+    "tokenizer_config.json": "models--bert-base-multilingual-cased-tokenizer_config.json--2ba5de7675473164e07f3b3531748c9a6f113a2c",
+    "model.safetensors": "models--bert-base-multilingual-cased-model.safetensors--876f584f15ebf14887dec17539c114bb99a032e96b9e72507a51c41e205337fc",
+    "tf_model.h5": "models--bert-base-multilingual-cased-tf_model.h5--8c6fe40eebcaffac5051e6dddc93318faedfc74ed17b0de0c2512a3158f77ce5",
+    "config.json": "models--bert-base-multilingual-cased-config.json--b122e74db13b415ea824c074da33c1c44f0d13a3"
   },
   "uuid2fpath": {
-    "models--bert-base-multilingual-cased-tf_model.h5--8c6fe40eebcaffac5051e6dddc93318faedfc74ed17b0de0c2512a3158f77ce5": "tf_model.h5",
-    "models--bert-base-multilingual-cased-tokenizer_config.json--e3c6d456fb2616f01a9a6cd01a1be1a36353ed22": "tokenizer_config.json",
+    "models--bert-base-multilingual-cased-vocab.txt--e837bab60a5d204e29622d127c2dafe508aa0731": "vocab.txt",
+    "models--bert-base-multilingual-cased-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes",
+    "models--bert-base-multilingual-cased-pytorch_model.bin--3496a508a9a3511c8a55e4d0e6f471c70c68c2a8c4784b3b2b5dc16ffb87d238": "pytorch_model.bin",
     "models--bert-base-multilingual-cased-README.md--b665d060ca923acbbc1720f9318b2c792bf01b6f": "README.md",
     "models--bert-base-multilingual-cased-tokenizer.json--420b0fc31334c64ddf53cc3e9222a6d4c59d0cae": "tokenizer.json",
-    "models--bert-base-multilingual-cased-model.safetensors--876f584f15ebf14887dec17539c114bb99a032e96b9e72507a51c41e205337fc": "model.safetensors",
-    "models--bert-base-multilingual-cased-vocab.txt--e837bab60a5d204e29622d127c2dafe508aa0731": "vocab.txt",
     "models--bert-base-multilingual-cased-flax_model.msgpack--ebee9a143c50f975a7d5074642150011e112a65d8362dd6b6b84867ee689f2ad": "flax_model.msgpack",
-    "models--bert-base-multilingual-cased-pytorch_model.bin--3496a508a9a3511c8a55e4d0e6f471c70c68c2a8c4784b3b2b5dc16ffb87d238": "pytorch_model.bin",
-    "models--bert-base-multilingual-cased-config.json--b122e74db13b415ea824c074da33c1c44f0d13a3": "config.json",
-    "models--bert-base-multilingual-cased-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes"
+    "models--bert-base-multilingual-cased-tokenizer_config.json--2ba5de7675473164e07f3b3531748c9a6f113a2c": "tokenizer_config.json",
+    "models--bert-base-multilingual-cased-model.safetensors--876f584f15ebf14887dec17539c114bb99a032e96b9e72507a51c41e205337fc": "model.safetensors",
+    "models--bert-base-multilingual-cased-tf_model.h5--8c6fe40eebcaffac5051e6dddc93318faedfc74ed17b0de0c2512a3158f77ce5": "tf_model.h5",
+    "models--bert-base-multilingual-cased-config.json--b122e74db13b415ea824c074da33c1c44f0d13a3": "config.json"
   },
-  "lastest-generated": "2023-12-22 22:45:21 (Asia/Shanghai)",
-  "lastest-commit": "fdfce55e83dbed325647a63e7e1f5de19f0382ba"
+  "lastest-generated": "2024-02-22 06:35:55 (Asia/Shanghai)",
+  "lastest-commit": "3f076fdb1ab68d5b2880cb87a0886f315b8146f8"
 }

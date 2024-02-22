@@ -1,30 +1,32 @@
 {
   "fpath2uuid": {
-    "logs/logs/main_log.txt": "models--bigscience--bloomz-7b1-mt-logs--logs--main_log.txt--24f7002b898a1a8377b6f0be76e57fcfe686ae654b7cbaa6918d7f882849dba5",
     "logs/tensorboard/events.out.tfevents.1664349718.jean-zay-iam09.104164.0": "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664349718.jean-zay-iam09.104164.0--ae55b680634723ab8e37d2cadd36279a1d2f2b201c0635b2a78c2186d47aca05",
-    "logs/tensorboard/events.out.tfevents.1664281554.jean-zay-iam33.28878.0": "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664281554.jean-zay-iam33.28878.0--3f9024c1f1e01fced438e5141e9d3b25d40b3926e2629f53f6f1093dad7472f7",
     "logs/tensorboard/events.out.tfevents.1664280553.jean-zay-iam33.24300.0": "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664280553.jean-zay-iam33.24300.0--db805a4e5738170ef3c2a5bdc28247e4e16b3bb5b66b8788b3efbcb9154a2585",
+    "logs/tensorboard/events.out.tfevents.1664281554.jean-zay-iam33.28878.0": "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664281554.jean-zay-iam33.28878.0--3f9024c1f1e01fced438e5141e9d3b25d40b3926e2629f53f6f1093dad7472f7",
+    "logs/logs/main_log.txt": "models--bigscience--bloomz-7b1-mt-logs--logs--main_log.txt--24f7002b898a1a8377b6f0be76e57fcfe686ae654b7cbaa6918d7f882849dba5",
     "special_tokens_map.json": "models--bigscience--bloomz-7b1-mt-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1",
-    "tokenizer_config.json": "models--bigscience--bloomz-7b1-mt-tokenizer_config.json--c63345010532cae8bae2df6903ba2a811d5891d8",
+    ".gitattributes": "models--bigscience--bloomz-7b1-mt-.gitattributes--d2557c305061c866690af74d5b1d35a806c96afb",
+    "pytorch_model.bin": "models--bigscience--bloomz-7b1-mt-pytorch_model.bin--915c66db82e1e36012dee6b134aeb9427ff3f722ae2a296806aea4f439a0f42a",
     "README.md": "models--bigscience--bloomz-7b1-mt-README.md--03380787c6c0a5ba12f5b1db199781043ade4f60",
     "tokenizer.json": "models--bigscience--bloomz-7b1-mt-tokenizer.json--3fa39cd4b1500feb205bcce3b9703a4373414cafe4970e0657b413f7ddd2a9d3",
-    "pytorch_model.bin": "models--bigscience--bloomz-7b1-mt-pytorch_model.bin--915c66db82e1e36012dee6b134aeb9427ff3f722ae2a296806aea4f439a0f42a",
-    "config.json": "models--bigscience--bloomz-7b1-mt-config.json--ecdf6f31889949e5548342f26ee0112707e0ccde",
-    ".gitattributes": "models--bigscience--bloomz-7b1-mt-.gitattributes--af3ee52691bfc0434d58a4fd62e65013132f98a8"
+    "tokenizer_config.json": "models--bigscience--bloomz-7b1-mt-tokenizer_config.json--c63345010532cae8bae2df6903ba2a811d5891d8",
+    "model.safetensors": "models--bigscience--bloomz-7b1-mt-model.safetensors--3ffe9299fcaf44d59d871f79e4b5155ce56f8d683ab5c630910a13814eb37558",
+    "config.json": "models--bigscience--bloomz-7b1-mt-config.json--ecdf6f31889949e5548342f26ee0112707e0ccde"
   },
   "uuid2fpath": {
-    "models--bigscience--bloomz-7b1-mt-logs--logs--main_log.txt--24f7002b898a1a8377b6f0be76e57fcfe686ae654b7cbaa6918d7f882849dba5": "logs/logs/main_log.txt",
     "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664349718.jean-zay-iam09.104164.0--ae55b680634723ab8e37d2cadd36279a1d2f2b201c0635b2a78c2186d47aca05": "logs/tensorboard/events.out.tfevents.1664349718.jean-zay-iam09.104164.0",
-    "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664281554.jean-zay-iam33.28878.0--3f9024c1f1e01fced438e5141e9d3b25d40b3926e2629f53f6f1093dad7472f7": "logs/tensorboard/events.out.tfevents.1664281554.jean-zay-iam33.28878.0",
     "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664280553.jean-zay-iam33.24300.0--db805a4e5738170ef3c2a5bdc28247e4e16b3bb5b66b8788b3efbcb9154a2585": "logs/tensorboard/events.out.tfevents.1664280553.jean-zay-iam33.24300.0",
+    "models--bigscience--bloomz-7b1-mt-logs--tensorboard--events.out.tfevents.1664281554.jean-zay-iam33.28878.0--3f9024c1f1e01fced438e5141e9d3b25d40b3926e2629f53f6f1093dad7472f7": "logs/tensorboard/events.out.tfevents.1664281554.jean-zay-iam33.28878.0",
+    "models--bigscience--bloomz-7b1-mt-logs--logs--main_log.txt--24f7002b898a1a8377b6f0be76e57fcfe686ae654b7cbaa6918d7f882849dba5": "logs/logs/main_log.txt",
     "models--bigscience--bloomz-7b1-mt-special_tokens_map.json--25bc39604f72700b3b8e10bd69bb2f227157edd1": "special_tokens_map.json",
-    "models--bigscience--bloomz-7b1-mt-tokenizer_config.json--c63345010532cae8bae2df6903ba2a811d5891d8": "tokenizer_config.json",
+    "models--bigscience--bloomz-7b1-mt-.gitattributes--d2557c305061c866690af74d5b1d35a806c96afb": ".gitattributes",
+    "models--bigscience--bloomz-7b1-mt-pytorch_model.bin--915c66db82e1e36012dee6b134aeb9427ff3f722ae2a296806aea4f439a0f42a": "pytorch_model.bin",
     "models--bigscience--bloomz-7b1-mt-README.md--03380787c6c0a5ba12f5b1db199781043ade4f60": "README.md",
     "models--bigscience--bloomz-7b1-mt-tokenizer.json--3fa39cd4b1500feb205bcce3b9703a4373414cafe4970e0657b413f7ddd2a9d3": "tokenizer.json",
-    "models--bigscience--bloomz-7b1-mt-pytorch_model.bin--915c66db82e1e36012dee6b134aeb9427ff3f722ae2a296806aea4f439a0f42a": "pytorch_model.bin",
-    "models--bigscience--bloomz-7b1-mt-config.json--ecdf6f31889949e5548342f26ee0112707e0ccde": "config.json",
-    "models--bigscience--bloomz-7b1-mt-.gitattributes--af3ee52691bfc0434d58a4fd62e65013132f98a8": ".gitattributes"
+    "models--bigscience--bloomz-7b1-mt-tokenizer_config.json--c63345010532cae8bae2df6903ba2a811d5891d8": "tokenizer_config.json",
+    "models--bigscience--bloomz-7b1-mt-model.safetensors--3ffe9299fcaf44d59d871f79e4b5155ce56f8d683ab5c630910a13814eb37558": "model.safetensors",
+    "models--bigscience--bloomz-7b1-mt-config.json--ecdf6f31889949e5548342f26ee0112707e0ccde": "config.json"
   },
-  "lastest-generated": "2023-12-21 19:08:38 (Asia/Shanghai)",
-  "lastest-commit": "76875e6ea8df98157fb032c48ad6e354fd6a077b"
+  "lastest-generated": "2024-01-16 04:27:08 (Asia/Shanghai)",
+  "lastest-commit": "fba4ea6dc5719f12df4f36b4236aa042f6998f24"
 }

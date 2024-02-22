@@ -1,36 +1,36 @@
 {
   "fpath2uuid": {
     "1_Pooling/config.json": "models--sentence-transformers--all-mpnet-base-v2-1_Pooling--config.json--4e09f293dfe90bba49f87cfe7996271f07be2666",
-    "train_script.py": "models--sentence-transformers--all-mpnet-base-v2-train_script.py--4ac8dde434b7e7919dff242b49154d1af9d1b620",
+    "vocab.txt": "models--sentence-transformers--all-mpnet-base-v2-vocab.txt--1c51ab79a2298a340952d3e6012042a9c84bbe4d",
+    "special_tokens_map.json": "models--sentence-transformers--all-mpnet-base-v2-special_tokens_map.json--378d4fa393d5eaccf69c437a20f1cda6ac65c14d",
+    ".gitattributes": "models--sentence-transformers--all-mpnet-base-v2-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a",
+    "pytorch_model.bin": "models--sentence-transformers--all-mpnet-base-v2-pytorch_model.bin--a8fd120b1a0032e70ff3d4b8ab8e46a6d01c2cb08ffe7c007a021c1788928146",
+    "README.md": "models--sentence-transformers--all-mpnet-base-v2-README.md--0a624adbb92ec093d62f228b9e9d9e9ced190a79",
     "modules.json": "models--sentence-transformers--all-mpnet-base-v2-modules.json--952a9b81c0bfd99800fabf352f69c7ccd46c5e43",
     "data_config.json": "models--sentence-transformers--all-mpnet-base-v2-data_config.json--2e85f0eac205cf444bdf97ede4935603ca6a0416",
-    "special_tokens_map.json": "models--sentence-transformers--all-mpnet-base-v2-special_tokens_map.json--378d4fa393d5eaccf69c437a20f1cda6ac65c14d",
-    "sentence_bert_config.json": "models--sentence-transformers--all-mpnet-base-v2-sentence_bert_config.json--4eb670bb4e7f34e9031acec2b86d39e5c921198e",
-    "tokenizer_config.json": "models--sentence-transformers--all-mpnet-base-v2-tokenizer_config.json--20ae1276042f43d1c80f4f7b7f084a8704592c1d",
-    "README.md": "models--sentence-transformers--all-mpnet-base-v2-README.md--4a9bd7067c525d050f6b771c44b0a5e9ba644731",
     "tokenizer.json": "models--sentence-transformers--all-mpnet-base-v2-tokenizer.json--7c8e194053bc80e27e19bb2125469e4f289ab2b3",
-    "vocab.txt": "models--sentence-transformers--all-mpnet-base-v2-vocab.txt--1c51ab79a2298a340952d3e6012042a9c84bbe4d",
-    "pytorch_model.bin": "models--sentence-transformers--all-mpnet-base-v2-pytorch_model.bin--a8fd120b1a0032e70ff3d4b8ab8e46a6d01c2cb08ffe7c007a021c1788928146",
-    "config.json": "models--sentence-transformers--all-mpnet-base-v2-config.json--b9fd4298819da011007a6a4ceb728c860914fc88",
+    "train_script.py": "models--sentence-transformers--all-mpnet-base-v2-train_script.py--4ac8dde434b7e7919dff242b49154d1af9d1b620",
+    "tokenizer_config.json": "models--sentence-transformers--all-mpnet-base-v2-tokenizer_config.json--20ae1276042f43d1c80f4f7b7f084a8704592c1d",
     "config_sentence_transformers.json": "models--sentence-transformers--all-mpnet-base-v2-config_sentence_transformers.json--fd1b291129c607e5d49799f87cb219b27f98acdf",
-    ".gitattributes": "models--sentence-transformers--all-mpnet-base-v2-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a"
+    "sentence_bert_config.json": "models--sentence-transformers--all-mpnet-base-v2-sentence_bert_config.json--4eb670bb4e7f34e9031acec2b86d39e5c921198e",
+    "config.json": "models--sentence-transformers--all-mpnet-base-v2-config.json--b9fd4298819da011007a6a4ceb728c860914fc88"
   },
   "uuid2fpath": {
     "models--sentence-transformers--all-mpnet-base-v2-1_Pooling--config.json--4e09f293dfe90bba49f87cfe7996271f07be2666": "1_Pooling/config.json",
-    "models--sentence-transformers--all-mpnet-base-v2-train_script.py--4ac8dde434b7e7919dff242b49154d1af9d1b620": "train_script.py",
+    "models--sentence-transformers--all-mpnet-base-v2-vocab.txt--1c51ab79a2298a340952d3e6012042a9c84bbe4d": "vocab.txt",
+    "models--sentence-transformers--all-mpnet-base-v2-special_tokens_map.json--378d4fa393d5eaccf69c437a20f1cda6ac65c14d": "special_tokens_map.json",
+    "models--sentence-transformers--all-mpnet-base-v2-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes",
+    "models--sentence-transformers--all-mpnet-base-v2-pytorch_model.bin--a8fd120b1a0032e70ff3d4b8ab8e46a6d01c2cb08ffe7c007a021c1788928146": "pytorch_model.bin",
+    "models--sentence-transformers--all-mpnet-base-v2-README.md--0a624adbb92ec093d62f228b9e9d9e9ced190a79": "README.md",
     "models--sentence-transformers--all-mpnet-base-v2-modules.json--952a9b81c0bfd99800fabf352f69c7ccd46c5e43": "modules.json",
     "models--sentence-transformers--all-mpnet-base-v2-data_config.json--2e85f0eac205cf444bdf97ede4935603ca6a0416": "data_config.json",
-    "models--sentence-transformers--all-mpnet-base-v2-special_tokens_map.json--378d4fa393d5eaccf69c437a20f1cda6ac65c14d": "special_tokens_map.json",
-    "models--sentence-transformers--all-mpnet-base-v2-sentence_bert_config.json--4eb670bb4e7f34e9031acec2b86d39e5c921198e": "sentence_bert_config.json",
-    "models--sentence-transformers--all-mpnet-base-v2-tokenizer_config.json--20ae1276042f43d1c80f4f7b7f084a8704592c1d": "tokenizer_config.json",
-    "models--sentence-transformers--all-mpnet-base-v2-README.md--4a9bd7067c525d050f6b771c44b0a5e9ba644731": "README.md",
     "models--sentence-transformers--all-mpnet-base-v2-tokenizer.json--7c8e194053bc80e27e19bb2125469e4f289ab2b3": "tokenizer.json",
-    "models--sentence-transformers--all-mpnet-base-v2-vocab.txt--1c51ab79a2298a340952d3e6012042a9c84bbe4d": "vocab.txt",
-    "models--sentence-transformers--all-mpnet-base-v2-pytorch_model.bin--a8fd120b1a0032e70ff3d4b8ab8e46a6d01c2cb08ffe7c007a021c1788928146": "pytorch_model.bin",
-    "models--sentence-transformers--all-mpnet-base-v2-config.json--b9fd4298819da011007a6a4ceb728c860914fc88": "config.json",
+    "models--sentence-transformers--all-mpnet-base-v2-train_script.py--4ac8dde434b7e7919dff242b49154d1af9d1b620": "train_script.py",
+    "models--sentence-transformers--all-mpnet-base-v2-tokenizer_config.json--20ae1276042f43d1c80f4f7b7f084a8704592c1d": "tokenizer_config.json",
     "models--sentence-transformers--all-mpnet-base-v2-config_sentence_transformers.json--fd1b291129c607e5d49799f87cb219b27f98acdf": "config_sentence_transformers.json",
-    "models--sentence-transformers--all-mpnet-base-v2-.gitattributes--6d34772f5ca361021038b404fb913ec8dc0b1a5a": ".gitattributes"
+    "models--sentence-transformers--all-mpnet-base-v2-sentence_bert_config.json--4eb670bb4e7f34e9031acec2b86d39e5c921198e": "sentence_bert_config.json",
+    "models--sentence-transformers--all-mpnet-base-v2-config.json--b9fd4298819da011007a6a4ceb728c860914fc88": "config.json"
   },
-  "lastest-generated": "2023-12-23 02:37:07 (Asia/Shanghai)",
-  "lastest-commit": "5681fe04da6e48e851d5dd1af673670cdb299753"
+  "lastest-generated": "2024-02-22 12:42:55 (Asia/Shanghai)",
+  "lastest-commit": "c46f31f8d119ac648208de9fba297c447a5a4474"
 }

@@ -1,34 +1,34 @@
 {
   "fpath2uuid": {
     "1_Pooling/config.json": "models--BAAI--bge-large-zh-v1.5-1_Pooling--config.json--9bd85925f325e25246d94c4918dc02ab98f2a1b7",
-    "modules.json": "models--BAAI--bge-large-zh-v1.5-modules.json--952a9b81c0bfd99800fabf352f69c7ccd46c5e43",
-    "special_tokens_map.json": "models--BAAI--bge-large-zh-v1.5-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
-    "sentence_bert_config.json": "models--BAAI--bge-large-zh-v1.5-sentence_bert_config.json--ea85692bff64b0d1917833c31ddbca8ab10f5455",
-    "tokenizer_config.json": "models--BAAI--bge-large-zh-v1.5-tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f",
-    "README.md": "models--BAAI--bge-large-zh-v1.5-README.md--20e39cd51a31d3afb1d003a9a4239f527530b1c0",
-    "tokenizer.json": "models--BAAI--bge-large-zh-v1.5-tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002",
-    "model.safetensors": "models--BAAI--bge-large-zh-v1.5-model.safetensors--74541fa3bddf35c2ed35a7c21542776fb830cde7d372dbe05ca42aa70f2bf904",
     "vocab.txt": "models--BAAI--bge-large-zh-v1.5-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    "special_tokens_map.json": "models--BAAI--bge-large-zh-v1.5-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    ".gitattributes": "models--BAAI--bge-large-zh-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
     "pytorch_model.bin": "models--BAAI--bge-large-zh-v1.5-pytorch_model.bin--bf84a56fb045c24e090495195584a3922c3e4204107f0bba8b79c11f67a207f2",
-    "config.json": "models--BAAI--bge-large-zh-v1.5-config.json--03df12a02c65a8ba9552ed63f6f1518575d1f7ef",
+    "README.md": "models--BAAI--bge-large-zh-v1.5-README.md--bff0cecd7a211677e9f8af5459f045030778575c",
+    "modules.json": "models--BAAI--bge-large-zh-v1.5-modules.json--952a9b81c0bfd99800fabf352f69c7ccd46c5e43",
+    "tokenizer.json": "models--BAAI--bge-large-zh-v1.5-tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002",
+    "tokenizer_config.json": "models--BAAI--bge-large-zh-v1.5-tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f",
     "config_sentence_transformers.json": "models--BAAI--bge-large-zh-v1.5-config_sentence_transformers.json--dcb0c0d97d09b930d13600b1a773ddb27e441aab",
-    ".gitattributes": "models--BAAI--bge-large-zh-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "model.safetensors": "models--BAAI--bge-large-zh-v1.5-model.safetensors--74541fa3bddf35c2ed35a7c21542776fb830cde7d372dbe05ca42aa70f2bf904",
+    "sentence_bert_config.json": "models--BAAI--bge-large-zh-v1.5-sentence_bert_config.json--ea85692bff64b0d1917833c31ddbca8ab10f5455",
+    "config.json": "models--BAAI--bge-large-zh-v1.5-config.json--03df12a02c65a8ba9552ed63f6f1518575d1f7ef"
   },
   "uuid2fpath": {
     "models--BAAI--bge-large-zh-v1.5-1_Pooling--config.json--9bd85925f325e25246d94c4918dc02ab98f2a1b7": "1_Pooling/config.json",
-    "models--BAAI--bge-large-zh-v1.5-modules.json--952a9b81c0bfd99800fabf352f69c7ccd46c5e43": "modules.json",
-    "models--BAAI--bge-large-zh-v1.5-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
-    "models--BAAI--bge-large-zh-v1.5-sentence_bert_config.json--ea85692bff64b0d1917833c31ddbca8ab10f5455": "sentence_bert_config.json",
-    "models--BAAI--bge-large-zh-v1.5-tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f": "tokenizer_config.json",
-    "models--BAAI--bge-large-zh-v1.5-README.md--20e39cd51a31d3afb1d003a9a4239f527530b1c0": "README.md",
-    "models--BAAI--bge-large-zh-v1.5-tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002": "tokenizer.json",
-    "models--BAAI--bge-large-zh-v1.5-model.safetensors--74541fa3bddf35c2ed35a7c21542776fb830cde7d372dbe05ca42aa70f2bf904": "model.safetensors",
     "models--BAAI--bge-large-zh-v1.5-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--BAAI--bge-large-zh-v1.5-special_tokens_map.json--a8b3208c2884c4efb86e49300fdd3dc877220cdf": "special_tokens_map.json",
+    "models--BAAI--bge-large-zh-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
     "models--BAAI--bge-large-zh-v1.5-pytorch_model.bin--bf84a56fb045c24e090495195584a3922c3e4204107f0bba8b79c11f67a207f2": "pytorch_model.bin",
-    "models--BAAI--bge-large-zh-v1.5-config.json--03df12a02c65a8ba9552ed63f6f1518575d1f7ef": "config.json",
+    "models--BAAI--bge-large-zh-v1.5-README.md--bff0cecd7a211677e9f8af5459f045030778575c": "README.md",
+    "models--BAAI--bge-large-zh-v1.5-modules.json--952a9b81c0bfd99800fabf352f69c7ccd46c5e43": "modules.json",
+    "models--BAAI--bge-large-zh-v1.5-tokenizer.json--15df791881f91e7963c9e0d704de2f2037baa002": "tokenizer.json",
+    "models--BAAI--bge-large-zh-v1.5-tokenizer_config.json--42046bd361a033a24264dc41de1fe6cafd68072f": "tokenizer_config.json",
     "models--BAAI--bge-large-zh-v1.5-config_sentence_transformers.json--dcb0c0d97d09b930d13600b1a773ddb27e441aab": "config_sentence_transformers.json",
-    "models--BAAI--bge-large-zh-v1.5-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--BAAI--bge-large-zh-v1.5-model.safetensors--74541fa3bddf35c2ed35a7c21542776fb830cde7d372dbe05ca42aa70f2bf904": "model.safetensors",
+    "models--BAAI--bge-large-zh-v1.5-sentence_bert_config.json--ea85692bff64b0d1917833c31ddbca8ab10f5455": "sentence_bert_config.json",
+    "models--BAAI--bge-large-zh-v1.5-config.json--03df12a02c65a8ba9552ed63f6f1518575d1f7ef": "config.json"
   },
-  "lastest-generated": "2023-12-23 00:30:18 (Asia/Shanghai)",
-  "lastest-commit": "b5c9d86d763d9945f7c0a73e549a4a39c423d520"
+  "lastest-generated": "2024-02-22 03:06:16 (Asia/Shanghai)",
+  "lastest-commit": "c11661ba3f9407eeb473765838eb4437e0f015c0"
 }

@@ -1,28 +1,28 @@
 {
   "fpath2uuid": {
-    "special_tokens_map.json": "models--01-ai--Yi-6B-Chat-4bits-special_tokens_map.json--075528cac9fd6f14367ea3c277dc7c80fe1ca1d9",
-    "tokenizer_config.json": "models--01-ai--Yi-6B-Chat-4bits-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0",
     "tokenizer.model": "models--01-ai--Yi-6B-Chat-4bits-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39",
-    "README.md": "models--01-ai--Yi-6B-Chat-4bits-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e",
+    "special_tokens_map.json": "models--01-ai--Yi-6B-Chat-4bits-special_tokens_map.json--075528cac9fd6f14367ea3c277dc7c80fe1ca1d9",
+    ".gitattributes": "models--01-ai--Yi-6B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "LICENSE": "models--01-ai--Yi-6B-Chat-4bits-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0",
+    "README.md": "models--01-ai--Yi-6B-Chat-4bits-README.md--41ac743678590391dae1b9fef634582cf175457c",
+    "quant_config.json": "models--01-ai--Yi-6B-Chat-4bits-quant_config.json--01a8401ad45baa416f0372cb8cc2b641567ab459",
+    "tokenizer_config.json": "models--01-ai--Yi-6B-Chat-4bits-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0",
     "model.safetensors": "models--01-ai--Yi-6B-Chat-4bits-model.safetensors--ee30b2773f592172fec6bbc0d3fd03e4a4bc19d3f6aada9377f71a92c9c95391",
     "generation_config.json": "models--01-ai--Yi-6B-Chat-4bits-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0",
-    "LICENSE": "models--01-ai--Yi-6B-Chat-4bits-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0",
-    "quant_config.json": "models--01-ai--Yi-6B-Chat-4bits-quant_config.json--01a8401ad45baa416f0372cb8cc2b641567ab459",
-    "config.json": "models--01-ai--Yi-6B-Chat-4bits-config.json--0bd9b627991e1e73b34ee559ce66996eacb7b8d5",
-    ".gitattributes": "models--01-ai--Yi-6B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "config.json": "models--01-ai--Yi-6B-Chat-4bits-config.json--0bd9b627991e1e73b34ee559ce66996eacb7b8d5"
   },
   "uuid2fpath": {
-    "models--01-ai--Yi-6B-Chat-4bits-special_tokens_map.json--075528cac9fd6f14367ea3c277dc7c80fe1ca1d9": "special_tokens_map.json",
-    "models--01-ai--Yi-6B-Chat-4bits-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0": "tokenizer_config.json",
     "models--01-ai--Yi-6B-Chat-4bits-tokenizer.model--386c49cf943d71aa110361135338c50e38beeff0a66593480421f37b319e1a39": "tokenizer.model",
-    "models--01-ai--Yi-6B-Chat-4bits-README.md--3eaf3a506b71701e66bae445f3d439f23e519f5e": "README.md",
+    "models--01-ai--Yi-6B-Chat-4bits-special_tokens_map.json--075528cac9fd6f14367ea3c277dc7c80fe1ca1d9": "special_tokens_map.json",
+    "models--01-ai--Yi-6B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--01-ai--Yi-6B-Chat-4bits-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0": "LICENSE",
+    "models--01-ai--Yi-6B-Chat-4bits-README.md--41ac743678590391dae1b9fef634582cf175457c": "README.md",
+    "models--01-ai--Yi-6B-Chat-4bits-quant_config.json--01a8401ad45baa416f0372cb8cc2b641567ab459": "quant_config.json",
+    "models--01-ai--Yi-6B-Chat-4bits-tokenizer_config.json--02739972d14867130f2ad3d5c82a7de6357fcdb0": "tokenizer_config.json",
     "models--01-ai--Yi-6B-Chat-4bits-model.safetensors--ee30b2773f592172fec6bbc0d3fd03e4a4bc19d3f6aada9377f71a92c9c95391": "model.safetensors",
     "models--01-ai--Yi-6B-Chat-4bits-generation_config.json--99c80c7ecfcbc8e783433df8e32e622123883ab0": "generation_config.json",
-    "models--01-ai--Yi-6B-Chat-4bits-LICENSE--9f83b98fa44dd460e8a7d229ce2c0121a6d4e0d0": "LICENSE",
-    "models--01-ai--Yi-6B-Chat-4bits-quant_config.json--01a8401ad45baa416f0372cb8cc2b641567ab459": "quant_config.json",
-    "models--01-ai--Yi-6B-Chat-4bits-config.json--0bd9b627991e1e73b34ee559ce66996eacb7b8d5": "config.json",
-    "models--01-ai--Yi-6B-Chat-4bits-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--01-ai--Yi-6B-Chat-4bits-config.json--0bd9b627991e1e73b34ee559ce66996eacb7b8d5": "config.json"
   },
-  "lastest-generated": "2024-01-10 01:29:21 (Asia/Shanghai)",
-  "lastest-commit": "78eb3a02d06d81902a527db284b7acb525e975da"
+  "lastest-generated": "2024-02-22 03:04:02 (Asia/Shanghai)",
+  "lastest-commit": "c7576565d6633bfa70a731fc192edf6684bc0d0d"
 }

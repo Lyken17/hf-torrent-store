@@ -1,32 +1,36 @@
 {
   "fpath2uuid": {
-    "merges.txt": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-merges.txt--80954e3a66452c700b68842dcebc85e08dd3306a",
     "special_tokens_map.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-special_tokens_map.json--9bfb42aa97dcd61e89f279ccaee988bccb4fabae",
-    "open_clip_config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_config.json--a7e04ce761ac15fc0edd245e5ddc0e88fabdf67a",
-    "tokenizer_config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer_config.json--e3e138b103e00cb9cfb2ab6ef11d96b47ddd9e04",
-    "README.md": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-README.md--72f888ab1ebb47ed8f8ca0f59a90a1d0bbfa9e23",
-    "tokenizer.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer.json--564c0ebd5ce29c4ee4864004aee693deadd3128c",
-    "open_clip_pytorch_model.bin": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_pytorch_model.bin--9a78ef8e8c73fd0df621682e7a8e8eb36c6916cb3c16b291a082ecd52ab79cc4",
-    "vocab.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-vocab.json--182766ce89b439768edadda342519f33802f5364",
-    "preprocessor_config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-preprocessor_config.json--5a12a1eb250987a4eee0e3e7d7338c4b22724be1",
+    ".gitattributes": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-.gitattributes--dd62431734b9b12c5fa657c27bd22fc97c1a8f88",
     "pytorch_model.bin": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-pytorch_model.bin--d6d1e3e93c27d6e430db9d20c151d1baa4dc98b503b136b7d85a63f4b02c9749",
+    "preprocessor_config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-preprocessor_config.json--5a12a1eb250987a4eee0e3e7d7338c4b22724be1",
+    "merges.txt": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-merges.txt--80954e3a66452c700b68842dcebc85e08dd3306a",
+    "README.md": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-README.md--72f888ab1ebb47ed8f8ca0f59a90a1d0bbfa9e23",
+    "vocab.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-vocab.json--182766ce89b439768edadda342519f33802f5364",
+    "open_clip_pytorch_model.safetensors": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_pytorch_model.safetensors--0084e75319a50ad85ef45377bad5bc38f2f58824459eb690048d51c9f8863be5",
+    "tokenizer.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer.json--564c0ebd5ce29c4ee4864004aee693deadd3128c",
+    "tokenizer_config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer_config.json--e3e138b103e00cb9cfb2ab6ef11d96b47ddd9e04",
+    "model.safetensors": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-model.safetensors--036e6e2bd49697511f4f8b8cb5ee465f93025f7a69a145eadeb9a881ace9b18d",
     "config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-config.json--38a5d523326dafc4a3409504bc8f9aa73b5bc555",
-    ".gitattributes": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-.gitattributes--637fa167e56685c01bc97f08a420ea76330cf6df"
+    "open_clip_pytorch_model.bin": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_pytorch_model.bin--9a78ef8e8c73fd0df621682e7a8e8eb36c6916cb3c16b291a082ecd52ab79cc4",
+    "open_clip_config.json": "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_config.json--a7e04ce761ac15fc0edd245e5ddc0e88fabdf67a"
   },
   "uuid2fpath": {
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-merges.txt--80954e3a66452c700b68842dcebc85e08dd3306a": "merges.txt",
     "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-special_tokens_map.json--9bfb42aa97dcd61e89f279ccaee988bccb4fabae": "special_tokens_map.json",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_config.json--a7e04ce761ac15fc0edd245e5ddc0e88fabdf67a": "open_clip_config.json",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer_config.json--e3e138b103e00cb9cfb2ab6ef11d96b47ddd9e04": "tokenizer_config.json",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-README.md--72f888ab1ebb47ed8f8ca0f59a90a1d0bbfa9e23": "README.md",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer.json--564c0ebd5ce29c4ee4864004aee693deadd3128c": "tokenizer.json",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_pytorch_model.bin--9a78ef8e8c73fd0df621682e7a8e8eb36c6916cb3c16b291a082ecd52ab79cc4": "open_clip_pytorch_model.bin",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-vocab.json--182766ce89b439768edadda342519f33802f5364": "vocab.json",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-preprocessor_config.json--5a12a1eb250987a4eee0e3e7d7338c4b22724be1": "preprocessor_config.json",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-.gitattributes--dd62431734b9b12c5fa657c27bd22fc97c1a8f88": ".gitattributes",
     "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-pytorch_model.bin--d6d1e3e93c27d6e430db9d20c151d1baa4dc98b503b136b7d85a63f4b02c9749": "pytorch_model.bin",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-preprocessor_config.json--5a12a1eb250987a4eee0e3e7d7338c4b22724be1": "preprocessor_config.json",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-merges.txt--80954e3a66452c700b68842dcebc85e08dd3306a": "merges.txt",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-README.md--72f888ab1ebb47ed8f8ca0f59a90a1d0bbfa9e23": "README.md",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-vocab.json--182766ce89b439768edadda342519f33802f5364": "vocab.json",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_pytorch_model.safetensors--0084e75319a50ad85ef45377bad5bc38f2f58824459eb690048d51c9f8863be5": "open_clip_pytorch_model.safetensors",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer.json--564c0ebd5ce29c4ee4864004aee693deadd3128c": "tokenizer.json",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-tokenizer_config.json--e3e138b103e00cb9cfb2ab6ef11d96b47ddd9e04": "tokenizer_config.json",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-model.safetensors--036e6e2bd49697511f4f8b8cb5ee465f93025f7a69a145eadeb9a881ace9b18d": "model.safetensors",
     "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-config.json--38a5d523326dafc4a3409504bc8f9aa73b5bc555": "config.json",
-    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-.gitattributes--637fa167e56685c01bc97f08a420ea76330cf6df": ".gitattributes"
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_pytorch_model.bin--9a78ef8e8c73fd0df621682e7a8e8eb36c6916cb3c16b291a082ecd52ab79cc4": "open_clip_pytorch_model.bin",
+    "models--laion--CLIP-ViT-H-14-laion2B-s32B-b79K-open_clip_config.json--a7e04ce761ac15fc0edd245e5ddc0e88fabdf67a": "open_clip_config.json"
   },
-  "lastest-generated": "2023-12-23 02:37:50 (Asia/Shanghai)",
-  "lastest-commit": "94a64189c3535c1cb44acfcccd7b0908c1c8eb23"
+  "lastest-generated": "2024-02-22 08:39:21 (Asia/Shanghai)",
+  "lastest-commit": "de081ac0a0ca8dc9d1533eed1ae884bb8ae1404b"
 }

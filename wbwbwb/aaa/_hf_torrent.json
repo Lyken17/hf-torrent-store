@@ -1,20 +1,26 @@
 {
   "fpath2uuid": {
-    "clip_h.pth": "models--wbwbwb--aaa-clip_h.pth--3d3ec1e66737f77a4f3bc2df3c52eacefc69ce7825e2784183b1d4e9877d9193",
-    "Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors": "models--wbwbwb--aaa-Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors--ceeec4cfcce8278894ac307f2cc340c819acf2003d08263c0fec402f422ef40b",
-    "temporaldiffMotion_v10.ckpt": "models--wbwbwb--aaa-temporaldiffMotion_v10.ckpt--3cb569f7ce3dc6a10aa8438e666265cb9be3120d8f205de6a456acf46b6c99f4",
     "majicmixRealistic_v7.safetensors": "models--wbwbwb--aaa-majicmixRealistic_v7.safetensors--7c819b6d13663ed720c2254f4fe18373107dfef2448d337913c8fc545640881e",
+    ".gitattributes": "models--wbwbwb--aaa-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "clip_h.pth": "models--wbwbwb--aaa-clip_h.pth--3d3ec1e66737f77a4f3bc2df3c52eacefc69ce7825e2784183b1d4e9877d9193",
+    "temporaldiffMotion_v10.ckpt": "models--wbwbwb--aaa-temporaldiffMotion_v10.ckpt--3cb569f7ce3dc6a10aa8438e666265cb9be3120d8f205de6a456acf46b6c99f4",
+    "vae-ft-mse-840000-ema-pruned.safetensors": "models--wbwbwb--aaa-vae-ft-mse-840000-ema-pruned.safetensors--735e4c3a447a3255760d7f86845f09f937809baa529c17370d83e4c3758f3c75",
+    "kl-f8-anime2.ckpt": "models--wbwbwb--aaa-kl-f8-anime2.ckpt--df3c506e51b7ee1d7b5a6a2bb7142d47d488743c96aa778afb0f53a2cdc2d38d",
     "majicmixSombre_v20.safetensors": "models--wbwbwb--aaa-majicmixSombre_v20.safetensors--5c9a81db7a262b3360c97d5b4e6be497cadf706ce0cd7da88bd375c25d048234",
-    ".gitattributes": "models--wbwbwb--aaa-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors": "models--wbwbwb--aaa-Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors--ceeec4cfcce8278894ac307f2cc340c819acf2003d08263c0fec402f422ef40b",
+    "realcartoon3d_v12.safetensors": "models--wbwbwb--aaa-realcartoon3d_v12.safetensors--970e968dc2381cef51b793767522c3a73267185dd9050de80a14abebe4ce977d"
   },
   "uuid2fpath": {
-    "models--wbwbwb--aaa-clip_h.pth--3d3ec1e66737f77a4f3bc2df3c52eacefc69ce7825e2784183b1d4e9877d9193": "clip_h.pth",
-    "models--wbwbwb--aaa-Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors--ceeec4cfcce8278894ac307f2cc340c819acf2003d08263c0fec402f422ef40b": "Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors",
-    "models--wbwbwb--aaa-temporaldiffMotion_v10.ckpt--3cb569f7ce3dc6a10aa8438e666265cb9be3120d8f205de6a456acf46b6c99f4": "temporaldiffMotion_v10.ckpt",
     "models--wbwbwb--aaa-majicmixRealistic_v7.safetensors--7c819b6d13663ed720c2254f4fe18373107dfef2448d337913c8fc545640881e": "majicmixRealistic_v7.safetensors",
+    "models--wbwbwb--aaa-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--wbwbwb--aaa-clip_h.pth--3d3ec1e66737f77a4f3bc2df3c52eacefc69ce7825e2784183b1d4e9877d9193": "clip_h.pth",
+    "models--wbwbwb--aaa-temporaldiffMotion_v10.ckpt--3cb569f7ce3dc6a10aa8438e666265cb9be3120d8f205de6a456acf46b6c99f4": "temporaldiffMotion_v10.ckpt",
+    "models--wbwbwb--aaa-vae-ft-mse-840000-ema-pruned.safetensors--735e4c3a447a3255760d7f86845f09f937809baa529c17370d83e4c3758f3c75": "vae-ft-mse-840000-ema-pruned.safetensors",
+    "models--wbwbwb--aaa-kl-f8-anime2.ckpt--df3c506e51b7ee1d7b5a6a2bb7142d47d488743c96aa778afb0f53a2cdc2d38d": "kl-f8-anime2.ckpt",
     "models--wbwbwb--aaa-majicmixSombre_v20.safetensors--5c9a81db7a262b3360c97d5b4e6be497cadf706ce0cd7da88bd375c25d048234": "majicmixSombre_v20.safetensors",
-    "models--wbwbwb--aaa-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--wbwbwb--aaa-Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors--ceeec4cfcce8278894ac307f2cc340c819acf2003d08263c0fec402f422ef40b": "Aniverse +CuteYukiMix+SDXL Unstable Diffusers .safetensors",
+    "models--wbwbwb--aaa-realcartoon3d_v12.safetensors--970e968dc2381cef51b793767522c3a73267185dd9050de80a14abebe4ce977d": "realcartoon3d_v12.safetensors"
   },
-  "lastest-generated": "2023-12-22 16:48:58 (Asia/Shanghai)",
-  "lastest-commit": "576fb35f0bfe2fa2bca63e36efca530f1778e337"
+  "lastest-generated": "2024-01-17 10:18:30 (Asia/Shanghai)",
+  "lastest-commit": "c8754f5230adbc249aa81d77b499140ade590d2c"
 }

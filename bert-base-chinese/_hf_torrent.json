@@ -1,28 +1,28 @@
 {
   "fpath2uuid": {
-    "tf_model.h5": "models--bert-base-chinese-tf_model.h5--612acd33db45677c3d6ba70615336619dc65cddf1ecf9d39a22dd1934af4aff2",
-    "tokenizer_config.json": "models--bert-base-chinese-tokenizer_config.json--e3c6d456fb2616f01a9a6cd01a1be1a36353ed22",
+    "vocab.txt": "models--bert-base-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+    ".gitattributes": "models--bert-base-chinese-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126",
+    "pytorch_model.bin": "models--bert-base-chinese-pytorch_model.bin--8a693db616eaf647ed2bfe531e1fa446637358fc108a8bf04e8d4db17e837ee9",
     "README.md": "models--bert-base-chinese-README.md--048fdf63b2740ccf860ad1e5b4287ccbac89869a",
     "tokenizer.json": "models--bert-base-chinese-tokenizer.json--dd9401af0a4713df0e75066ae78d5bf6fa6c7116",
-    "model.safetensors": "models--bert-base-chinese-model.safetensors--3404a1ffd8da507042e8161013ba2a4fc49858b4e3f8fbf5ce5724f94883aec3",
-    "vocab.txt": "models--bert-base-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
     "flax_model.msgpack": "models--bert-base-chinese-flax_model.msgpack--76df8425215fb9ede22e0393e356f82a99d84e79f078cd141afbbf9277460c8e",
-    "pytorch_model.bin": "models--bert-base-chinese-pytorch_model.bin--8a693db616eaf647ed2bfe531e1fa446637358fc108a8bf04e8d4db17e837ee9",
-    "config.json": "models--bert-base-chinese-config.json--a521dc2845bdddbe822864290c6b928396fc5ee8",
-    ".gitattributes": "models--bert-base-chinese-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126"
+    "tokenizer_config.json": "models--bert-base-chinese-tokenizer_config.json--2ba5de7675473164e07f3b3531748c9a6f113a2c",
+    "model.safetensors": "models--bert-base-chinese-model.safetensors--3404a1ffd8da507042e8161013ba2a4fc49858b4e3f8fbf5ce5724f94883aec3",
+    "tf_model.h5": "models--bert-base-chinese-tf_model.h5--612acd33db45677c3d6ba70615336619dc65cddf1ecf9d39a22dd1934af4aff2",
+    "config.json": "models--bert-base-chinese-config.json--a521dc2845bdddbe822864290c6b928396fc5ee8"
   },
   "uuid2fpath": {
-    "models--bert-base-chinese-tf_model.h5--612acd33db45677c3d6ba70615336619dc65cddf1ecf9d39a22dd1934af4aff2": "tf_model.h5",
-    "models--bert-base-chinese-tokenizer_config.json--e3c6d456fb2616f01a9a6cd01a1be1a36353ed22": "tokenizer_config.json",
+    "models--bert-base-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
+    "models--bert-base-chinese-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes",
+    "models--bert-base-chinese-pytorch_model.bin--8a693db616eaf647ed2bfe531e1fa446637358fc108a8bf04e8d4db17e837ee9": "pytorch_model.bin",
     "models--bert-base-chinese-README.md--048fdf63b2740ccf860ad1e5b4287ccbac89869a": "README.md",
     "models--bert-base-chinese-tokenizer.json--dd9401af0a4713df0e75066ae78d5bf6fa6c7116": "tokenizer.json",
-    "models--bert-base-chinese-model.safetensors--3404a1ffd8da507042e8161013ba2a4fc49858b4e3f8fbf5ce5724f94883aec3": "model.safetensors",
-    "models--bert-base-chinese-vocab.txt--ca4f9781030019ab9b253c6dcb8c7878b6dc87a5": "vocab.txt",
     "models--bert-base-chinese-flax_model.msgpack--76df8425215fb9ede22e0393e356f82a99d84e79f078cd141afbbf9277460c8e": "flax_model.msgpack",
-    "models--bert-base-chinese-pytorch_model.bin--8a693db616eaf647ed2bfe531e1fa446637358fc108a8bf04e8d4db17e837ee9": "pytorch_model.bin",
-    "models--bert-base-chinese-config.json--a521dc2845bdddbe822864290c6b928396fc5ee8": "config.json",
-    "models--bert-base-chinese-.gitattributes--602b71f15d40ed68c5f96330e3f3175a76a32126": ".gitattributes"
+    "models--bert-base-chinese-tokenizer_config.json--2ba5de7675473164e07f3b3531748c9a6f113a2c": "tokenizer_config.json",
+    "models--bert-base-chinese-model.safetensors--3404a1ffd8da507042e8161013ba2a4fc49858b4e3f8fbf5ce5724f94883aec3": "model.safetensors",
+    "models--bert-base-chinese-tf_model.h5--612acd33db45677c3d6ba70615336619dc65cddf1ecf9d39a22dd1934af4aff2": "tf_model.h5",
+    "models--bert-base-chinese-config.json--a521dc2845bdddbe822864290c6b928396fc5ee8": "config.json"
   },
-  "lastest-generated": "2023-12-23 01:09:58 (Asia/Shanghai)",
-  "lastest-commit": "8d2a91f91cc38c96bb8b4556ba70c392f8d5ee55"
+  "lastest-generated": "2024-02-22 06:35:05 (Asia/Shanghai)",
+  "lastest-commit": "c30a6ed22ab4564dc1e3b2ecbf6e766b0611a33f"
 }

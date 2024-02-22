@@ -1,36 +1,38 @@
 {
   "fpath2uuid": {
-    "triton-2.1.0-cp39-cp39-linux_x86_64.whl": "models--JosephusCheung--tmp-triton-2.1.0-cp39-cp39-linux_x86_64.whl--09c477b50fa40857d7e313b136f2b3254b120ffdc090dde07d831fc28b451b98",
-    "leaderboard.png": "models--JosephusCheung--tmp-leaderboard.png--a0717268c88a12e8b2b9302c7cd36e8f146199a5",
-    "MiniGPT-4.zip": "models--JosephusCheung--tmp-MiniGPT-4.zip--e911b748b7f332679ddd49f7d88a9cd76ba73e4aeb5a8f351aa4e4eb4dc8b552",
     "guanaco7b-4bit-128g.pt": "models--JosephusCheung--tmp-guanaco7b-4bit-128g.pt--7f1765839b0b2139b4d3cc6b4c84744f9b549c46c6f9e02bce7b96937941df29",
-    "14.17b.png": "models--JosephusCheung--tmp-14.17b.png--eedcbb9dfc07e784e6b849c440ace1aef73dfa982e6c38f75b4466e2fc9547e3",
-    "eva_vit_g.pth": "models--JosephusCheung--tmp-eva_vit_g.pth--99d2bb36c6b52c94fe6e2e12373afb27de57ae81378c3d8c53bf0e83b0f4275f",
-    "blip2_pretrained_flant5xxl.pth": "models--JosephusCheung--tmp-blip2_pretrained_flant5xxl.pth--4b3839ea6c617f315ead9bf4036bbb0f0cf6bf62695ecfc14968ea626af03a29",
-    "triton-2.1.0-cp310-cp310-linux_x86_64.whl": "models--JosephusCheung--tmp-triton-2.1.0-cp310-cp310-linux_x86_64.whl--7f13e0d07ca842b3f4a629d917ab784a69976b73b209030ec8579dce7caf5349",
-    "videochat.pth": "models--JosephusCheung--tmp-videochat.pth--9c404a27ec4187e3cfdb6d2091e66ad2ec1b3930bb381def44b0cd19ed663f13",
+    ".gitattributes": "models--JosephusCheung--tmp-.gitattributes--4e67f7f4c7646d0bb5aedf284b504eb780476b39",
+    "MiniGPT-4.zip": "models--JosephusCheung--tmp-MiniGPT-4.zip--e911b748b7f332679ddd49f7d88a9cd76ba73e4aeb5a8f351aa4e4eb4dc8b552",
+    "leaderboard.png": "models--JosephusCheung--tmp-leaderboard.png--a0717268c88a12e8b2b9302c7cd36e8f146199a5",
+    "34b_beta_mt_bench_polar_plot.png": "models--JosephusCheung--tmp-34b_beta_mt_bench_polar_plot.png--0acc8118e8458a43b8e3090fa66e0919b8b4d4f2",
     "MiniGPT-4-Normal7B.zip": "models--JosephusCheung--tmp-MiniGPT-4-Normal7B.zip--f72a7d8141d471263a77c5a707ebd216a20a96fc2579344ec5b7ba3a4ee87aad",
     "videochat13b.pth": "models--JosephusCheung--tmp-videochat13b.pth--dd78ad4b1fff617ebd603349d9409495b88938135338576e0c76f6268c6f20d0",
+    "eva_vit_g.pth": "models--JosephusCheung--tmp-eva_vit_g.pth--99d2bb36c6b52c94fe6e2e12373afb27de57ae81378c3d8c53bf0e83b0f4275f",
     "yee-200k.png": "models--JosephusCheung--tmp-yee-200k.png--f6fc29fb3a2350e6a34d1b7acc1bc07ae423fd17e05ded573a23711df9a9bffb",
+    "14.17b.png": "models--JosephusCheung--tmp-14.17b.png--eedcbb9dfc07e784e6b849c440ace1aef73dfa982e6c38f75b4466e2fc9547e3",
+    "triton-2.1.0-cp39-cp39-linux_x86_64.whl": "models--JosephusCheung--tmp-triton-2.1.0-cp39-cp39-linux_x86_64.whl--09c477b50fa40857d7e313b136f2b3254b120ffdc090dde07d831fc28b451b98",
+    "videochat.pth": "models--JosephusCheung--tmp-videochat.pth--9c404a27ec4187e3cfdb6d2091e66ad2ec1b3930bb381def44b0cd19ed663f13",
     "7.72b.png": "models--JosephusCheung--tmp-7.72b.png--da77b76bed4b39230c903e5513ff6d120faba872dab6b7260b51faeeb070d0c8",
-    ".gitattributes": "models--JosephusCheung--tmp-.gitattributes--4e67f7f4c7646d0bb5aedf284b504eb780476b39"
+    "blip2_pretrained_flant5xxl.pth": "models--JosephusCheung--tmp-blip2_pretrained_flant5xxl.pth--4b3839ea6c617f315ead9bf4036bbb0f0cf6bf62695ecfc14968ea626af03a29",
+    "triton-2.1.0-cp310-cp310-linux_x86_64.whl": "models--JosephusCheung--tmp-triton-2.1.0-cp310-cp310-linux_x86_64.whl--7f13e0d07ca842b3f4a629d917ab784a69976b73b209030ec8579dce7caf5349"
   },
   "uuid2fpath": {
-    "models--JosephusCheung--tmp-triton-2.1.0-cp39-cp39-linux_x86_64.whl--09c477b50fa40857d7e313b136f2b3254b120ffdc090dde07d831fc28b451b98": "triton-2.1.0-cp39-cp39-linux_x86_64.whl",
-    "models--JosephusCheung--tmp-leaderboard.png--a0717268c88a12e8b2b9302c7cd36e8f146199a5": "leaderboard.png",
-    "models--JosephusCheung--tmp-MiniGPT-4.zip--e911b748b7f332679ddd49f7d88a9cd76ba73e4aeb5a8f351aa4e4eb4dc8b552": "MiniGPT-4.zip",
     "models--JosephusCheung--tmp-guanaco7b-4bit-128g.pt--7f1765839b0b2139b4d3cc6b4c84744f9b549c46c6f9e02bce7b96937941df29": "guanaco7b-4bit-128g.pt",
-    "models--JosephusCheung--tmp-14.17b.png--eedcbb9dfc07e784e6b849c440ace1aef73dfa982e6c38f75b4466e2fc9547e3": "14.17b.png",
-    "models--JosephusCheung--tmp-eva_vit_g.pth--99d2bb36c6b52c94fe6e2e12373afb27de57ae81378c3d8c53bf0e83b0f4275f": "eva_vit_g.pth",
-    "models--JosephusCheung--tmp-blip2_pretrained_flant5xxl.pth--4b3839ea6c617f315ead9bf4036bbb0f0cf6bf62695ecfc14968ea626af03a29": "blip2_pretrained_flant5xxl.pth",
-    "models--JosephusCheung--tmp-triton-2.1.0-cp310-cp310-linux_x86_64.whl--7f13e0d07ca842b3f4a629d917ab784a69976b73b209030ec8579dce7caf5349": "triton-2.1.0-cp310-cp310-linux_x86_64.whl",
-    "models--JosephusCheung--tmp-videochat.pth--9c404a27ec4187e3cfdb6d2091e66ad2ec1b3930bb381def44b0cd19ed663f13": "videochat.pth",
+    "models--JosephusCheung--tmp-.gitattributes--4e67f7f4c7646d0bb5aedf284b504eb780476b39": ".gitattributes",
+    "models--JosephusCheung--tmp-MiniGPT-4.zip--e911b748b7f332679ddd49f7d88a9cd76ba73e4aeb5a8f351aa4e4eb4dc8b552": "MiniGPT-4.zip",
+    "models--JosephusCheung--tmp-leaderboard.png--a0717268c88a12e8b2b9302c7cd36e8f146199a5": "leaderboard.png",
+    "models--JosephusCheung--tmp-34b_beta_mt_bench_polar_plot.png--0acc8118e8458a43b8e3090fa66e0919b8b4d4f2": "34b_beta_mt_bench_polar_plot.png",
     "models--JosephusCheung--tmp-MiniGPT-4-Normal7B.zip--f72a7d8141d471263a77c5a707ebd216a20a96fc2579344ec5b7ba3a4ee87aad": "MiniGPT-4-Normal7B.zip",
     "models--JosephusCheung--tmp-videochat13b.pth--dd78ad4b1fff617ebd603349d9409495b88938135338576e0c76f6268c6f20d0": "videochat13b.pth",
+    "models--JosephusCheung--tmp-eva_vit_g.pth--99d2bb36c6b52c94fe6e2e12373afb27de57ae81378c3d8c53bf0e83b0f4275f": "eva_vit_g.pth",
     "models--JosephusCheung--tmp-yee-200k.png--f6fc29fb3a2350e6a34d1b7acc1bc07ae423fd17e05ded573a23711df9a9bffb": "yee-200k.png",
+    "models--JosephusCheung--tmp-14.17b.png--eedcbb9dfc07e784e6b849c440ace1aef73dfa982e6c38f75b4466e2fc9547e3": "14.17b.png",
+    "models--JosephusCheung--tmp-triton-2.1.0-cp39-cp39-linux_x86_64.whl--09c477b50fa40857d7e313b136f2b3254b120ffdc090dde07d831fc28b451b98": "triton-2.1.0-cp39-cp39-linux_x86_64.whl",
+    "models--JosephusCheung--tmp-videochat.pth--9c404a27ec4187e3cfdb6d2091e66ad2ec1b3930bb381def44b0cd19ed663f13": "videochat.pth",
     "models--JosephusCheung--tmp-7.72b.png--da77b76bed4b39230c903e5513ff6d120faba872dab6b7260b51faeeb070d0c8": "7.72b.png",
-    "models--JosephusCheung--tmp-.gitattributes--4e67f7f4c7646d0bb5aedf284b504eb780476b39": ".gitattributes"
+    "models--JosephusCheung--tmp-blip2_pretrained_flant5xxl.pth--4b3839ea6c617f315ead9bf4036bbb0f0cf6bf62695ecfc14968ea626af03a29": "blip2_pretrained_flant5xxl.pth",
+    "models--JosephusCheung--tmp-triton-2.1.0-cp310-cp310-linux_x86_64.whl--7f13e0d07ca842b3f4a629d917ab784a69976b73b209030ec8579dce7caf5349": "triton-2.1.0-cp310-cp310-linux_x86_64.whl"
   },
-  "lastest-generated": "2023-12-20 14:06:33 (Asia/Shanghai)",
-  "lastest-commit": "3e23b74a5ff983cb677c1b0d6f2748f791be7ce1"
+  "lastest-generated": "2024-02-22 04:38:39 (Asia/Shanghai)",
+  "lastest-commit": "ebb1ea5d57cfaefa7a108ac9722f7e8b5178b1cb"
 }

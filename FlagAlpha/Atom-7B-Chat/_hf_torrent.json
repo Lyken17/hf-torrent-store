@@ -1,30 +1,34 @@
 {
   "fpath2uuid": {
-    "pytorch_model.bin.index.json": "models--FlagAlpha--Atom-7B-Chat-pytorch_model.bin.index.json--f89f5bc5b73ef76c673acf13caad787cbd7a3076",
-    "special_tokens_map.json": "models--FlagAlpha--Atom-7B-Chat-special_tokens_map.json--1e1a9978a99207be181b1c1191efa32cec429a86",
-    "pytorch_model-00002-of-00002.bin": "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00002-of-00002.bin--7913443d6a44639e4e6ffbc2af3c527c1406630b80fcec1e61a5ed63b4055a62",
-    "tokenizer_config.json": "models--FlagAlpha--Atom-7B-Chat-tokenizer_config.json--7d11019bffa546d64c15b5420c8053f5bceb79a3",
+    "configuration_atom.py": "models--FlagAlpha--Atom-7B-Chat-configuration_atom.py--5de0b338f19f9d95aec602f4f7bdf51b372b3ba0",
     "tokenizer.model": "models--FlagAlpha--Atom-7B-Chat-tokenizer.model--04ef61cc08360cd193f9056cb10e26525451fd62759ca714840663257e7bcdd8",
-    "README.md": "models--FlagAlpha--Atom-7B-Chat-README.md--87e7c7b0e0e6631217f3254c63b77356b627a4b9",
-    "pytorch_model-00001-of-00002.bin": "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00001-of-00002.bin--99e0f6865c34e23d3187228c575c9849b5d86f2f9d880d36351a578bca2cf059",
-    "generation_config.json": "models--FlagAlpha--Atom-7B-Chat-generation_config.json--afb9791e3c922db4172679a530b21a0477c09352",
-    "config.json": "models--FlagAlpha--Atom-7B-Chat-config.json--3a3671c87e3ee58fbe75920ed9a1368689a52773",
-    "configuration.json": "models--FlagAlpha--Atom-7B-Chat-configuration.json--ae67ce8f766de1a19fb47a63316d99fe4c1cae5f",
-    ".gitattributes": "models--FlagAlpha--Atom-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "special_tokens_map.json": "models--FlagAlpha--Atom-7B-Chat-special_tokens_map.json--34fe2bb796b4c45eeb7f95f03fdfb92d6e0cc16a",
+    ".gitattributes": "models--FlagAlpha--Atom-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "model_atom.py": "models--FlagAlpha--Atom-7B-Chat-model_atom.py--44bb9a49413709fd7dbe2acaa410075368eb6c84",
+    "model-00001-of-00003.safetensors": "models--FlagAlpha--Atom-7B-Chat-model-00001-of-00003.safetensors--652f7ce37a6080f9099ff09e996e68a1e886dd4fde060baf3680eaa5be8a3efd",
+    "README.md": "models--FlagAlpha--Atom-7B-Chat-README.md--3d01c6ad6f8673d549456ca470abf52076ce36e3",
+    "model-00002-of-00003.safetensors": "models--FlagAlpha--Atom-7B-Chat-model-00002-of-00003.safetensors--1ed8765cd243c4c82e0036a6270c4f3f29f1a09882f2b1a70e403a5d374b1300",
+    "tokenizer_config.json": "models--FlagAlpha--Atom-7B-Chat-tokenizer_config.json--c925ae1266fbaca47373f55108e3d2ed93555f96",
+    "model-00003-of-00003.safetensors": "models--FlagAlpha--Atom-7B-Chat-model-00003-of-00003.safetensors--f20d9c28a07ea533d460e3d586fdcfc60b07ff0f38d5c73323553bf6c1e0c6fb",
+    "generation_config.json": "models--FlagAlpha--Atom-7B-Chat-generation_config.json--63ccf1efccf1ed4e70865479765883bdd9c8d6ae",
+    "config.json": "models--FlagAlpha--Atom-7B-Chat-config.json--cfda980f25db73091135aebaaf3708199b675195",
+    "model.safetensors.index.json": "models--FlagAlpha--Atom-7B-Chat-model.safetensors.index.json--8b0d780d944a0ac901910e5ea3158eef46a659f5"
   },
   "uuid2fpath": {
-    "models--FlagAlpha--Atom-7B-Chat-pytorch_model.bin.index.json--f89f5bc5b73ef76c673acf13caad787cbd7a3076": "pytorch_model.bin.index.json",
-    "models--FlagAlpha--Atom-7B-Chat-special_tokens_map.json--1e1a9978a99207be181b1c1191efa32cec429a86": "special_tokens_map.json",
-    "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00002-of-00002.bin--7913443d6a44639e4e6ffbc2af3c527c1406630b80fcec1e61a5ed63b4055a62": "pytorch_model-00002-of-00002.bin",
-    "models--FlagAlpha--Atom-7B-Chat-tokenizer_config.json--7d11019bffa546d64c15b5420c8053f5bceb79a3": "tokenizer_config.json",
+    "models--FlagAlpha--Atom-7B-Chat-configuration_atom.py--5de0b338f19f9d95aec602f4f7bdf51b372b3ba0": "configuration_atom.py",
     "models--FlagAlpha--Atom-7B-Chat-tokenizer.model--04ef61cc08360cd193f9056cb10e26525451fd62759ca714840663257e7bcdd8": "tokenizer.model",
-    "models--FlagAlpha--Atom-7B-Chat-README.md--87e7c7b0e0e6631217f3254c63b77356b627a4b9": "README.md",
-    "models--FlagAlpha--Atom-7B-Chat-pytorch_model-00001-of-00002.bin--99e0f6865c34e23d3187228c575c9849b5d86f2f9d880d36351a578bca2cf059": "pytorch_model-00001-of-00002.bin",
-    "models--FlagAlpha--Atom-7B-Chat-generation_config.json--afb9791e3c922db4172679a530b21a0477c09352": "generation_config.json",
-    "models--FlagAlpha--Atom-7B-Chat-config.json--3a3671c87e3ee58fbe75920ed9a1368689a52773": "config.json",
-    "models--FlagAlpha--Atom-7B-Chat-configuration.json--ae67ce8f766de1a19fb47a63316d99fe4c1cae5f": "configuration.json",
-    "models--FlagAlpha--Atom-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--FlagAlpha--Atom-7B-Chat-special_tokens_map.json--34fe2bb796b4c45eeb7f95f03fdfb92d6e0cc16a": "special_tokens_map.json",
+    "models--FlagAlpha--Atom-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--FlagAlpha--Atom-7B-Chat-model_atom.py--44bb9a49413709fd7dbe2acaa410075368eb6c84": "model_atom.py",
+    "models--FlagAlpha--Atom-7B-Chat-model-00001-of-00003.safetensors--652f7ce37a6080f9099ff09e996e68a1e886dd4fde060baf3680eaa5be8a3efd": "model-00001-of-00003.safetensors",
+    "models--FlagAlpha--Atom-7B-Chat-README.md--3d01c6ad6f8673d549456ca470abf52076ce36e3": "README.md",
+    "models--FlagAlpha--Atom-7B-Chat-model-00002-of-00003.safetensors--1ed8765cd243c4c82e0036a6270c4f3f29f1a09882f2b1a70e403a5d374b1300": "model-00002-of-00003.safetensors",
+    "models--FlagAlpha--Atom-7B-Chat-tokenizer_config.json--c925ae1266fbaca47373f55108e3d2ed93555f96": "tokenizer_config.json",
+    "models--FlagAlpha--Atom-7B-Chat-model-00003-of-00003.safetensors--f20d9c28a07ea533d460e3d586fdcfc60b07ff0f38d5c73323553bf6c1e0c6fb": "model-00003-of-00003.safetensors",
+    "models--FlagAlpha--Atom-7B-Chat-generation_config.json--63ccf1efccf1ed4e70865479765883bdd9c8d6ae": "generation_config.json",
+    "models--FlagAlpha--Atom-7B-Chat-config.json--cfda980f25db73091135aebaaf3708199b675195": "config.json",
+    "models--FlagAlpha--Atom-7B-Chat-model.safetensors.index.json--8b0d780d944a0ac901910e5ea3158eef46a659f5": "model.safetensors.index.json"
   },
-  "lastest-generated": "2023-12-22 15:58:09 (Asia/Shanghai)",
-  "lastest-commit": "d8fc55670d5e832b3cabc099e2fefdb71cbb6d4d"
+  "lastest-generated": "2024-02-22 04:11:51 (Asia/Shanghai)",
+  "lastest-commit": "b0df12799fe6583880f9962be596f7affba06901"
 }

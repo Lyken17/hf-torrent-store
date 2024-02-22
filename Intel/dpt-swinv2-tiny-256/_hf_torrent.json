@@ -1,0 +1,18 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--Intel--dpt-swinv2-tiny-256-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "preprocessor_config.json": "models--Intel--dpt-swinv2-tiny-256-preprocessor_config.json--ce58f4a5f0165c26a0970a486b868200f87f4f13",
+    "README.md": "models--Intel--dpt-swinv2-tiny-256-README.md--5564a0321d6ebe304ce8d7f4c9d58553b4e544ca",
+    "model.safetensors": "models--Intel--dpt-swinv2-tiny-256-model.safetensors--b11e8b50dee40e953a1c38c9d9330e3bf5512247389b87b74d0c47c263b64983",
+    "config.json": "models--Intel--dpt-swinv2-tiny-256-config.json--7e29ae06a1212bca54ab6f10a6ffab1dc3de3e6a"
+  },
+  "uuid2fpath": {
+    "models--Intel--dpt-swinv2-tiny-256-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--Intel--dpt-swinv2-tiny-256-preprocessor_config.json--ce58f4a5f0165c26a0970a486b868200f87f4f13": "preprocessor_config.json",
+    "models--Intel--dpt-swinv2-tiny-256-README.md--5564a0321d6ebe304ce8d7f4c9d58553b4e544ca": "README.md",
+    "models--Intel--dpt-swinv2-tiny-256-model.safetensors--b11e8b50dee40e953a1c38c9d9330e3bf5512247389b87b74d0c47c263b64983": "model.safetensors",
+    "models--Intel--dpt-swinv2-tiny-256-config.json--7e29ae06a1212bca54ab6f10a6ffab1dc3de3e6a": "config.json"
+  },
+  "lastest-generated": "2024-02-22 17:29:36 (Asia/Shanghai)",
+  "lastest-commit": "b1f86eab753c20a5520fd0bb2794d5c4e413f684"
+}

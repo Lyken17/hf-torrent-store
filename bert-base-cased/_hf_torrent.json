@@ -1,28 +1,28 @@
 {
   "fpath2uuid": {
-    "tf_model.h5": "models--bert-base-cased-tf_model.h5--0d04ece69d04b890153ea3bd5c2ef5706f9181495a0778a2593c6118f7ce2dc3",
-    "tokenizer_config.json": "models--bert-base-cased-tokenizer_config.json--e3c6d456fb2616f01a9a6cd01a1be1a36353ed22",
+    "vocab.txt": "models--bert-base-cased-vocab.txt--2ea941cc79a6f3d7985ca6991ef4f67dad62af04",
+    ".gitattributes": "models--bert-base-cased-.gitattributes--505a7adf8be9e5fdf06aabbfbe9046e6c811f91b",
+    "pytorch_model.bin": "models--bert-base-cased-pytorch_model.bin--d6992b8cd27d7a132eafce6a8210272329a371b1c762d453588795dd3835593e",
     "README.md": "models--bert-base-cased-README.md--ba25d58536e9f3597748ae26bb79a40f734d9bda",
     "tokenizer.json": "models--bert-base-cased-tokenizer.json--1ab2a0d23e5a032b6dcd6a3d0976c2af4d2c27f8",
-    "model.safetensors": "models--bert-base-cased-model.safetensors--1d8bdcee6021e2c25f0325e84889b61c2eb26b843eef5659c247af138d64f050",
-    "vocab.txt": "models--bert-base-cased-vocab.txt--2ea941cc79a6f3d7985ca6991ef4f67dad62af04",
     "flax_model.msgpack": "models--bert-base-cased-flax_model.msgpack--2da0d47987f1ad37febaaa06c3bec9134c1b1d3a6ebf134af5f946ce8aeaf630",
-    "pytorch_model.bin": "models--bert-base-cased-pytorch_model.bin--d6992b8cd27d7a132eafce6a8210272329a371b1c762d453588795dd3835593e",
-    "config.json": "models--bert-base-cased-config.json--107460496b431545e4f921afb3fd5486fd2ae79d",
-    ".gitattributes": "models--bert-base-cased-.gitattributes--505a7adf8be9e5fdf06aabbfbe9046e6c811f91b"
+    "tokenizer_config.json": "models--bert-base-cased-tokenizer_config.json--2ba5de7675473164e07f3b3531748c9a6f113a2c",
+    "model.safetensors": "models--bert-base-cased-model.safetensors--1d8bdcee6021e2c25f0325e84889b61c2eb26b843eef5659c247af138d64f050",
+    "tf_model.h5": "models--bert-base-cased-tf_model.h5--0d04ece69d04b890153ea3bd5c2ef5706f9181495a0778a2593c6118f7ce2dc3",
+    "config.json": "models--bert-base-cased-config.json--107460496b431545e4f921afb3fd5486fd2ae79d"
   },
   "uuid2fpath": {
-    "models--bert-base-cased-tf_model.h5--0d04ece69d04b890153ea3bd5c2ef5706f9181495a0778a2593c6118f7ce2dc3": "tf_model.h5",
-    "models--bert-base-cased-tokenizer_config.json--e3c6d456fb2616f01a9a6cd01a1be1a36353ed22": "tokenizer_config.json",
+    "models--bert-base-cased-vocab.txt--2ea941cc79a6f3d7985ca6991ef4f67dad62af04": "vocab.txt",
+    "models--bert-base-cased-.gitattributes--505a7adf8be9e5fdf06aabbfbe9046e6c811f91b": ".gitattributes",
+    "models--bert-base-cased-pytorch_model.bin--d6992b8cd27d7a132eafce6a8210272329a371b1c762d453588795dd3835593e": "pytorch_model.bin",
     "models--bert-base-cased-README.md--ba25d58536e9f3597748ae26bb79a40f734d9bda": "README.md",
     "models--bert-base-cased-tokenizer.json--1ab2a0d23e5a032b6dcd6a3d0976c2af4d2c27f8": "tokenizer.json",
-    "models--bert-base-cased-model.safetensors--1d8bdcee6021e2c25f0325e84889b61c2eb26b843eef5659c247af138d64f050": "model.safetensors",
-    "models--bert-base-cased-vocab.txt--2ea941cc79a6f3d7985ca6991ef4f67dad62af04": "vocab.txt",
     "models--bert-base-cased-flax_model.msgpack--2da0d47987f1ad37febaaa06c3bec9134c1b1d3a6ebf134af5f946ce8aeaf630": "flax_model.msgpack",
-    "models--bert-base-cased-pytorch_model.bin--d6992b8cd27d7a132eafce6a8210272329a371b1c762d453588795dd3835593e": "pytorch_model.bin",
-    "models--bert-base-cased-config.json--107460496b431545e4f921afb3fd5486fd2ae79d": "config.json",
-    "models--bert-base-cased-.gitattributes--505a7adf8be9e5fdf06aabbfbe9046e6c811f91b": ".gitattributes"
+    "models--bert-base-cased-tokenizer_config.json--2ba5de7675473164e07f3b3531748c9a6f113a2c": "tokenizer_config.json",
+    "models--bert-base-cased-model.safetensors--1d8bdcee6021e2c25f0325e84889b61c2eb26b843eef5659c247af138d64f050": "model.safetensors",
+    "models--bert-base-cased-tf_model.h5--0d04ece69d04b890153ea3bd5c2ef5706f9181495a0778a2593c6118f7ce2dc3": "tf_model.h5",
+    "models--bert-base-cased-config.json--107460496b431545e4f921afb3fd5486fd2ae79d": "config.json"
   },
-  "lastest-generated": "2023-12-21 20:16:49 (Asia/Shanghai)",
-  "lastest-commit": "5532cc56f74641d4bb33641f5c76a55d11f846e0"
+  "lastest-generated": "2024-02-22 06:34:37 (Asia/Shanghai)",
+  "lastest-commit": "cd5ef92a9fb2f889e972770a36d4ed042daf221e"
 }

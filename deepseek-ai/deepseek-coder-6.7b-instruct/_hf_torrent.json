@@ -1,34 +1,34 @@
 {
   "fpath2uuid": {
-    "model-00001-of-00002.safetensors": "models--deepseek-ai--deepseek-coder-6.7b-instruct-model-00001-of-00002.safetensors--ef55ffa04c8de3943c858cbcf7143b9803b3aa608337352ca5cd329f8a208bb6",
+    ".gitattributes": "models--deepseek-ai--deepseek-coder-6.7b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "LICENSE": "models--deepseek-ai--deepseek-coder-6.7b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f",
+    "README.md": "models--deepseek-ai--deepseek-coder-6.7b-instruct-README.md--35cd85041e4732de591a5485e5721c0d54e97536",
     "pytorch_model.bin.index.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model.bin.index.json--03ed4bdaa9d6707eefe2678470686f040dea73c9",
+    "pytorch_model-00001-of-00002.bin": "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model-00001-of-00002.bin--c2d75c419c6a86602710e347ac09bdc899299c1f1c6b06e542c7588ca69bf603",
+    "tokenizer.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762",
+    "model-00001-of-00002.safetensors": "models--deepseek-ai--deepseek-coder-6.7b-instruct-model-00001-of-00002.safetensors--ef55ffa04c8de3943c858cbcf7143b9803b3aa608337352ca5cd329f8a208bb6",
     "pytorch_model-00002-of-00002.bin": "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model-00002-of-00002.bin--7544ec56f13952b201d7dc1e438093fc555b441bad520b1fb2e3a87b46fad7be",
     "tokenizer_config.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-tokenizer_config.json--68f6f5bd3350366399a8c53d32a602c825390806",
-    "README.md": "models--deepseek-ai--deepseek-coder-6.7b-instruct-README.md--dccf39c6e6a2659ac0fd5ce0d1729d70df3b32d3",
-    "tokenizer.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762",
     "model-00002-of-00002.safetensors": "models--deepseek-ai--deepseek-coder-6.7b-instruct-model-00002-of-00002.safetensors--d4d48eb2dce70933437b29d3f39b10a8820d629f936554209578e8119d5f5b2f",
-    "pytorch_model-00001-of-00002.bin": "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model-00001-of-00002.bin--c2d75c419c6a86602710e347ac09bdc899299c1f1c6b06e542c7588ca69bf603",
     "generation_config.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-generation_config.json--19a930a8e7a08b1d002e8fa317438423b61fff22",
-    "LICENSE": "models--deepseek-ai--deepseek-coder-6.7b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f",
-    "model.safetensors.index.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-model.safetensors.index.json--d4338e87a01134a05058c25623116fb6678a90c7",
     "config.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-config.json--0acc4f7c68fd725bc672e67f81363cad2438294d",
-    ".gitattributes": "models--deepseek-ai--deepseek-coder-6.7b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "model.safetensors.index.json": "models--deepseek-ai--deepseek-coder-6.7b-instruct-model.safetensors.index.json--d4338e87a01134a05058c25623116fb6678a90c7"
   },
   "uuid2fpath": {
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-model-00001-of-00002.safetensors--ef55ffa04c8de3943c858cbcf7143b9803b3aa608337352ca5cd329f8a208bb6": "model-00001-of-00002.safetensors",
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f": "LICENSE",
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-README.md--35cd85041e4732de591a5485e5721c0d54e97536": "README.md",
     "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model.bin.index.json--03ed4bdaa9d6707eefe2678470686f040dea73c9": "pytorch_model.bin.index.json",
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model-00001-of-00002.bin--c2d75c419c6a86602710e347ac09bdc899299c1f1c6b06e542c7588ca69bf603": "pytorch_model-00001-of-00002.bin",
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762": "tokenizer.json",
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-model-00001-of-00002.safetensors--ef55ffa04c8de3943c858cbcf7143b9803b3aa608337352ca5cd329f8a208bb6": "model-00001-of-00002.safetensors",
     "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model-00002-of-00002.bin--7544ec56f13952b201d7dc1e438093fc555b441bad520b1fb2e3a87b46fad7be": "pytorch_model-00002-of-00002.bin",
     "models--deepseek-ai--deepseek-coder-6.7b-instruct-tokenizer_config.json--68f6f5bd3350366399a8c53d32a602c825390806": "tokenizer_config.json",
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-README.md--dccf39c6e6a2659ac0fd5ce0d1729d70df3b32d3": "README.md",
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-tokenizer.json--0dfa4268afc2cf45515dec553772d7ca79f79762": "tokenizer.json",
     "models--deepseek-ai--deepseek-coder-6.7b-instruct-model-00002-of-00002.safetensors--d4d48eb2dce70933437b29d3f39b10a8820d629f936554209578e8119d5f5b2f": "model-00002-of-00002.safetensors",
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-pytorch_model-00001-of-00002.bin--c2d75c419c6a86602710e347ac09bdc899299c1f1c6b06e542c7588ca69bf603": "pytorch_model-00001-of-00002.bin",
     "models--deepseek-ai--deepseek-coder-6.7b-instruct-generation_config.json--19a930a8e7a08b1d002e8fa317438423b61fff22": "generation_config.json",
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-LICENSE--9489e95c444dd3a396ec884bfd8afa719e59160f": "LICENSE",
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-model.safetensors.index.json--d4338e87a01134a05058c25623116fb6678a90c7": "model.safetensors.index.json",
     "models--deepseek-ai--deepseek-coder-6.7b-instruct-config.json--0acc4f7c68fd725bc672e67f81363cad2438294d": "config.json",
-    "models--deepseek-ai--deepseek-coder-6.7b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--deepseek-ai--deepseek-coder-6.7b-instruct-model.safetensors.index.json--d4338e87a01134a05058c25623116fb6678a90c7": "model.safetensors.index.json"
   },
-  "lastest-generated": "2023-12-22 22:25:42 (Asia/Shanghai)",
-  "lastest-commit": "cbb77d7448ea3168d884758817e7f895e3828d1c"
+  "lastest-generated": "2024-02-22 07:53:42 (Asia/Shanghai)",
+  "lastest-commit": "e5d64addd26a6a1db0f9b863abf6ee3141936807"
 }

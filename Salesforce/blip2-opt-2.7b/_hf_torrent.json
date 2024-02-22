@@ -1,32 +1,32 @@
 {
   "fpath2uuid": {
-    "pytorch_model.bin.index.json": "models--Salesforce--blip2-opt-2.7b-pytorch_model.bin.index.json--10539203b28f48aa69807e2526c9257cac3f4d28",
-    "merges.txt": "models--Salesforce--blip2-opt-2.7b-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956",
     "special_tokens_map.json": "models--Salesforce--blip2-opt-2.7b-special_tokens_map.json--fd05f8e8b4a81d5d4987d20d7fd4258e73e5e51a",
+    ".gitattributes": "models--Salesforce--blip2-opt-2.7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea",
+    "preprocessor_config.json": "models--Salesforce--blip2-opt-2.7b-preprocessor_config.json--0b0fa393c4e1fa80a41fd3b84e022c6e3488230e",
+    "merges.txt": "models--Salesforce--blip2-opt-2.7b-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956",
+    "README.md": "models--Salesforce--blip2-opt-2.7b-README.md--8c62b0572dd840ef1b25b72c21aef15a9a4454b6",
+    "vocab.json": "models--Salesforce--blip2-opt-2.7b-vocab.json--4ebe4bb3f3114daf2e4cc349f24873a1175a35d7",
+    "pytorch_model.bin.index.json": "models--Salesforce--blip2-opt-2.7b-pytorch_model.bin.index.json--10539203b28f48aa69807e2526c9257cac3f4d28",
+    "pytorch_model-00001-of-00002.bin": "models--Salesforce--blip2-opt-2.7b-pytorch_model-00001-of-00002.bin--83f4604e9f2c81dace48cbbb245cbe9acadddce7471c17eedc10cd675bf9af62",
+    "tokenizer.json": "models--Salesforce--blip2-opt-2.7b-tokenizer.json--4d1656ea9b723eda0760e7f05d5fcf4301977292",
     "pytorch_model-00002-of-00002.bin": "models--Salesforce--blip2-opt-2.7b-pytorch_model-00002-of-00002.bin--b224ac0c148bf3aa0a211e5d043d38918ef57c2d3b714771a7c4b124129dbd48",
     "tokenizer_config.json": "models--Salesforce--blip2-opt-2.7b-tokenizer_config.json--383c1ae016838f1427e52e513780716aa00fd3a6",
-    "README.md": "models--Salesforce--blip2-opt-2.7b-README.md--48fb54655989d96ea5e540cbf590858fadbf0efa",
-    "tokenizer.json": "models--Salesforce--blip2-opt-2.7b-tokenizer.json--4d1656ea9b723eda0760e7f05d5fcf4301977292",
-    "pytorch_model-00001-of-00002.bin": "models--Salesforce--blip2-opt-2.7b-pytorch_model-00001-of-00002.bin--83f4604e9f2c81dace48cbbb245cbe9acadddce7471c17eedc10cd675bf9af62",
-    "vocab.json": "models--Salesforce--blip2-opt-2.7b-vocab.json--4ebe4bb3f3114daf2e4cc349f24873a1175a35d7",
-    "preprocessor_config.json": "models--Salesforce--blip2-opt-2.7b-preprocessor_config.json--0b0fa393c4e1fa80a41fd3b84e022c6e3488230e",
-    "config.json": "models--Salesforce--blip2-opt-2.7b-config.json--e179c5446a2803c3fa97e2a0ead4f33e39d15385",
-    ".gitattributes": "models--Salesforce--blip2-opt-2.7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea"
+    "config.json": "models--Salesforce--blip2-opt-2.7b-config.json--e179c5446a2803c3fa97e2a0ead4f33e39d15385"
   },
   "uuid2fpath": {
-    "models--Salesforce--blip2-opt-2.7b-pytorch_model.bin.index.json--10539203b28f48aa69807e2526c9257cac3f4d28": "pytorch_model.bin.index.json",
-    "models--Salesforce--blip2-opt-2.7b-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956": "merges.txt",
     "models--Salesforce--blip2-opt-2.7b-special_tokens_map.json--fd05f8e8b4a81d5d4987d20d7fd4258e73e5e51a": "special_tokens_map.json",
+    "models--Salesforce--blip2-opt-2.7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes",
+    "models--Salesforce--blip2-opt-2.7b-preprocessor_config.json--0b0fa393c4e1fa80a41fd3b84e022c6e3488230e": "preprocessor_config.json",
+    "models--Salesforce--blip2-opt-2.7b-merges.txt--6636bda4a1fd7a63653dffb22683b8162c8de956": "merges.txt",
+    "models--Salesforce--blip2-opt-2.7b-README.md--8c62b0572dd840ef1b25b72c21aef15a9a4454b6": "README.md",
+    "models--Salesforce--blip2-opt-2.7b-vocab.json--4ebe4bb3f3114daf2e4cc349f24873a1175a35d7": "vocab.json",
+    "models--Salesforce--blip2-opt-2.7b-pytorch_model.bin.index.json--10539203b28f48aa69807e2526c9257cac3f4d28": "pytorch_model.bin.index.json",
+    "models--Salesforce--blip2-opt-2.7b-pytorch_model-00001-of-00002.bin--83f4604e9f2c81dace48cbbb245cbe9acadddce7471c17eedc10cd675bf9af62": "pytorch_model-00001-of-00002.bin",
+    "models--Salesforce--blip2-opt-2.7b-tokenizer.json--4d1656ea9b723eda0760e7f05d5fcf4301977292": "tokenizer.json",
     "models--Salesforce--blip2-opt-2.7b-pytorch_model-00002-of-00002.bin--b224ac0c148bf3aa0a211e5d043d38918ef57c2d3b714771a7c4b124129dbd48": "pytorch_model-00002-of-00002.bin",
     "models--Salesforce--blip2-opt-2.7b-tokenizer_config.json--383c1ae016838f1427e52e513780716aa00fd3a6": "tokenizer_config.json",
-    "models--Salesforce--blip2-opt-2.7b-README.md--48fb54655989d96ea5e540cbf590858fadbf0efa": "README.md",
-    "models--Salesforce--blip2-opt-2.7b-tokenizer.json--4d1656ea9b723eda0760e7f05d5fcf4301977292": "tokenizer.json",
-    "models--Salesforce--blip2-opt-2.7b-pytorch_model-00001-of-00002.bin--83f4604e9f2c81dace48cbbb245cbe9acadddce7471c17eedc10cd675bf9af62": "pytorch_model-00001-of-00002.bin",
-    "models--Salesforce--blip2-opt-2.7b-vocab.json--4ebe4bb3f3114daf2e4cc349f24873a1175a35d7": "vocab.json",
-    "models--Salesforce--blip2-opt-2.7b-preprocessor_config.json--0b0fa393c4e1fa80a41fd3b84e022c6e3488230e": "preprocessor_config.json",
-    "models--Salesforce--blip2-opt-2.7b-config.json--e179c5446a2803c3fa97e2a0ead4f33e39d15385": "config.json",
-    "models--Salesforce--blip2-opt-2.7b-.gitattributes--c7d9f3332a950355d5a77d85000f05e6f45435ea": ".gitattributes"
+    "models--Salesforce--blip2-opt-2.7b-config.json--e179c5446a2803c3fa97e2a0ead4f33e39d15385": "config.json"
   },
-  "lastest-generated": "2023-12-20 13:28:03 (Asia/Shanghai)",
-  "lastest-commit": "6e723d92ee91ebcee4ba74d7017632f11ff4217b"
+  "lastest-generated": "2024-02-22 06:21:07 (Asia/Shanghai)",
+  "lastest-commit": "235c75ea3861136b9dd202c6edc6a7ba285c35e3"
 }

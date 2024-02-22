@@ -1,28 +1,28 @@
 {
   "fpath2uuid": {
-    "pytorch_model.bin.index.json": "models--hfl--chinese-llama-2-7b-pytorch_model.bin.index.json--f795bb5e5d9dd805a9609d81ae891f4b6387377b",
+    "tokenizer.model": "models--hfl--chinese-llama-2-7b-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c",
     "special_tokens_map.json": "models--hfl--chinese-llama-2-7b-special_tokens_map.json--9588650714fc017603ed2e0810f032ff0f970aad",
+    ".gitattributes": "models--hfl--chinese-llama-2-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "README.md": "models--hfl--chinese-llama-2-7b-README.md--2ee97a983f010206ba0883a202e05f5b2efc4225",
+    "pytorch_model.bin.index.json": "models--hfl--chinese-llama-2-7b-pytorch_model.bin.index.json--f795bb5e5d9dd805a9609d81ae891f4b6387377b",
+    "pytorch_model-00001-of-00002.bin": "models--hfl--chinese-llama-2-7b-pytorch_model-00001-of-00002.bin--f1cf42a7eeaff7c617666e4c489c105dd695f268ec72a7b314dcb3955b9dcb9e",
     "pytorch_model-00002-of-00002.bin": "models--hfl--chinese-llama-2-7b-pytorch_model-00002-of-00002.bin--41272f96d7ed1b69c7c4b099650436c61a792e5dea66b84cfcca16f91cc58a04",
     "tokenizer_config.json": "models--hfl--chinese-llama-2-7b-tokenizer_config.json--5076180410784a5b5cd561378840981c4ee125c1",
-    "tokenizer.model": "models--hfl--chinese-llama-2-7b-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c",
-    "README.md": "models--hfl--chinese-llama-2-7b-README.md--3cd2cb696ab43e17e4997c40ffb7fb02c719eed6",
-    "pytorch_model-00001-of-00002.bin": "models--hfl--chinese-llama-2-7b-pytorch_model-00001-of-00002.bin--f1cf42a7eeaff7c617666e4c489c105dd695f268ec72a7b314dcb3955b9dcb9e",
     "generation_config.json": "models--hfl--chinese-llama-2-7b-generation_config.json--de5b5ba0bd681b6523f58cf947b3f0be78288c4b",
-    "config.json": "models--hfl--chinese-llama-2-7b-config.json--494a78396b9340f8189762fc6137ad5119842e91",
-    ".gitattributes": "models--hfl--chinese-llama-2-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b"
+    "config.json": "models--hfl--chinese-llama-2-7b-config.json--494a78396b9340f8189762fc6137ad5119842e91"
   },
   "uuid2fpath": {
-    "models--hfl--chinese-llama-2-7b-pytorch_model.bin.index.json--f795bb5e5d9dd805a9609d81ae891f4b6387377b": "pytorch_model.bin.index.json",
+    "models--hfl--chinese-llama-2-7b-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c": "tokenizer.model",
     "models--hfl--chinese-llama-2-7b-special_tokens_map.json--9588650714fc017603ed2e0810f032ff0f970aad": "special_tokens_map.json",
+    "models--hfl--chinese-llama-2-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--hfl--chinese-llama-2-7b-README.md--2ee97a983f010206ba0883a202e05f5b2efc4225": "README.md",
+    "models--hfl--chinese-llama-2-7b-pytorch_model.bin.index.json--f795bb5e5d9dd805a9609d81ae891f4b6387377b": "pytorch_model.bin.index.json",
+    "models--hfl--chinese-llama-2-7b-pytorch_model-00001-of-00002.bin--f1cf42a7eeaff7c617666e4c489c105dd695f268ec72a7b314dcb3955b9dcb9e": "pytorch_model-00001-of-00002.bin",
     "models--hfl--chinese-llama-2-7b-pytorch_model-00002-of-00002.bin--41272f96d7ed1b69c7c4b099650436c61a792e5dea66b84cfcca16f91cc58a04": "pytorch_model-00002-of-00002.bin",
     "models--hfl--chinese-llama-2-7b-tokenizer_config.json--5076180410784a5b5cd561378840981c4ee125c1": "tokenizer_config.json",
-    "models--hfl--chinese-llama-2-7b-tokenizer.model--a3b8844863b200dfcca971db228e96ce388290dfcf72c15d7a9d2f604bac787c": "tokenizer.model",
-    "models--hfl--chinese-llama-2-7b-README.md--3cd2cb696ab43e17e4997c40ffb7fb02c719eed6": "README.md",
-    "models--hfl--chinese-llama-2-7b-pytorch_model-00001-of-00002.bin--f1cf42a7eeaff7c617666e4c489c105dd695f268ec72a7b314dcb3955b9dcb9e": "pytorch_model-00001-of-00002.bin",
     "models--hfl--chinese-llama-2-7b-generation_config.json--de5b5ba0bd681b6523f58cf947b3f0be78288c4b": "generation_config.json",
-    "models--hfl--chinese-llama-2-7b-config.json--494a78396b9340f8189762fc6137ad5119842e91": "config.json",
-    "models--hfl--chinese-llama-2-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes"
+    "models--hfl--chinese-llama-2-7b-config.json--494a78396b9340f8189762fc6137ad5119842e91": "config.json"
   },
-  "lastest-generated": "2023-12-22 13:39:40 (Asia/Shanghai)",
-  "lastest-commit": "52f667e32df9d4cf4f6181edb7dd53fa379d4693"
+  "lastest-generated": "2024-01-16 05:45:37 (Asia/Shanghai)",
+  "lastest-commit": "c40cf9ac38b789d542b582f842a9f62511fa3bf1"
 }
