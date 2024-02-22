@@ -1,0 +1,34 @@
+{
+  "fpath2uuid": {
+    "tokenizer.model": "models--liuhaotian--llava-v1.6-vicuna-7b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "special_tokens_map.json": "models--liuhaotian--llava-v1.6-vicuna-7b-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e",
+    ".gitattributes": "models--liuhaotian--llava-v1.6-vicuna-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "model-00001-of-00003.safetensors": "models--liuhaotian--llava-v1.6-vicuna-7b-model-00001-of-00003.safetensors--f61fd54d6e47f55db4452dd5a263cb5323d1b8077cad86bf536ae0e6b46b5df5",
+    "README.md": "models--liuhaotian--llava-v1.6-vicuna-7b-README.md--47057f9ca861f2210cfa56927082acbee57c23ff",
+    "trainer_state.json": "models--liuhaotian--llava-v1.6-vicuna-7b-trainer_state.json--cfcf6828b4fd6aae39f69b495ad9e3f430f54363",
+    "training_args.bin": "models--liuhaotian--llava-v1.6-vicuna-7b-training_args.bin--0c8b8519b6416cde0238e36ebb0ff98ad09214a241bf247f7656ab4e9d36a4da",
+    "model-00002-of-00003.safetensors": "models--liuhaotian--llava-v1.6-vicuna-7b-model-00002-of-00003.safetensors--a5219e366b4da0d6df6116a2b71c6bceea0b77dfcc5fdec4fa774f0f26c39ec4",
+    "tokenizer_config.json": "models--liuhaotian--llava-v1.6-vicuna-7b-tokenizer_config.json--93bc64ab6409c49d05971dd057a1f564b470fe53",
+    "model-00003-of-00003.safetensors": "models--liuhaotian--llava-v1.6-vicuna-7b-model-00003-of-00003.safetensors--52a8836fee344f7582a208e4c01d218aa53fa3a3edbfab4538f50aecd57c1646",
+    "generation_config.json": "models--liuhaotian--llava-v1.6-vicuna-7b-generation_config.json--ea3d538aeecaf1ff1eba439cb643cae3388a5316",
+    "config.json": "models--liuhaotian--llava-v1.6-vicuna-7b-config.json--f51a61af7122608433e4eb65bcbd7e8f9812932a",
+    "model.safetensors.index.json": "models--liuhaotian--llava-v1.6-vicuna-7b-model.safetensors.index.json--b526abddee37a3410b3a82ab0fb967fa1f10eb9c"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.6-vicuna-7b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e": "special_tokens_map.json",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-model-00001-of-00003.safetensors--f61fd54d6e47f55db4452dd5a263cb5323d1b8077cad86bf536ae0e6b46b5df5": "model-00001-of-00003.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-README.md--47057f9ca861f2210cfa56927082acbee57c23ff": "README.md",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-trainer_state.json--cfcf6828b4fd6aae39f69b495ad9e3f430f54363": "trainer_state.json",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-training_args.bin--0c8b8519b6416cde0238e36ebb0ff98ad09214a241bf247f7656ab4e9d36a4da": "training_args.bin",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-model-00002-of-00003.safetensors--a5219e366b4da0d6df6116a2b71c6bceea0b77dfcc5fdec4fa774f0f26c39ec4": "model-00002-of-00003.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-tokenizer_config.json--93bc64ab6409c49d05971dd057a1f564b470fe53": "tokenizer_config.json",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-model-00003-of-00003.safetensors--52a8836fee344f7582a208e4c01d218aa53fa3a3edbfab4538f50aecd57c1646": "model-00003-of-00003.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-generation_config.json--ea3d538aeecaf1ff1eba439cb643cae3388a5316": "generation_config.json",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-config.json--f51a61af7122608433e4eb65bcbd7e8f9812932a": "config.json",
+    "models--liuhaotian--llava-v1.6-vicuna-7b-model.safetensors.index.json--b526abddee37a3410b3a82ab0fb967fa1f10eb9c": "model.safetensors.index.json"
+  },
+  "lastest-generated": "2024-02-22 21:37:43 (Asia/Shanghai)",
+  "lastest-commit": "72892672a5d71c897218c761c8e06c9a0541690d"
+}

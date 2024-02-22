@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--Qwen--Qwen1.5-0.5B-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "LICENSE": "models--Qwen--Qwen1.5-0.5B-LICENSE--c5faab3b0ab37a1f8fe7067d963bf30e8735d7e1",
+    "merges.txt": "models--Qwen--Qwen1.5-0.5B-merges.txt--20024bfe7c83998e9aeaf98a0cd6a2ce6306c2f0",
+    "README.md": "models--Qwen--Qwen1.5-0.5B-README.md--04a958e49f4cf73ba1f33548b339fbe9074dc8f9",
+    "vocab.json": "models--Qwen--Qwen1.5-0.5B-vocab.json--4783fe10ac3adce15ac8f358ef5462739852c569",
+    "tokenizer.json": "models--Qwen--Qwen1.5-0.5B-tokenizer.json--33ea6c72ebb92a237fa2bdf26c5ff16592efcdae",
+    "tokenizer_config.json": "models--Qwen--Qwen1.5-0.5B-tokenizer_config.json--6272fac913a1c5f5281232755f04d6fc87d23014",
+    "model.safetensors": "models--Qwen--Qwen1.5-0.5B-model.safetensors--a88bcf41b3fa9a20031b6b598abc11f694e35e0b5684d6e14dbe7e894ebbb080",
+    "generation_config.json": "models--Qwen--Qwen1.5-0.5B-generation_config.json--cbbb3133034e192527e5321b4c679154e4819ab8",
+    "config.json": "models--Qwen--Qwen1.5-0.5B-config.json--7933f98f3efce9098c93c8905d44e0f090fd860b"
+  },
+  "uuid2fpath": {
+    "models--Qwen--Qwen1.5-0.5B-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--Qwen--Qwen1.5-0.5B-LICENSE--c5faab3b0ab37a1f8fe7067d963bf30e8735d7e1": "LICENSE",
+    "models--Qwen--Qwen1.5-0.5B-merges.txt--20024bfe7c83998e9aeaf98a0cd6a2ce6306c2f0": "merges.txt",
+    "models--Qwen--Qwen1.5-0.5B-README.md--04a958e49f4cf73ba1f33548b339fbe9074dc8f9": "README.md",
+    "models--Qwen--Qwen1.5-0.5B-vocab.json--4783fe10ac3adce15ac8f358ef5462739852c569": "vocab.json",
+    "models--Qwen--Qwen1.5-0.5B-tokenizer.json--33ea6c72ebb92a237fa2bdf26c5ff16592efcdae": "tokenizer.json",
+    "models--Qwen--Qwen1.5-0.5B-tokenizer_config.json--6272fac913a1c5f5281232755f04d6fc87d23014": "tokenizer_config.json",
+    "models--Qwen--Qwen1.5-0.5B-model.safetensors--a88bcf41b3fa9a20031b6b598abc11f694e35e0b5684d6e14dbe7e894ebbb080": "model.safetensors",
+    "models--Qwen--Qwen1.5-0.5B-generation_config.json--cbbb3133034e192527e5321b4c679154e4819ab8": "generation_config.json",
+    "models--Qwen--Qwen1.5-0.5B-config.json--7933f98f3efce9098c93c8905d44e0f090fd860b": "config.json"
+  },
+  "lastest-generated": "2024-02-22 17:38:32 (Asia/Shanghai)",
+  "lastest-commit": "fedce23ef6393499effdf4958f9b3256f299cc7d"
+}

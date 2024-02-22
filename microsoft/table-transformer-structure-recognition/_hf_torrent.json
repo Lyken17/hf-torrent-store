@@ -1,0 +1,20 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--microsoft--table-transformer-structure-recognition-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb",
+    "pytorch_model.bin": "models--microsoft--table-transformer-structure-recognition-pytorch_model.bin--ec887aff5bf24e943a1c090b477e1366b62b6d30c0d9be00759c18f16a688579",
+    "preprocessor_config.json": "models--microsoft--table-transformer-structure-recognition-preprocessor_config.json--3cf68cfe0f9b5ef223c0e71613930b758ddaae4d",
+    "README.md": "models--microsoft--table-transformer-structure-recognition-README.md--30ec75aed464edcc8d3ddfd4d1d2176302213452",
+    "model.safetensors": "models--microsoft--table-transformer-structure-recognition-model.safetensors--f581da65a586591124cac9545b09b93e4e8bf28ce3a8357af6ac15ce94fce16b",
+    "config.json": "models--microsoft--table-transformer-structure-recognition-config.json--b784cf6d3759e23c6af6d5c52a9db9e34a7b5aaa"
+  },
+  "uuid2fpath": {
+    "models--microsoft--table-transformer-structure-recognition-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb": ".gitattributes",
+    "models--microsoft--table-transformer-structure-recognition-pytorch_model.bin--ec887aff5bf24e943a1c090b477e1366b62b6d30c0d9be00759c18f16a688579": "pytorch_model.bin",
+    "models--microsoft--table-transformer-structure-recognition-preprocessor_config.json--3cf68cfe0f9b5ef223c0e71613930b758ddaae4d": "preprocessor_config.json",
+    "models--microsoft--table-transformer-structure-recognition-README.md--30ec75aed464edcc8d3ddfd4d1d2176302213452": "README.md",
+    "models--microsoft--table-transformer-structure-recognition-model.safetensors--f581da65a586591124cac9545b09b93e4e8bf28ce3a8357af6ac15ce94fce16b": "model.safetensors",
+    "models--microsoft--table-transformer-structure-recognition-config.json--b784cf6d3759e23c6af6d5c52a9db9e34a7b5aaa": "config.json"
+  },
+  "lastest-generated": "2024-02-22 21:40:38 (Asia/Shanghai)",
+  "lastest-commit": "f4d4bdc85c3fe4b1fa49658882a5d38bbdd0f343"
+}

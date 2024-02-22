@@ -1,0 +1,28 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--deepseek-ai--deepseek-math-7b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "LICENSE": "models--deepseek-ai--deepseek-math-7b-instruct-LICENSE--ac09290cb2947183ab7f19d7477511dad3600a7a",
+    "README.md": "models--deepseek-ai--deepseek-math-7b-instruct-README.md--3b596766848275a29d8c8ed9b0502ecf15aa61a1",
+    "pytorch_model.bin.index.json": "models--deepseek-ai--deepseek-math-7b-instruct-pytorch_model.bin.index.json--ce6094ab4c40400eca5963470784235f52b7e843",
+    "pytorch_model-00001-of-00002.bin": "models--deepseek-ai--deepseek-math-7b-instruct-pytorch_model-00001-of-00002.bin--39c17130070f8eaacb24720d135ef4855540287df8d6ac08a6e46604739a1834",
+    "tokenizer.json": "models--deepseek-ai--deepseek-math-7b-instruct-tokenizer.json--8b284e5afe1730e31c97ed5c3bdf240adbd15c86",
+    "pytorch_model-00002-of-00002.bin": "models--deepseek-ai--deepseek-math-7b-instruct-pytorch_model-00002-of-00002.bin--f53ea9e9dee921353bf38f845407010f27a70913aaeb1419efef4e64cc207a19",
+    "tokenizer_config.json": "models--deepseek-ai--deepseek-math-7b-instruct-tokenizer_config.json--4b5462fda056c7d860c259995fd0dceb53f7b0c7",
+    "generation_config.json": "models--deepseek-ai--deepseek-math-7b-instruct-generation_config.json--b605732c455d72a41c4538867012531876194411",
+    "config.json": "models--deepseek-ai--deepseek-math-7b-instruct-config.json--c7ec540a0bea43211102776010779525e60a36d0"
+  },
+  "uuid2fpath": {
+    "models--deepseek-ai--deepseek-math-7b-instruct-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--deepseek-ai--deepseek-math-7b-instruct-LICENSE--ac09290cb2947183ab7f19d7477511dad3600a7a": "LICENSE",
+    "models--deepseek-ai--deepseek-math-7b-instruct-README.md--3b596766848275a29d8c8ed9b0502ecf15aa61a1": "README.md",
+    "models--deepseek-ai--deepseek-math-7b-instruct-pytorch_model.bin.index.json--ce6094ab4c40400eca5963470784235f52b7e843": "pytorch_model.bin.index.json",
+    "models--deepseek-ai--deepseek-math-7b-instruct-pytorch_model-00001-of-00002.bin--39c17130070f8eaacb24720d135ef4855540287df8d6ac08a6e46604739a1834": "pytorch_model-00001-of-00002.bin",
+    "models--deepseek-ai--deepseek-math-7b-instruct-tokenizer.json--8b284e5afe1730e31c97ed5c3bdf240adbd15c86": "tokenizer.json",
+    "models--deepseek-ai--deepseek-math-7b-instruct-pytorch_model-00002-of-00002.bin--f53ea9e9dee921353bf38f845407010f27a70913aaeb1419efef4e64cc207a19": "pytorch_model-00002-of-00002.bin",
+    "models--deepseek-ai--deepseek-math-7b-instruct-tokenizer_config.json--4b5462fda056c7d860c259995fd0dceb53f7b0c7": "tokenizer_config.json",
+    "models--deepseek-ai--deepseek-math-7b-instruct-generation_config.json--b605732c455d72a41c4538867012531876194411": "generation_config.json",
+    "models--deepseek-ai--deepseek-math-7b-instruct-config.json--c7ec540a0bea43211102776010779525e60a36d0": "config.json"
+  },
+  "lastest-generated": "2024-02-22 20:08:32 (Asia/Shanghai)",
+  "lastest-commit": "0a5828f800a36df0fd7f0ed581b983246c0677ff"
+}

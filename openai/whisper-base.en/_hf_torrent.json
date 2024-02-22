@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--openai--whisper-base.en-special_tokens_map.json--7e6b5b4f006274b7085b597005a9ad73c639eb80",
+    ".gitattributes": "models--openai--whisper-base.en-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb",
+    "normalizer.json": "models--openai--whisper-base.en-normalizer.json--dd6ae819ad738ac1a546e9f9282ef325c33b9ea0",
+    "pytorch_model.bin": "models--openai--whisper-base.en-pytorch_model.bin--404fa07b37813e1a425ae22348db6f7d0b359f72acd8d457927cc0d029beb278",
+    "preprocessor_config.json": "models--openai--whisper-base.en-preprocessor_config.json--c2048dfa9fd94a052e62e908d2c4dfb18534b4d2",
+    "merges.txt": "models--openai--whisper-base.en-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc",
+    "README.md": "models--openai--whisper-base.en-README.md--3ab94a9aa98899b9eac2e38231e0f36cea5760ef",
+    "vocab.json": "models--openai--whisper-base.en-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b",
+    "tokenizer.json": "models--openai--whisper-base.en-tokenizer.json--b5bd266de2f9b9a68efe13fb48ac6830ca71c0bb",
+    "added_tokens.json": "models--openai--whisper-base.en-added_tokens.json--0b661e7eeafa60f4366f802cc18d99a08574861c",
+    "flax_model.msgpack": "models--openai--whisper-base.en-flax_model.msgpack--e2dd00fb9f37f497421bdd7a8b17b5378f95e7543e6b50f79b936ccdd55b7815",
+    "tokenizer_config.json": "models--openai--whisper-base.en-tokenizer_config.json--6b53d4f2b480c9267ffc419c7628159d25f3072a",
+    "model.safetensors": "models--openai--whisper-base.en-model.safetensors--d4dd5542fd6a1d35639e21384238f3bfe6c557c849d392b5905d33ee29e71db5",
+    "tf_model.h5": "models--openai--whisper-base.en-tf_model.h5--40ecea6544a8a7a684d822c7519d05aa2b9cadff93113b7a01a25f0135b30149",
+    "generation_config.json": "models--openai--whisper-base.en-generation_config.json--1cde9fc2a32ad94f4db760e67a2375e229215f58",
+    "config.json": "models--openai--whisper-base.en-config.json--0e9af059a5d452f97d3493ffb4da98712c8fd711"
+  },
+  "uuid2fpath": {
+    "models--openai--whisper-base.en-special_tokens_map.json--7e6b5b4f006274b7085b597005a9ad73c639eb80": "special_tokens_map.json",
+    "models--openai--whisper-base.en-.gitattributes--3476589a58942b0e9ef94ae0efb29355707f95bb": ".gitattributes",
+    "models--openai--whisper-base.en-normalizer.json--dd6ae819ad738ac1a546e9f9282ef325c33b9ea0": "normalizer.json",
+    "models--openai--whisper-base.en-pytorch_model.bin--404fa07b37813e1a425ae22348db6f7d0b359f72acd8d457927cc0d029beb278": "pytorch_model.bin",
+    "models--openai--whisper-base.en-preprocessor_config.json--c2048dfa9fd94a052e62e908d2c4dfb18534b4d2": "preprocessor_config.json",
+    "models--openai--whisper-base.en-merges.txt--226b0752cac7789c48f0cb3ec53eda48b7be36cc": "merges.txt",
+    "models--openai--whisper-base.en-README.md--3ab94a9aa98899b9eac2e38231e0f36cea5760ef": "README.md",
+    "models--openai--whisper-base.en-vocab.json--84ef7fb594b5c0979e48bdeddb60a0adef33df0b": "vocab.json",
+    "models--openai--whisper-base.en-tokenizer.json--b5bd266de2f9b9a68efe13fb48ac6830ca71c0bb": "tokenizer.json",
+    "models--openai--whisper-base.en-added_tokens.json--0b661e7eeafa60f4366f802cc18d99a08574861c": "added_tokens.json",
+    "models--openai--whisper-base.en-flax_model.msgpack--e2dd00fb9f37f497421bdd7a8b17b5378f95e7543e6b50f79b936ccdd55b7815": "flax_model.msgpack",
+    "models--openai--whisper-base.en-tokenizer_config.json--6b53d4f2b480c9267ffc419c7628159d25f3072a": "tokenizer_config.json",
+    "models--openai--whisper-base.en-model.safetensors--d4dd5542fd6a1d35639e21384238f3bfe6c557c849d392b5905d33ee29e71db5": "model.safetensors",
+    "models--openai--whisper-base.en-tf_model.h5--40ecea6544a8a7a684d822c7519d05aa2b9cadff93113b7a01a25f0135b30149": "tf_model.h5",
+    "models--openai--whisper-base.en-generation_config.json--1cde9fc2a32ad94f4db760e67a2375e229215f58": "generation_config.json",
+    "models--openai--whisper-base.en-config.json--0e9af059a5d452f97d3493ffb4da98712c8fd711": "config.json"
+  },
+  "lastest-generated": "2024-02-22 21:41:01 (Asia/Shanghai)",
+  "lastest-commit": "911407f4214e0e1d82085af863093ec0b66f9cd6"
+}

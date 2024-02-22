@@ -1,0 +1,36 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--Qwen--Qwen1.5-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "LICENSE": "models--Qwen--Qwen1.5-7B-Chat-LICENSE--5be33384d19169a98eee863ff09c74eb32e37696",
+    "model-00003-of-00004.safetensors": "models--Qwen--Qwen1.5-7B-Chat-model-00003-of-00004.safetensors--1d7cd36508251baa069a894f6ee98da5929e8b0788ff9c9faa7934ad102f845a",
+    "model-00004-of-00004.safetensors": "models--Qwen--Qwen1.5-7B-Chat-model-00004-of-00004.safetensors--189e7a297229937ec93912c940ef05019738c56ff0720c811fd083f5dd400dce",
+    "merges.txt": "models--Qwen--Qwen1.5-7B-Chat-merges.txt--20024bfe7c83998e9aeaf98a0cd6a2ce6306c2f0",
+    "model-00002-of-00004.safetensors": "models--Qwen--Qwen1.5-7B-Chat-model-00002-of-00004.safetensors--e573fdaf3eba785c4b31b8858288f762f3541f09d75b53dfb1ae4d8ee5011d65",
+    "README.md": "models--Qwen--Qwen1.5-7B-Chat-README.md--6d3d78d404a8c051de953624fff0216582931d5e",
+    "vocab.json": "models--Qwen--Qwen1.5-7B-Chat-vocab.json--4783fe10ac3adce15ac8f358ef5462739852c569",
+    "tokenizer.json": "models--Qwen--Qwen1.5-7B-Chat-tokenizer.json--33ea6c72ebb92a237fa2bdf26c5ff16592efcdae",
+    "tokenizer_config.json": "models--Qwen--Qwen1.5-7B-Chat-tokenizer_config.json--63b848b0ccddfd47f92337a5795e39ffdb5337de",
+    "generation_config.json": "models--Qwen--Qwen1.5-7B-Chat-generation_config.json--11d028fc925862a16d3616c95e307e128fdd728a",
+    "config.json": "models--Qwen--Qwen1.5-7B-Chat-config.json--adf91b4a4ddc2646d677d6b1f5d06111b88fda59",
+    "model-00001-of-00004.safetensors": "models--Qwen--Qwen1.5-7B-Chat-model-00001-of-00004.safetensors--9e8f7873d7c4c74b8883db207a08bf8a783ec8c26da6b3d660a0929048ce6422",
+    "model.safetensors.index.json": "models--Qwen--Qwen1.5-7B-Chat-model.safetensors.index.json--6fc4ed7c09be58e2c354d9fa0329e7da67da0093"
+  },
+  "uuid2fpath": {
+    "models--Qwen--Qwen1.5-7B-Chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--Qwen--Qwen1.5-7B-Chat-LICENSE--5be33384d19169a98eee863ff09c74eb32e37696": "LICENSE",
+    "models--Qwen--Qwen1.5-7B-Chat-model-00003-of-00004.safetensors--1d7cd36508251baa069a894f6ee98da5929e8b0788ff9c9faa7934ad102f845a": "model-00003-of-00004.safetensors",
+    "models--Qwen--Qwen1.5-7B-Chat-model-00004-of-00004.safetensors--189e7a297229937ec93912c940ef05019738c56ff0720c811fd083f5dd400dce": "model-00004-of-00004.safetensors",
+    "models--Qwen--Qwen1.5-7B-Chat-merges.txt--20024bfe7c83998e9aeaf98a0cd6a2ce6306c2f0": "merges.txt",
+    "models--Qwen--Qwen1.5-7B-Chat-model-00002-of-00004.safetensors--e573fdaf3eba785c4b31b8858288f762f3541f09d75b53dfb1ae4d8ee5011d65": "model-00002-of-00004.safetensors",
+    "models--Qwen--Qwen1.5-7B-Chat-README.md--6d3d78d404a8c051de953624fff0216582931d5e": "README.md",
+    "models--Qwen--Qwen1.5-7B-Chat-vocab.json--4783fe10ac3adce15ac8f358ef5462739852c569": "vocab.json",
+    "models--Qwen--Qwen1.5-7B-Chat-tokenizer.json--33ea6c72ebb92a237fa2bdf26c5ff16592efcdae": "tokenizer.json",
+    "models--Qwen--Qwen1.5-7B-Chat-tokenizer_config.json--63b848b0ccddfd47f92337a5795e39ffdb5337de": "tokenizer_config.json",
+    "models--Qwen--Qwen1.5-7B-Chat-generation_config.json--11d028fc925862a16d3616c95e307e128fdd728a": "generation_config.json",
+    "models--Qwen--Qwen1.5-7B-Chat-config.json--adf91b4a4ddc2646d677d6b1f5d06111b88fda59": "config.json",
+    "models--Qwen--Qwen1.5-7B-Chat-model-00001-of-00004.safetensors--9e8f7873d7c4c74b8883db207a08bf8a783ec8c26da6b3d660a0929048ce6422": "model-00001-of-00004.safetensors",
+    "models--Qwen--Qwen1.5-7B-Chat-model.safetensors.index.json--6fc4ed7c09be58e2c354d9fa0329e7da67da0093": "model.safetensors.index.json"
+  },
+  "lastest-generated": "2024-02-22 19:50:41 (Asia/Shanghai)",
+  "lastest-commit": "03df580367e73ba602b3b678fbdf650fa3593e89"
+}

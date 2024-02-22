@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--deepseek-ai--deepseek-moe-16b-base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "model-00004-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00004-of-00007.safetensors--5fce5415ba1bbbc5fe7dcb5a8f4c8e9aba55daaed9ecef7f9a728e73eaf407b4",
+    "model-00005-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00005-of-00007.safetensors--d7da53a8b5f088c14ca9765f3ce92da06392281c5f4cc75b1a76f403af6950f2",
+    "model-00006-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00006-of-00007.safetensors--89dc70cfd1fb49d07e0914d62693cb66875b9526103b72f37b122f4931bb1722",
+    "modeling_deepseek.py": "models--deepseek-ai--deepseek-moe-16b-base-modeling_deepseek.py--af8d5141fe402becdf72e655b03cce0aee340ae2",
+    "model-00003-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00003-of-00007.safetensors--c2c65b9540872d11d0b50accc05163e8eabcf385186122d02d58aa3c2c42b1ea",
+    "README.md": "models--deepseek-ai--deepseek-moe-16b-base-README.md--4c08407000115576e16168529bbb754bb2f6cb3b",
+    "model-00001-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00001-of-00007.safetensors--90b014e0c17f625e69057e97a7e7854e157f5213ba6e422f1bbbb4acf73b6ef1",
+    "model-00007-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00007-of-00007.safetensors--8f9373cf2861f95f7dd5448b120c47c2b18f722931fed885690dfbdc7d236728",
+    "tokenizer.json": "models--deepseek-ai--deepseek-moe-16b-base-tokenizer.json--22a7dddf5732f937c53eb3bfc6127c6528d42cf8",
+    "tokenizer_config.json": "models--deepseek-ai--deepseek-moe-16b-base-tokenizer_config.json--340b041b4df26ed5685d5a8ad8654dccdac838c2",
+    "model-00002-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-base-model-00002-of-00007.safetensors--a35ec5893767f38413ebbeb71d161293a26af0d4bdcfe8933d646b047b15e4a5",
+    "generation_config.json": "models--deepseek-ai--deepseek-moe-16b-base-generation_config.json--bc46af58c98b3470a6d162e9e064d25eae2d19ba",
+    "config.json": "models--deepseek-ai--deepseek-moe-16b-base-config.json--5b2c313f4f7f60bf3073242f90d4e87b7739c613",
+    "configuration_deepseek.py": "models--deepseek-ai--deepseek-moe-16b-base-configuration_deepseek.py--dae9e620cb4ee9fc615f422b687c290394141b39",
+    "model.safetensors.index.json": "models--deepseek-ai--deepseek-moe-16b-base-model.safetensors.index.json--c79e7250979ddf8e14aacb858e53eb727631b324"
+  },
+  "uuid2fpath": {
+    "models--deepseek-ai--deepseek-moe-16b-base-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00004-of-00007.safetensors--5fce5415ba1bbbc5fe7dcb5a8f4c8e9aba55daaed9ecef7f9a728e73eaf407b4": "model-00004-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00005-of-00007.safetensors--d7da53a8b5f088c14ca9765f3ce92da06392281c5f4cc75b1a76f403af6950f2": "model-00005-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00006-of-00007.safetensors--89dc70cfd1fb49d07e0914d62693cb66875b9526103b72f37b122f4931bb1722": "model-00006-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-modeling_deepseek.py--af8d5141fe402becdf72e655b03cce0aee340ae2": "modeling_deepseek.py",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00003-of-00007.safetensors--c2c65b9540872d11d0b50accc05163e8eabcf385186122d02d58aa3c2c42b1ea": "model-00003-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-README.md--4c08407000115576e16168529bbb754bb2f6cb3b": "README.md",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00001-of-00007.safetensors--90b014e0c17f625e69057e97a7e7854e157f5213ba6e422f1bbbb4acf73b6ef1": "model-00001-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00007-of-00007.safetensors--8f9373cf2861f95f7dd5448b120c47c2b18f722931fed885690dfbdc7d236728": "model-00007-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-tokenizer.json--22a7dddf5732f937c53eb3bfc6127c6528d42cf8": "tokenizer.json",
+    "models--deepseek-ai--deepseek-moe-16b-base-tokenizer_config.json--340b041b4df26ed5685d5a8ad8654dccdac838c2": "tokenizer_config.json",
+    "models--deepseek-ai--deepseek-moe-16b-base-model-00002-of-00007.safetensors--a35ec5893767f38413ebbeb71d161293a26af0d4bdcfe8933d646b047b15e4a5": "model-00002-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-base-generation_config.json--bc46af58c98b3470a6d162e9e064d25eae2d19ba": "generation_config.json",
+    "models--deepseek-ai--deepseek-moe-16b-base-config.json--5b2c313f4f7f60bf3073242f90d4e87b7739c613": "config.json",
+    "models--deepseek-ai--deepseek-moe-16b-base-configuration_deepseek.py--dae9e620cb4ee9fc615f422b687c290394141b39": "configuration_deepseek.py",
+    "models--deepseek-ai--deepseek-moe-16b-base-model.safetensors.index.json--c79e7250979ddf8e14aacb858e53eb727631b324": "model.safetensors.index.json"
+  },
+  "lastest-generated": "2024-02-22 20:18:40 (Asia/Shanghai)",
+  "lastest-commit": "521d2bc4fb69a3f3ae565310fcc3b65f97af2580"
+}

@@ -1,0 +1,38 @@
+{
+  "fpath2uuid": {
+    "tokenizer.model": "models--liuhaotian--llava-v1.6-mistral-7b-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055",
+    "special_tokens_map.json": "models--liuhaotian--llava-v1.6-mistral-7b-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e",
+    ".gitattributes": "models--liuhaotian--llava-v1.6-mistral-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "model-00003-of-00004.safetensors": "models--liuhaotian--llava-v1.6-mistral-7b-model-00003-of-00004.safetensors--225e6c059b92f1c7c234ab748ae718e29c26e558f3f645e19cbca502e8d94042",
+    "model-00004-of-00004.safetensors": "models--liuhaotian--llava-v1.6-mistral-7b-model-00004-of-00004.safetensors--493af3a613d7b4ad965d7ae2be1592776d0f792fc0b6d38d44e3dc5268c0cec0",
+    "model-00002-of-00004.safetensors": "models--liuhaotian--llava-v1.6-mistral-7b-model-00002-of-00004.safetensors--1e88a821d441aef6685311cb319eebbac47fa99d523c71519a3cfa59478da451",
+    "README.md": "models--liuhaotian--llava-v1.6-mistral-7b-README.md--febce216911f7b44566d9dfe9e08d2aecd9132a9",
+    "trainer_state.json": "models--liuhaotian--llava-v1.6-mistral-7b-trainer_state.json--45c5252c5dc83cd3d54aabe2a3ae22a6287f9651",
+    "training_args.bin": "models--liuhaotian--llava-v1.6-mistral-7b-training_args.bin--c4afa32f230f004feea7301f637244194ecb01fe655fa6a3ad426091430dc565",
+    "tokenizer.json": "models--liuhaotian--llava-v1.6-mistral-7b-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce",
+    "tokenizer_config.json": "models--liuhaotian--llava-v1.6-mistral-7b-tokenizer_config.json--56dd3e8f4369780fc8bccc1c18056808a2a49e68",
+    "generation_config.json": "models--liuhaotian--llava-v1.6-mistral-7b-generation_config.json--c533f934c6359393a56a3ea067a0df118c14797e",
+    "config.json": "models--liuhaotian--llava-v1.6-mistral-7b-config.json--01f94051758924ff877a8e370411b586e11e3bd4",
+    "model-00001-of-00004.safetensors": "models--liuhaotian--llava-v1.6-mistral-7b-model-00001-of-00004.safetensors--57f11463314a7b628842ba55008c323fbc8d2c6d48a90f02343d550d61321d8e",
+    "model.safetensors.index.json": "models--liuhaotian--llava-v1.6-mistral-7b-model.safetensors.index.json--927da5be7e6e3ec29d3a967a09ba6a421d7a2191"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.6-mistral-7b-tokenizer.model--dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055": "tokenizer.model",
+    "models--liuhaotian--llava-v1.6-mistral-7b-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e": "special_tokens_map.json",
+    "models--liuhaotian--llava-v1.6-mistral-7b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--liuhaotian--llava-v1.6-mistral-7b-model-00003-of-00004.safetensors--225e6c059b92f1c7c234ab748ae718e29c26e558f3f645e19cbca502e8d94042": "model-00003-of-00004.safetensors",
+    "models--liuhaotian--llava-v1.6-mistral-7b-model-00004-of-00004.safetensors--493af3a613d7b4ad965d7ae2be1592776d0f792fc0b6d38d44e3dc5268c0cec0": "model-00004-of-00004.safetensors",
+    "models--liuhaotian--llava-v1.6-mistral-7b-model-00002-of-00004.safetensors--1e88a821d441aef6685311cb319eebbac47fa99d523c71519a3cfa59478da451": "model-00002-of-00004.safetensors",
+    "models--liuhaotian--llava-v1.6-mistral-7b-README.md--febce216911f7b44566d9dfe9e08d2aecd9132a9": "README.md",
+    "models--liuhaotian--llava-v1.6-mistral-7b-trainer_state.json--45c5252c5dc83cd3d54aabe2a3ae22a6287f9651": "trainer_state.json",
+    "models--liuhaotian--llava-v1.6-mistral-7b-training_args.bin--c4afa32f230f004feea7301f637244194ecb01fe655fa6a3ad426091430dc565": "training_args.bin",
+    "models--liuhaotian--llava-v1.6-mistral-7b-tokenizer.json--43e6daf936dc0f953cb867ec864adab78f92d9ce": "tokenizer.json",
+    "models--liuhaotian--llava-v1.6-mistral-7b-tokenizer_config.json--56dd3e8f4369780fc8bccc1c18056808a2a49e68": "tokenizer_config.json",
+    "models--liuhaotian--llava-v1.6-mistral-7b-generation_config.json--c533f934c6359393a56a3ea067a0df118c14797e": "generation_config.json",
+    "models--liuhaotian--llava-v1.6-mistral-7b-config.json--01f94051758924ff877a8e370411b586e11e3bd4": "config.json",
+    "models--liuhaotian--llava-v1.6-mistral-7b-model-00001-of-00004.safetensors--57f11463314a7b628842ba55008c323fbc8d2c6d48a90f02343d550d61321d8e": "model-00001-of-00004.safetensors",
+    "models--liuhaotian--llava-v1.6-mistral-7b-model.safetensors.index.json--927da5be7e6e3ec29d3a967a09ba6a421d7a2191": "model.safetensors.index.json"
+  },
+  "lastest-generated": "2024-02-22 21:29:49 (Asia/Shanghai)",
+  "lastest-commit": "ff05e0854965e4584a9777a96e9bf6adf0c75a67"
+}

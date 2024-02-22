@@ -1,0 +1,42 @@
+{
+  "fpath2uuid": {
+    "special_tokens_map.json": "models--stabilityai--stable-code-3b-special_tokens_map.json--7fb88369a36878182d8a7d1d9249cca0f6093b1a",
+    ".gitattributes": "models--stabilityai--stable-code-3b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "stable-code-3b-Q6_K.gguf": "models--stabilityai--stable-code-3b-stable-code-3b-Q6_K.gguf--9749daf176491c33a7318660f1637c97674b0070d81740be8763b2811c495bfc",
+    "LICENSE": "models--stabilityai--stable-code-3b-LICENSE--d35e7c76b8b4be83def9c9bcfdbc774c1afd1eaf",
+    "configuration_stablelm.py": "models--stabilityai--stable-code-3b-configuration_stablelm.py--ca626b9a8908cc6b1d4ee5d963e5e090966eb015",
+    "stable-code-3b-Q5_K_M.gguf": "models--stabilityai--stable-code-3b-stable-code-3b-Q5_K_M.gguf--5aab6c268e81306342c742e3287e12b8a5b89e9d02abbe11b9d15ddd5a648d3a",
+    "README.md": "models--stabilityai--stable-code-3b-README.md--f77273a23e86bc8517c855c6422fa02e9fdb9517",
+    "tokenizer.json": "models--stabilityai--stable-code-3b-tokenizer.json--22170aa9f622d076e12067a1986595e11235a360",
+    "model-00001-of-00002.safetensors": "models--stabilityai--stable-code-3b-model-00001-of-00002.safetensors--d2f5942e9fae227e406ad89d8038ba569a40ea6d595e8029e57054cdee8e82de",
+    "stable_code_3b_spiderchart.svg": "models--stabilityai--stable-code-3b-stable_code_3b_spiderchart.svg--5d408d1cf8325480621784fe8c827d1159ade754",
+    "tokenizer_config.json": "models--stabilityai--stable-code-3b-tokenizer_config.json--09cee24fb0379212efcdab6c74e5dfc9ccc9e1c9",
+    "stable-code-3b.gguf": "models--stabilityai--stable-code-3b-stable-code-3b.gguf--629ccbdb952e1e305684504f822d5e70be53cb1225693270678d4698f3fd10a7",
+    "model-00002-of-00002.safetensors": "models--stabilityai--stable-code-3b-model-00002-of-00002.safetensors--eee11f65613d3efc04cca687dc1ff04b8ff1fe10adbdac4d1879378ea39c6e60",
+    "generation_config.json": "models--stabilityai--stable-code-3b-generation_config.json--8c57f6302e840ab5761144b17a6be4c846b6fec9",
+    "config.json": "models--stabilityai--stable-code-3b-config.json--459ad19155fb9a11d70894ac0582e483ce71e2eb",
+    "model.safetensors.index.json": "models--stabilityai--stable-code-3b-model.safetensors.index.json--a24a78488daf04d434fe9b2129760011c73f9ad0",
+    "modeling_stablelm.py": "models--stabilityai--stable-code-3b-modeling_stablelm.py--8e71c99ff900af7672399856c505fd0ae7454e3a"
+  },
+  "uuid2fpath": {
+    "models--stabilityai--stable-code-3b-special_tokens_map.json--7fb88369a36878182d8a7d1d9249cca0f6093b1a": "special_tokens_map.json",
+    "models--stabilityai--stable-code-3b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--stabilityai--stable-code-3b-stable-code-3b-Q6_K.gguf--9749daf176491c33a7318660f1637c97674b0070d81740be8763b2811c495bfc": "stable-code-3b-Q6_K.gguf",
+    "models--stabilityai--stable-code-3b-LICENSE--d35e7c76b8b4be83def9c9bcfdbc774c1afd1eaf": "LICENSE",
+    "models--stabilityai--stable-code-3b-configuration_stablelm.py--ca626b9a8908cc6b1d4ee5d963e5e090966eb015": "configuration_stablelm.py",
+    "models--stabilityai--stable-code-3b-stable-code-3b-Q5_K_M.gguf--5aab6c268e81306342c742e3287e12b8a5b89e9d02abbe11b9d15ddd5a648d3a": "stable-code-3b-Q5_K_M.gguf",
+    "models--stabilityai--stable-code-3b-README.md--f77273a23e86bc8517c855c6422fa02e9fdb9517": "README.md",
+    "models--stabilityai--stable-code-3b-tokenizer.json--22170aa9f622d076e12067a1986595e11235a360": "tokenizer.json",
+    "models--stabilityai--stable-code-3b-model-00001-of-00002.safetensors--d2f5942e9fae227e406ad89d8038ba569a40ea6d595e8029e57054cdee8e82de": "model-00001-of-00002.safetensors",
+    "models--stabilityai--stable-code-3b-stable_code_3b_spiderchart.svg--5d408d1cf8325480621784fe8c827d1159ade754": "stable_code_3b_spiderchart.svg",
+    "models--stabilityai--stable-code-3b-tokenizer_config.json--09cee24fb0379212efcdab6c74e5dfc9ccc9e1c9": "tokenizer_config.json",
+    "models--stabilityai--stable-code-3b-stable-code-3b.gguf--629ccbdb952e1e305684504f822d5e70be53cb1225693270678d4698f3fd10a7": "stable-code-3b.gguf",
+    "models--stabilityai--stable-code-3b-model-00002-of-00002.safetensors--eee11f65613d3efc04cca687dc1ff04b8ff1fe10adbdac4d1879378ea39c6e60": "model-00002-of-00002.safetensors",
+    "models--stabilityai--stable-code-3b-generation_config.json--8c57f6302e840ab5761144b17a6be4c846b6fec9": "generation_config.json",
+    "models--stabilityai--stable-code-3b-config.json--459ad19155fb9a11d70894ac0582e483ce71e2eb": "config.json",
+    "models--stabilityai--stable-code-3b-model.safetensors.index.json--a24a78488daf04d434fe9b2129760011c73f9ad0": "model.safetensors.index.json",
+    "models--stabilityai--stable-code-3b-modeling_stablelm.py--8e71c99ff900af7672399856c505fd0ae7454e3a": "modeling_stablelm.py"
+  },
+  "lastest-generated": "2024-02-22 22:47:10 (Asia/Shanghai)",
+  "lastest-commit": "84383c2be1c54a3f9d74b54a7152364e0ed21e46"
+}

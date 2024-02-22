@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    "model-00005-of-00006.safetensors": "models--liuhaotian--llava-v1.6-vicuna-13b-model-00005-of-00006.safetensors--dcdde97c80fe5b8467015fc6482a18cd88fe889dbc292fc590c2ef6b8ac2bf2c",
+    "tokenizer.model": "models--liuhaotian--llava-v1.6-vicuna-13b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347",
+    "special_tokens_map.json": "models--liuhaotian--llava-v1.6-vicuna-13b-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e",
+    ".gitattributes": "models--liuhaotian--llava-v1.6-vicuna-13b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "README.md": "models--liuhaotian--llava-v1.6-vicuna-13b-README.md--cbeec4f7822d6fd9b1d7a693e6fc058bfa7406ad",
+    "trainer_state.json": "models--liuhaotian--llava-v1.6-vicuna-13b-trainer_state.json--fbc329c777749fea59f95ce8315b787728a379bd",
+    "training_args.bin": "models--liuhaotian--llava-v1.6-vicuna-13b-training_args.bin--80a1cd133140e5713d17423fcbf0ad501124086e6737f550c3bd2cbae4e7121d",
+    "model-00001-of-00006.safetensors": "models--liuhaotian--llava-v1.6-vicuna-13b-model-00001-of-00006.safetensors--057c3932986c8dd7485d3ba49f5bc384d928ed89702437b472df12501da42ced",
+    "model-00004-of-00006.safetensors": "models--liuhaotian--llava-v1.6-vicuna-13b-model-00004-of-00006.safetensors--97003903762005aec6810c1a8adead0a72ba42b01b16fb6cefa25c108bc6136f",
+    "model-00003-of-00006.safetensors": "models--liuhaotian--llava-v1.6-vicuna-13b-model-00003-of-00006.safetensors--29220f6a1a400b1e08a58b52a081aeea51a7004efbfe64d21586198332cb26fa",
+    "tokenizer_config.json": "models--liuhaotian--llava-v1.6-vicuna-13b-tokenizer_config.json--93bc64ab6409c49d05971dd057a1f564b470fe53",
+    "model-00006-of-00006.safetensors": "models--liuhaotian--llava-v1.6-vicuna-13b-model-00006-of-00006.safetensors--476286dcb79a9155bcb25c42cb5f763fbf163c8b9f15e83d7c006fbcf9ee800b",
+    "model-00002-of-00006.safetensors": "models--liuhaotian--llava-v1.6-vicuna-13b-model-00002-of-00006.safetensors--087b43ac18e5a2745d4b7f4bfb53155c05c31c1818b0a950b90e292bebcb1bf9",
+    "generation_config.json": "models--liuhaotian--llava-v1.6-vicuna-13b-generation_config.json--af905f9f98e9fe364980befe17245097f6e0160c",
+    "config.json": "models--liuhaotian--llava-v1.6-vicuna-13b-config.json--97f81d41ac487f7d5f8083f499ce0837e8967878",
+    "model.safetensors.index.json": "models--liuhaotian--llava-v1.6-vicuna-13b-model.safetensors.index.json--5cb0534e5af0581cc99cf491b62264df614dd647"
+  },
+  "uuid2fpath": {
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model-00005-of-00006.safetensors--dcdde97c80fe5b8467015fc6482a18cd88fe889dbc292fc590c2ef6b8ac2bf2c": "model-00005-of-00006.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-tokenizer.model--9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347": "tokenizer.model",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-special_tokens_map.json--14761dcf1466dc232bd41de9c21d4c617b15755e": "special_tokens_map.json",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-README.md--cbeec4f7822d6fd9b1d7a693e6fc058bfa7406ad": "README.md",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-trainer_state.json--fbc329c777749fea59f95ce8315b787728a379bd": "trainer_state.json",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-training_args.bin--80a1cd133140e5713d17423fcbf0ad501124086e6737f550c3bd2cbae4e7121d": "training_args.bin",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model-00001-of-00006.safetensors--057c3932986c8dd7485d3ba49f5bc384d928ed89702437b472df12501da42ced": "model-00001-of-00006.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model-00004-of-00006.safetensors--97003903762005aec6810c1a8adead0a72ba42b01b16fb6cefa25c108bc6136f": "model-00004-of-00006.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model-00003-of-00006.safetensors--29220f6a1a400b1e08a58b52a081aeea51a7004efbfe64d21586198332cb26fa": "model-00003-of-00006.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-tokenizer_config.json--93bc64ab6409c49d05971dd057a1f564b470fe53": "tokenizer_config.json",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model-00006-of-00006.safetensors--476286dcb79a9155bcb25c42cb5f763fbf163c8b9f15e83d7c006fbcf9ee800b": "model-00006-of-00006.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model-00002-of-00006.safetensors--087b43ac18e5a2745d4b7f4bfb53155c05c31c1818b0a950b90e292bebcb1bf9": "model-00002-of-00006.safetensors",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-generation_config.json--af905f9f98e9fe364980befe17245097f6e0160c": "generation_config.json",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-config.json--97f81d41ac487f7d5f8083f499ce0837e8967878": "config.json",
+    "models--liuhaotian--llava-v1.6-vicuna-13b-model.safetensors.index.json--5cb0534e5af0581cc99cf491b62264df614dd647": "model.safetensors.index.json"
+  },
+  "lastest-generated": "2024-02-22 21:35:10 (Asia/Shanghai)",
+  "lastest-commit": "331ea260197bc1b64c917ec70cf4f95ba566ea00"
+}

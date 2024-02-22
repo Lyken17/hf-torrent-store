@@ -1,0 +1,40 @@
+{
+  "fpath2uuid": {
+    ".gitattributes": "models--deepseek-ai--deepseek-moe-16b-chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "model-00004-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00004-of-00007.safetensors--f22372f3f999307b408938dcfa585831d6fc48e6d20f6124ce0434e72fc552b1",
+    "model-00005-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00005-of-00007.safetensors--1205cb7575d10ec4fa3e1335fb0742e8ab75592092659e2bbfa2d24d4248be39",
+    "model-00006-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00006-of-00007.safetensors--2bf3694768d8d0421645e38e4a46e183c70b3476614ca3b0d00de94a450cef90",
+    "modeling_deepseek.py": "models--deepseek-ai--deepseek-moe-16b-chat-modeling_deepseek.py--af8d5141fe402becdf72e655b03cce0aee340ae2",
+    "model-00003-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00003-of-00007.safetensors--cb5470fe24b77c1b8ae2309ae2830274c83f826c9ec937e6c1420bf9e0fbe6b9",
+    "README.md": "models--deepseek-ai--deepseek-moe-16b-chat-README.md--b44bb89913869dbaf618ece4686bc41cda70110e",
+    "model-00001-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00001-of-00007.safetensors--50d4abfba2b5c985ea95fa3a24b2cd065ad1fb6f7b300b00957ddadbfdca906d",
+    "model-00007-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00007-of-00007.safetensors--68405feddf2bd76c6675f2690057b4a42f8064bc108c2876d4bb474679fb8592",
+    "tokenizer.json": "models--deepseek-ai--deepseek-moe-16b-chat-tokenizer.json--22a7dddf5732f937c53eb3bfc6127c6528d42cf8",
+    "tokenizer_config.json": "models--deepseek-ai--deepseek-moe-16b-chat-tokenizer_config.json--915abe2244a9f68a4f427c258d0a1b7a9be29c7a",
+    "model-00002-of-00007.safetensors": "models--deepseek-ai--deepseek-moe-16b-chat-model-00002-of-00007.safetensors--735592402a9014cfad3a79743ef1d60dc9e133ae1cb43bfd70bf20dd72eb31a8",
+    "generation_config.json": "models--deepseek-ai--deepseek-moe-16b-chat-generation_config.json--bc46af58c98b3470a6d162e9e064d25eae2d19ba",
+    "config.json": "models--deepseek-ai--deepseek-moe-16b-chat-config.json--b0f8ab7152a08e940c335518c67775bd3dec0b47",
+    "configuration_deepseek.py": "models--deepseek-ai--deepseek-moe-16b-chat-configuration_deepseek.py--dae9e620cb4ee9fc615f422b687c290394141b39",
+    "model.safetensors.index.json": "models--deepseek-ai--deepseek-moe-16b-chat-model.safetensors.index.json--c79e7250979ddf8e14aacb858e53eb727631b324"
+  },
+  "uuid2fpath": {
+    "models--deepseek-ai--deepseek-moe-16b-chat-.gitattributes--a6344aac8c09253b3b630fb776ae94478aa0275b": ".gitattributes",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00004-of-00007.safetensors--f22372f3f999307b408938dcfa585831d6fc48e6d20f6124ce0434e72fc552b1": "model-00004-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00005-of-00007.safetensors--1205cb7575d10ec4fa3e1335fb0742e8ab75592092659e2bbfa2d24d4248be39": "model-00005-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00006-of-00007.safetensors--2bf3694768d8d0421645e38e4a46e183c70b3476614ca3b0d00de94a450cef90": "model-00006-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-modeling_deepseek.py--af8d5141fe402becdf72e655b03cce0aee340ae2": "modeling_deepseek.py",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00003-of-00007.safetensors--cb5470fe24b77c1b8ae2309ae2830274c83f826c9ec937e6c1420bf9e0fbe6b9": "model-00003-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-README.md--b44bb89913869dbaf618ece4686bc41cda70110e": "README.md",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00001-of-00007.safetensors--50d4abfba2b5c985ea95fa3a24b2cd065ad1fb6f7b300b00957ddadbfdca906d": "model-00001-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00007-of-00007.safetensors--68405feddf2bd76c6675f2690057b4a42f8064bc108c2876d4bb474679fb8592": "model-00007-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-tokenizer.json--22a7dddf5732f937c53eb3bfc6127c6528d42cf8": "tokenizer.json",
+    "models--deepseek-ai--deepseek-moe-16b-chat-tokenizer_config.json--915abe2244a9f68a4f427c258d0a1b7a9be29c7a": "tokenizer_config.json",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model-00002-of-00007.safetensors--735592402a9014cfad3a79743ef1d60dc9e133ae1cb43bfd70bf20dd72eb31a8": "model-00002-of-00007.safetensors",
+    "models--deepseek-ai--deepseek-moe-16b-chat-generation_config.json--bc46af58c98b3470a6d162e9e064d25eae2d19ba": "generation_config.json",
+    "models--deepseek-ai--deepseek-moe-16b-chat-config.json--b0f8ab7152a08e940c335518c67775bd3dec0b47": "config.json",
+    "models--deepseek-ai--deepseek-moe-16b-chat-configuration_deepseek.py--dae9e620cb4ee9fc615f422b687c290394141b39": "configuration_deepseek.py",
+    "models--deepseek-ai--deepseek-moe-16b-chat-model.safetensors.index.json--c79e7250979ddf8e14aacb858e53eb727631b324": "model.safetensors.index.json"
+  },
+  "lastest-generated": "2024-02-22 20:26:13 (Asia/Shanghai)",
+  "lastest-commit": "eefd8ac7e8dc90e095129fe1a537d5e236b2e57c"
+}
